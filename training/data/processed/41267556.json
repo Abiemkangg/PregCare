@@ -1,0 +1,20 @@
+{
+  "id": "41267556",
+  "title": "Pregnancy-induced metabolic reprogramming in skeletal muscle: a multi-omics interrogation of transcriptional and metabolic adaptations.",
+  "abstract": "Pregnancy induces profound physiological adaptations to meet the dynamic nutritional demands of fetal development, including a deliberate reduction in maternal insulin sensitivity to ensure fetal glucose availability. However, excessive insulin resistance may precipitate gestational diabetes mellitus (GDM), increasing the risk of both obstetric complications and long-term metabolic disorders in mothers and offspring. Although the role of adipose tissue in pregnancy-associated metabolic adaptation has been extensively studied, the contribution of skeletal muscle remains poorly understood. Here, we systematically characterize pregnancy-induced molecular and metabolic changes in maternal skeletal muscle through multi-omics profiling. We use transcriptomic, metabolomic, computational single-cell deconvolution, and qPCR validation in an established C57BL/6J mouse pregnancy model (8-week-old females). Pregnancy triggers remarkable skeletal muscle remodelling, featuring histological reorganization with myofiber depletion and expanded endothelial compartments. Concurrent metabolic disturbances include insulin resistance, dysregulated TCA cycle activity, and impaired ubiquinone biosynthesis. This study represents a multi-omics-based systematic elucidation of pregnancy-induced maternal skeletal muscle adaptations. Our findings demonstrate that pregnancy induces profound structural reorganization and metabolic reprogramming in maternal skeletal muscle, characterized by prioritized fetal nutrient provision at the expense of maternal tissue utilization. These observations not only reveal previously unrecognized mechanisms of pregnancy-specific metabolic regulation but also, more importantly, establish a critical theoretical foundation for developing skeletal muscle-targeted intervention strategies to prevent gestational diabetes mellitus.",
+  "authors": [
+    "Zhongliang Lin",
+    "Kejing Zhu",
+    "Renke He",
+    "Xueying Liu",
+    "Qinyu Luo",
+    "Jianzhong Sheng",
+    "Jiexue Pan",
+    "Hefeng Huang"
+  ],
+  "year": 2025,
+  "doi": "10.3724/abbs.2025199",
+  "source": "pubmed",
+  "raw_file": "pubmed_gestational_diabetes_prevention_1764074228.xml",
+  "category": "nutrition"
+}

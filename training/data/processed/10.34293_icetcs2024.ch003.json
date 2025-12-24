@@ -1,0 +1,16 @@
+{
+  "id": "10.34293/icetcs2024.ch003",
+  "title": "Comparative Analysis of Menstrual Cycle Prediction Algorithms in Mobile Menstrual Tracker Apps",
+  "abstract": "<jats:p>According to 2023 World Bank data, women constitute about 49.7% of the global population, with over 26% of them of reproductive age. Menstruation, lasting two to seven days monthly, is a common experience. Tracking methods have advanced from diaries to digital solutions using algorithms that log cycle dates and predict future periods and health insights. This paper conducts a comparative analysis of various menstrual cycle prediction algorithms, evaluating their accuracy, efficiency, and applicability. It will explore statistical models, machine learning algorithms, and hybrid approaches, considering factors like data quality and biological variability. The study aims to assess the impact of these technologies on women's health management and reproductive health enhancement.</jats:p>",
+  "authors": [
+    "Karan Kumar",
+    "Arpita Gupta",
+    "Aman Prakash",
+    "Shruti Sachdeva"
+  ],
+  "year": 2025,
+  "doi": "10.34293/icetcs2024.ch003",
+  "source": "crossref",
+  "raw_file": "crossref_fertility_and_menstrual_cycle_prediction_1764074209.json",
+  "category": "fertility"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "41213472",
+  "title": "Causal relationship between multiple modifiable risk factors and gestational diabetes mellitus: a two-sample Mendelian randomization study.",
+  "abstract": "Gestational Diabetes Mellitus (GDM) is a significant metabolic disorder affecting pregnant women, leading to increased risks of adverse maternal and fetal outcomes. Effective management and preventive strategies are crucial to mitigate its short- and long-term complications. This study aims to elucidate the causal relationships between multiple modifiable risk factors and GDM using a two-sample Mendelian randomization (MR) approach. We analyzed 41 modifiable risk factors, categorized into metabolic and weight factors, dietary habits, smoking and alcohol behaviors, and physical activities. Genetic variants associated with these risk factors were identified from genome-wide association studies (GWAS). GDM data came from the largest GWAS on gestational diabetes, including 12,332 GDM cases and 131,109 Finnish ancestry controls from the FinnGen study. MR analysis was performed using inverse variance weighted (IVW), MR-Egger, weighted median, simple mode, and weighted mode methods. Preliminary screening identified 12 significant modifiable risk factors, with fasting glucose, fasting insulin, glycated hemoglobin levels, triglycerides, body mass index (BMI), two-hour glucose, and processed meat intake increasing GDM risk, while high-density lipoprotein (HDL) cholesterol, tea consumption, cheese intake, lamb/mutton intake, and dried fruit intake decreased the risk. After correction for multiple comparisons, fasting glucose, fasting insulin, glycated hemoglobin levels, triglycerides, BMI, and HDL cholesterol remained significant and consistent across various methods. This comprehensive MR study provides strong evidence for the causal effects of various modifiable risk factors on GDM, highlighting the importance of lifestyle interventions targeting metabolic and dietary factors to prevent GDM and improve maternal and fetal outcomes.",
+  "authors": [
+    "Chung-Chih Liao",
+    "Chun-I Lee",
+    "Jung-Miao Li"
+  ],
+  "year": 2025,
+  "doi": "10.1016/j.jcjd.2025.10.178",
+  "source": "pubmed",
+  "raw_file": "pubmed_gestational_diabetes_prevention_1762891057.xml",
+  "category": "nutrition"
+}

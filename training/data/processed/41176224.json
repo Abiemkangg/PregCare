@@ -1,0 +1,26 @@
+{
+  "id": "41176224",
+  "title": "Functional development of midbrain and pons during human gestation and electrophysiological markers for DS intervention.",
+  "abstract": "The early fetal period (GW8-20) is crucial for establishing motor and cognitive neural circuits. However, ethical constraints and limitations in current research methods have hindered our understanding of functional development in related brain regions during this period. This study presents the first functional map of midbrain-pons development in human fetuses from GW10 to GW17, systematically investigating ion channel development, the dynamic evolution of excitatory and inhibitory networks, and synaptic maturation, thereby addressing a critical developmental research gap. Employing electrophysiological techniques and Smart-seq technology, we revealed the spatiotemporal dynamics of neuronal excitability, synaptic transmission, and synaptic plasticity in the human midbrain-pons, highlighting functional developmental differences between healthy fetuses and those with Down syndrome (DS) at GW17. Our results demonstrate that the midbrain-pons complex undergoes a rapid phase of neural network maturation from GW10 to GW17, characterized by a swift increase in neuronal excitability, gradual maturation of synaptic transmission, and enhanced synaptic plasticity. In addition, during mid-gestation, the midbrain and pons follow distinct developmental trajectories, exhibiting regional specificity and non-linear maturation patterns. The midbrain-pons functional map addresses a significant gap in developmental neuroscience and challenges existing organoid models by incorporating region-specific network features into disease modeling. In DS fetuses at GW17, we observed early functional deficits, including decreased action potential firing frequency, unbalanced AMPAR/NMDAR-mediated EPSC ratio and sEPSCs/sIPSCs ratio, impaired synaptic plasticity. Electrophysiological profiling reveals that by gestational week 17, fetuses with Down syndrome already manifest signs of neural network dysfunction. By correlating early electrophysiological markers with neurodevelopmental pathology, we provide new potential markers for future prenatal diagnosis of DS and suggest a critical intervention window (GW13.5-17).",
+  "authors": [
+    "Yongkang Wu",
+    "Yingmei Fu",
+    "Hao Peng",
+    "Yanni Chen",
+    "Fanglin Wang",
+    "Jian Wang",
+    "Jinli Ou",
+    "Yigang Dong",
+    "Qingmiao Hu",
+    "Yan Cui",
+    "Yuhua Zheng",
+    "Jianqiang Huang",
+    "Yi Dong",
+    "Qizhi He"
+  ],
+  "year": 2025,
+  "doi": "10.1016/j.jare.2025.10.046",
+  "source": "pubmed",
+  "raw_file": "pubmed_prenatal_exercise_and_fetal_health_1764074253.xml",
+  "category": "psychology"
+}

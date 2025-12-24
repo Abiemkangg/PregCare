@@ -1,0 +1,2297 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 2084716,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              29
+            ]
+          ],
+          "date-time": "2025-10-29T02:22:14Z",
+          "timestamp": 1761704534127,
+          "version": "build-2065373602"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "issue": "S1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2015,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2015-04-01T00:00:00Z",
+              "timestamp": 1427846400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "faseb.onlinelibrary.wiley.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "The FASEB Journal"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              4
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Over 30% of children, as young as 6 years, are overweight or obese with increased risk factors of heart disease. Excess adipose, especially abdominal, is associated with increased risk of heart disease. Research has shown an association between obesity, cardiovascular disease, and autonomic imbalance. It has been suggested that a major focus of disease prevention should target the prenatal period, since this is a critical time of organ development. Our previous studies found prenatal exercise is associated with improved fetal, infant, and child heart health and autonomic control. Though these results are promising, exercise was self‐reported and subject to bias. Therefore we conducted a preliminary exercise intervention study with the goal to test the hypothesis that prenatal exercise intervention will improve fetal and infant measures of heart rate (HR), obesity, and nervous system development. Participants either exercised (5+45 min,3X per wk,16‐36 wks pregnant) or did not. Statistical analyses included t‐tests &amp; ANOVA. Preliminary data show lower HR and adipose accumulation, with increased HR variability and neurodevelopmental scores in fetus and infants of exercisers compared to offspring of controls. This study is of public import regarding prevention of heart disease and obesity by targeting the critical time period before birth in order to improve child health, potentially decrease health care costs, while being a safe, low‐cost, non‐pharmacologic intervention available to the general public.</jats:p>",
+        "DOI": "10.1096/fasebj.29.1_supplement.1055.28",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              6,
+              21
+            ]
+          ],
+          "date-time": "2021-06-21T12:49:05Z",
+          "timestamp": 1624279745000
+        },
+        "update-policy": "https://doi.org/10.1002/crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Influence of Prenatal Exercise on Fetal/Infant Health"
+        ],
+        "prefix": "10.1096",
+        "volume": "29",
+        "author": [
+          {
+            "given": "Linda",
+            "family": "May",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>1</sup></label>--> Foundational Sciences and Research East Carolina University (ECU) Greenville NC United States"
+              },
+              {
+                "name": "<!--<label><sup>2</sup></label>--> Obstetrics &amp; Gynecology ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "Diana",
+            "family": "Strickland",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>2</sup></label>--> Obstetrics &amp; Gynecology ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "Ed",
+            "family": "Newton",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>2</sup></label>--> Obstetrics &amp; Gynecology ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "Amy",
+            "family": "Gross McMillan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>3</sup></label>--> Physical Therapy ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "Dennis",
+            "family": "Steed",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>4</sup></label>--> Pediatric Cardiology ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Biko",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>5</sup></label>--> Pediatric Radiology Children's Hospital of Philadelphia Philadelphia PA United States"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "The FASEB Journal"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ],
+          "date-time": "2025-10-28T21:58:23Z",
+          "timestamp": 1761688703000
+        },
+        "score": 29.476757,
+        "resource": {
+          "primary": {
+            "URL": "https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.29.1_supplement.1055.28"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              4
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "S1",
+          "published-print": {
+            "date-parts": [
+              [
+                2015,
+                4
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1096/fasebj.29.1_supplement.1055.28"
+        ],
+        "URL": "https://doi.org/10.1096/fasebj.29.1_supplement.1055.28",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0892-6638",
+          "1530-6860"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0892-6638"
+          },
+          {
+            "type": "electronic",
+            "value": "1530-6860"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              4
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "2015-04-01",
+            "order": 3,
+            "name": "published",
+            "label": "Published",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          }
+        ],
+        "article-number": "1055.28"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              27
+            ]
+          ],
+          "date-time": "2025-03-27T21:24:10Z",
+          "timestamp": 1743110650561,
+          "version": "3.40.3"
+        },
+        "publisher-location": "Boston, MA",
+        "reference-count": 0,
+        "publisher": "Springer US",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9781461434078"
+          },
+          {
+            "type": "electronic",
+            "value": "9781461434085"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2012,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2012-01-01T00:00:00Z",
+              "timestamp": 1325376000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2012,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2012-01-01T00:00:00Z",
+              "timestamp": 1325376000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-1-4614-3408-5",
+        "type": "book",
+        "created": {
+          "date-parts": [
+            [
+              2012,
+              3,
+              26
+            ]
+          ],
+          "date-time": "2012-03-26T16:54:13Z",
+          "timestamp": 1332780853000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Physiology of Prenatal Exercise and Fetal Development"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Linda E.",
+            "family": "May",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "297",
+        "container-title": [
+          "SpringerBriefs in Physiology"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-1-4614-3408-5.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-1-4614-3408-5",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              19
+            ]
+          ],
+          "date-time": "2023-02-19T00:37:59Z",
+          "timestamp": 1676767079000
+        },
+        "score": 25.250092,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-1-4614-3408-5"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        },
+        "ISBN": [
+          "9781461434078",
+          "9781461434085"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1007/978-1-4614-3408-5",
+        "ISSN": [
+          "2192-9866",
+          "2192-9874"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "2192-9866"
+          },
+          {
+            "type": "electronic",
+            "value": "2192-9874"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2012
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              21
+            ]
+          ],
+          "date-time": "2025-02-21T07:26:29Z",
+          "timestamp": 1740122789682,
+          "version": "3.37.3"
+        },
+        "reference-count": 32,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "11",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2020,
+                  8,
+                  24
+                ]
+              ],
+              "date-time": "2020-08-24T00:00:00Z",
+              "timestamp": 1598227200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springer.com/tdm"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2020,
+                  8,
+                  24
+                ]
+              ],
+              "date-time": "2020-08-24T00:00:00Z",
+              "timestamp": 1598227200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springer.com/tdm"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/100000968",
+            "name": "American Heart Association",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "15GRNT24470029"
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000968",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Matern Child Health J"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10995-020-03000-7",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              24
+            ]
+          ],
+          "date-time": "2020-08-24T15:03:36Z",
+          "timestamp": 1598281416000
+        },
+        "page": "1367-1375",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Influence of Prenatal Aerobic Exercise on Fetal Morphometry"
+        ],
+        "prefix": "10.1007",
+        "volume": "24",
+        "author": [
+          {
+            "given": "Samantha M.",
+            "family": "McDonald",
+            "sequence": "first",
+            "affiliation": []
+          },
+          {
+            "given": "Ed",
+            "family": "Newton",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Diana",
+            "family": "Strickland",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Christy",
+            "family": "Isler",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Kelley",
+            "family": "Haven",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "George",
+            "family": "Kelley",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Lisa",
+            "family": "Chasan-Taber",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Devon",
+            "family": "Kuehn",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-8231-2280",
+            "authenticated-orcid": false,
+            "given": "Linda E.",
+            "family": "May",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              24
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "issue": "6",
+            "key": "3000_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "e135",
+            "DOI": "10.1097/AOG.0000000000001214",
+            "volume": "126",
+            "author": "ACOG Committee Opinion No. 650",
+            "year": "2015",
+            "unstructured": "ACOG Committee Opinion No. 650. (2015). Physical activity and exercise during pregnancy and the postpartum period. Obstetrics and Gynecology, 126(6), e135–142. https://doi.org/10.1097/AOG.0000000000001214.",
+            "journal-title": "Obstetrics and Gynecology"
+          },
+          {
+            "issue": "8",
+            "key": "3000_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "1575",
+            "DOI": "10.1249/MSS.0b013e31821ece12",
+            "volume": "43",
+            "author": "BE Ainsworth",
+            "year": "2011",
+            "unstructured": "Ainsworth, B. E., Haskell, W. L., Herrmann, S. D., Meckes, N., Bassett, D. R. J., Tudor-Locke, C., et al. (2011). 2011 Compendium of physical activities: A second update of codes and MET values. Medicine and Science in Sports and Exercise, 43(8), 1575–1581. https://doi.org/10.1249/MSS.0b013e31821ece12.",
+            "journal-title": "Medicine and Science in Sports and Exercise"
+          },
+          {
+            "issue": "1",
+            "key": "3000_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "77",
+            "DOI": "10.1016/j.mayocp.2014.08.006",
+            "volume": "90",
+            "author": "E Archer",
+            "year": "2015",
+            "unstructured": "Archer, E. (2015). The childhood obesity epidemic as a result of nongenetic evolution: The maternal resources hypothesis. Mayo Clinic Proceedings, 90(1), 77–92. https://doi.org/10.1016/j.mayocp.2014.08.006.",
+            "journal-title": "Mayo Clinic Proceedings"
+          },
+          {
+            "key": "3000_CR4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/9781315154312-2",
+            "volume-title": "The maternal resources hypothesis and childhood obesity",
+            "author": "E Archer",
+            "year": "2017",
+            "unstructured": "Archer, E., & McDonald, S. M. (2017). The maternal resources hypothesis and childhood obesity. Boca Raton: CRC Press, Taylor & Francis Group."
+          },
+          {
+            "issue": "1",
+            "key": "3000_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1080/14647270701654369",
+            "volume": "11",
+            "author": "R Bell",
+            "year": "2008",
+            "unstructured": "Bell, R. (2008). Trends in birthweight in the north of England. Human Fertility, 11(1), 1–8. https://doi.org/10.1080/14647270701654369.",
+            "journal-title": "Human Fertility"
+          },
+          {
+            "issue": "4",
+            "key": "3000_CR6",
+            "first-page": "561",
+            "volume": "79",
+            "author": "IM Bernstein",
+            "year": "1992",
+            "unstructured": "Bernstein, I. M., & Catalano, P. M. (1992). Influence of fetal fat on the ultrasound estimation of fetal weight in diabetic mothers. Obstetrics and Gynecology, 79(4), 561–563.",
+            "journal-title": "Obstetrics and Gynecology"
+          },
+          {
+            "issue": "10",
+            "key": "3000_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "E1601",
+            "DOI": "10.1210/jc.2013-1943",
+            "volume": "98",
+            "author": "KE Boyle",
+            "year": "2013",
+            "unstructured": "Boyle, K. E., Newsom, S. A., Janssen, R. C., Lappas, M., & Friedman, J. E. (2013). Skeletal muscle MnSOD, mitochondrial complex II, and SIRT3 enzyme activities are decreased in maternal obesity during human pregnancy and gestational diabetes mellitus. The Journal of Clinical Endocrinology and Metabolism, 98(10), E1601–1609. https://doi.org/10.1210/jc.2013-1943.",
+            "journal-title": "The Journal of Clinical Endocrinology and Metabolism"
+          },
+          {
+            "issue": "3",
+            "key": "3000_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "647",
+            "DOI": "10.2337/db15-0849",
+            "volume": "65",
+            "author": "KE Boyle",
+            "year": "2016",
+            "unstructured": "Boyle, K. E., Patinkin, Z. W., Shapiro, A. L. B., Baker, P. R., 2nd, Dabelea, D., & Friedman, J. E. (2016). Mesenchymal stem cells from infants born to obese mothers exhibit greater potential for adipogenesis: The Healthy Start BabyBUMP Project. Diabetes, 65(3), 647–659. https://doi.org/10.2337/db15-0849.",
+            "journal-title": "Diabetes"
+          },
+          {
+            "key": "3000_CR9",
+            "volume-title": "National Health and Nutrition Examination Survey (NHANES): Anthropometry procedures manual",
+            "author": "Centers",
+            "year": "2004",
+            "unstructured": "Centers. (2004). National Health and Nutrition Examination Survey (NHANES): Anthropometry procedures manual. Atlanta, GA: Centers for Disease Control and Prevention."
+          },
+          {
+            "key": "3000_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "1805",
+            "DOI": "10.1016/0002-9378(90)90754-U",
+            "volume": "163",
+            "author": "JF Clapp III",
+            "year": "1990",
+            "unstructured": "Clapp, J. F., III, & Capeless, E. L. (1990). Neonatal morphometrics after endurance exercise during pregnancy. American Journal of Obstetrics and Gynecology, 163, 1805–1811. https://doi.org/10.1016/0002-9378(90)90754-U.",
+            "journal-title": "American Journal of Obstetrics and Gynecology"
+          },
+          {
+            "issue": "1",
+            "key": "3000_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "142",
+            "DOI": "10.1067/mob.2002.119109",
+            "volume": "186",
+            "author": "JF Clapp III",
+            "year": "2002",
+            "unstructured": "Clapp, J. F., III, Kim, H., Burciu, B., Schmidt, S., Petry, K., & Lopez, B. (2002). Continuing regular exercise during pregnancy: Effect of exercise volume on fetoplacental growth. American Journal of Obstetrics and Gynecology, 186(1), 142–147.",
+            "journal-title": "American Journal of Obstetrics and Gynecology"
+          },
+          {
+            "issue": "5",
+            "key": "3000_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "849",
+            "DOI": "10.1016/0029-7844(96)00292-X",
+            "volume": "88",
+            "author": "SS Crane",
+            "year": "1996",
+            "unstructured": "Crane, S. S., Avallone, D. A., Thomas, A. J., & Catalano, P. M. (1996). Sonographic estimation of fetal body composition with gestational diabetes Mellitus at Term. Obstetrics & Gynecology, 88(5), 849–854. https://doi.org/10.1016/0029-7844(96)00292-X.",
+            "journal-title": "Obstetrics & Gynecology"
+          },
+          {
+            "issue": "1",
+            "key": "3000_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "E80",
+            "DOI": "10.1152/ajpendo.00765.2009",
+            "volume": "299",
+            "author": "F Dela",
+            "year": "2010",
+            "unstructured": "Dela, F., & Stallknecht, B. (2010). Effect of physical training on insulin secretion and action in skeletal muscle and adipose tissue of first-degree relatives of type 2 diabetic patients. American Journal of Physiology. Endocrinology and Metabolism, 299(1), E80–91. https://doi.org/10.1152/ajpendo.00765.2009.",
+            "journal-title": "American Journal of Physiology. Endocrinology and Metabolism"
+          },
+          {
+            "issue": "3",
+            "key": "3000_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "333",
+            "DOI": "10.1016/0002-9378(85)90298-4",
+            "volume": "151",
+            "author": "FP Hadlock",
+            "year": "1985",
+            "unstructured": "Hadlock, F. P., Harrist, R. B., Sharman, R. S., Deter, R. L., & Park, S. K. (1985). Estimation of fetal weight with the use of head, body, and femur measurements—A prospective study. American Journal of Obstetrics and Gynecology, 151(3), 333–337.",
+            "journal-title": "American Journal of Obstetrics and Gynecology"
+          },
+          {
+            "key": "3000_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "257",
+            "DOI": "10.1097/AOG.0000000000000373",
+            "volume": "124",
+            "author": "CS Harrod",
+            "year": "2014",
+            "unstructured": "Harrod, C. S., Chasan-Taber, L., Reynolds, R. M., Fingerlin, T. E., Glueck, D. H., Brinton, J. T., et al. (2014). Physical activity in pregnancy and neonatal body composition: The Healthy Start study. Obstetrics and Gynecology, 124, 257–264. https://doi.org/10.1097/AOG.0000000000000373.",
+            "journal-title": "Obstetrics and Gynecology"
+          },
+          {
+            "key": "3000_CR16",
+            "doi-asserted-by": "publisher",
+            "first-page": "16",
+            "DOI": "10.1097/00005176-198300201-00004",
+            "volume": "2",
+            "author": "T Heim",
+            "year": "1983",
+            "unstructured": "Heim, T. (1983). Energy and lipid requirements of the fetus and the preterm infant. Journal of Pediatric Gastroenterology and Nutrition, 2, 16–41.",
+            "journal-title": "Journal of Pediatric Gastroenterology and Nutrition"
+          },
+          {
+            "issue": "1",
+            "key": "3000_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "24",
+            "DOI": "10.2174/1389201015666140330192345",
+            "volume": "15",
+            "author": "E Herrera",
+            "year": "2014",
+            "unstructured": "Herrera, E., & Ortega-Senovilla, H. (2014). Lipid metabolism during pregnancy and its implications for fetal growth. Current Pharmaceutical Biotechnology, 15(1), 24–31.",
+            "journal-title": "Current Pharmaceutical Biotechnology"
+          },
+          {
+            "issue": "2",
+            "key": "3000_CR18",
+            "doi-asserted-by": "publisher",
+            "first-page": "e31691",
+            "DOI": "10.1371/journal.pone.0031691",
+            "volume": "7",
+            "author": "Y Huang",
+            "year": "2012",
+            "unstructured": "Huang, Y., Zhao, J.-X., Yan, X., Zhu, M.-J., Long, N. M., McCormick, R. J., et al. (2012). Maternal obesity enhances collagen accumulation and cross-linking in skeletal muscle of ovine offspring. PLoS ONE, 7(2), e31691. https://doi.org/10.1371/journal.pone.0031691.",
+            "journal-title": "PLoS ONE"
+          },
+          {
+            "key": "3000_CR19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/ijpo.12198",
+            "author": "S Ikenoue",
+            "year": "2016",
+            "unstructured": "Ikenoue, S., Waffarn, F., Sumiyoshi, K., Ohashi, M., Ikenoue, C., Buss, C., et al. (2016). Association of ultrasound-based measures of fetal body composition with newborn adiposity: Fetal body composition and newborn adiposity. Pediatric Obesity. https://doi.org/10.1111/ijpo.12198.",
+            "journal-title": "Pediatric Obesity"
+          },
+          {
+            "issue": "2",
+            "key": "3000_CR20",
+            "doi-asserted-by": "publisher",
+            "first-page": "115",
+            "DOI": "10.1159/000089456",
+            "volume": "61",
+            "author": "T Kinoshita",
+            "year": "2006",
+            "unstructured": "Kinoshita, T., & Itoh, M. (2006). Longitudinal variance of fat mass deposition during pregnancy evaluated by ultrasonography: The ratio of visceral fat to subcutaneous fat in the abdomen. Gynecologic and Obstetric Investigation, 61(2), 115–118.",
+            "journal-title": "Gynecologic and Obstetric Investigation"
+          },
+          {
+            "issue": "1",
+            "key": "3000_CR21",
+            "first-page": "1",
+            "volume": "64",
+            "author": "JA Martin",
+            "year": "2015",
+            "unstructured": "Martin, J. A., Hamilton, B. E., Osterman, M., Curtin, S. C., & Matthews, T. (2015). Births: Final data for 2013. National Vital Statistics Reports: From the Centers for Disease Control and Prevention, National Center for Health Statistics, National Vital Statistics System, 64(1), 1–65.",
+            "journal-title": "National Vital Statistics Reports: From the Centers for Disease Control and Prevention, National Center for Health Statistics, National Vital Statistics System"
+          },
+          {
+            "issue": "8",
+            "key": "3000_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "1389",
+            "DOI": "10.1249/01.mss.0000228940.09411.9c",
+            "volume": "38",
+            "author": "MF Mottola",
+            "year": "2006",
+            "unstructured": "Mottola, M. F., Davenport, M. H., Brun, C. R., Inglis, S. D., Charlesworth, S., & Sopper, M. M. (2006). VO2peak prediction and exercise prescription for pregnant women. Medicine and Science in Sports and Exercise, 38(8), 1389–1395.",
+            "journal-title": "Medicine and Science in Sports and Exercise"
+          },
+          {
+            "key": "3000_CR23",
+            "first-page": "678",
+            "volume-title": "The hyperglycemia-hyperinsulinism theory and the weight of the newborn baby",
+            "author": "J Pedersen",
+            "year": "1971",
+            "unstructured": "Pedersen, J., & Molsted-Pedersen, L. (1971). The hyperglycemia-hyperinsulinism theory and the weight of the newborn baby (p. 678). Amsterdam: Diabetes Excerpta Medica."
+          },
+          {
+            "key": "3000_CR24",
+            "volume-title": "ACSM’s guidelines for exercise testing and prescription",
+            "author": "LS Pescatello",
+            "year": "2014",
+            "unstructured": "Pescatello, L. S., & American College of Sports Medicine. (2014). ACSM’s guidelines for exercise testing and prescription. Philadelphia: Wolters Kluwer/Lippincott Williams & Wilkins Health."
+          },
+          {
+            "issue": "2",
+            "key": "3000_CR25",
+            "doi-asserted-by": "publisher",
+            "first-page": "404",
+            "DOI": "10.1007/s00125-006-0498-7",
+            "volume": "50",
+            "author": "F Shojaee-Moradie",
+            "year": "2007",
+            "unstructured": "Shojaee-Moradie, F., Baynes, K. C., Pentecost, C., Bell, J. D., Thomas, E. L., Jackson, N. C., et al. (2007). Exercise training reduces fatty acid availability and improves the insulin sensitivity of glucose metabolism. Diabetologia, 50(2), 404–413. https://doi.org/10.1007/s00125-006-0498-7.",
+            "journal-title": "Diabetologia"
+          },
+          {
+            "key": "3000_CR26",
+            "volume-title": "ACSM’s resource manual for guidelines for exercise testing and prescription",
+            "author": "DP Swain",
+            "year": "2014",
+            "unstructured": "Swain, D. P., Brawner, C. A., & American College of Sports Medicine. (2014). ACSM’s resource manual for guidelines for exercise testing and prescription. Philadelphia: Lippincott Williams & Wilkins."
+          },
+          {
+            "issue": "4",
+            "key": "3000_CR27",
+            "doi-asserted-by": "publisher",
+            "first-page": "E917",
+            "DOI": "10.1152/ajpendo.90924.2008",
+            "volume": "296",
+            "author": "JF Tong",
+            "year": "2009",
+            "unstructured": "Tong, J. F., Yan, X., Zhu, M. J., Ford, S. P., Nathanielsz, P. W., & Du, M. (2009). Maternal obesity downregulates myogenesis and β-catenin signaling in fetal skeletal muscle. American Journal of Physiology - Endocrinology and Metabolism, 296(4), E917–E924. https://doi.org/10.1152/ajpendo.90924.2008.",
+            "journal-title": "American Journal of Physiology - Endocrinology and Metabolism"
+          },
+          {
+            "issue": "12",
+            "key": "3000_CR28",
+            "doi-asserted-by": "publisher",
+            "first-page": "1279",
+            "DOI": "10.1038/ejcn.2015.117",
+            "volume": "69",
+            "author": "T Toro-Ramos",
+            "year": "2015",
+            "unstructured": "Toro-Ramos, T., Paley, C., Pi-Sunyer, F. X., & Gallagher, D. (2015). Body composition during fetal development and infancy through the age of 5 years. European Journal of Clinical Nutrition, 69(12), 1279–1289. https://doi.org/10.1038/ejcn.2015.117.",
+            "journal-title": "European Journal of Clinical Nutrition"
+          },
+          {
+            "issue": "4",
+            "key": "3000_CR29",
+            "doi-asserted-by": "publisher",
+            "first-page": "790",
+            "DOI": "10.1093/ajcn/55.4.790",
+            "volume": "55",
+            "author": "RL Weinsier",
+            "year": "1992",
+            "unstructured": "Weinsier, R. L., Schutz, Y., & Bracco, D. (1992). Reexamination of the relationship of resting metabolic rate to fat-free mass and to the metabolically active components of fat-free mass in humans. The American Journal of Clinical Nutrition, 55(4), 790–794. https://doi.org/10.1093/ajcn/55.4.790.",
+            "journal-title": "The American Journal of Clinical Nutrition"
+          },
+          {
+            "issue": "5",
+            "key": "3000_CR30",
+            "doi-asserted-by": "publisher",
+            "first-page": "1185",
+            "DOI": "10.1097/aog.0000000000000801",
+            "volume": "125",
+            "author": "HW Wiebe",
+            "year": "2015",
+            "unstructured": "Wiebe, H. W., Boule, N. G., Chari, R., & Davenport, M. H. (2015). The effect of supervised prenatal exercise on fetal growth: A meta-analysis. Obstetrics and Gynecology, 125(5), 1185–1194. https://doi.org/10.1097/aog.0000000000000801.",
+            "journal-title": "Obstetrics and Gynecology"
+          },
+          {
+            "issue": "10",
+            "key": "3000_CR31",
+            "doi-asserted-by": "publisher",
+            "first-page": "983",
+            "DOI": "10.1089/152460901317193558",
+            "volume": "10",
+            "author": "S Yeo",
+            "year": "2001",
+            "unstructured": "Yeo, S., & Davidge, S. T. (2001). Possible beneficial effect of exercise, by reducing oxidative stress, on the incidence of preeclampsia. Journal of Women s Health & Gender-Based Medicine, 10(10), 983–989. https://doi.org/10.1089/152460901317193558.",
+            "journal-title": "Journal of Women s Health & Gender-Based Medicine"
+          },
+          {
+            "issue": "4",
+            "key": "3000_CR32",
+            "first-page": "293",
+            "volume": "45",
+            "author": "S Yeo",
+            "year": "2000",
+            "unstructured": "Yeo, S., Steele, N. M., Chang, M. C., Leclaire, S. M., Ronis, D. L., & Hayashi, R. (2000). Effect of exercise on blood pressure in pregnant women with a high risk of gestational hypertensive disorders. The Journal of Reproductive Medicine, 45(4), 293–298.",
+            "journal-title": "The Journal of Reproductive Medicine"
+          }
+        ],
+        "container-title": [
+          "Maternal and Child Health Journal"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10995-020-03000-7.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s10995-020-03000-7/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10995-020-03000-7.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              23
+            ]
+          ],
+          "date-time": "2021-08-23T23:30:53Z",
+          "timestamp": 1629761453000
+        },
+        "score": 24.32266,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s10995-020-03000-7"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              24
+            ]
+          ]
+        },
+        "references-count": 32,
+        "journal-issue": {
+          "issue": "11",
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                11
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "3000"
+        ],
+        "URL": "https://doi.org/10.1007/s10995-020-03000-7",
+        "ISSN": [
+          "1092-7875",
+          "1573-6628"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1092-7875"
+          },
+          {
+            "type": "electronic",
+            "value": "1573-6628"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              24
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "24 August 2020",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "order": 1,
+            "name": "Ethics",
+            "group": {
+              "name": "EthicsHeading",
+              "label": "Compliance with Ethical Standards"
+            }
+          },
+          {
+            "value": "The authors have no conflicts of interests to disclose.",
+            "order": 2,
+            "name": "Ethics",
+            "group": {
+              "name": "EthicsHeading",
+              "label": "Conflict of interest"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              4
+            ]
+          ],
+          "date-time": "2025-11-04T10:58:23Z",
+          "timestamp": 1762253903727,
+          "version": "3.40.5"
+        },
+        "reference-count": 163,
+        "publisher": "Wiley",
+        "issue": "11",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  9,
+                  12
+                ]
+              ],
+              "date-time": "2021-09-12T00:00:00Z",
+              "timestamp": 1631404800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/100000002",
+            "name": "National Institutes of Health",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "NIH R01‐HD067449"
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000002",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "febs.onlinelibrary.wiley.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "The FEBS Journal"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              6
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Maternal obesity (MO) and gestational diabetes mellitus (GDM) are common in Western societies, which impair fetal development and predispose offspring to metabolic dysfunction. Placenta is the organ linking the mother to her fetus, and MO suppresses the development of vascular system and expression of nutrient transporters in placenta, thereby affecting fetal development. For maintaining its proper physiological function, placenta is energy demanding, which is met through extensive oxidative phosphorylation. However, the oxidative capacity of placenta is suppressed due to MO and GDM. Recently, several studies showed that physical activity during pregnancy enhances oxidative metabolism and improves placental function, which might be partially mediated by exerkines, referring to cytokines elicited by exercise. In addition, as an endocrine organ, placenta secretes cytokines, termed placentokines, including apelin, superoxide dismutase 3, irisin, and adiponectin, which mediate fetal development and maternal metabolism. Possible molecular mechanisms linking maternal exercise and placentokines to placental and fetal development are further discussed. As an emerging field, up to now, available studies are limited, mostly conducted in rodents. Given the epidemics of obesity and metabolic disorders, as well as the prevalence of maternal sedentary lifestyle, the effects of exercise of pregnant women on placental function and placentokine secretion, as well as their impacts on fetal development, need to be further examined.</jats:p>",
+        "DOI": "10.1111/febs.16173",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              27
+            ]
+          ],
+          "date-time": "2021-08-27T17:08:08Z",
+          "timestamp": 1630084088000
+        },
+        "page": "3058-3071",
+        "update-policy": "https://doi.org/10.1002/crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 30,
+        "title": [
+          "Prenatal exercise in fetal development: a placental perspective"
+        ],
+        "prefix": "10.1111",
+        "volume": "289",
+        "author": [
+          {
+            "given": "Song Ah",
+            "family": "Chae",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Nutrigenomics and Growth Biology Laboratory Department of Animal Sciences Washington State University  Pullman WA USA"
+              }
+            ]
+          },
+          {
+            "given": "Jun Seok",
+            "family": "Son",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Laboratory of Perinatal Kinesioepigenetics Department of Obstetrics, Gynecology &amp; Reproductive Sciences University of Maryland School of Medicine  Baltimore MD USA"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7232-072X",
+            "authenticated-orcid": false,
+            "given": "Min",
+            "family": "Du",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Nutrigenomics and Growth Biology Laboratory Department of Animal Sciences Washington State University  Pullman WA USA"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              12
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "e_1_2_10_2_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0202183"
+          },
+          {
+            "key": "e_1_2_10_3_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/ajh.2008.20"
+          },
+          {
+            "key": "e_1_2_10_4_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ejogrb.2013.05.005"
+          },
+          {
+            "key": "e_1_2_10_5_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/bmj.j1"
+          },
+          {
+            "key": "e_1_2_10_6_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pmed.1002817"
+          },
+          {
+            "key": "e_1_2_10_7_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00125-019-4970-6"
+          },
+          {
+            "key": "e_1_2_10_8_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1046/j.1464-5491.2003.00871.x"
+          },
+          {
+            "key": "e_1_2_10_9_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2337/diabetes.52.7.1756"
+          },
+          {
+            "key": "e_1_2_10_10_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0029665199000804"
+          },
+          {
+            "key": "e_1_2_10_11_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1172/JCI28898"
+          },
+          {
+            "key": "e_1_2_10_12_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/jc.2010-2084"
+          },
+          {
+            "key": "e_1_2_10_13_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1095/biolreprod.109.077099"
+          },
+          {
+            "key": "e_1_2_10_14_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00125-012-2505-5"
+          },
+          {
+            "key": "e_1_2_10_15_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/sciadv.aaz0359"
+          },
+          {
+            "key": "e_1_2_10_16_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1600-0897.1997.tb00222.x"
+          },
+          {
+            "key": "e_1_2_10_17_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1113/JP277698"
+          },
+          {
+            "key": "e_1_2_10_18_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10641963.2016.1273945"
+          },
+          {
+            "key": "e_1_2_10_19_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s13148-019-0612-6"
+          },
+          {
+            "key": "e_1_2_10_20_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2018/2378189"
+          },
+          {
+            "key": "e_1_2_10_21_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s42255-020-00274-7"
+          },
+          {
+            "key": "e_1_2_10_22_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1249/JES.0000000000000111"
+          },
+          {
+            "key": "e_1_2_10_23_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nrendo.2012.49"
+          },
+          {
+            "key": "e_1_2_10_24_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1139/apnm-2016-0446"
+          },
+          {
+            "key": "e_1_2_10_25_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cmet.2021.03.004"
+          },
+          {
+            "key": "e_1_2_10_26_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1055/s-0035-1570027"
+          },
+          {
+            "key": "e_1_2_10_27_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ajog.2020.11.005"
+          },
+          {
+            "key": "e_1_2_10_28_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2020.11.012"
+          },
+          {
+            "key": "e_1_2_10_29_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2014.02.012"
+          },
+          {
+            "key": "e_1_2_10_30_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2020.05.003"
+          },
+          {
+            "key": "e_1_2_10_31_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/uog.14818"
+          },
+          {
+            "key": "e_1_2_10_32_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2012/179827"
+          },
+          {
+            "key": "e_1_2_10_33_1",
+            "first-page": "321",
+            "article-title": "Placental‐fetal glucose exchange and fetal glucose metabolism",
+            "volume": "117",
+            "author": "Hay WW",
+            "year": "2006",
+            "journal-title": "Trans Am Clin Climatol Assoc"
+          },
+          {
+            "key": "e_1_2_10_34_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1385/ENDO:19:1:13"
+          },
+          {
+            "key": "e_1_2_10_35_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/humrep/deh596"
+          },
+          {
+            "key": "e_1_2_10_36_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0002-9378(99)70169-9"
+          },
+          {
+            "key": "e_1_2_10_37_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1530/JOE-11-0355"
+          },
+          {
+            "key": "e_1_2_10_38_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1152/ajpcell.00075.2007"
+          },
+          {
+            "key": "e_1_2_10_39_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.thromres.2004.06.038"
+          },
+          {
+            "key": "e_1_2_10_40_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0002-9440(10)63803-5"
+          },
+          {
+            "key": "e_1_2_10_41_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/jc.2002-020195"
+          },
+          {
+            "key": "e_1_2_10_42_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10456-019-09702-z"
+          },
+          {
+            "key": "e_1_2_10_43_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2014/781632"
+          },
+          {
+            "key": "e_1_2_10_44_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1530/REP-09-0092"
+          },
+          {
+            "key": "e_1_2_10_45_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0950-351X(89)80052-7"
+          },
+          {
+            "key": "e_1_2_10_46_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.rbmo.2015.10.005"
+          },
+          {
+            "key": "e_1_2_10_47_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/clinchem/43.12.2233"
+          },
+          {
+            "key": "e_1_2_10_48_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.mce.2013.12.009"
+          },
+          {
+            "key": "e_1_2_10_49_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jcp.20995"
+          },
+          {
+            "key": "e_1_2_10_50_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/jc.2002-020642"
+          },
+          {
+            "key": "e_1_2_10_51_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/molehr/gag053"
+          },
+          {
+            "key": "e_1_2_10_52_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2007.02.002"
+          },
+          {
+            "key": "e_1_2_10_53_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/en.2008-1309"
+          },
+          {
+            "key": "e_1_2_10_54_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nm0997-1029"
+          },
+          {
+            "key": "e_1_2_10_55_1",
+            "first-page": "640",
+            "article-title": "Increase of maternal plasma leptin concentrations during pregnancy: comparison with nonpregnant women",
+            "volume": "15",
+            "author": "Lin KC",
+            "year": "1999",
+            "journal-title": "Kaohsiung J Med Sci"
+          },
+          {
+            "key": "e_1_2_10_56_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/jcmm.13369"
+          },
+          {
+            "key": "e_1_2_10_57_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1095/biolreprod.106.051391"
+          },
+          {
+            "key": "e_1_2_10_58_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.abb.2008.06.015"
+          },
+          {
+            "key": "e_1_2_10_59_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1677/joe.1.06227"
+          },
+          {
+            "key": "e_1_2_10_60_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cytogfr.2017.03.001"
+          },
+          {
+            "key": "e_1_2_10_61_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.92.11.4778"
+          },
+          {
+            "key": "e_1_2_10_62_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.94.16.8462"
+          },
+          {
+            "key": "e_1_2_10_63_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bbalip.2015.12.008"
+          },
+          {
+            "key": "e_1_2_10_64_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2004.06.012"
+          },
+          {
+            "key": "e_1_2_10_65_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/BF02820507"
+          },
+          {
+            "key": "e_1_2_10_66_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jri.2012.10.011"
+          },
+          {
+            "key": "e_1_2_10_67_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/jcem-35-6-887"
+          },
+          {
+            "key": "e_1_2_10_68_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fphys.2018.01091"
+          },
+          {
+            "key": "e_1_2_10_69_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1124/mol.51.4.605"
+          },
+          {
+            "key": "e_1_2_10_70_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1159/000443765"
+          },
+          {
+            "key": "e_1_2_10_71_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/toxsci/kfl043"
+          },
+          {
+            "key": "e_1_2_10_72_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10911-007-9054-4"
+          },
+          {
+            "key": "e_1_2_10_73_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/ajcn/71.5.1256s"
+          },
+          {
+            "key": "e_1_2_10_74_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/endo-118-4-1567"
+          },
+          {
+            "key": "e_1_2_10_75_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/en.2004-1550"
+          },
+          {
+            "key": "e_1_2_10_76_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1387/ijdb.082765md"
+          },
+          {
+            "key": "e_1_2_10_77_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0161-5890(01)00108-0"
+          },
+          {
+            "key": "e_1_2_10_78_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.mito.2018.06.007"
+          },
+          {
+            "key": "e_1_2_10_79_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2017.06.011"
+          },
+          {
+            "key": "e_1_2_10_80_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.1816056116"
+          },
+          {
+            "key": "e_1_2_10_81_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1152/ajpendo.00332.2012"
+          },
+          {
+            "key": "e_1_2_10_82_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11033-018-4488-x"
+          },
+          {
+            "key": "e_1_2_10_83_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0301-2115(03)00168-4"
+          },
+          {
+            "key": "e_1_2_10_84_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S2213-8587(16)30217-0"
+          },
+          {
+            "key": "e_1_2_10_85_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1152/ajpendo.00426.2013"
+          },
+          {
+            "key": "e_1_2_10_86_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.celrep.2020.108461"
+          },
+          {
+            "key": "e_1_2_10_87_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1152/physiolgenomics.00059.2014"
+          },
+          {
+            "key": "e_1_2_10_88_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0229332"
+          },
+          {
+            "key": "e_1_2_10_89_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2020.11.012"
+          },
+          {
+            "key": "e_1_2_10_90_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1152/ajpendo.00213.2012"
+          },
+          {
+            "key": "e_1_2_10_91_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2337/db13-1614"
+          },
+          {
+            "key": "e_1_2_10_92_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2337/db13-1848"
+          },
+          {
+            "key": "e_1_2_10_93_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2337/db17-0098"
+          },
+          {
+            "key": "e_1_2_10_94_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.21769/BioProtoc.3838"
+          },
+          {
+            "key": "e_1_2_10_95_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s40279-013-0110-5"
+          },
+          {
+            "key": "e_1_2_10_96_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2165/11583930-000000000-00000"
+          },
+          {
+            "key": "e_1_2_10_97_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s42000-018-0085-6"
+          },
+          {
+            "key": "e_1_2_10_98_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/bjsports-2018-099355"
+          },
+          {
+            "key": "e_1_2_10_99_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12884-018-2068-7"
+          },
+          {
+            "key": "e_1_2_10_100_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/MD.0000000000016199"
+          },
+          {
+            "key": "e_1_2_10_101_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12884-019-2441-1"
+          },
+          {
+            "key": "e_1_2_10_102_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.7326/0003-4819-159-8-201310150-00007"
+          },
+          {
+            "key": "e_1_2_10_103_1",
+            "first-page": "37",
+            "article-title": "The influence of prenatal exercise on offspring health: a review",
+            "volume": "9",
+            "author": "Moyer C",
+            "year": "2016",
+            "journal-title": "Clin Med Insights Womens Health"
+          },
+          {
+            "key": "e_1_2_10_104_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1249/MSS.0000000000001958"
+          },
+          {
+            "key": "e_1_2_10_105_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12884-015-0498-z"
+          },
+          {
+            "key": "e_1_2_10_106_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s40279‐021‐01499‐6"
+          },
+          {
+            "key": "e_1_2_10_107_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00125-019-4891-4"
+          },
+          {
+            "key": "e_1_2_10_108_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tem.2018.01.003"
+          },
+          {
+            "key": "e_1_2_10_109_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2174/18756212MTA3qNDApy"
+          },
+          {
+            "key": "e_1_2_10_110_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2020.10.013"
+          },
+          {
+            "key": "e_1_2_10_111_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2016.11.004"
+          },
+          {
+            "key": "e_1_2_10_112_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/oby.21416"
+          },
+          {
+            "key": "e_1_2_10_113_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2017.11.014"
+          },
+          {
+            "key": "e_1_2_10_114_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2019/2481592"
+          },
+          {
+            "key": "e_1_2_10_115_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2018.12.005"
+          },
+          {
+            "key": "e_1_2_10_116_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1113/JP275758"
+          },
+          {
+            "key": "e_1_2_10_117_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tips.2015.04.014"
+          },
+          {
+            "key": "e_1_2_10_118_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2165/11599590-000000000-00000"
+          },
+          {
+            "key": "e_1_2_10_119_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1101/cshperspect.a029827"
+          },
+          {
+            "key": "e_1_2_10_120_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s12020-017-1476-1"
+          },
+          {
+            "key": "e_1_2_10_121_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nature10777"
+          },
+          {
+            "key": "e_1_2_10_122_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0143-4004(95)90007-1"
+          },
+          {
+            "key": "e_1_2_10_123_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.placenta.2005.07.010"
+          },
+          {
+            "key": "e_1_2_10_124_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0143653"
+          },
+          {
+            "key": "e_1_2_10_125_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1006/bbrc.1998.9489"
+          },
+          {
+            "key": "e_1_2_10_126_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/en.2010-0576"
+          },
+          {
+            "key": "e_1_2_10_127_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2337/db11-0100"
+          },
+          {
+            "key": "e_1_2_10_128_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cmet.2008.10.003"
+          },
+          {
+            "key": "e_1_2_10_129_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tem.2012.02.005"
+          },
+          {
+            "key": "e_1_2_10_130_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1651-2227.2007.00565.x"
+          },
+          {
+            "key": "e_1_2_10_131_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.aam6607"
+          },
+          {
+            "key": "e_1_2_10_132_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1152/ajpendo.00012.2019"
+          },
+          {
+            "key": "e_1_2_10_133_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/ajhb.22493"
+          },
+          {
+            "key": "e_1_2_10_134_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fendo.2019.00524"
+          },
+          {
+            "key": "e_1_2_10_135_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.coph.2020.06.003"
+          },
+          {
+            "key": "e_1_2_10_136_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jcp.29613"
+          },
+          {
+            "key": "e_1_2_10_137_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/jc.2013-4127"
+          },
+          {
+            "key": "e_1_2_10_138_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cyto.2013.11.009"
+          },
+          {
+            "key": "e_1_2_10_139_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.repbio.2017.05.011"
+          },
+          {
+            "key": "e_1_2_10_140_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/14767058.2019.1667322"
+          },
+          {
+            "key": "e_1_2_10_141_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1074/jbc.270.45.26746"
+          },
+          {
+            "key": "e_1_2_10_142_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1161/01.ATV.20.6.1595"
+          },
+          {
+            "key": "e_1_2_10_143_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1074/jbc.271.18.10697"
+          },
+          {
+            "key": "e_1_2_10_144_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1161/01.ATV.0000048856.22331.50"
+          },
+          {
+            "key": "e_1_2_10_145_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/jc.2005-2556"
+          },
+          {
+            "key": "e_1_2_10_146_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1071/RD18247"
+          },
+          {
+            "key": "e_1_2_10_147_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/en.2009-0058"
+          },
+          {
+            "key": "e_1_2_10_148_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1477-7827-8-128"
+          },
+          {
+            "key": "e_1_2_10_149_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.1515484112"
+          },
+          {
+            "key": "e_1_2_10_150_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/14767058.2017.1372415"
+          },
+          {
+            "key": "e_1_2_10_151_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cmet.2016.08.010"
+          },
+          {
+            "key": "e_1_2_10_152_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.biochi.2019.01.001"
+          },
+          {
+            "key": "e_1_2_10_153_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ejogrb.2020.08.045"
+          },
+          {
+            "key": "e_1_2_10_154_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.gene.2018.01.097"
+          },
+          {
+            "key": "e_1_2_10_155_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0140-6736(08)60074-4"
+          },
+          {
+            "key": "e_1_2_10_156_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.metabol.2015.07.019"
+          },
+          {
+            "key": "e_1_2_10_157_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/humupd/dmq052"
+          },
+          {
+            "key": "e_1_2_10_158_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2144/000113493"
+          },
+          {
+            "key": "e_1_2_10_159_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2012/582748"
+          },
+          {
+            "key": "e_1_2_10_160_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bbadis.2020.165967"
+          },
+          {
+            "key": "e_1_2_10_161_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/apha.12905"
+          },
+          {
+            "key": "e_1_2_10_162_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2337/db15-0227"
+          },
+          {
+            "key": "e_1_2_10_163_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fendo.2020.611929"
+          },
+          {
+            "key": "e_1_2_10_164_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/nu12123900"
+          }
+        ],
+        "container-title": [
+          "The FEBS Journal"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/febs.16173",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/febs.16173",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/febs.16173",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              8,
+              17
+            ]
+          ],
+          "date-time": "2023-08-17T18:53:52Z",
+          "timestamp": 1692298432000
+        },
+        "score": 24.22519,
+        "resource": {
+          "primary": {
+            "URL": "https://febs.onlinelibrary.wiley.com/doi/10.1111/febs.16173"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              12
+            ]
+          ]
+        },
+        "references-count": 163,
+        "journal-issue": {
+          "issue": "11",
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                6
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1111/febs.16173"
+        ],
+        "URL": "https://doi.org/10.1111/febs.16173",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "1742-464X",
+          "1742-4658"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1742-464X"
+          },
+          {
+            "type": "electronic",
+            "value": "1742-4658"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              12
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "2021-04-01",
+            "order": 0,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          },
+          {
+            "value": "2021-08-26",
+            "order": 1,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          },
+          {
+            "value": "2021-09-12",
+            "order": 2,
+            "name": "published",
+            "label": "Published",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              13
+            ]
+          ],
+          "date-time": "2023-09-13T16:57:13Z",
+          "timestamp": 1694624233518
+        },
+        "reference-count": 0,
+        "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+        "issue": "4",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "J Strength Cond Res"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1989
+            ]
+          ]
+        },
+        "DOI": "10.1519/1533-4287(1989)003<0093:srmafr>2.3.co;2",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2004,
+              5,
+              6
+            ]
+          ],
+          "date-time": "2004-05-06T21:47:33Z",
+          "timestamp": 1083880053000
+        },
+        "page": "93",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Short Review: Maternal and Fetal Responses to Prenatal Exercise"
+        ],
+        "prefix": "10.1519",
+        "volume": "3",
+        "author": [
+          {
+            "given": "Ann Musselman",
+            "family": "Uzendoski",
+            "sequence": "first",
+            "affiliation": []
+          },
+          {
+            "given": "Richard W.",
+            "family": "Latin",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Kris E.",
+            "family": "Berg",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Suzanne",
+            "family": "Moshier",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "member": "276",
+        "container-title": [
+          "The Journal of Strength and Conditioning Research"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://journals.lww.com/00124278-198911000-00003",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              2,
+              7
+            ]
+          ],
+          "date-time": "2022-02-07T17:14:26Z",
+          "timestamp": 1644254066000
+        },
+        "score": 23.35437,
+        "resource": {
+          "primary": {
+            "URL": "http://nsca.allenpress.com/nscaonline/?request=get-abstract&doi=10.1519%2F1533-4287(1989)003%3C0093%3ASRMAFR%3E2.3.CO%3B2"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1989
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "4",
+          "published-print": {
+            "date-parts": [
+              [
+                1989
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1519/1533-4287(1989)003<0093:srmafr>2.3.co;2",
+        "ISSN": [
+          "1064-8011",
+          "1533-4287"
+        ],
+        "issn-type": [
+          {
+            "value": "1064-8011",
+            "type": "print"
+          },
+          {
+            "value": "1533-4287",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1989
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 5,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

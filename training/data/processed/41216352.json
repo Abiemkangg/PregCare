@@ -1,0 +1,21 @@
+{
+  "id": "41216352",
+  "title": "Association between high-dose calcium supplementation during pregnancy and risk of placental disorders and low birth weight in Iranian women.",
+  "abstract": "Although calcium is crucial for maternal and fetal health, the association between high-dose calcium supplementation during pregnancy and adverse outcomes is not fully understood. This study examined the association between calcium supplementation during pregnancy and adverse pregnancy outcomes among Iranian women. This prospective cohort study involved 666 pregnant women attending prenatal care clinics across three cities in Iran. Data on calcium supplementation and pregnancy outcomes were collected during pregnancy and after childbirth. A modified Poisson regression method was applied to assess the association between high-dose calcium supplement intake (> 1000 mg/d) and adverse pregnancy outcomes, considering various confounding factors. Of the 666 women evaluated, 225 experienced adverse pregnancy outcomes. High-dose calcium supplementation was positively associated with an increased risk of placental disorders (RR = 1.48, 95% CI: 1.28-1.70, P < 0.001) and low birth weight (LBW) (RR = 1.47, 95% CI: 1.23-1.75, P < 0.001), even after adjusting for confounders. No significant association was observed between high-dose calcium supplements and preterm birth. High-dose calcium supplementation during pregnancy may be linked to increased risks of placental disorders and low birth weight. Further research is needed to clarify the safety of high-dose calcium intake during pregnancy.",
+  "authors": [
+    "Seyedeh Hajar Sharami",
+    "Sedigheh Hantoshzadeh",
+    "Forozan Milani",
+    "Soudabeh Kazemi Aski",
+    "Sara Shirzad Chenari",
+    "Seyedeh Maryam Attari",
+    "Sara Khoshdooz",
+    "Soheila Shekari",
+    "Saeid Doaei"
+  ],
+  "year": 2025,
+  "doi": "10.1007/s13755-025-00392-0",
+  "source": "pubmed",
+  "raw_file": "pubmed_maternal_nutrition_during_pregnancy_1762890998.xml",
+  "category": "prenatal"
+}

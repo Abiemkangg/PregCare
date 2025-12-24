@@ -1,0 +1,379 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "UR8mnYHQh68C",
+      "etag": "e3dO0/BnVS4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UR8mnYHQh68C",
+      "volumeInfo": {
+        "title": "Maternal-Fetal Nutrition During Pregnancy and Lactation",
+        "authors": [
+          "Michael E. Symonds",
+          "Margaret M. Ramsay"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2010-01-28",
+        "description": "With the aim to improve clinicians' understanding of the important effects nutrition can have on maternal health and fetal and neonatal development, Maternal-Fetal Nutrition During Pregnancy and Lactation defines the nutritional requirements with regard to the stage of development and growth, placing scientific developments into clinical context.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521887090"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0521887097"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UR8mnYHQh68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UR8mnYHQh68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=UR8mnYHQh68C&pg=PA52&dq=maternal+nutrition+during+pregnancy&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=UR8mnYHQh68C&dq=maternal+nutrition+during+pregnancy&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Maternal_Fetal_Nutrition_During_Pregnanc.html?hl=&id=UR8mnYHQh68C"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Maternal_Fetal_Nutrition_During_Pregnanc-sample-pdf.acsm?id=UR8mnYHQh68C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UR8mnYHQh68C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>maternal</b> dietary supplements in rural Gambia: 5 year randomised controlled trial. BMJ (1997), 315:786–90. 33. Rao S, Kanade A, Margetts BM, Yajnik CS, Lubree H ... <b>Nutritional</b> regulation and requirements <b>for pregnancy</b> and fetal growth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LqeAPnvQp2MC",
+      "etag": "lZ/5UJ+lLFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LqeAPnvQp2MC",
+      "volumeInfo": {
+        "title": "Nutrition During Pregnancy",
+        "subtitle": "Part I: Weight Gain, Part II: Nutrient Supplements",
+        "authors": [
+          "Institute of Medicine",
+          "Committee on Nutritional Status During Pregnancy and Lactation"
+        ],
+        "publisher": "National Academies Press",
+        "publishedDate": "1990-01-01",
+        "description": "In Part I of Nutrition During Pregnancy, the authors call for revisions in recommended weight gains for pregnant women. They explore relationships between weight gain during pregnancy and a variety of factors (e.g., the mother's weight for height before pregnancy) and places this in the context of the health of the infant and the mother. They present specific target ranges for weight gain during pregnancy and guidelines for proper measurement. Part II addresses vitamin and mineral supplementation during pregnancy, examining the adequacy of diet in meeting nutrient needs during pregnancy and recommending specific amounts of supplements for special circumstances. It also covers the effects of caffeine, alcohol, cigarette, marijuana, and cocaine use and presents specific research recommendations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780309041386"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0309041384"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 481,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LqeAPnvQp2MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LqeAPnvQp2MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=LqeAPnvQp2MC&pg=PA120&dq=maternal+nutrition+during+pregnancy&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=LqeAPnvQp2MC&dq=maternal+nutrition+during+pregnancy&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nutrition_During_Pregnancy.html?hl=&id=LqeAPnvQp2MC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LqeAPnvQp2MC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Part I: Weight Gain, Part II: Nutrient Supplements Institute of Medicine, Committee on <b>Nutritional</b> Status <b>During Pregnancy</b> and Lactation. http://www.nap.edu/catalog/1451.html TOTAL AMOUNT AND PATTERN OF WEIGHT GAIN : PHYSIOLOGIC AND&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DVITWQNUmAwC",
+      "etag": "COuAPYnvHIo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DVITWQNUmAwC",
+      "volumeInfo": {
+        "title": "Maternal Nutrition and the Course of Pregnancy, Summary Report, 1975",
+        "authors": [
+          "United States. Community Health Services Bureau"
+        ],
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:30000010743528"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Mothers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DVITWQNUmAwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DVITWQNUmAwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=DVITWQNUmAwC&pg=PA8&dq=maternal+nutrition+during+pregnancy&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DVITWQNUmAwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DVITWQNUmAwC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=DVITWQNUmAwC&rdid=book-DVITWQNUmAwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.id/books/download/Maternal_Nutrition_and_the_Course_of_Pre.epub?id=DVITWQNUmAwC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DVITWQNUmAwC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... during World War II , when pregnant women were given special priority under the food - rationing policy , was most dramatic . During this period the stillbirth ... of 8 <b>Maternal Nutrition</b> and the Course <b>of Pregnancy</b> : Summary Report."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xN43EQAAQBAJ",
+      "etag": "DypkFfUCCps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xN43EQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Impact of Maternal Nutrition on the Offspring",
+        "subtitle": "55th Nestlé Nutrition Workshop, Pediatric Program, Beijing, April 2004",
+        "authors": [
+          "Gerard Hornstra",
+          "Ricardo Uauy",
+          "X. Yang"
+        ],
+        "publisher": "Karger Medical and Scientific Publishers",
+        "publishedDate": "2005",
+        "description": "Maternal nutritional status affects the offspring�s health development significantly during early embryogenesis, pregnancy, birth and lactation, and subsequently determines health during growth and even throughout adulthood. On the other end of the human lifetime scale, the importance of maternal nutrition expands into the time period before conception: Pre-conception nutritional status not only influences fertility, but also embryogenesis and life-long health. Predisposition for coronary heart diseases, Type-2 diabetes mellitus, and hypertension can be caused by intrauterine adaptations to fetal malnutrition. Hence, optimizing nutrition for women during their reproductive period can be expected to have a great impact on the well being of the next generation. This workshop dealt with the effects of maternal nutrition on fetal growth, metabolic programming, energy and nutrient requirements, as well as under- and over-nutrition during pregnancy. Finally, it addressed the question of whether a distinct diet during pregnancy could reduce food allergy in the progeny. This book is a valuable and complete source of knowledge for all professionals involved in pediatrics, nutrition policy, women�s health, immunology, epidemiology and public health.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783318011104"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "331801110X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xN43EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xN43EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=xN43EQAAQBAJ&pg=PA230&dq=maternal+nutrition+during+pregnancy&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=xN43EQAAQBAJ&dq=maternal+nutrition+during+pregnancy&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Impact_of_Maternal_Nutrition_on_the.html?hl=&id=xN43EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/The_Impact_of_Maternal_Nutrition_on_the-sample-pdf.acsm?id=xN43EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xN43EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Nutrition <b>during pregnancy</b> may be associ- ated with allergic disease in infants . J Nutr Sci Vitaminol 2002 ; 48 : 345-351 . 16 Hoppu U , Kalliomaki M , Isolauri E : <b>Maternal diet</b> rich in saturated fat during breastfeeding is&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2b_HDwAAQBAJ",
+      "etag": "TVMTO0knVsk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2b_HDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Nutrition During Pregnancy and Lactation",
+        "subtitle": "Implications for Maternal and Infant Health",
+        "authors": [
+          "Leanne M. Redman"
+        ],
+        "publisher": "MDPI",
+        "publishedDate": "2020-01-03",
+        "description": "Pregnancy is a viewed as a window to future health. With the birth of the developmental origins of human adult disease hypothesis, research and clinical practice has turned its attention to the influence of maternal factors such as health and lifestyle surrounding pregnancy as a means to understand and prevent the inter-generational inheritance of chronic disease susceptibility. Outcomes during pregnancy have long-lasting impacts on both women on children. Moreover, nutrition early in life can influence growth and the establishment of lifelong eating habits and behaviors. This Special Issue on “Nutrition during Pregnancy and Lactation: Implications for Maternal and Infant Health” is intended to highlight new epidemiological, mechanistic and interventional studies that investigate maternal nutrition around the pregnancy period on maternal and infant outcomes. Submissions may include original research, narrative reviews, and systematic reviews and meta-analyses.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783039280544"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3039280546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2b_HDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2b_HDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=2b_HDwAAQBAJ&pg=PA170&dq=maternal+nutrition+during+pregnancy&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=2b_HDwAAQBAJ&dq=maternal+nutrition+during+pregnancy&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nutrition_During_Pregnancy_and_Lactation.html?hl=&id=2b_HDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Nutrition_During_Pregnancy_and_Lactation-sample-pdf.acsm?id=2b_HDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2b_HDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Implications for Maternal and Infant Health Leanne M. Redman. Our study has several notable strengths, including the prospective cohort design with repeated measures of <b>maternal diet from pregnancy</b> through postpartum and infant growth from&nbsp;..."
+      }
+    }
+  ]
+}

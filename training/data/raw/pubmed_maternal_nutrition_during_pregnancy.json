@@ -1,0 +1,51 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "22856",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "41288063",
+      "41287187",
+      "41282546",
+      "41278392",
+      "41275173",
+      "41269716",
+      "41267513",
+      "41262735",
+      "41261882",
+      "41257763",
+      "41257712",
+      "41257440",
+      "41257226",
+      "41256926",
+      "41256505",
+      "41255696",
+      "41251690",
+      "41250989",
+      "41250953",
+      "41250044"
+    ],
+    "translationset": [
+      {
+        "from": "maternal nutrition",
+        "to": "\"maternal nutritional physiological phenomena\"[MeSH Terms] OR (\"maternal\"[All Fields] AND \"nutritional\"[All Fields] AND \"physiological\"[All Fields] AND \"phenomena\"[All Fields]) OR \"maternal nutritional physiological phenomena\"[All Fields] OR (\"maternal\"[All Fields] AND \"nutrition\"[All Fields]) OR \"maternal nutrition\"[All Fields]"
+      },
+      {
+        "from": "pregnancy",
+        "to": "\"pregnancy\"[MeSH Terms] OR \"pregnancy\"[All Fields] OR \"pregnancies\"[All Fields] OR \"pregnancy's\"[All Fields]"
+      }
+    ],
+    "querytranslation": "(\"maternal nutritional physiological phenomena\"[MeSH Terms] OR (\"maternal\"[All Fields] AND \"nutritional\"[All Fields] AND \"physiological\"[All Fields] AND \"phenomena\"[All Fields]) OR \"maternal nutritional physiological phenomena\"[All Fields] OR (\"maternal\"[All Fields] AND \"nutrition\"[All Fields]) OR \"maternal nutrition\"[All Fields]) AND (\"pregnancy\"[MeSH Terms] OR \"pregnancy\"[All Fields] OR \"pregnancies\"[All Fields] OR \"pregnancy s\"[All Fields])",
+    "warninglist": {
+      "phrasesignored": [
+        "during"
+      ],
+      "quotedphrasesnotfound": [],
+      "outputmessages": []
+    }
+  }
+}

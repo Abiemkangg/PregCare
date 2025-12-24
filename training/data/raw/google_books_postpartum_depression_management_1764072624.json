@@ -1,0 +1,393 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "11nhdcfAQqoC",
+      "etag": "YEtt574L3rM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/11nhdcfAQqoC",
+      "volumeInfo": {
+        "title": "The Melanie Blocker-Stokes Postpartum Depression Research and Health Care Act",
+        "subtitle": "Hearing Before the Subcommittee on Health of the Committee on Energy and Commerce, House of Representatives, One Hundred Tenth Congress, First Session, on H.R. 20, May 1, 2007",
+        "authors": [
+          "United States. Congress. House. Committee on Energy and Commerce. Subcommittee on Health"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000063516234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=11nhdcfAQqoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=11nhdcfAQqoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=11nhdcfAQqoC&pg=PA63&dq=postpartum+depression+management&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=11nhdcfAQqoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=11nhdcfAQqoC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=11nhdcfAQqoC&rdid=book-11nhdcfAQqoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.id/books/download/The_Melanie_Blocker_Stokes_Postpartum_De.epub?id=11nhdcfAQqoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=11nhdcfAQqoC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Administration</b> ( HRSA ) , announcing a publication entitled &quot; <b>Depression</b> During and After Pregnancy : A Resource for Women , Their Families , and Friends . &quot; This 20 page booklet can be downloaded in PDF format at www.mchb.hrsa.gov&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_hQ3EAAAQBAJ",
+      "etag": "HJrt1/b6QGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_hQ3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Managing Treatment-Resistant Depression",
+        "subtitle": "Road to Novel Therapeutics",
+        "authors": [
+          "Joao L. de Quevedo",
+          "Patricio Riva-Posse",
+          "William V. Bobo"
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2022-03-31",
+        "description": "Managing Treatment-Resistant Depression: Road to Novel Therapeutics defines TRD for readers, discussing the clinical and epidemiological predictors, economic burden and neurobiological factors. In addition, staging methods for treatment resistance are fully covered in this book, including serotonin specific reuptake inhibitors, serotonin norepinephrine reuptake inhibitors, other classes of antidepressants, including tricyclic antidepressants and monoamine oxidase inhibitors, augmentation strategies, and newer antidepressant treatments like ketamine and esketamine. In addition, evidence supporting the use of psychotherapies and neuromodulation strategies are also reviewed. Written by top experts in the field, this book is the first of its kind to review all methods of treatment for TRD. - Defines Treatment-Resistant Depression and Staging Treatment Intensity - Includes Treatment-Resistant Depression options for children, adolescents, geriatrics, during pregnancy, and during post-partum and menopause transitions - Discusses the use of Ketamine and Esketamine for treatment-resistant depression",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128240687"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0128240687"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 614,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_hQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_hQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=_hQ3EAAAQBAJ&pg=PA526&dq=postpartum+depression+management&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_hQ3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_hQ3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4630087,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 3241061,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_hQ3EAAAQBAJ&rdid=book-_hQ3EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4630087000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3241061000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Managing_Treatment_Resistant_Depression-sample-epub.acsm?id=_hQ3EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Managing_Treatment_Resistant_Depression-sample-pdf.acsm?id=_hQ3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_hQ3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... postpartum. depression. A small double - blind RCT found that women with severe <b>postpartum depression</b> treated with transdermal estradiol showed a ... <b>postpartum depression</b> Neuroactive steroids for the <b>treatment</b> of <b>postpartum depression</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "si3vDwAAQBAJ",
+      "etag": "3337XWzPqLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/si3vDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The 5-Minute Clinical Consult 2020",
+        "authors": [
+          "Sangeeta Sharma"
+        ],
+        "publisher": "Wolters kluwer india Pvt Ltd",
+        "publishedDate": "2019-12-15",
+        "description": "Over 250 diagnostic and treatment algorithms over 900 topics providing clinical guidance current evidence-based designations highlighted in each topic at-a-glance format with concise and bulleted text, ICD-10 codes, dsm-5criteria quick information to help in diagnosis, treatment selection and medication dosing easy-to-use reference at point of care providing quick answer to a direct clinical question.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789389702057"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9389702054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1374,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=si3vDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=si3vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=si3vDwAAQBAJ&pg=PA273&dq=postpartum+depression+management&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=si3vDwAAQBAJ&dq=postpartum+depression+management&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_5_Minute_Clinical_Consult_2020.html?hl=&id=si3vDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/The_5_Minute_Clinical_Consult_2020-sample-pdf.acsm?id=si3vDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=si3vDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sangeeta Sharma. D <b>DEPRESSION</b>, <b>TREATMENT</b> RESISTANT Editors: Pallavi Rajhans, MD • Koushik Sinha. <b>Depression</b>,. <b>Postpartum</b>. – Continuing an efficacious medication is preferred over switching antidepressants to avoid exposing the mother and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2C2MAwAAQBAJ",
+      "etag": "idGUCi/QAPY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2C2MAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The 5-Minute Clinical Consult 2014",
+        "authors": [
+          "Frank J. Domino",
+          "Robert A. Baldor"
+        ],
+        "publisher": "Lippincott Williams & Wilkins",
+        "publishedDate": "2013-05-20",
+        "description": "The 5-Minute Clinical Conult 2014 Standard Edition provides rapid-access in a quick-reference format. It delivers diagnosis, treatment, medications, follow-up, and associated factors for a broad range of diseases and conditions. Organized alphabetically by diagnosis, this best-selling clinical reference continues to present brief, bulleted information on disease topics in a consistent and reader-friendly three-column format.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451188509"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451188501"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1632,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2C2MAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2C2MAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=2C2MAwAAQBAJ&pg=PA335&dq=postpartum+depression+management&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=2C2MAwAAQBAJ&dq=postpartum+depression+management&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_5_Minute_Clinical_Consult_2014.html?hl=&id=2C2MAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/The_5_Minute_Clinical_Consult_2014-sample-pdf.acsm?id=2C2MAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2C2MAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Frank J. Domino, Robert A. Baldor. D <b>DEPRESSION</b>, <b>TREATMENT</b> RESISTANT D. <b>DEPRESSION</b>. ,. <b>POSTPARTUM</b>. Second Line Electroconvulsive therapy ( ECT ) : This is an option for <b>depressed postpartum</b> women who do not respond to antidepressant&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "URS44k2CSIgC",
+      "etag": "AWDKkayGhJI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/URS44k2CSIgC",
+      "volumeInfo": {
+        "title": "Cumulated Index Medicus",
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112042535085"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1822,
+        "printType": "BOOK",
+        "categories": [
+          "Medicine"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=URS44k2CSIgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=URS44k2CSIgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=URS44k2CSIgC&pg=PA6642&dq=postpartum+depression+management&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=URS44k2CSIgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=URS44k2CSIgC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=URS44k2CSIgC&rdid=book-URS44k2CSIgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.id/books/download/Cumulated_Index_Medicus.epub?id=URS44k2CSIgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=URS44k2CSIgC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Depression <b>management</b> programs [ letter ] Dietrich AJ . Arch Fam Med 2000 Aug ; 9 ( 8 ) : 689-70 The influence of ... <b>Postpartum depression</b> in the health area of Toledo , stimulation in the <b>treatment</b> of major depression . Berman RM&nbsp;..."
+      }
+    }
+  ]
+}

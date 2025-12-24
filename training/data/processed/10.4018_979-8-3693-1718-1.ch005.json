@@ -1,0 +1,15 @@
+{
+  "id": "10.4018/979-8-3693-1718-1.ch005",
+  "title": "Wearable Sensors and AI Algorithms for Monitoring Maternal Health",
+  "abstract": "<jats:p>Currently, sensors and artificial intelligence (AI) technology plays a vital role in almost all applications. These two technologies mainly have an impact on healthcare applications. Applications of these technologies are even more integral for maternal and child health, due to the fact maternal and baby fitness is integral for a healthful society. Wearable sensors are used in both monitoring and diagnosing health conditions. The AI algorithm is used for predicting the conditions of both mother and infant health. Here, the authors review the sensors and AI algorithms used in this health care field and analyze each method with its features, outcomes, and novel factors in chronological order. They have also included the methodologies used in the existing system, challenges as well as future work directions for researchers.</jats:p>",
+  "authors": [
+    "D. Sathya",
+    "S. P. Siddique Ibrahim",
+    "D. Jagadeesan"
+  ],
+  "year": 2023,
+  "doi": "10.4018/979-8-3693-1718-1.ch005",
+  "source": "crossref",
+  "raw_file": "crossref_AI_in_maternal_health_monitoring_1764074330.json",
+  "category": "postnatal"
+}

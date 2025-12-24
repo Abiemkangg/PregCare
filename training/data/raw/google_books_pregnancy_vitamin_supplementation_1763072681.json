@@ -1,0 +1,388 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Qt4QYzrGyvMC",
+      "etag": "4WScDwU/HBE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qt4QYzrGyvMC",
+      "volumeInfo": {
+        "title": "The New Harvard Guide to Women’s Health",
+        "authors": [
+          "Karen J. Carlson",
+          "Stephanie A. Eisenstat",
+          "Terra Diane Ziporyn"
+        ],
+        "publisher": "Harvard University Press",
+        "publishedDate": "2004-04-30",
+        "description": "With complete information on women's health concerns, physical and behavioral, this A-Z reference brings the topics up-to-date for a new generation of readers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0674012828"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780674012820"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 710,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qt4QYzrGyvMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qt4QYzrGyvMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=Qt4QYzrGyvMC&pg=PA411&dq=pregnancy+vitamin+supplementation&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=Qt4QYzrGyvMC&dq=pregnancy+vitamin+supplementation&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_New_Harvard_Guide_to_Women_s_Health.html?hl=&id=Qt4QYzrGyvMC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/The_New_Harvard_Guide_to_Women_s_Health-sample-pdf.acsm?id=Qt4QYzrGyvMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qt4QYzrGyvMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>vitamin</b> C ) • 2 servings of vegetables • 4 servings of whole grain products • 3 to 4 servings of dairy products or ... <b>Supplementation</b> is particularly important for women with a multiple <b>pregnancy</b> , as well as women with certain&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YOEV2w3XTxsC",
+      "etag": "yYmMND7xgdM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YOEV2w3XTxsC",
+      "volumeInfo": {
+        "title": "Drugs in Pregnancy and Lactation",
+        "subtitle": "A Reference Guide to Fetal and Neonatal Risk",
+        "authors": [
+          "Gerald G. Briggs",
+          "Roger K. Freeman",
+          "Sumner J. Yaffe"
+        ],
+        "publisher": "Lippincott Williams & Wilkins",
+        "publishedDate": "2008",
+        "description": "Featuring 127 new drug entries, the eighth edition of this popular reference provides practical, reliable information on more than 1,175 drugs that may be used by pregnant and lactating women.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "078177876X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780781778763"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 2152,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YOEV2w3XTxsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YOEV2w3XTxsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=YOEV2w3XTxsC&pg=PA1988&dq=pregnancy+vitamin+supplementation&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=YOEV2w3XTxsC&dq=pregnancy+vitamin+supplementation&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Drugs_in_Pregnancy_and_Lactation.html?hl=&id=YOEV2w3XTxsC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Drugs_in_Pregnancy_and_Lactation-sample-pdf.acsm?id=YOEV2w3XTxsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YOEV2w3XTxsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>vitamin supplement</b> during <b>pregnancy</b> to cleft lip or palate in man . Plast Reconstr Surg 1964 ; 33 : 395-9 . 7. Peer LA , Gordon HW , Bernhard WG . Effect of vi- tamins on human teratology . Plast Reconstr Surg 1964 ; 34 : 358-62 . 8&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KR0U4RRAH9wC",
+      "etag": "gvdfu2Q4pwM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KR0U4RRAH9wC",
+      "volumeInfo": {
+        "title": "Maternal-Fetal Evidence-Based Guidelines",
+        "authors": [
+          "Vincenzo Berghella"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2007-09-26",
+        "description": "Maternal-Fetal Medicine Evidence-Based Guidelines reviews the evidence for best practice in maternal-fetal medicine. It presents the reader with the right information, in the right format, by summarizing evidence in easy-to-use tables and algorithms. Each guideline is designed to \"make it easy to do it right\", with appropriate use of proven interventions and no use of harmful interventions. Plenty of evidence is available so that well-informed clinicians can reduce errors, so that the first aim is ultimately to improve the health of mother and fetus by providing quality care.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780203089644"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0203089642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KR0U4RRAH9wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KR0U4RRAH9wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=KR0U4RRAH9wC&pg=PA7&dq=pregnancy+vitamin+supplementation&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=KR0U4RRAH9wC&dq=pregnancy+vitamin+supplementation&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Maternal_Fetal_Evidence_Based_Guidelines.html?hl=&id=KR0U4RRAH9wC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Maternal_Fetal_Evidence_Based_Guidelines-sample-pdf.acsm?id=KR0U4RRAH9wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KR0U4RRAH9wC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>vitamin</b> C <b>supplementation</b> alone; the remaining trials used either a combination of <b>vitamin</b> C and <b>vitamin</b> E, or ... <b>pregnancy</b>. <b>Vitamin</b> D 1000 IU/day in the third trimester is associated with no consistent effect on incidence of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4pDuEAAAQBAJ",
+      "etag": "1rChO78MM18",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4pDuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Vitamins & Pregnancy: The Real Story",
+        "subtitle": "Your Orthomolecular Guide for Healthy Babies & Happy Moms",
+        "authors": [
+          "Helen Saul Case"
+        ],
+        "publisher": "Turner Publishing Company",
+        "publishedDate": "2016-03-08",
+        "description": "Vitamins are absolutely essential for a healthy pregnancy: before, during, and after. Expectant parents want healthy babies and to more easily navigate pregnancy’s many ups and downs. Problem is, standard prenatal vitamins don’t come close to meeting the needs of all women. Nutritional (orthomolecular) physicians have known this for decades. Many women would benefit from an abundance of nutrients during pregnancy and the advantages are clear: healthy babies and happy moms. Helen Saul Case has lifelong experience with nutritional medicine, having been born and raised with it her entire life. Still, she found pregnancy challenging, with new aches, pains, and amazing symptoms “I couldn’t have dreamed up if I tried.” It became all too clear that how to best use high doses of vitamins to safely and effectively address health issues was conspicuously absent from the scores of pregnancy health books out there. It’s time for a change! Vitamins & Pregnancy: The Real Story is a comprehensive, yet easily readable nutritional guide to optimal health—for both you and your baby that tackles the topics other pregnancy books don’t, including: • ?The many ways nutrition helps to ensure your baby’s best development in utero—with lifelong benefits for mother and child • ?How vitamin C helps prevent birth defects, postpartum hemorrhages, and even stretch marks; vitamin E helps prevent miscarriage; magnesium helps cramping legs and sore, aching backs; and extra vitamin B6 alleviates morning sickness—without a prescription! • Optimal vitamin and mineral intakes during pregnancy and breastfeeding • What the research says about efficacy and safety • ?Nutrition-based advice to help alleviate more than 35 pregnancy issues, from acid reflux and yeast infections, to postpartum challenges—including depression and losing weight",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781681626550"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1681626551"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4pDuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4pDuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=4pDuEAAAQBAJ&pg=PT298&dq=pregnancy+vitamin+supplementation&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=4pDuEAAAQBAJ&dq=pregnancy+vitamin+supplementation&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vitamins_Pregnancy_The_Real_Story.html?hl=&id=4pDuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Vitamins_Pregnancy_The_Real_Story-sample-epub.acsm?id=4pDuEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Vitamins_Pregnancy_The_Real_Story-sample-pdf.acsm?id=4pDuEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4pDuEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Pregnancy</b> . &quot; Arch Gynecol Obstet 273 ( 1 ) ( Nov 2005 ) : 12-6 . 142. Tara , F. , G. Maamouri , M.P. Rayman , et al . &quot; Selenium and Hyoertension Selenium <b>Supplementation</b> and the Incidence of Preeclampsia in <b>Pregnant</b> Iranian Women : A&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FMeVDwAAQBAJ",
+      "etag": "f7HzToPuWhc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FMeVDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Micronutrients Intake and Status during Pregnancy and Lactation",
+        "authors": [
+          " Louise Brough",
+          "Gail Rees"
+        ],
+        "publisher": "MDPI",
+        "publishedDate": "2019-04-29",
+        "description": "Optimal nutrition is important during pregnancy and lactation for the health of both the mother and infant. Chronic deficiencies of both macronutrients and micronutrients are well established in developing countries. Although in developed countries overconsumption of macronutrients is a major issue, micronutrient deficiencies which occur concomitantly are no less of a concern. Furthermore in developed countries there is also the risk of excessive micronutrient intake from dietary supplements. Micronutrients have a role in fetal and neonatal health and also health in later life. Micronutrient deficiency or toxicity during pregnancy or early life can permanently affect developing tissues, resulting in adverse growth and development of the infant which is associated with chronic diseases in adulthood. An aberrant micronutrient intake during pregnancy or lactation can also have detrimental effect on the mother both in the neonatal period and in later life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783038978404"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "303897840X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FMeVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FMeVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=FMeVDwAAQBAJ&pg=PA135&dq=pregnancy+vitamin+supplementation&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=FMeVDwAAQBAJ&dq=pregnancy+vitamin+supplementation&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Micronutrients_Intake_and_Status_during.html?hl=&id=FMeVDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Micronutrients_Intake_and_Status_during-sample-pdf.acsm?id=FMeVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FMeVDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>vitamin supplement</b> intake among females [30]. High intakes of <b>supplements</b> containing <b>vitamin</b> D were observed in our two cohorts of <b>pregnant</b> women where approximately 90% were taking <b>prenatal supplements</b>. <b>Vitamin</b> D <b>supplementation</b> is&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RjGAEAAAQBAJ",
+      "etag": "o+hoa4EkPNQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RjGAEAAAQBAJ",
+      "volumeInfo": {
+        "title": "New Technologies for Women’s Health",
+        "authors": [
+          "Lana McClements",
+          "Vesna Garovic",
+          "Dunja Aksentijevic"
+        ],
+        "publisher": "Frontiers Media SA",
+        "publishedDate": "2022-08-08",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782889767380"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2889767388"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RjGAEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RjGAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=RjGAEAAAQBAJ&pg=PA160&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=RjGAEAAAQBAJ&dq=fertility+and+menstrual+cycle+prediction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/New_Technologies_for_Women_s_Health.html?hl=&id=RjGAEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/New_Technologies_for_Women_s_Health-sample-pdf.acsm?id=RjGAEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RjGAEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fertility</b> in the <b>Menstrual Cycle</b>. Hum. Reprod. 17 (5), 1399–1403. doi:10.1093/humrep/17.5.1399 Frank-Herrmann, P ... <b>Prediction</b> of the fertile Window: Observational Study. J. Med. Internet Res. 21 (4), e13404. doi:10.2196/13404&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MYxDAAAAQBAJ",
+      "etag": "Ywe9NRYpnsw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MYxDAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Biennial Review of Infertility",
+        "subtitle": "Volume 3",
+        "authors": [
+          "Peter N. Schlegel",
+          "Bart C. Fauser",
+          "Douglas T. Carrell",
+          "Catherine Racowsky"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2013-06-04",
+        "description": "In this third volume, the Biennial Review of Infertility brings together the most up-to-date research and clinical information on male and female infertility, emerging assisted reproductive techniques, and controversial issues in reproductive medicine. An impressive panel of contributors presents cutting-edge information in a clear and well-balanced manner. This volume includes hot topics in reproductive medicine including age and its impact on fertility, lifestyle factors and reproductive health, fertility preservation for cancer patients, reproductive tourism and a discussion of clinical research design. The expanded section on controversies allows for point/counterpoint discussion between experts with differing opinions on topics like safety of the ICSI procedure and the role of IUI in modern reproductive medicine. Created to provide an ongoing appraisal of current knowledge, the Biennial Review of Infertility stimulates communication amongst all those working to help couples resolve their infertility.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781461471875"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1461471877"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 269,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MYxDAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MYxDAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=MYxDAAAAQBAJ&pg=PA66&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MYxDAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MYxDAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2177132,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1523992,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MYxDAAAAQBAJ&rdid=book-MYxDAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2177132000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1523992000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Biennial_Review_of_Infertility-sample-epub.acsm?id=MYxDAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Biennial_Review_of_Infertility-sample-pdf.acsm?id=MYxDAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MYxDAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>menstrual cycle</b> from 5,354 women in U.S. <b>fertility</b> centers. Fertil Steril. 2012;98(4):1037–42. 39. Nilsson EE ... <b>prediction</b> of ovarian reserve. Fertil Steril. 2008;90(3):737–43. 55. Nelson SM, Lawlor DA. Predicting live birth&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MuuH4AcLgWQC",
+      "etag": "V5F86aoeWZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MuuH4AcLgWQC",
+      "volumeInfo": {
+        "title": "CRISP Thesaurus",
+        "publishedDate": "1989",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:30000010686958"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 804,
+        "printType": "BOOK",
+        "categories": [
+          "Subject headings"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MuuH4AcLgWQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MuuH4AcLgWQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=MuuH4AcLgWQC&pg=PA255&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MuuH4AcLgWQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MuuH4AcLgWQC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=MuuH4AcLgWQC&rdid=book-MuuH4AcLgWQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.id/books/download/CRISP_Thesaurus.epub?id=MuuH4AcLgWQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MuuH4AcLgWQC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "1138 4561 SA <b>FERTILITY</b> - <b>INFERTILITY</b> , GERM CELLS CELL DIVISION , MEIOSIS SA <b>FERTILITY</b> - <b>INFERTILITY</b> , EGG SA ... <b>MENSTRUAL CYCLE</b> X LUTEAL PHASE X <b>MENSTRUAL CYCLE</b> X MENSTRUATION AND <b>MENSTRUAL CYCLE</b> XX REPRODUCTIVE SYSTEM FEMALE XX&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eRLREAAAQBAJ",
+      "etag": "5I4a/J8271k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eRLREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ovarian Aging",
+        "authors": [
+          "Shixuan Wang"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2023-08-14",
+        "description": "Ovarian aging is a core factor in female aging, leading not only to reduced reproductive function such as infertility, recurrent pregnancy loss and congenital anomalies, but also to perimenopausal syndromes, genitourinary syndrome of menopause and related diseases (osteoporosis, cognitive disorders, cardiovascular disease, etc.). This book comprehensively presents the latest research progress of ovarian aging worldwide, and systematically explain the mechanism of the rise and fall of ovarian function. It will be a valuable reference for gynecologists and practitioner working in ovarian aging.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789811988486"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "981198848X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 293,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eRLREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eRLREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=eRLREAAAQBAJ&pg=PA189&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eRLREAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eRLREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2177132,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1523992,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eRLREAAAQBAJ&rdid=book-eRLREAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2177132000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1523992000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Ovarian_Aging-sample-epub.acsm?id=eRLREAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Ovarian_Aging-sample-pdf.acsm?id=eRLREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eRLREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... cycle, duration of <b>menstrual period</b>, and time to <b>pregnancy</b> (TTP). A total of 391,320 rural fertile women were followed up, and women with menarche in the ... <b>Prediction</b> of Reproductive Potential 6.3.2.1 Age 6.3.2.2 Menstrual Changes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XU1sMK1djVAC",
+      "etag": "eH4GSDi4EFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XU1sMK1djVAC",
+      "volumeInfo": {
+        "title": "Nonprescription Product Therapeutics",
+        "authors": [
+          "W. Steven Pray"
+        ],
+        "publisher": "Lippincott Williams & Wilkins",
+        "publishedDate": "2006",
+        "description": "When it comes to helping customers make wiser and safer choices in their use of over-the-counter treatments, the pharmacist's best source of information is Nonprescription Product Therapeutics. This text emphasizes the pharmacist's role in triage--assessing the best nonprescription products for a client and knowing when medical conditions warrant a referral to another health professional. Organized by condition rather than by drug, the text is easy to consult, and complements a disease-based approach to therapeutics. Pharmacists will find useful information on ingredients, interactions, contraindications, and other essentials for helping customers choose appropriate nonprescription products. The Second Edition contains additional charts, drawings, illustrations, and tables. The book includes decision-making algorithms, case studies, patient counseling tips, and warnings on dangerous or life-threatening ingredients, actions, or situations. Another unique feature of this text is A Pharmacist's Journal--real-life reports from the front lines by an award-winning professor and researcher with over twenty years of experience in retail community pharmacy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0781734983"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780781734981"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 974,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.8.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XU1sMK1djVAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XU1sMK1djVAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=XU1sMK1djVAC&pg=PA783&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=XU1sMK1djVAC&dq=fertility+and+menstrual+cycle+prediction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nonprescription_Product_Therapeutics.html?hl=&id=XU1sMK1djVAC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Nonprescription_Product_Therapeutics-sample-pdf.acsm?id=XU1sMK1djVAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XU1sMK1djVAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Fertility Fertility</b> declines with age . After age 30 the female slowly loses the ability to conceive . Etiology of ... <b>menstrual</b> flow , which may result from stress , diet , or athletic training . Examples of female problems that&nbsp;..."
+      }
+    }
+  ]
+}

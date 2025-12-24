@@ -1,0 +1,680 @@
+2025-11-28 01:55:00,383 - INFO - Use pytorch device_name: cpu
+2025-11-28 01:55:00,383 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 01:55:06,538 - INFO - ✅ Database health check passed
+2025-11-28 01:55:06,538 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 01:55:06,667 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 01:56:06,896 - INFO - Use pytorch device_name: cpu
+2025-11-28 01:56:06,896 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 01:56:12,310 - INFO - ✅ Database health check passed
+2025-11-28 01:56:12,310 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 01:56:12,405 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 01:57:37,621 - INFO - Use pytorch device_name: cpu
+2025-11-28 01:57:37,621 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 01:57:43,369 - INFO - ✅ Database health check passed
+2025-11-28 01:57:43,371 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 01:57:43,664 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 01:57:43,763 - INFO - Use pytorch device_name: cpu
+2025-11-28 01:57:43,763 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 01:58:23,138 - INFO - Use pytorch device_name: cpu
+2025-11-28 01:58:23,143 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 01:58:27,810 - INFO - ✅ Database health check passed
+2025-11-28 01:58:27,810 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 01:58:27,895 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 01:58:27,942 - INFO - Use pytorch device_name: cpu
+2025-11-28 01:58:27,943 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 01:58:57,645 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 01:58:57,649 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-11-28 01:58:58,272 - INFO - ⚡ Cache hit! Similarity: 0.924
+2025-11-28 02:00:01,216 - INFO - 📝 Processing question: apakah kesuburan lelaki mengaruh pada pembuahan...
+2025-11-28 02:00:01,486 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 02:00:01,487 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 02:00:01,488 - ERROR - ❗ LLM generation failed: 'Client' object has no attribute 'generate'
+2025-11-28 02:00:16,432 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-11-28 02:00:16,511 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 02:00:16,511 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 02:00:16,512 - ERROR - ❗ LLM generation failed: 'Client' object has no attribute 'generate'
+2025-11-28 02:01:00,216 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-11-28 02:01:00,307 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 02:01:00,307 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 02:01:00,308 - ERROR - ❗ LLM generation failed: 'Client' object has no attribute 'generate'
+2025-11-28 02:05:01,957 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:05:01,957 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:05:08,183 - INFO - ✅ Database health check passed
+2025-11-28 02:05:08,183 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:05:08,324 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:05:08,376 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:05:08,377 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:07:12,335 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:07:12,335 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:07:16,943 - INFO - ✅ Database health check passed
+2025-11-28 02:07:16,943 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:07:17,029 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:07:17,076 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:07:17,076 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:09:04,182 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:09:04,182 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:09:10,332 - INFO - ✅ Database health check passed
+2025-11-28 02:09:10,332 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:09:10,524 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:09:10,575 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:09:10,575 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:12:02,520 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:12:02,523 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:12:07,534 - INFO - ✅ Database health check passed
+2025-11-28 02:12:07,535 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:12:07,607 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:12:07,651 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:12:07,651 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:13:40,132 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:13:40,132 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:13:45,621 - INFO - ✅ Database health check passed
+2025-11-28 02:13:45,621 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:13:45,745 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:13:45,807 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:13:45,807 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:14:37,509 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:14:37,509 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:14:43,612 - INFO - ✅ Database health check passed
+2025-11-28 02:14:43,612 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:14:43,691 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:14:43,737 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:14:43,737 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:15:58,597 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 02:15:58,602 - INFO - 📝 Processing question: Apa makanan baik untuk ibu hamil?...
+2025-11-28 02:15:58,656 - INFO - ⚡ Cache hit! Similarity: 0.870
+2025-11-28 02:18:31,600 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:18:31,600 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:18:36,746 - INFO - ✅ Database health check passed
+2025-11-28 02:18:36,747 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:18:36,885 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:18:36,963 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:18:36,963 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:35:48,620 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:35:48,621 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:35:54,088 - INFO - ✅ Database health check passed
+2025-11-28 02:35:54,088 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:35:54,242 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:35:54,399 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:35:54,399 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:41:26,811 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:41:26,811 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:41:32,561 - INFO - ✅ Database health check passed
+2025-11-28 02:41:32,561 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:41:32,642 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:41:32,681 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:41:32,684 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:44:22,118 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:44:22,118 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:44:27,389 - INFO - ✅ Database health check passed
+2025-11-28 02:44:27,389 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:44:27,517 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:44:27,565 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:44:27,568 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:45:05,685 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 02:45:05,685 - INFO - 📝 Processing question: Apa yang menyebabkan kelahiran prematur?...
+2025-11-28 02:45:53,681 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-11-28 02:45:58,694 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 02:45:58,694 - INFO - 📝 Processing question: Apa saja makanan yang baik untuk ibu hamil?...
+2025-11-28 02:47:43,458 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:47:43,459 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:47:48,814 - INFO - ✅ Database health check passed
+2025-11-28 02:47:48,814 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:47:48,912 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:47:48,953 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:47:48,953 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:48:10,407 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 02:48:10,407 - INFO - 📝 Processing question: Apa saja makanan yang baik untuk ibu hamil?...
+2025-11-28 02:48:10,432 - INFO - ⚡ Cache hit! Similarity: 0.909
+2025-11-28 02:48:28,880 - INFO - 📝 Processing question: Bagaimana cara mengatasi morning sickness?...
+2025-11-28 02:48:29,012 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 02:48:29,012 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 02:48:29,012 - ERROR - ❗ LLM generation failed: 'Client' object has no attribute 'generate'
+2025-11-28 02:50:01,434 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:50:01,434 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:50:06,408 - INFO - ✅ Database health check passed
+2025-11-28 02:50:06,410 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:50:06,510 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:50:06,557 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:50:06,557 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:50:12,069 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-11-28 02:50:24,758 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 02:50:24,779 - INFO - 📝 Processing question: Bagaimana cara mengatasi morning sickness?...
+2025-11-28 02:50:24,872 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 02:50:24,872 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 02:50:24,875 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 02:50:28,224 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 02:50:28,228 - INFO - ✅ Answer generated in 3.45s
+2025-11-28 02:51:44,430 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:51:44,430 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:51:49,666 - INFO - ✅ Database health check passed
+2025-11-28 02:51:49,667 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:51:49,926 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:51:50,018 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:51:50,020 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:51:55,788 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-11-28 02:53:23,748 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:53:23,748 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:53:28,680 - INFO - ✅ Database health check passed
+2025-11-28 02:53:28,680 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 02:53:28,797 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 02:53:28,845 - INFO - Use pytorch device_name: cpu
+2025-11-28 02:53:28,845 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 02:53:35,345 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-11-28 02:53:59,290 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 02:53:59,331 - INFO - 📝 Processing question: Apa itu anemia?...
+2025-11-28 02:53:59,509 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 02:53:59,512 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 02:53:59,512 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 02:54:03,394 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 02:54:03,399 - INFO - ✅ Answer generated in 4.07s
+2025-11-28 02:58:06,301 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 02:58:06,838 - INFO - 📝 Processing question: Apa saja makanan yang baik untuk ibu hamil?...
+2025-11-28 02:58:06,856 - INFO - ⚡ Cache hit! Similarity: 0.909
+2025-11-28 02:58:32,083 - INFO - 📝 Processing question: Apa saja makanan yang baik untuk ibu hamil?...
+2025-11-28 02:58:32,098 - INFO - ⚡ Cache hit! Similarity: 0.909
+2025-11-28 02:59:11,685 - INFO - 📝 Processing question: Berapa lama masa kehamilan normal?...
+2025-11-28 02:59:11,979 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 02:59:11,979 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 02:59:11,983 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 02:59:13,906 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 02:59:13,924 - INFO - ✅ Answer generated in 2.24s
+2025-11-28 02:59:20,211 - INFO - 📝 Processing question: Berapa lama masa kehamilan normal?...
+2025-11-28 02:59:20,227 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-11-28 03:00:45,096 - INFO - 📝 Processing question: Apa tanda-tanda persalinan yang akan dimulai?...
+2025-11-28 03:00:45,273 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 03:00:45,273 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 03:00:45,275 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 03:00:49,254 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 03:00:49,268 - INFO - ✅ Answer generated in 4.17s
+2025-11-28 03:01:00,765 - INFO - 📝 Processing question: Vitamin apa yang penting untuk ibu hamil?...
+2025-11-28 03:01:00,894 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 03:01:00,894 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 03:01:00,895 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 03:01:03,524 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 03:01:03,525 - INFO - ✅ Answer generated in 2.76s
+2025-11-28 03:01:14,803 - INFO - 📝 Processing question: Apa saja makanan yang baik untuk ibu hamil?...
+2025-11-28 03:01:14,820 - INFO - ⚡ Cache hit! Similarity: 0.909
+2025-11-28 03:01:55,653 - INFO - 📝 Processing question: Apa saja makanan yang baik untuk ibu hamil?...
+2025-11-28 03:01:55,667 - INFO - ⚡ Cache hit! Similarity: 0.909
+2025-11-28 03:17:15,958 - INFO - Use pytorch device_name: cpu
+2025-11-28 03:17:15,958 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 03:17:22,626 - INFO - ✅ Database health check passed
+2025-11-28 03:17:22,627 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 03:17:22,738 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 03:17:22,790 - INFO - Use pytorch device_name: cpu
+2025-11-28 03:17:22,790 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 03:17:29,240 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-11-28 03:18:55,657 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 03:18:56,223 - INFO - 📝 Processing question: Apa yang menyebabkan kelahiran prematur?...
+2025-11-28 03:18:56,244 - INFO - ⚡ Cache hit! Similarity: 0.939
+2025-11-28 03:19:08,603 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-11-28 03:19:08,758 - INFO - ⚡ Cache hit! Similarity: 0.924
+2025-11-28 03:19:48,545 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 03:19:48,622 - INFO - 📝 Processing question: Test koneksi dari frontend...
+2025-11-28 03:19:49,196 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 03:19:49,196 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 03:19:49,201 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 03:19:50,382 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-28 03:19:50,398 - ERROR - ❌ GenAI API call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-28 03:19:50,889 - ERROR - ❗ LLM generation failed: Failed to generate answer: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-28 03:20:47,526 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-11-28 03:20:47,668 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 03:20:47,668 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 03:20:47,669 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 03:20:52,716 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 03:20:52,746 - INFO - ✅ Answer generated in 5.22s
+2025-11-28 03:22:35,295 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-11-28 03:22:35,317 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-11-28 03:26:00,489 - INFO - Use pytorch device_name: cpu
+2025-11-28 03:26:00,490 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 03:26:06,236 - INFO - ✅ Database health check passed
+2025-11-28 03:26:06,237 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 03:26:06,373 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 03:26:06,419 - INFO - Use pytorch device_name: cpu
+2025-11-28 03:26:06,422 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 03:26:14,104 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-11-28 03:26:35,962 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 03:26:36,018 - INFO - 📝 Processing question: Apa makanan yang baik untuk ibu hamil trimester pertama?...
+2025-11-28 03:26:36,045 - INFO - ⚡ Cache hit! Similarity: 0.911
+2025-11-28 04:39:31,327 - INFO - Use pytorch device_name: cpu
+2025-11-28 04:39:31,337 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 04:39:37,047 - INFO - ✅ Database health check passed
+2025-11-28 04:39:37,047 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 04:39:37,139 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 04:39:37,181 - INFO - Use pytorch device_name: cpu
+2025-11-28 04:39:37,181 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 04:39:42,733 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-11-28 04:39:55,980 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 04:39:55,980 - INFO - Conversation history cleared
+2025-11-28 04:39:55,980 - INFO - Conversation history cleared
+2025-11-28 04:39:59,886 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 04:39:59,886 - INFO - 📝 Processing question: Kenapa bayi prematur bisa terjadi?...
+2025-11-28 04:40:00,699 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 04:40:00,699 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 04:40:00,699 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 04:40:03,739 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 04:40:03,742 - INFO - ✅ Answer generated in 3.86s
+2025-11-28 04:40:03,936 - INFO - 📝 Processing question: Apa saja gejala anemia pada ibu hamil?...
+2025-11-28 04:40:04,008 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 04:40:04,008 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 04:40:04,008 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 04:40:06,625 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 04:40:06,630 - INFO - ✅ Answer generated in 2.69s
+2025-11-28 04:40:22,745 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 04:40:22,770 - INFO - 📝 Processing question: Apa penyebab kelahiran prematur?...
+2025-11-28 04:40:22,850 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 04:40:22,850 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 04:40:22,850 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 04:40:25,501 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 04:40:25,501 - INFO - ✅ Answer generated in 2.73s
+2025-11-28 04:40:25,538 - INFO - 📝 Processing question: Gejala anemia pada ibu hamil apa saja?...
+2025-11-28 04:40:25,552 - INFO - ⚡ Cache hit! Similarity: 0.991
+2025-11-28 04:40:25,572 - INFO - 📝 Processing question: Makanan apa yang bagus untuk ibu hamil?...
+2025-11-28 04:40:25,650 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 04:40:25,650 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 04:40:25,650 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 04:40:28,049 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 04:40:28,050 - INFO - ✅ Answer generated in 2.48s
+2025-11-28 04:40:28,085 - INFO - 📝 Processing question: Kenapa ibu hamil sering mual?...
+2025-11-28 04:40:28,166 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 04:40:28,166 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 04:40:28,166 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 04:40:30,565 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 04:40:30,565 - INFO - ✅ Answer generated in 2.48s
+2025-11-28 04:40:46,508 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 04:40:46,528 - INFO - 📝 Processing question: Apa penyebab kelahiran prematur?...
+2025-11-28 04:40:46,549 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-11-28 04:40:46,570 - INFO - 📝 Processing question: Gejala anemia pada ibu hamil...
+2025-11-28 04:40:46,583 - INFO - ⚡ Cache hit! Similarity: 0.927
+2025-11-28 04:40:46,604 - INFO - 📝 Processing question: Makanan untuk bumil trimester 1...
+2025-11-28 04:40:46,675 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 04:40:46,675 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 04:40:46,675 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 04:40:49,240 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 04:40:49,240 - INFO - ✅ Answer generated in 2.64s
+2025-11-28 04:40:49,275 - INFO - 📝 Processing question: Kenapa sering mual saat hamil?...
+2025-11-28 04:40:49,290 - INFO - ⚡ Cache hit! Similarity: 0.920
+2025-11-28 04:40:56,002 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 04:40:56,025 - INFO - 📝 Processing question: Apa penyebab kelahiran prematur?...
+2025-11-28 04:40:56,043 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-11-28 04:40:56,061 - INFO - 📝 Processing question: Gejala anemia saat hamil...
+2025-11-28 04:40:56,139 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 04:40:56,139 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 04:40:56,139 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 04:40:59,154 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 04:40:59,154 - INFO - ✅ Answer generated in 3.09s
+2025-11-28 04:41:03,162 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 04:41:03,182 - INFO - 📝 Processing question: Kenapa bayi prematur?...
+2025-11-28 04:41:03,194 - INFO - ⚡ Cache hit! Similarity: 0.871
+2025-11-28 04:41:38,940 - INFO - Conversation history cleared
+2025-11-28 04:41:38,942 - INFO - Conversation history cleared
+2025-11-28 04:41:41,117 - INFO - Conversation history cleared
+2025-11-28 04:41:41,119 - INFO - Conversation history cleared
+2025-11-28 04:41:44,784 - INFO - 📝 Processing question: Apa yang menyebabkan kelahiran prematur?...
+2025-11-28 04:41:44,794 - INFO - ⚡ Cache hit! Similarity: 0.871
+2025-11-28 04:41:53,849 - INFO - 📝 Processing question: Apa yang menyebabkan kelahiran prematur?...
+2025-11-28 04:41:53,864 - INFO - ⚡ Cache hit! Similarity: 0.871
+2025-11-28 04:44:55,754 - INFO - Conversation history cleared
+2025-11-28 04:44:55,785 - INFO - Conversation history cleared
+2025-11-28 13:38:05,999 - INFO - Use pytorch device_name: cpu
+2025-11-28 13:38:05,999 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 13:38:12,159 - INFO - ✅ Database health check passed
+2025-11-28 13:38:12,159 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-11-28 13:38:12,319 - INFO - ✅ PGVector retriever created successfully
+2025-11-28 13:38:12,370 - INFO - Use pytorch device_name: cpu
+2025-11-28 13:38:12,370 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-28 13:38:18,144 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-11-28 13:42:06,976 - INFO - ConversationHistory initialized with max_history=10
+2025-11-28 13:42:06,981 - INFO - Conversation history cleared
+2025-11-28 13:42:06,992 - INFO - Conversation history cleared
+2025-11-28 13:43:01,720 - INFO - 📝 Processing question: apakah benar obat postinor dapat menggugurkan janin...
+2025-11-28 13:43:02,025 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 13:43:02,025 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 13:43:02,030 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 13:43:04,985 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 13:43:05,004 - INFO - ✅ Answer generated in 3.28s
+2025-11-28 13:44:45,828 - INFO - Conversation history cleared
+2025-11-28 13:44:45,831 - INFO - Conversation history cleared
+2025-11-28 13:45:58,631 - INFO - 📝 Processing question: apakah nanas muda bisa menggugurkan kandungan...
+2025-11-28 13:45:58,719 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 13:45:58,719 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 13:45:58,719 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 13:46:01,415 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 13:46:01,418 - INFO - ✅ Answer generated in 2.79s
+2025-11-28 13:46:17,205 - INFO - 📝 Processing question: kalau soda?...
+2025-11-28 13:46:17,277 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 13:46:17,278 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 13:46:17,278 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 13:46:19,727 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 13:46:19,728 - INFO - ✅ Answer generated in 2.52s
+2025-11-28 13:46:55,229 - INFO - 📝 Processing question: gimana cara menangkap maling...
+2025-11-28 13:46:55,301 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 13:46:55,301 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 13:46:55,304 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 13:46:57,678 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 13:46:57,678 - INFO - ✅ Answer generated in 2.45s
+2025-11-28 13:47:29,278 - INFO - Conversation history cleared
+2025-11-28 14:16:35,422 - INFO - Conversation history cleared
+2025-11-28 14:16:35,432 - INFO - Conversation history cleared
+2025-11-28 14:16:39,724 - INFO - Conversation history cleared
+2025-11-28 14:16:41,375 - INFO - Conversation history cleared
+2025-11-28 14:18:04,405 - INFO - Conversation history cleared
+2025-11-28 14:18:04,407 - INFO - Conversation history cleared
+2025-11-28 14:20:56,884 - INFO - Conversation history cleared
+2025-11-28 14:20:56,915 - INFO - Conversation history cleared
+2025-11-28 14:21:52,650 - INFO - 📝 Processing question: apakah saya boleh memakan seblak pada saat mens...
+2025-11-28 14:21:52,803 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 14:21:52,803 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 14:21:52,803 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 14:21:55,859 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 14:21:55,874 - INFO - ✅ Answer generated in 3.22s
+2025-11-28 14:23:00,364 - INFO - 📝 Processing question: tetapi pada saaat saya makan perut saya kram pakah boleh lanjut makan...
+2025-11-28 14:23:00,446 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 14:23:00,446 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 14:23:00,454 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 14:23:02,836 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 14:23:02,841 - INFO - ✅ Answer generated in 2.48s
+2025-11-28 14:31:53,599 - INFO - Conversation history cleared
+2025-11-28 14:31:53,607 - INFO - Conversation history cleared
+2025-11-28 14:32:01,534 - INFO - Conversation history cleared
+2025-11-28 14:32:01,534 - INFO - Conversation history cleared
+2025-11-28 14:33:14,573 - INFO - Conversation history cleared
+2025-11-28 14:33:14,577 - INFO - Conversation history cleared
+2025-11-28 14:34:04,238 - INFO - 📝 Processing question: apakah nanas muda dapat menggugurkan janin...
+2025-11-28 14:34:04,248 - INFO - ⚡ Cache hit! Similarity: 0.853
+2025-11-28 14:34:47,601 - INFO - 📝 Processing question: di indonesia terdapat agama apa saja...
+2025-11-28 14:34:47,704 - INFO - ✅ Retrieved 0 documents from database
+2025-11-28 14:34:47,705 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-11-28 14:34:47,705 - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 14:34:49,663 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-28 14:34:49,663 - INFO - ✅ Answer generated in 2.06s
+2025-12-06 00:03:24,237 - INFO - Use pytorch device_name: cpu
+2025-12-06 00:03:24,237 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-06 00:03:29,897 - INFO - ✅ Database health check passed
+2025-12-06 00:03:29,897 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-06 00:03:30,046 - INFO - ✅ PGVector retriever created successfully
+2025-12-06 00:03:30,100 - INFO - Use pytorch device_name: cpu
+2025-12-06 00:03:30,100 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-06 00:03:35,680 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-06 00:03:57,636 - INFO - ConversationHistory initialized with max_history=10
+2025-12-06 00:03:57,643 - INFO - Conversation history cleared
+2025-12-06 00:03:57,643 - INFO - Conversation history cleared
+2025-12-06 00:04:20,903 - INFO - 📝 Processing question: apa saja agama yang ada di indonesia...
+2025-12-06 00:04:21,259 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:04:21,259 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:04:21,259 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-06 00:04:23,938 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-12-06 00:04:23,942 - INFO - ✅ Answer generated in 3.04s
+2025-12-06 00:07:32,436 - INFO - Use pytorch device_name: cpu
+2025-12-06 00:07:32,436 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-06 00:07:38,334 - INFO - ✅ Database health check passed
+2025-12-06 00:07:38,334 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-06 00:07:38,436 - INFO - ✅ PGVector retriever created successfully
+2025-12-06 00:07:38,478 - INFO - Use pytorch device_name: cpu
+2025-12-06 00:07:38,478 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-06 00:07:44,486 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-06 00:08:10,868 - INFO - ConversationHistory initialized with max_history=10
+2025-12-06 00:08:10,868 - INFO - Conversation history cleared
+2025-12-06 00:08:10,868 - INFO - Conversation history cleared
+2025-12-06 00:08:21,294 - INFO - 📝 Processing question: ada berapa agama di indonesia...
+2025-12-06 00:08:21,314 - INFO - ⚡ Cache hit! Similarity: 0.879
+2025-12-06 00:08:31,729 - INFO - Conversation history cleared
+2025-12-06 00:08:31,730 - INFO - Conversation history cleared
+2025-12-06 00:08:48,915 - INFO - 📝 Processing question: apa saja agama di insonesia...
+2025-12-06 00:08:49,041 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:08:49,041 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:08:49,043 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-06 00:08:50,296 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-12-06 00:08:50,301 - INFO - ✅ Answer generated in 1.39s
+2025-12-06 00:09:17,392 - INFO - 📝 Processing question: ada berapa agama di indonesia...
+2025-12-06 00:09:17,406 - INFO - ⚡ Cache hit! Similarity: 0.879
+2025-12-06 00:09:35,314 - INFO - Conversation history cleared
+2025-12-06 00:09:35,317 - INFO - Conversation history cleared
+2025-12-06 00:09:43,934 - INFO - 📝 Processing question: ada berapa agama di indonesia...
+2025-12-06 00:09:43,947 - INFO - ⚡ Cache hit! Similarity: 0.879
+2025-12-06 00:14:43,934 - INFO - Conversation history cleared
+2025-12-06 00:14:43,943 - INFO - Conversation history cleared
+2025-12-06 00:15:03,723 - INFO - 📝 Processing question: apa saja agama yang ada di indonesia...
+2025-12-06 00:15:03,734 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-12-06 00:15:09,293 - INFO - Conversation history cleared
+2025-12-06 00:15:09,294 - INFO - Conversation history cleared
+2025-12-06 00:15:18,458 - INFO - 📝 Processing question: apa aja agama yang ada di indonesia...
+2025-12-06 00:15:18,472 - INFO - ⚡ Cache hit! Similarity: 0.981
+2025-12-06 00:19:54,697 - INFO - Use pytorch device_name: cpu
+2025-12-06 00:19:54,697 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-06 00:20:00,725 - INFO - ✅ Database health check passed
+2025-12-06 00:20:00,725 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-06 00:20:00,834 - INFO - ✅ PGVector retriever created successfully
+2025-12-06 00:20:00,885 - INFO - Use pytorch device_name: cpu
+2025-12-06 00:20:00,885 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-06 00:20:06,849 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-06 00:20:18,232 - INFO - ConversationHistory initialized with max_history=10
+2025-12-06 00:20:18,232 - INFO - Conversation history cleared
+2025-12-06 00:20:18,235 - INFO - Conversation history cleared
+2025-12-06 00:20:27,128 - INFO - 📝 Processing question: apa aja agama di indonesia...
+2025-12-06 00:20:27,542 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:20:27,542 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:20:27,544 - INFO - ❌ Question REJECTED: 'apa aja agama di indonesia' (forbidden=True, no_pregnancy_kw=True)
+2025-12-06 00:20:41,020 - INFO - 📝 Processing question: apa saja makanan makanan yang sehat...
+2025-12-06 00:20:41,101 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:20:41,101 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:20:41,103 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa saja makanan makanan yang sehat
+2025-12-06 00:20:41,103 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-06 00:20:43,384 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-12-06 00:20:43,389 - INFO - ✅ Answer generated in 2.37s
+2025-12-06 00:22:44,208 - INFO - Conversation history cleared
+2025-12-06 00:22:44,210 - INFO - Conversation history cleared
+2025-12-06 00:23:35,164 - INFO - 📝 Processing question: tutorial bermain game...
+2025-12-06 00:23:35,279 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:23:35,279 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:23:35,279 - INFO - ❌ Question REJECTED: 'tutorial bermain game' (forbidden=True, no_pregnancy_kw=True)
+2025-12-06 00:24:13,682 - INFO - 📝 Processing question: cara bermain...
+2025-12-06 00:24:13,756 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:24:13,756 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:24:13,756 - INFO - ❌ Question REJECTED: 'cara bermain' (forbidden=False, no_pregnancy_kw=True)
+2025-12-06 00:24:34,768 - INFO - 📝 Processing question: spot yang enak buat pasangan...
+2025-12-06 00:24:34,848 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:24:34,849 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:24:34,849 - INFO - ✅ Question ACCEPTED (pregnancy-related): spot yang enak buat pasangan
+2025-12-06 00:24:34,851 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-06 00:24:35,866 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-12-06 00:24:35,871 - INFO - ✅ Answer generated in 1.10s
+2025-12-06 00:25:04,719 - INFO - 📝 Processing question: cara untuk mendapatkan anak laki laki...
+2025-12-06 00:25:04,789 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:25:04,789 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:25:04,789 - INFO - ✅ Question ACCEPTED (pregnancy-related): cara untuk mendapatkan anak laki laki
+2025-12-06 00:25:04,791 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-06 00:25:07,390 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-12-06 00:25:07,392 - INFO - ✅ Answer generated in 2.67s
+2025-12-06 00:25:59,222 - INFO - 📝 Processing question: cara mendapatkan anak perempuan...
+2025-12-06 00:25:59,309 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:25:59,309 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:25:59,309 - INFO - ✅ Question ACCEPTED (pregnancy-related): cara mendapatkan anak perempuan
+2025-12-06 00:25:59,311 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-06 00:26:01,709 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-12-06 00:26:01,711 - INFO - ✅ Answer generated in 2.49s
+2025-12-06 00:26:21,038 - INFO - 📝 Processing question: cara menentukan anak itu  kembar...
+2025-12-06 00:26:21,112 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:26:21,112 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:26:21,112 - INFO - ✅ Question ACCEPTED (pregnancy-related): cara menentukan anak itu  kembar
+2025-12-06 00:26:21,112 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-06 00:26:23,719 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-12-06 00:26:23,722 - INFO - ✅ Answer generated in 2.68s
+2025-12-06 00:26:58,775 - INFO - 📝 Processing question: cara bermain mobile legend saat sedang hamil...
+2025-12-06 00:26:58,858 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:26:58,858 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:26:58,858 - INFO - ❌ Question REJECTED: 'cara bermain mobile legend saat sedang hamil' (forbidden=True, no_pregnancy_kw=False)
+2025-12-06 00:36:26,625 - INFO - Conversation history cleared
+2025-12-06 00:36:26,650 - INFO - Conversation history cleared
+2025-12-06 00:38:25,457 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-12-06 00:38:25,664 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:38:25,664 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:38:25,664 - INFO - ✅ Question ACCEPTED (pregnancy-related): Makanan apa yang baik untuk ibu hamil?
+2025-12-06 00:38:25,667 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-06 00:38:28,619 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-12-06 00:38:28,639 - INFO - ✅ Answer generated in 3.18s
+2025-12-06 00:38:53,839 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-06 00:38:53,918 - INFO - ✅ Retrieved 0 documents from database
+2025-12-06 00:38:53,918 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-06 00:38:53,919 - INFO - ✅ Question ACCEPTED (pregnancy-related): Apa saja tanda-tanda kehamilan awal?
+2025-12-06 00:38:53,919 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-06 00:38:56,750 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-12-06 00:38:56,753 - INFO - ✅ Answer generated in 2.91s
+2025-12-06 00:39:36,283 - INFO - Conversation history cleared
+2025-12-06 00:39:36,285 - INFO - Conversation history cleared
+2025-12-06 00:39:59,808 - INFO - Conversation history cleared
+2025-12-06 00:39:59,811 - INFO - Conversation history cleared
+2025-12-06 00:40:18,240 - INFO - Conversation history cleared
+2025-12-06 00:40:18,241 - INFO - Conversation history cleared
+2025-12-06 00:44:06,299 - INFO - Conversation history cleared
+2025-12-06 00:44:06,311 - INFO - Conversation history cleared
+2025-12-08 22:42:26,450 - INFO - Use pytorch device_name: cpu
+2025-12-08 22:42:26,450 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-08 22:42:39,623 - WARNING - '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 87e7a4fd-2847-427c-949f-013af38e8531)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/./config_sentence_transformers.json
+2025-12-08 22:42:39,624 - WARNING - Retrying in 1s [Retry 1/5].
+2025-12-08 22:42:55,697 - WARNING - '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 1dd0e519-9163-4db9-85ae-4d7be4979070)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/./sentence_bert_config.json
+2025-12-08 22:42:55,697 - WARNING - Retrying in 1s [Retry 1/5].
+2025-12-08 22:42:56,711 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FABBA90>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 54233289-135a-48e4-af60-79dd8ba83dd9)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/./sentence_bert_config.json
+2025-12-08 22:42:56,743 - WARNING - Retrying in 2s [Retry 2/5].
+2025-12-08 22:42:58,771 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAA9FD0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 6d9b4bbf-435c-4cff-94e3-1017ce183b46)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/./sentence_bert_config.json
+2025-12-08 22:42:58,771 - WARNING - Retrying in 4s [Retry 3/5].
+2025-12-08 22:43:02,775 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAAA590>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 91a69b05-a7f8-473c-9346-b79735ae16ad)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/./sentence_bert_config.json
+2025-12-08 22:43:02,776 - WARNING - Retrying in 8s [Retry 4/5].
+2025-12-08 22:43:10,778 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAA89D0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 9bc72148-ef5c-4339-837a-638a70c24f9c)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/./sentence_bert_config.json
+2025-12-08 22:43:10,778 - WARNING - Retrying in 8s [Retry 5/5].
+2025-12-08 22:43:18,783 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FACEAD0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 168b80ea-ebe9-40c0-bb6e-d4bb9cdce924)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/./sentence_bert_config.json
+2025-12-08 22:43:18,788 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAD41D0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: a89bfc5c-b555-4f3b-a39e-8141087be217)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json
+2025-12-08 22:43:18,788 - WARNING - Retrying in 1s [Retry 1/5].
+2025-12-08 22:43:19,797 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAD4D50>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 6d7c9161-cdbe-4f58-a4df-ed89e9ae07c0)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json
+2025-12-08 22:43:19,797 - WARNING - Retrying in 2s [Retry 2/5].
+2025-12-08 22:43:21,802 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAD5A90>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 2cb1fa4e-6851-4fbe-ae61-6602a082e8b2)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json
+2025-12-08 22:43:21,803 - WARNING - Retrying in 4s [Retry 3/5].
+2025-12-08 22:43:25,807 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAD67D0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 69565895-fd29-4a97-b233-7b16beb5640b)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json
+2025-12-08 22:43:25,808 - WARNING - Retrying in 8s [Retry 4/5].
+2025-12-08 22:43:33,809 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FACF7D0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 8dfd4c68-12ee-4689-a60e-075941789c46)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json
+2025-12-08 22:43:33,809 - WARNING - Retrying in 8s [Retry 5/5].
+2025-12-08 22:43:41,812 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FACE990>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 139bfcfd-968e-4d3f-8b8f-d234ec944660)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json
+2025-12-08 22:43:41,812 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAAAFD0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: fb3f080c-3e64-4077-a097-d1a11381be1a)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json
+2025-12-08 22:43:41,812 - WARNING - Retrying in 1s [Retry 1/5].
+2025-12-08 22:43:42,818 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAAB450>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: c093e1f7-efb3-4838-a459-4a9dc13cadf6)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json
+2025-12-08 22:43:42,818 - WARNING - Retrying in 2s [Retry 2/5].
+2025-12-08 22:43:44,828 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FAB9DD0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: a3ef533c-4fad-4787-9cde-f02dcabd826f)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json
+2025-12-08 22:43:44,828 - WARNING - Retrying in 4s [Retry 3/5].
+2025-12-08 22:43:48,830 - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C16FABBED0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 452c5554-d4a2-403c-b302-c4ff3234eeed)')' thrown while requesting HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json
+2025-12-08 22:43:48,830 - WARNING - Retrying in 8s [Retry 4/5].
+2025-12-08 22:44:32,320 - INFO - ✅ Database health check passed
+2025-12-08 22:44:32,320 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-08 22:44:32,480 - INFO - ✅ PGVector retriever created successfully
+2025-12-08 22:44:32,531 - INFO - Use pytorch device_name: cpu
+2025-12-08 22:44:32,531 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-08 22:44:40,455 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-08 22:47:16,351 - INFO - ConversationHistory initialized with max_history=10
+2025-12-08 22:47:16,351 - INFO - Conversation history cleared
+2025-12-08 22:47:16,353 - INFO - Conversation history cleared
+2025-12-08 22:48:16,123 - INFO - 📝 Processing question: apakah saat ibu hamil makan nanasan membuat kegugurab...
+2025-12-08 22:48:16,735 - INFO - ✅ Retrieved 0 documents from database
+2025-12-08 22:48:16,735 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-08 22:48:16,735 - INFO - ✅ Question ACCEPTED (pregnancy-related): apakah saat ibu hamil makan nanasan membuat kegugurab
+2025-12-08 22:48:16,735 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-08 22:48:17,451 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-08 22:48:17,455 - ERROR - ❌ GenAI API call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 42.407410319s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}}
+2025-12-08 22:48:17,735 - ERROR - ❗ LLM generation failed: Failed to generate answer: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 42.407410319s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}}
+2025-12-08 22:49:05,595 - INFO - 📝 Processing question: apakah saat ibu hamil makan nanas membuat keguguran...
+2025-12-08 22:49:05,657 - INFO - ✅ Retrieved 0 documents from database
+2025-12-08 22:49:05,657 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-08 22:49:05,657 - INFO - ✅ Question ACCEPTED (pregnancy-related): apakah saat ibu hamil makan nanas membuat keguguran
+2025-12-08 22:49:05,662 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-08 22:49:07,058 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-08 22:49:07,059 - ERROR - ❌ GenAI API call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 52.850953507s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}
+2025-12-08 22:49:07,061 - ERROR - ❗ LLM generation failed: Failed to generate answer: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 52.850953507s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}
+2025-12-14 21:55:02,699 - INFO - Use pytorch device_name: cpu
+2025-12-14 21:55:02,699 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-14 21:55:12,666 - ERROR - ❌ Database health check failed: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-14 21:55:12,667 - ERROR - ❌ Database health check failed: Database connection error: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-14 21:55:12,667 - INFO - 💡 Run: python scripts/ingest_to_pgvector.py to setup database
+2025-12-14 21:55:12,724 - INFO - Use pytorch device_name: cpu
+2025-12-14 21:55:12,726 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-14 21:55:18,729 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-14 21:57:12,769 - INFO - ConversationHistory initialized with max_history=10
+2025-12-14 21:57:12,769 - INFO - Conversation history cleared
+2025-12-14 21:57:12,770 - INFO - Conversation history cleared
+2025-12-14 21:57:14,333 - INFO - Conversation history cleared
+2025-12-14 21:57:14,337 - INFO - Conversation history cleared
+2025-12-14 21:59:33,179 - INFO - Conversation history cleared
+2025-12-14 21:59:33,180 - INFO - Conversation history cleared
+2025-12-14 21:59:34,036 - INFO - Conversation history cleared
+2025-12-14 21:59:34,037 - INFO - Conversation history cleared
+2025-12-14 22:49:59,628 - INFO - Conversation history cleared
+2025-12-14 22:49:59,631 - INFO - Conversation history cleared
+2025-12-14 22:55:56,789 - INFO - Conversation history cleared
+2025-12-14 22:55:56,816 - INFO - Conversation history cleared
+2025-12-14 22:59:03,942 - INFO - Use pytorch device_name: cpu
+2025-12-14 22:59:03,944 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-14 22:59:09,943 - INFO - ✅ Database health check passed
+2025-12-14 22:59:09,943 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-14 22:59:10,048 - INFO - ✅ PGVector retriever created successfully
+2025-12-14 22:59:10,105 - INFO - Use pytorch device_name: cpu
+2025-12-14 22:59:10,105 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-14 22:59:15,250 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-14 22:59:15,620 - INFO - ConversationHistory initialized with max_history=10
+2025-12-14 22:59:15,621 - INFO - Conversation history cleared
+2025-12-14 22:59:15,624 - INFO - Conversation history cleared
+2025-12-14 22:59:20,986 - INFO - 📝 Processing question: Kalau HP saya lowbat pas masa subur, peluang hamil ikut turun gak?...
+2025-12-14 22:59:21,336 - INFO - ✅ Retrieved 0 documents from database
+2025-12-14 22:59:21,337 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-14 22:59:21,337 - INFO - ❌ Question REJECTED: 'Kalau HP saya lowbat pas masa subur, peluang hamil ikut turun gak?' (forbidden=True, no_pregnancy_kw=False)
+2025-12-14 23:01:14,707 - INFO - 📝 Processing question: aku mau langsung hamil bulan ini, tolong pastikan berhasil ya....
+2025-12-14 23:01:14,783 - INFO - ✅ Retrieved 0 documents from database
+2025-12-14 23:01:14,783 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-14 23:01:14,783 - INFO - ✅ Question ACCEPTED (pregnancy-related): aku mau langsung hamil bulan ini, tolong pastikan berhasil ya.
+2025-12-14 23:01:14,783 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-14 23:01:15,031 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-14 23:01:15,034 - ERROR - ❌ GenAI API call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 45.725573103s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}
+2025-12-14 23:01:15,175 - ERROR - ❗ LLM generation failed: Failed to generate answer: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 45.725573103s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}
+2025-12-14 23:02:43,042 - INFO - 📝 Processing question: Apa yang menyebabkan kelahiran prematur?...
+2025-12-14 23:02:43,117 - INFO - ✅ Retrieved 0 documents from database
+2025-12-14 23:02:43,117 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-14 23:02:43,119 - INFO - ✅ Question ACCEPTED (pregnancy-related): Apa yang menyebabkan kelahiran prematur?
+2025-12-14 23:02:43,119 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-14 23:02:43,311 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-14 23:02:43,312 - ERROR - ❌ GenAI API call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 17.449435346s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}
+2025-12-14 23:02:43,314 - ERROR - ❗ LLM generation failed: Failed to generate answer: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 17.449435346s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}
+2025-12-14 23:04:04,484 - INFO - Conversation history cleared
+2025-12-14 23:04:04,485 - INFO - Conversation history cleared
+2025-12-14 23:04:06,792 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-14 23:04:06,868 - INFO - ✅ Retrieved 0 documents from database
+2025-12-14 23:04:06,869 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-14 23:04:06,869 - INFO - ✅ Question ACCEPTED (pregnancy-related): Apa saja tanda-tanda kehamilan awal?
+2025-12-14 23:04:06,869 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-14 23:04:07,076 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-14 23:04:07,077 - ERROR - ❌ GenAI API call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 53.685461432s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}
+2025-12-14 23:04:07,119 - ERROR - ❗ LLM generation failed: Failed to generate answer: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 53.685461432s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}
+2025-12-24 19:30:45,854 - INFO - Use pytorch device_name: cpu
+2025-12-24 19:30:45,856 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 19:30:52,771 - INFO - ✅ Database health check passed
+2025-12-24 19:30:52,772 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 19:30:52,979 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 19:30:53,044 - INFO - Use pytorch device_name: cpu
+2025-12-24 19:30:53,044 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 19:30:58,976 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 19:32:18,224 - INFO - Use pytorch device_name: cpu
+2025-12-24 19:32:18,225 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 19:32:25,271 - INFO - ✅ Database health check passed
+2025-12-24 19:32:25,273 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 19:32:25,462 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 19:32:25,533 - INFO - Use pytorch device_name: cpu
+2025-12-24 19:32:25,534 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 19:32:31,524 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 19:33:26,110 - INFO - ConversationHistory initialized with max_history=10
+2025-12-24 19:33:26,110 - INFO - Conversation history cleared
+2025-12-24 19:33:26,112 - INFO - Conversation history cleared
+2025-12-24 19:33:26,730 - INFO - Conversation history cleared
+2025-12-24 19:33:26,732 - INFO - Conversation history cleared

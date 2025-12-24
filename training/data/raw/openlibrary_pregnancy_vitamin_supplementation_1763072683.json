@@ -1,0 +1,100 @@
+{
+  "numFound": 10,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 10,
+  "q": "pregnancy vitamin supplementation",
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "docs": [
+    {
+      "author_key": [
+        "OL9629738A"
+      ],
+      "author_name": [
+        "Ramesh Kumar Marya"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL36620485W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Effects of Vitamin d Supplementation in Pregnancy and Lactation"
+    },
+    {
+      "author_key": [
+        "OL10027483A"
+      ],
+      "author_name": [
+        "Ricky CONNELLY"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36387382W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Growing My Valentine Pregnancy Announcement Vitamin and Supplements Tracker"
+    },
+    {
+      "author_key": [
+        "OL10037802A"
+      ],
+      "author_name": [
+        "Cochran Marvin"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30988173W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Vitamin and Supplements Tracker - Growing My Pi in the Oven Pi Day Pregnancy Announcement"
+    },
+    {
+      "author_key": [
+        "OL10027192A"
+      ],
+      "author_name": [
+        "kunta taylor"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30988754W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Vitamin and Supplements Tracker - Womens Eating Easter Eggs for Two Funny Family Pregnancy Quote"
+    },
+    {
+      "author_key": [
+        "OL9629267A"
+      ],
+      "author_name": [
+        "Bonnie Mccullough"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35837958W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Mens Daddy of an Angel Pregnancy Loss Miscarriage Vitamin and Supplements Tracker"
+    }
+  ]
+}

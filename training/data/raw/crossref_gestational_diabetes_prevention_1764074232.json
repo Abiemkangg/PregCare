@@ -1,0 +1,1376 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 868224,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              19
+            ]
+          ],
+          "date-time": "2025-11-19T14:49:02Z",
+          "timestamp": 1763563742045
+        },
+        "reference-count": 13,
+        "publisher": "American Diabetes Association",
+        "issue": "7",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2021-09-01T00:00:00Z",
+              "timestamp": 1630454400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 4172,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "diabetesjournals.org"
+          ],
+          "crossmark-restriction": true
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              7,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:sec>\n                  <jats:title>OBJECTIVE</jats:title>\n                  <jats:p>To examine the feasibility of an individualized exercise program to prevent gestational diabetes mellitus (GDM) in obese pregnant women.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>RESEARCH DESIGN AND METHODS</jats:title>\n                  <jats:p>The study was a pilot randomized controlled trial with obese pregnant women (intervention group, individualized exercise program [n = 25]; control group, usual care [n = 25]). Average weekly energy expenditure (MET hours per week and kilocalories per week) of exercise-specific activity was assessed during pregnancy using the Pregnancy Physical Activity Questionnaire. Fasting glucose and insulin and homeostasis model assessment of insulin resistance (HOMA-IR) were assessed at baseline and 20, 28, and 36 weeks' gestation.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>RESULTS</jats:title>\n                  <jats:p>Of the women in the intervention group, 16 of 22 (73%) achieved more than 900 kcal/week of exercise-based activity at 28 weeks compared with 8 of 19 women in the control group (42%), P = 0.047. However, insulin resistance (HOMA-IR) did not differ between the groups.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>CONCLUSION</jats:title>\n                  <jats:p>This intervention was feasible and prompted a modest increase in physical activity. However, we are not confident that this intervention would be sufficient to prevent GDM.</jats:p>\n               </jats:sec>",
+        "DOI": "10.2337/dc09-2336",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2010-04-01T03:55:22Z",
+          "timestamp": 1270094122000
+        },
+        "page": "1457-1459",
+        "update-policy": "http://dx.doi.org/10.2337/ada-journal-policies",
+        "source": "Crossref",
+        "is-referenced-by-count": 114,
+        "title": [
+          "Prevention of Gestational Diabetes"
+        ],
+        "prefix": "10.2337",
+        "volume": "33",
+        "author": [
+          {
+            "given": "Leonie K.",
+            "family": "Callaway",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Royal Brisbane Clinical School, Royal Brisbane and Women's Hospital, Brisbane, Australia;"
+              },
+              {
+                "name": "School of Medicine, The University of Queensland, Brisbane, Australia;"
+              }
+            ]
+          },
+          {
+            "given": "Paul B.",
+            "family": "Colditz",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Perinatal Research Centre, The University of Queensland, Brisbane, Australia;"
+              },
+              {
+                "name": "University of Queensland Centre for Clinical Research, Royal Brisbane and Women's Hospital, Brisbane, Australia;"
+              }
+            ]
+          },
+          {
+            "given": "Nuala M.",
+            "family": "Byrne",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Human Movement Studies, Queensland University of Technology, Brisbane, Australia;"
+              },
+              {
+                "name": "Institute of Health and Biomedical Innovation, Queensland University of Technology, Brisbane, Australia;"
+              }
+            ]
+          },
+          {
+            "given": "Barbara E.",
+            "family": "Lingwood",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Perinatal Research Centre, The University of Queensland, Brisbane, Australia;"
+              },
+              {
+                "name": "University of Queensland Centre for Clinical Research, Royal Brisbane and Women's Hospital, Brisbane, Australia;"
+              }
+            ]
+          },
+          {
+            "given": "Ingrid J.",
+            "family": "Rowlands",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Medicine, The University of Queensland, Brisbane, Australia;"
+              }
+            ]
+          },
+          {
+            "given": "Katie",
+            "family": "Foxcroft",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Internal Medicine, Royal Brisbane and Women's Hospital, Brisbane, Australia;"
+              }
+            ]
+          },
+          {
+            "given": "H. David",
+            "family": "McIntyre",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Mater Clinical School, School of Medicine, The University of Queensland, Brisbane, Australia."
+              }
+            ]
+          },
+          {
+            "name": "for the BAMBINO Group",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "member": "1167",
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              3,
+              31
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "2022031302162004900_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2070",
+            "DOI": "10.2337/dc06-2559a",
+            "article-title": "Maternal obesity and risk of gestational diabetes mellitus",
+            "volume": "30",
+            "author": "Chu",
+            "year": "2007",
+            "journal-title": "Diabetes Care"
+          },
+          {
+            "key": "2022031302162004900_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.3945/ajcn.2009.28166",
+            "article-title": "Effect of lifestyle intervention on dietary habits, physical activity, and gestational weight gain in obese pregnant women: a randomized controlled trial",
+            "volume": "91",
+            "author": "Guelinckx",
+            "year": "2009",
+            "journal-title": "Am J Clin Nutr"
+          },
+          {
+            "key": "2022031302162004900_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "837",
+            "DOI": "10.1038/sj.ijo.0803799",
+            "article-title": "Variability in adherence to an unsupervised exercise prescription in obese women",
+            "volume": "32",
+            "author": "Colley",
+            "year": "2008",
+            "journal-title": "Int J Obes (Lond)"
+          },
+          {
+            "key": "2022031302162004900_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "3230",
+            "DOI": "10.2337/diacare.26.12.3230",
+            "article-title": "The Finnish Diabetes Prevention Study (DPS): Lifestyle intervention and 3-year results on diet and physical activity",
+            "volume": "26",
+            "author": "Lindström",
+            "year": "2003",
+            "journal-title": "Diabetes Care"
+          },
+          {
+            "key": "2022031302162004900_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1261",
+            "DOI": "10.2105/AJPH.93.8.1261",
+            "article-title": "Why don't we see more translation of health promotion research to practice? Rethinking the efficacy-to-effectiveness transition",
+            "volume": "93",
+            "author": "Glasgow",
+            "year": "2003",
+            "journal-title": "Am J Public Health"
+          },
+          {
+            "key": "2022031302162004900_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1750",
+            "DOI": "10.1249/01.MSS.0000142303.49306.0D",
+            "article-title": "Development and validation of a Pregnancy Physical Activity Questionnaire",
+            "volume": "36",
+            "author": "Chasan-Taber",
+            "year": "2004",
+            "journal-title": "Med Sci Sports Exerc"
+          },
+          {
+            "key": "2022031302162004900_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1602",
+            "DOI": "10.2337/diacare.24.9.1602",
+            "article-title": "Clinically useful estimates of insulin sensitivity during pregnancy: validation studies in women with normal glucose tolerance and gestational diabetes mellitus",
+            "volume": "24",
+            "author": "Kirwan",
+            "year": "2001",
+            "journal-title": "Diabetes Care"
+          },
+          {
+            "key": "2022031302162004900_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.5694/j.1326-5377.1998.tb140192.x",
+            "article-title": "Gestational diabetes mellitus–management guidelines. The Australasian Diabetes in Pregnancy Society",
+            "volume": "169",
+            "author": "Hoffman",
+            "year": "1998",
+            "journal-title": "Med J Aust"
+          },
+          {
+            "key": "2022031302162004900_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1081",
+            "DOI": "10.1161/CIRCULATIONAHA.107.185649",
+            "article-title": "Physical activity and public health: updated recommendation for adults from the American College of Sports Medicine and the American Heart Association",
+            "volume": "116",
+            "author": "Haskell",
+            "year": "2007",
+            "journal-title": "Circulation"
+          },
+          {
+            "key": "2022031302162004900_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.1038/sj.ijo.0803710",
+            "article-title": "A randomized trial of the effects of dietary counseling on gestational weight gain and glucose metabolism in obese pregnant women",
+            "volume": "32",
+            "author": "Wolff",
+            "year": "2008",
+            "journal-title": "Int J Obes (Lond)"
+          },
+          {
+            "key": "2022031302162004900_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1016/j.diabres.2003.08.009",
+            "article-title": "Lifestyle change after gestational diabetes",
+            "volume": "63",
+            "author": "Stage",
+            "year": "2004",
+            "journal-title": "Diabetes Res Clin Pract"
+          },
+          {
+            "key": "2022031302162004900_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "140",
+            "DOI": "10.1111/j.1467-789X.2007.00464.x",
+            "article-title": "Maternal obesity: pregnancy complications, gestational weight gain and nutrition",
+            "volume": "9",
+            "author": "Guelinckx",
+            "year": "2008",
+            "journal-title": "Obes Rev"
+          },
+          {
+            "key": "2022031302162004900_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "364",
+            "DOI": "10.1007/s10995-008-0359-8",
+            "article-title": "Perceived barriers to physical activity among pregnant women",
+            "volume": "13",
+            "author": "Evenson",
+            "year": "2009",
+            "journal-title": "Matern Child Health J"
+          }
+        ],
+        "container-title": [
+          "Diabetes Care"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://diabetesjournals.org/care/article-pdf/33/7/1457/606951/zdc00710001457.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "https://diabetesjournals.org/care/article-pdf/33/7/1457/606951/zdc00710001457.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              13
+            ]
+          ],
+          "date-time": "2022-03-13T06:25:13Z",
+          "timestamp": 1647152713000
+        },
+        "score": 27.178795,
+        "resource": {
+          "primary": {
+            "URL": "https://diabetesjournals.org/care/article/33/7/1457/39270/Prevention-of-Gestational-DiabetesFeasibility"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              3,
+              31
+            ]
+          ]
+        },
+        "references-count": 13,
+        "journal-issue": {
+          "issue": "7",
+          "published-online": {
+            "date-parts": [
+              [
+                2010,
+                3,
+                31
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2010,
+                7,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.2337/dc09-2336",
+        "ISSN": [
+          "0149-5992",
+          "1935-5548"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0149-5992"
+          },
+          {
+            "type": "electronic",
+            "value": "1935-5548"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              3,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              4
+            ]
+          ],
+          "date-time": "2022-04-04T01:10:12Z",
+          "timestamp": 1649034612221
+        },
+        "reference-count": 0,
+        "publisher": "Case Journals",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "CMR"
+        ],
+        "DOI": "10.31525/ct1-nct04028089",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              23
+            ]
+          ],
+          "date-time": "2019-07-23T03:30:31Z",
+          "timestamp": 1563852631000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Prevention of Gestational Diabetes"
+        ],
+        "prefix": "10.31525",
+        "author": [
+          {
+            "name": "Kernel Networks Inc.",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "16470",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "Case Medical Research"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              14
+            ]
+          ],
+          "date-time": "2019-10-14T00:47:45Z",
+          "timestamp": 1571014065000
+        },
+        "score": 27.16238,
+        "resource": {
+          "primary": {
+            "URL": "https://clinicaltrials.gov/ct2/show/NCT04028089"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              22
+            ]
+          ]
+        },
+        "references-count": 0,
+        "alternative-id": [
+          "10.31525/ct1-nct04028089"
+        ],
+        "URL": "https://doi.org/10.31525/ct1-nct04028089",
+        "ISSN": [
+          "2643-4652"
+        ],
+        "issn-type": [
+          {
+            "value": "2643-4652",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              14
+            ]
+          ],
+          "date-time": "2025-06-14T04:21:07Z",
+          "timestamp": 1749874867659,
+          "version": "3.37.3"
+        },
+        "reference-count": 49,
+        "publisher": "Kemerovo State Medical University",
+        "issue": "3",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  9,
+                  29
+                ]
+              ],
+              "date-time": "2023-09-29T00:00:00Z",
+              "timestamp": 1695945600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://fcm.kemsmu.ru/jour/about/editorialPolicies#openAccessPolicy"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Fundamentalʹnaâ i kliničeskaâ medicina"
+        ],
+        "abstract": "<jats:p>Gestational diabetes mellitus (GSD) is defined as hyperglycemia of variable degree with onset or first recognition during pregnancy which does not meet the criteria of clinical diabetes mellitus (DM). The growing incidence of GSD is a global health problem, affecting from 9% to 12% of pregnancies worldwide. In this review, we focused on the key aspects of GSD prevention. Major risk factors of GSD development include family history, past medical history of GSD, fetal macrosomia in previous pregnancies, and obesity. At primary treatment, lifestyle interventions (e.g., change of the dietary pattern) may represent an efficient measure, and here we consider several types of diets and dietary supplements (e.g., myoinositol, folic acid, and probiotics) that might be useful to mitigate GSD. Physical activity and specialised psychological care during pregnancy planning, during the pregnancy and in the postpartum period has a number of positive effects. Adequate perception of GSD, which might be improved by psychotherapy, directly correlates with adherence to therapeutic and preventive measures. The complex of dietary interventions, increased physical activity, and psychological care can significantly reduce the risk of adverse pregnancy outcomes.</jats:p>",
+        "DOI": "10.23946/2500-0764-2023-8-3-116-123",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              29
+            ]
+          ],
+          "date-time": "2023-09-29T15:39:24Z",
+          "timestamp": 1696001964000
+        },
+        "page": "116-123",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Prevention of gestational diabetes mellitus"
+        ],
+        "prefix": "10.23946",
+        "volume": "8",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7014-6492",
+            "authenticated-orcid": true,
+            "given": "N. V.",
+            "family": "Artymuk",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Kemerovo State Medical University"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5570-1988",
+            "authenticated-orcid": true,
+            "given": "O. N.",
+            "family": "Novikova",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Kemerovo State Medical University"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-6955-1949",
+            "authenticated-orcid": true,
+            "given": "O. V.",
+            "family": "Glazovskaya",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Kemerovo State Medical University; Moscow Clinical Hospital No. 29"
+              }
+            ]
+          }
+        ],
+        "member": "10038",
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              29
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "ref1",
+            "unstructured": "Gestatsionnyy sakharnyy diabet: diagnostika, lecheniye, poslerodovoye nablyudeniye. Clinical guidelines (protocol). Moscow: 2014. (In Russ). Available at: https://mosgorzdrav.ru/uploads/imperavi/ru-RU/014_2014. pdf. Accessed: June 6, 2023."
+          },
+          {
+            "key": "ref2",
+            "unstructured": "Dzugkoev SG, Tedtoeva AI, Dzugkoeva FS, Mozhaeva IV, Margieva OI. Pregnancy and diabetes. Sovremennye problemy nauki i obrazovaniya. 2016;4. (In Russ). https://s.science-education.ru/pdf/2016/4/24934.pdf"
+          },
+          {
+            "key": "ref3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "American Diabetes Association. Diagnosis and classification of diabetes mellitus (position statement). Diabetes Care. 2009; 32 Suppl 1(Suppl 1):S62-67. https://doi.org/10.2337/dc09-S062.32",
+            "DOI": "10.2337/dc09-S062"
+          },
+          {
+            "key": "ref4",
+            "unstructured": "International Diabetes Federation. Global Guideline jn Pregnancy and Diabetes. Brussels: International Diabetes Federation; 2009:5-6. Available at: https://www.yumpu.com/en/document/read/21839583/global-guideline-on-pregnancy-and-diabetes-international- Accessed: June 6, 2023."
+          },
+          {
+            "key": "ref5",
+            "unstructured": "Burumkulova F.F., Petrukhin V.A. Gestational diabetes mellitus: yesterday, today, tomorrow. Terapevticheskii arkhiv. 2014;86(10):109-115. (In Russ)."
+          },
+          {
+            "key": "ref6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mitric C, Desilets J, Brown RN. Recent advances in the antepartum management of diabetes. F1000Res. 2019;8:F1000 Faculty Rev-622. https://doi.org/10.12688/f1000research.15795.1",
+            "DOI": "10.12688/f1000research.15795.1"
+          },
+          {
+            "key": "ref7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mousa A, Naqash A, Lim S. Macronutrient and Micronutrient Intake during Pregnancy: An Overview of Recent Evidence. Nutrients. 2019;11(2):443. https://doi.org/10.3390/nu11020443",
+            "DOI": "10.3390/nu11020443"
+          },
+          {
+            "key": "ref8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Arbatskaya NYu, Ignatova NG. Moldovanova MV, Mel'nikova EP, Kan-dalina VV. Rol' dietoterapii v profilaktike diabeticheskoy fetopatii u zhenshchin s gestatsionnym sakharnym diabetom. Journal of obstetrics and womans diseases. 2013;62(S). (In Russ).",
+            "DOI": "10.17816/JOWD6239-15"
+          },
+          {
+            "key": "ref9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Filardi T, Panimolle F, Crescioli C, Lenzi A, Morano S. Gestational Diabetes Mellitus: The Impact of Carbohydrate Quality in Diet. Nutrients. 2019;11(7):1549. https://doi.org/10.3390/nu11071549.",
+            "DOI": "10.3390/nu11071549"
+          },
+          {
+            "key": "ref10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mahajan A, Donovan LE, Vallee R, Yamamoto JM. Evidenced-Based Nutrition for Gestational Diabetes Mellitus. Curr Diab Rep. 2019;19(10):94. https://doi.org/10.1007/s11892-019-1208-4",
+            "DOI": "10.1007/s11892-019-1208-4"
+          },
+          {
+            "key": "ref11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Furukawa S, Kobayashi Y. Leaner Women with Impaired Insulin Secretion Accounts for about 40% of Gestational Diabetes Mellitus in Japan. J Pregnancy. 2019;2019:7578403. https://doi.org/10.1155/2019/7578403",
+            "DOI": "10.1155/2019/7578403"
+          },
+          {
+            "key": "ref12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gou BH, Guan HM, Bi YX, Ding BJ. Gestational diabetes: weight gain during pregnancy and its relationship to pregnancy outcomes. Chin Med J (Engl). 2019;132(2):154-160. https://doi.org/10.1097/CM9.0000000000000036",
+            "DOI": "10.1097/CM9.0000000000000036"
+          },
+          {
+            "key": "ref13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Barnes RA, Wong T, Ross GP, Griffiths MM, Smart CE, Collins CE, MacDonald-Wicks L, Flack JR. Excessive Weight Gain Before and During Gestational Diabetes Mellitus Management: What Is the Impact? Diabetes Care. 2020;43(1):74-81. https://doi.org/10.2337/dc19-0800.",
+            "DOI": "10.2337/dc19-0800"
+          },
+          {
+            "key": "ref14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Assaf-Balut C, Garcia de la Torre N, Duran A, Fuentes M, Bordiu E, Del Valle L, Valerio J, Familiar C, Jimenez I, Herraiz MA, Izquierdo N, Tor-rejon MJ, Runkle I, de Miguel MP, Moraga I, Montanez MC, Barabash A, Cuesta M, Rubio MA, Calle-Pascual AL. Medical nutrition therapy for gestational diabetes mellitus based on Mediterranean Diet principles: a subanalysis of the St Carlos GDM Prevention Study. BMJ Open Diabetes Res Care. 2018;6(1):e000550. https://doi.org/10.1136/bmj-drc-2018-000550",
+            "DOI": "10.1136/bmjdrc-2018-000550"
+          },
+          {
+            "key": "ref15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu L, Zhou Y, He L. Mediterranean diet for the prevention of gestational diabetes: a meta-analysis of randomized controlled trials. J Matern Fetal Neonatal Med. 2022;35(26):10247-10252. https://doi.org/10.1080/14767058.2021.1966764",
+            "DOI": "10.1080/14767058.2021.1966764"
+          },
+          {
+            "key": "ref16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zamani B, Milajerdi A, Tehrani H, Bellissimo N, Brett NR, Azad-bakht L. Association of a plant-based dietary pattern in relation to gestational diabetes mellitus. Nutr Diet. 2019;76(5):589-596. https://doi.org/10.1111/1747-0080.12512",
+            "DOI": "10.1111/1747-0080.12512"
+          },
+          {
+            "key": "ref17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dong JY, Ikehara S, Kimura T, Cui M, Kawanishi Y, Kimura T, Ueda K, Iso H; Japan Environment and Children's Study Group. Skipping breakfast before and during early pregnancy and incidence of gestational diabetes mellitus: the Japan Environment and Children's Study. Am J Clin Nutr. 2020;111(4):829-834. https://doi.org/10.1093/ajcn/nqaa014",
+            "DOI": "10.1093/ajcn/nqaa014"
+          },
+          {
+            "key": "ref18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D'Anna R, Santamaria A, Alibrandi A, Corrado F, DI Benedetto A, Fac-chinetti F. Myo-Inositol for the Prevention of Gestational Diabetes Mel-litus. A Brief Review. J Nutr Sci Vitaminol (Tokyo). 2019;65(Supple-ment):S59-S61. https://doi.org/10.3177/jnsv.65.S59",
+            "DOI": "10.3177/jnsv.65.S59"
+          },
+          {
+            "key": "ref19",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sobota-Grzeszyk A, Kuzmicki M, Szamatowicz J. Myoinositol in the Prevention of Gestational Diabetes Mellitus: Is It Sensible? J Diabetes Res. 2019;2019:3915253. https://doi.org/10.1155/2019/3915253",
+            "DOI": "10.1155/2019/3915253"
+          },
+          {
+            "key": "ref20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Asimakopoulos G, Pergialiotis V, Anastasiou E, Antsaklis P, Theodora M, Vogiatzi E, Kallergi A, Sindos M, Loutradis D, Daskalakis G. Effect of dietary myo-inositol supplementation on the insulin resistance and the prevention of gestational diabetes mellitus: study protocol for a randomized controlled trial. Trials. 2020;21(1):633. https://doi.org/10.1186/s13063-020-04561-2",
+            "DOI": "10.1186/s13063-020-04561-2"
+          },
+          {
+            "key": "ref21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cheng G, Sha T, Gao X, He Q, Wu X, Tian Q, Yang F, Tang C, Wu X, Xie Q, Yan Y. The Associations between the Duration of Folic Acid Supplementation, Gestational Diabetes Mellitus, and Adverse Birth Outcomes based on a Birth Cohort. Int J Environ Res Public Health. 2019;16(22):4511. https://doi.org/10.3390/ijerph16224511",
+            "DOI": "10.3390/ijerph16224511"
+          },
+          {
+            "key": "ref22",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lind MV, Lauritzen L, Kristensen M, Ross AB, Eriksen JN. Effect of folate supplementation on insulin sensitivity and type 2 diabetes: a metaanalysis of randomized controlled trials. Am J Clin Nutr. 2019;109(1):29-42. https://doi.org/10.1093/ajcn/nqy234",
+            "DOI": "10.1093/ajcn/nqy234"
+          },
+          {
+            "key": "ref23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lind MV, Lauritzen L, Kristensen M, Ross AB, Eriksen JN. Effect of folate supplementation on insulin sensitivity and type 2 diabetes: a metaanalysis of randomized controlled trials. Am J Clin Nutr. 2019;109(1):29-42. https://doi.org/10.1093/ajcn/nqy234",
+            "DOI": "10.1093/ajcn/nqy234"
+          },
+          {
+            "key": "ref24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Azzam EZ, El-Aghoury AA, Abd El-Naby EE, El-Maadawy SA. Studying the relation between vitamin D deficiency and glycemic state among pregnant women with gestational diabetes. Diabetes Metab Syndr. 2019;13(2):1505-1509. https://doi.org/10.1016/j.dsx.2019.03.007",
+            "DOI": "10.1016/j.dsx.2019.03.007"
+          },
+          {
+            "key": "ref25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wang CC, Tung YT, Chang HC, Lin CH, Chen YC. Effect of Probiotic Supplementation on Newborn Birth Weight for Mother with Gestational Diabetes Mellitus or Overweight/Obesity: A Systematic Review and Meta-Analysis. Nutrients. 2020;12(11):3477. https://doi.org/10.3390/nu12113477",
+            "DOI": "10.3390/nu12113477"
+          },
+          {
+            "key": "ref26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tsarna E, Christopoulos P. The role of gut microbiome in prevention, diagnosis and treatment of gestational diabetes mellitus. J Obstet Gynaecol. 2022;42(5):719-725. https://doi.org/10.1080/01443615.2021.1959534",
+            "DOI": "10.1080/01443615.2021.1959534"
+          },
+          {
+            "key": "ref27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Homayouni A, Bagheri N, Mohammad-Alizadeh-Charandabi S, Kashani N, Mobaraki-Asl N, Mirghafurvand M, Asgharian H, Ansari F, Pourjafar H. Prevention of Gestational Diabetes Mellitus (GDM) and Probiotics: Mechanism of Action: A Review. Curr Diabetes Rev. 2020;16(6):538-545. https://doi.org/10.2174/1573399815666190712193828",
+            "DOI": "10.2174/1573399815666190712193828"
+          },
+          {
+            "key": "ref28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Okesene-Gafa KA, Moore AE, Jordan V, McCowan L, Crowther CA. Probiotic treatment for women with gestational diabetes to improve maternal and infant health and well-being. Cochrane Database Syst Rev. 2020;6(6):CD012970. https://doi.org/10.1002/14651858.CD012970.pub2",
+            "DOI": "10.1002/14651858.CD012970.pub2"
+          },
+          {
+            "key": "ref29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Plows JF, Reynolds CM, Vickers MH, Baker PN, Stanley JL. Nutritional Supplementation for the Prevention and/or Treatment of Gestational Diabetes Mellitus. Curr Diab Rep. 2019;19(9):73. https://doi.org/10.1007/s11892-019-1199-1",
+            "DOI": "10.1007/s11892-019-1199-1"
+          },
+          {
+            "key": "ref30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zito G, Della Corte L, Giampaolino P, Terzic M, Terzic S, Di Guardo F, Ricci G, Della Pieta I, Maso G, Garzon S. Gestational diabetes mellitus: Prevention, diagnosis and treatment. A fresh look to a busy corner. J Neonatal Perinatal Med. 2020;13(4):529-541. https://doi.org/10.3233/NPM-190305",
+            "DOI": "10.3233/NPM-190305"
+          },
+          {
+            "key": "ref31",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Li SY, Ouyang YQ, Qiao J, Shen Q. Technology-supported lifestyle interventions to improve maternal-fetal outcomes in women with gestational diabetes mellitus: A meta-analysis. Midwifery. 2020;85:102689. https://doi.org/10.1016/j.midw.2020.102689",
+            "DOI": "10.1016/j.midw.2020.102689"
+          },
+          {
+            "key": "ref32",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pace R, Loon O, Chan D, Porada H, Godin C, Linton J, Linton P, Torrie J, Dasgupta K. Preventing diabetes after pregnancy with gestational diabetes in a Cree community: an inductive thematic analysis. BMJ Open Diabetes Res Care. 2020;8(1):e001286. https://doi.org/10.1136/bmjdrc-2020-001286",
+            "DOI": "10.1136/bmjdrc-2020-001286"
+          },
+          {
+            "key": "ref33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dong W, Li Y, Sun JJ, Chen LH, Guo J, Dong L. Do patients with gestational diabetes mellitus and their own blood glucose meter have better pregnancy outcomes than those not using a glucose meter? Medicine (Baltimore). 2020;99(51):e23793. https://doi.org/10.1097/MD.0000000000023793",
+            "DOI": "10.1097/MD.0000000000023793"
+          },
+          {
+            "key": "ref34",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mitanchez D, Ciangura C, Jacqueminet S. How Can Maternal Lifestyle Interventions Modify the Effects of Gestational Diabetes in the Neonate and the Offspring? A Systematic Review of Meta-Analyses. Nutrients. 2020;12(2):353. https://doi.org/10.3390/nu12020353",
+            "DOI": "10.3390/nu12020353"
+          },
+          {
+            "key": "ref35",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Makaruk B, Galczak-Kondraciuk A, Forczek W, Grantham W, Charmas M. The Effectiveness of Regular Exercise Programs in the Prevention of Gestational Diabetes Mellitus-A Systematic Review. Obstet Gynecol Surv. 2019;74(5):303-312. https://doi.org/10.1097/OGX.0000000000000673",
+            "DOI": "10.1097/OGX.0000000000000673"
+          },
+          {
+            "key": "ref36",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Yan B, Yu Y, Lin M, Li Z, Wang L, Huang P, Song H, Shi X, Yang S, Li X, Li X. High, but stable, trend in the prevalence of gestational diabetes mellitus: A population-based study in Xiamen, China. J Diabetes Investig. 2019;10(5):1358-1364. https://doi.org/10.1111/jdi.13039",
+            "DOI": "10.1111/jdi.13039"
+          },
+          {
+            "key": "ref37",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wang Y, Luo BR. The association of body composition with the risk of gestational diabetes mellitus in Chinese pregnant women: A casecontrol study. Medicine (Baltimore). 2019;98(42):e17576. https://doi.org/10.1097/MD.0000000000017576",
+            "DOI": "10.1097/MD.0000000000017576"
+          },
+          {
+            "key": "ref38",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Vargas-Terrones M, Nagpal TS, Barakat R. Impact of exercise during pregnancy on gestational weight gain and birth weight: an overview. Braz J Phys Ther. 2019;23(2):164-169. https://doi.org/10.1016/j.bjpt.2018.11.012",
+            "DOI": "10.1016/j.bjpt.2018.11.012"
+          },
+          {
+            "key": "ref39",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Huang X, Huang J, Wu J, Li M, Yang Z, Liu L, Lin T, Lan Y, Chen K. Different exercises for pregnant women with gestational diabetes: a meta-analysis of randomized controlled trials. J Sports Med Phys Fitness. 2020;60(3):464-471. https://doi.org/10.23736/S0022-4707.19.10131-4",
+            "DOI": "10.23736/S0022-4707.19.10131-4"
+          },
+          {
+            "key": "ref40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Di Biase N, Balducci S, Lencioni C, Bertolotto A, Tumminia A, Dodesini AR, Pintaudi B, Marcone T, Vitacolonna E, Napoli A. Review of general suggestions on physical activity to prevent and treat gestational and pre-existing diabetes during pregnancy and in postpartum. Nutr Metab Cardiovasc Dis. 2019;29(2):115-126. https://doi.org/10.1016/j.numecd.2018.10.013",
+            "DOI": "10.1016/j.numecd.2018.10.013"
+          },
+          {
+            "key": "ref41",
+            "unstructured": "Petrukhin VA, Burumkulova FF. Gestation diabetes mellitus. VF Snegirev archives of obstetrics and gynecology. 2014;1:48-51.(In Russ)."
+          },
+          {
+            "key": "ref42",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Laredo-Aguilera JA, Gallardo-Bravo M, Rabanales-Sotos JA, Cobo-Cuenca AI, Carmona-Torres JM. Physical Activity Programs during Pregnancy Are Effective for the Control of Gestational Diabetes Mellitus. Int J Environ Res Public Health. 2020;17(17):6151. https://doi.org/10.3390/ijerph17176151.",
+            "DOI": "10.3390/ijerph17176151"
+          },
+          {
+            "key": "ref43",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wu S, Jin J, Hu KL, Wu Y, Zhang D. Prevention of Gestational Diabetes Mellitus and Gestational Weight Gain Restriction in Overweight/Obese Pregnant Women: A Systematic Review and Network Meta-Analysis. Nutrients. 2022;14(12):2383. https://doi.org/10.3390/nu14122383",
+            "DOI": "10.3390/nu14122383"
+          },
+          {
+            "key": "ref44",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tang Q, Zhong Y, Xu C, Li W, Wang H, Hou Y. Effectiveness of five interventions used for prevention of gestational diabetes: A network meta-analysis. Medicine (Baltimore). 2022;101(15):e29126. https://doi.org/10.1097/MD.0000000000029126.",
+            "DOI": "10.1097/MD.0000000000029126"
+          },
+          {
+            "key": "ref45",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nielsen KK, Dahl-Petersen IK, Jensen DM, Ovesen P, Damm P, Jensen NH, Th0gersen M, Timm A, Hillersdal L, Kampmann U, Vinter CA, Mathiesen ER, Maindal HT; Face-it Study Group. Protocol for a randomised controlled trial of a co-produced, complex, health promotion intervention for women with prior gestational diabetes and their families: the Face-it study. Trials. 2020 Feb 7;21(1):146. https://doi.org/10.1186/s13063-020-4062-4.",
+            "DOI": "10.1186/s13063-020-4062-4"
+          },
+          {
+            "key": "ref46",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Messika A, Toledano Y, Hadar E, Shmuel E, Tauman R, Shamir R, Froy O. Relationship among chrononutrition, sleep, and glycemic control in women with gestational diabetes mellitus: a randomized controlled trial. Am J Obstet Gynecol MFM. 2022;4(5):100660. https://doi.org/10.1016/j.ajogmf.2022.100660.",
+            "DOI": "10.1016/j.ajogmf.2022.100660"
+          },
+          {
+            "key": "ref47",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Qiu J, Liu Y, Zhu W, Zhang C. Comparison of Effectiveness of Routine Antenatal Care with a Midwife-Managed Clinic Service in Prevention of Gestational Diabetes Mellitus in Early Pregnancy at a Hospital in China. Med Sci Monit. 2020;26:e925991. https://doi.org/10.12659/MSM.925991",
+            "DOI": "10.12659/MSM.925991"
+          },
+          {
+            "key": "ref48",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Juan J, Yang H. Prevalence, Prevention, and Lifestyle Intervention of Gestational Diabetes Mellitus in China. Int J Environ Res Public Health. 2020;17(24):9517. https://doi.org/10.3390/ijerph17249517",
+            "DOI": "10.3390/ijerph17249517"
+          },
+          {
+            "key": "ref49",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Craig L, Sims R, Glasziou P, Thomas R. Women's experiences of a diagnosis of gestational diabetes mellitus: a systematic review. BMC Pregnancy Childbirth. 2020 Feb 7;20(1):76. https://doi.org/10.1186/s12884-020-2745-1",
+            "DOI": "10.1186/s12884-020-2745-1"
+          }
+        ],
+        "container-title": [
+          "Fundamental and Clinical Medicine"
+        ],
+        "link": [
+          {
+            "URL": "https://fcm.kemsmu.ru/jour/article/viewFile/758/385",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              29
+            ]
+          ],
+          "date-time": "2023-09-29T15:39:58Z",
+          "timestamp": 1696001998000
+        },
+        "score": 26.025644,
+        "resource": {
+          "primary": {
+            "URL": "https://fcm.kemsmu.ru/jour/article/view/758"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              29
+            ]
+          ]
+        },
+        "references-count": 49,
+        "journal-issue": {
+          "issue": "3",
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                9,
+                29
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.23946/2500-0764-2023-8-3-116-123",
+        "ISSN": [
+          "2542-0941",
+          "2500-0764"
+        ],
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "2542-0941"
+          },
+          {
+            "type": "print",
+            "value": "2500-0764"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2022-04-01T14:47:41Z",
+          "timestamp": 1648824461727
+        },
+        "reference-count": 0,
+        "publisher": "OMICS Publishing Group",
+        "issue": "07",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "J Diabetes Metab"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "DOI": "10.4172/2155-6156.1000286",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2013-09-30T03:00:06Z",
+          "timestamp": 1380510006000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Prevention of Gestational Diabetes"
+        ],
+        "prefix": "10.4172",
+        "volume": "04",
+        "author": [
+          {
+            "given": "Emilio Giugliano",
+            "family": "Elisa Cagnazzo",
+            "sequence": "first",
+            "affiliation": []
+          },
+          {
+            "given": "Brunella Giugliano",
+            "family": "Donatella Caserta",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "member": "2674",
+        "container-title": [
+          "J Diabetes Metab"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              13
+            ]
+          ],
+          "date-time": "2017-04-13T14:14:51Z",
+          "timestamp": 1492092891000
+        },
+        "score": 26.018469,
+        "resource": {
+          "primary": {
+            "URL": "https://www.omicsonline.org/the-prevention-of-gestational-diabetes-2155-6156.1000286.php?aid=17214"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "07",
+          "published-print": {
+            "date-parts": [
+              [
+                2013
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.4172/2155-6156.1000286",
+        "ISSN": [
+          "2155-6156"
+        ],
+        "issn-type": [
+          {
+            "value": "2155-6156",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2025-11-11T15:30:46Z",
+          "timestamp": 1762875046736
+        },
+        "reference-count": 20,
+        "publisher": "American Diabetes Association",
+        "issue": "3",
+        "content-domain": {
+          "domain": [
+            "diabetesjournals.org"
+          ],
+          "crossmark-restriction": true
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.2337/diaspect.19.3.135",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2006,
+              9,
+              19
+            ]
+          ],
+          "date-time": "2006-09-19T22:16:58Z",
+          "timestamp": 1158704218000
+        },
+        "page": "135-139",
+        "update-policy": "http://dx.doi.org/10.2337/ada-journal-policies",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Gestational Diabetes Education and Diabetes Prevention Strategies"
+        ],
+        "prefix": "10.2337",
+        "volume": "19",
+        "author": [
+          {
+            "given": "Alison B.",
+            "family": "Evert",
+            "sequence": "first",
+            "affiliation": []
+          },
+          {
+            "given": "Kathy Vande",
+            "family": "Hei",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "member": "1167",
+        "reference": [
+          {
+            "key": "2022031200264321200_REF1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "American Diabetes Association:Gestational diabetes mellitus (Position Statement). Diabetes Care 27 (Suppl. 1):S88–S90, 2004",
+            "DOI": "10.2337/diacare.27.2007.S88"
+          },
+          {
+            "key": "2022031200264321200_REF2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "American Diabetes Association: Diagnosis and classification of diabetes mellitus (Position Statement). Diabetes Care 28 (Suppl. 1): S37–S42,2005",
+            "DOI": "10.2337/diacare.28.suppl_1.S37"
+          },
+          {
+            "key": "2022031200264321200_REF3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "O'Sullivan JB:Diabetes after GDM. Diabetes 40(Suppl. 2): 131–135,1991",
+            "DOI": "10.2337/diab.40.2.S131"
+          },
+          {
+            "key": "2022031200264321200_REF4",
+            "unstructured": "O'Sullivan JB:Subsequent morbidity among gestational diabetic women. In Carbohydrate Metabolism in Pregnancy and the Newborn.Sutherland HW, Stowers JM, Eds. New York, Churchill Livingstone,1984, p. 174–180"
+          },
+          {
+            "key": "2022031200264321200_REF5",
+            "unstructured": "Ross TA, Boucher JL, O'Connell BS: American Dietetic Association guide to diabetes medical nutrition therapy. In Diabetes in Pregnancy and Lactation. Reader DM, Ed. Chicago, American Dietetic Association,2005, p. 189–197."
+          },
+          {
+            "key": "2022031200264321200_REF6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "American College of Obstetrics and Gynecology: Pregestational diabetes mellitus. ACOG Practice Bulletin – No. 60. Obstet Gynecol 105: 675–685,2005",
+            "DOI": "10.1097/00006250-200503000-00049"
+          },
+          {
+            "key": "2022031200264321200_",
+            "unstructured": "Thomas AM,Gutierrez YM: American Dietetic Association guide to gestational diabetes. In Medical Nutrition Therapy. Guiterrez YM, Reader DM,Eds. Chicago, American Dietetic Association, 2005, p.45–64"
+          },
+          {
+            "key": "2022031200264321200_",
+            "unstructured": "American Dietetic Association: Medical nutrition therapy evidence-based guides for practice:nutrition practice guidelines for gestational diabetes mellitus”[CD-ROM]. Chicago, American Dietetic Association,2001"
+          },
+          {
+            "key": "2022031200264321200_REF9",
+            "unstructured": "Institute of Medicine: Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat,Fatty Acids, Cholesterol, Protein, and Amino Acids(Macronutrients). Washington, D.C., National Academy Press,2002"
+          },
+          {
+            "key": "2022031200264321200_REF10",
+            "unstructured": "Thomas AM,Gutierrez YM: Postpartum considerations. In American Dietetic Association Guide to Gestational Diabetes. Gutierrez YM, Thomas AM, Eds. Chicago, American Dietetic Association, 2005, p.101–113"
+          },
+          {
+            "key": "2022031200264321200_REF11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Stuebe AM,Rich-Edwards JW, Willett WC, Manson JE, Michels KB: Duration of lactation and incidence of type 2 diabetes. JAMA 294: 2601–2610,2005",
+            "DOI": "10.1001/jama.294.20.2601"
+          },
+          {
+            "key": "2022031200264321200_REF12",
+            "unstructured": "McGanity WJ,Dawson EB, Van Hook JW: Maternal nutrition. In Modern Nutrition in Health and Disease. Shils ME, Olson JA, Shine M, Ross AC, Eds. Baltimore, Md., Williams and Wilkins, 1998, p.811–838"
+          },
+          {
+            "key": "2022031200264321200_REF13",
+            "unstructured": "Akers S,Groh-Wargo S: Normal nutrition during infancy. In Handbook of Pediatric Nutrition. 3rd ed. Queen Samour P, King K, Eds. Sudbury, Mass., Jones and Bartlett, 2005, p.75–106"
+          },
+          {
+            "key": "2022031200264321200_REF14",
+            "unstructured": "Insel P, Turner RE, Ross D: Discovering nutrition. In Life Cycle: Maternal and Infant Nutrition. Baer JT, Ed. Sudbury, Mass., Jones and Bartlett, 2003, p. 503"
+          },
+          {
+            "key": "2022031200264321200_REF15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Klein S, Sheard NF, Pi-Sunyer X, Daly A, Wylie-Rosett J, Kulkarni K, Clark NG: Weight management through lifestyle modification for the prevention and management of type 2 diabetes: rationale and strategies. Diabetes Care 27:2067–2073, 2004",
+            "DOI": "10.2337/diacare.27.8.2067"
+          },
+          {
+            "key": "2022031200264321200_REF16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Diabetes Prevention Program Research Group: The Diabetes Prevention Program (DPP): description of lifestyle intervention. Diabetes Care 25: 2165–2171,2002",
+            "DOI": "10.2337/diacare.25.12.2165"
+          },
+          {
+            "key": "2022031200264321200_REF17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Diabetes Prevention Program Research Group: Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med 346: 393–403,2002",
+            "DOI": "10.1056/NEJMoa012512"
+          },
+          {
+            "key": "2022031200264321200_REF18",
+            "unstructured": "Damm P: Contraception after gestational diabetes (Abstract). Presented at the 5th International Workshop-Conference on Gestational Diabetes, 2005, Chicago, Ill.,A59"
+          },
+          {
+            "key": "2022031200264321200_REF19",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kjos Siri L:Postpartum care of the woman with diabetes. Clin Obstet Gynecol 43:75–86, 2000",
+            "DOI": "10.1097/00003081-200003000-00008"
+          },
+          {
+            "key": "2022031200264321200_REF20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "American Diabetes Association: Screening for type 2 diabetes (Position Statement). Diabetes Care 26 (Suppl. 1):S21–S24, 2003",
+            "DOI": "10.2337/diacare.26.2007.S21"
+          }
+        ],
+        "container-title": [
+          "Diabetes Spectrum"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://diabetesjournals.org/spectrum/article-pdf/19/3/135/557141/0135.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "https://diabetesjournals.org/spectrum/article-pdf/19/3/135/557141/0135.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              8
+            ]
+          ],
+          "date-time": "2023-05-08T22:38:17Z",
+          "timestamp": 1683585497000
+        },
+        "score": 25.770718,
+        "resource": {
+          "primary": {
+            "URL": "https://diabetesjournals.org/spectrum/article/19/3/135/2037/Gestational-Diabetes-Education-and-Diabetes"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2006,
+              7,
+              1
+            ]
+          ]
+        },
+        "references-count": 20,
+        "journal-issue": {
+          "issue": "3",
+          "published-print": {
+            "date-parts": [
+              [
+                2006,
+                7,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.2337/diaspect.19.3.135",
+        "ISSN": [
+          "1040-9165",
+          "1944-7353"
+        ],
+        "issn-type": [
+          {
+            "value": "1040-9165",
+            "type": "print"
+          },
+          {
+            "value": "1944-7353",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              7,
+              1
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 5,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

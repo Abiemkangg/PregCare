@@ -1,0 +1,21 @@
+{
+  "id": "41267264",
+  "title": "Disruption of the gut microbiota induces the LCA/TRPV6 signalling axis, impairing desmosome junctions in vitamin A-deficient rats.",
+  "abstract": "Maternal vitamin A deficiency (VAD) is a widespread public health issue, particularly in low- and middle-income countries, and is associated with microbial dysbiosis and impaired intestinal health in offspring. However, the effects of VAD-induced changes in microbiota-derived metabolites on gut barrier integrity and the underlying mechanisms remain poorly understood. To address this, the present study investigated how maternal VAD affects colonic barrier integrity in offspring via secondary bile acids and assessed whether administration of postnatal vitamin A supplementation (VAS) can restore intestinal function. Compared with the vitamin A normal (VAN) group, maternal VAD disturbed the gut microbiota composition, elevated lithocholic acid (LCA) levels (∼ 4.2-fold, p < 0.0001), and impaired colonic epithelial barrier integrity in offspring. Furthermore, maternal VAD significantly increased the mRNA (∼2.8-fold, p = 0.0028) and protein (∼1.6-fold, p = 0.0011) expression levels of transient receptor potential cation channel subfamily V member 6 (TRPV6). Using in vitro Caco-2 cell models, we demonstrated that LCA upregulated TRPV6 expression through vitamin D receptor/retinoid X receptor α (VDR/RXRα), which leads to monolayer epithelial barrier impairment. Importantly, postnatal VAS effectively restored the gut microbiota balance, inhibited the LCA/TRPV6 signalling axis, and restored colonic epithelial barrier function in offspring. Overall, this study elucidates, for the first time, the critical role of the LCA/TRPV6 signalling axis in mediating offspring colonic epithelial barrier dysfunction induced by maternal VAD. Moreover, our findings highlight the therapeutic potential of early postnatal VAS for mitigating gastrointestinal disorders in offspring resulting from maternal vitamin A malnutrition during pregnancy.",
+  "authors": [
+    "Junyan Yan",
+    "Yushuang Wang",
+    "Bei Tong",
+    "Binlin Yuan",
+    "Yuan Miao",
+    "Ting Yang",
+    "Zhujun Sun",
+    "Yuting Wang",
+    "Jie Chen"
+  ],
+  "year": 2025,
+  "doi": "10.1016/j.foodres.2025.117656",
+  "source": "pubmed",
+  "raw_file": "pubmed_pregnancy_vitamin_supplementation_1764074294.xml",
+  "category": "nutrition"
+}

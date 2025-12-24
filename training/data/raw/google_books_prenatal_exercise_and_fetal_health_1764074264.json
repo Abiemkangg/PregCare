@@ -1,0 +1,418 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3NOGeMizQZEC",
+      "etag": "iVyAEP3FmqU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3NOGeMizQZEC",
+      "volumeInfo": {
+        "title": "Physiology of Prenatal Exercise and Fetal Development",
+        "authors": [
+          "Linda E. May"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2012-03-27",
+        "description": "This new SpringerBrief in Physiology explores the newest research findings on how exercise influences the fetus in utero and beyond. Physiology of Prenatal Exercise and Fetal Development reviews the current findings of how maternal exercise throughout gestation influences fetal development of key organ systems, and also encompasses the relationship between maternal activity level and fetal, birth, and neonatal effects. This information will help researchers and scientists better understand the physiological effects of exercise during pregnancy on offspring development.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781461434078"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1461434076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 49,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3NOGeMizQZEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3NOGeMizQZEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=3NOGeMizQZEC&pg=PA27&dq=prenatal+exercise+and+fetal+health&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=3NOGeMizQZEC&dq=prenatal+exercise+and+fetal+health&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Physiology_of_Prenatal_Exercise_and_Feta.html?hl=&id=3NOGeMizQZEC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Physiology_of_Prenatal_Exercise_and_Feta-sample-pdf.acsm?id=3NOGeMizQZEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3NOGeMizQZEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>health</b>- care provider intervention throughout gestation may be more effective than other times due to the frequent nature of <b>prenatal</b> visits, this does not explain why so little women <b>exercise</b> during <b>pregnancy</b>. This may be explained by&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E3B_DwAAQBAJ",
+      "etag": "SpcQh8a1Md8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E3B_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Exercise and Sporting Activity During Pregnancy",
+        "subtitle": "Evidence-Based Guidelines",
+        "authors": [
+          "Rita Santos-Rocha"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2018-12-13",
+        "description": "This clinically and practice oriented, multidisciplinary book is intended to fill the gap between evidence-based knowledge on the benefits of physical activity and exercise during pregnancy and the implementation of exercise programmes and related health promotion measures in pregnant women. It will provide medical, sports, and fitness professionals both with the knowledge needed to allay undue fears regarding the consequences of exercising during pregnancy and with the practical expertise to offer optimal guidance on exercising to pregnant exercisers and athletes. Readers will find up-to-date evidence on the psychological, social, physiological, body composition, musculoskeletal, and biomechanical changes that occur during pregnancy and their implications for physical activity and exercise. Detailed descriptions are provided of the components of exercise testing and prescription for pregnant women, the current evidence-based and practice-oriented guidelines, and exercise selection and adaptation during pregnancy. Exercises specifically targeting musculoskeletal health are discussed separately, and a concluding chapter explains the nutritional requirements in pregnant women who exercise.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783319910321"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3319910329"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 355,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E3B_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E3B_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=E3B_DwAAQBAJ&pg=PA191&dq=prenatal+exercise+and+fetal+health&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=E3B_DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=E3B_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2612597,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1828818,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=E3B_DwAAQBAJ&rdid=book-E3B_DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2612597000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1828818000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_and_Sporting_Activity_During_Pr-sample-epub.acsm?id=E3B_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_and_Sporting_Activity_During_Pr-sample-pdf.acsm?id=E3B_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E3B_DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>exercise</b>. 7. Similar work is needed to create an improved evidence base concerning the effects of occupational <b>physical activity</b> on maternal–<b>fetal health</b>. The first step before planning to start or continuing an <b>exercise</b> program during&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WV2YEAAAQBAJ",
+      "etag": "rea762qaBw4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WV2YEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Exercise and Physical Activity During Pregnancy and Postpartum",
+        "subtitle": "Evidence-Based Guidelines",
+        "authors": [
+          "Rita Santos-Rocha"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2022-10-26",
+        "description": "This is the second edition of a well-received, practice oriented, multidisciplinary book filling the gap between evidence-based knowledge on the benefits of physical activity and exercise during pregnancy and postpartum and the implementation of exercise programs and related health promotion measures in pregnant women. Readers will find up-to-date evidence on the psychological, social, physiological, body composition, musculoskeletal, and biomechanical changes that occur during pregnancy and their implications for physical activity and exercise. Further, the authors equip the reader with the latest guidelines and detailed description of exercise testing, prescription, selection and adaptation for pregnant and postpartum women, including those with clinical conditions. This new edition has been thoroughly updated, and includes additional chapters focused on the pedagogical intervention in pre and postnatal exercise programs, exercise prescription and adaptation during postpartum and diet recommendations for the pregnant exerciser and athlete. Written by recognized experts in the field, the book aims to allay undue fears regarding the consequences of exercising during pregnancy. Moreover, it provides medical, sports, and fitness professionals both with the knowledge and the practical expertise needed to offer an optimal guidance on exercising to pregnant exercisers and athletes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783031061370"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3031061373"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 489,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WV2YEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WV2YEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=WV2YEAAAQBAJ&pg=PA214&dq=prenatal+exercise+and+fetal+health&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WV2YEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WV2YEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2177132,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1523992,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WV2YEAAAQBAJ&rdid=book-WV2YEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2177132000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1523992000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_and_Physical_Activity_During_Pr-sample-epub.acsm?id=WV2YEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_and_Physical_Activity_During_Pr-sample-pdf.acsm?id=WV2YEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WV2YEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... pregnant women to do <b>exercise</b> during <b>pregnancy</b>? Acta Medica Iranica. 2014;52(6):458–61. 27. van Poppel M, Owe K, Santos-Rocha R, Dias H, Oviedo-Caro MA. <b>Physical activity</b>, <b>exercise</b>, and <b>health</b> promotion for the pregnant exerciser and the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P-9FAAAAYAAJ",
+      "etag": "RV7YnGfFq+c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P-9FAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Nutrition & Adolescent Pregnancy",
+        "subtitle": "A Selected Annotated Bibliography",
+        "publishedDate": "1986",
+        "description": "Abstract: Teen pregnancies are considered by many professionals in both public and private sectors to be a serious national health problem. Nutritional, health, social, and educational risks are higher in this group than in the general population. To assist professionals concerned with improving the health of teenage mothers and their babies, this annotated bibliography was developed through public and private sector efforts. It is a guide to resources on topics related to nutrition and adolescent pregnancy. Divided into two major sections, the first lists selected articles and books that include psychological, psychosocial, and nutritional aspects of adolescent pregnancy as well as counseling and assessment techniques and model service programs. Abstracts of educational materials that include teaching tools for nutrition counseling, handouts, posters/films, and curricula/resource materials. Nutrition reference questionnaires and evaluation worksheets are included.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924084898646"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Pregnancy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P-9FAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P-9FAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=P-9FAAAAYAAJ&q=prenatal+exercise+and+fetal+health&dq=prenatal+exercise+and+fetal+health&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=P-9FAAAAYAAJ&dq=prenatal+exercise+and+fetal+health&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nutrition_Adolescent_Pregnancy.html?hl=&id=P-9FAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P-9FAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Selected Annotated Bibliography. <b>EXERCISE</b>. DURING. <b>PREGNANCY</b>. Effect of Short - Term Maternal <b>Exercise</b> on Maternal and <b>Fetal</b> ... <b>health</b> care professionals . Topics include : a review of the effects of ... <b>Prenatal</b> period 92 Ethnicity and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6ysrEQAAQBAJ",
+      "etag": "iKp0QwyvDb8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6ysrEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Women in Psychiatry 2023: Perinatal Psychiatry",
+        "authors": [
+          "Soudabeh Givrad",
+          "Alison Hermann ",
+          " Laura Orsolini"
+        ],
+        "publisher": "Frontiers Media SA",
+        "publishedDate": "2024-10-21",
+        "description": "At present, less than 30% of researchers worldwide are women. Long-standing biases and gender stereotypes are discouraging girls and women away from science-related fields, and STEM research in particular. Science and gender equality are, however, essential to ensure sustainable development as highlighted by UNESCO. In order to change traditional mindsets, gender equality must be promoted, stereotypes defeated, and girls and women should be encouraged to pursue STEM careers. Therefore, Frontiers in Psychiatry is proud to offer this platform to promote the work of women scientists, across all fields of Psychiatry. The work presented here highlights the diversity of research performed across the entire breadth of Psychiatry research and presents advances in theory, experiment, and methodology with applications to compelling problems.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782832555767"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2832555764"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6ysrEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6ysrEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=6ysrEQAAQBAJ&pg=PA27&dq=prenatal+exercise+and+fetal+health&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=6ysrEQAAQBAJ&dq=prenatal+exercise+and+fetal+health&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Women_in_Psychiatry_2023_Perinatal_Psych.html?hl=&id=6ysrEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Women_in_Psychiatry_2023_Perinatal_Psych-sample-pdf.acsm?id=6ysrEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6ysrEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>pregnancy</b> and stigma against mental <b>health</b>, present a unique challenge in the prevention, screening, and management of mental <b>health</b> concerns in the clinical settings (1, 6). Disparities in the distance to <b>healthcare</b>, <b>health</b> literacy&nbsp;..."
+      }
+    }
+  ]
+}

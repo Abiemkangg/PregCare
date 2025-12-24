@@ -1,0 +1,44 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "7520",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "41284139",
+      "41282747",
+      "41269698",
+      "41267556",
+      "41267065",
+      "41263077",
+      "41261882",
+      "41257686",
+      "41255671",
+      "41251690",
+      "41235310",
+      "41230537",
+      "41230535",
+      "41229170",
+      "41228563",
+      "41228473",
+      "41228433",
+      "41226915",
+      "41223853",
+      "41219681"
+    ],
+    "translationset": [
+      {
+        "from": "gestational diabetes",
+        "to": "\"diabetes, gestational\"[MeSH Terms] OR (\"diabetes\"[All Fields] AND \"gestational\"[All Fields]) OR \"gestational diabetes\"[All Fields] OR (\"gestational\"[All Fields] AND \"diabetes\"[All Fields])"
+      },
+      {
+        "from": "prevention",
+        "to": "\"prevent\"[All Fields] OR \"preventability\"[All Fields] OR \"preventable\"[All Fields] OR \"preventative\"[All Fields] OR \"preventatively\"[All Fields] OR \"preventatives\"[All Fields] OR \"prevented\"[All Fields] OR \"preventing\"[All Fields] OR \"prevention and control\"[Subheading] OR (\"prevention\"[All Fields] AND \"control\"[All Fields]) OR \"prevention and control\"[All Fields] OR \"prevention\"[All Fields] OR \"prevention's\"[All Fields] OR \"preventions\"[All Fields] OR \"preventive\"[All Fields] OR \"preventively\"[All Fields] OR \"preventives\"[All Fields] OR \"prevents\"[All Fields]"
+      }
+    ],
+    "querytranslation": "(\"diabetes gestational\"[MeSH Terms] OR (\"diabetes\"[All Fields] AND \"gestational\"[All Fields]) OR \"gestational diabetes\"[All Fields] OR (\"gestational\"[All Fields] AND \"diabetes\"[All Fields])) AND (\"prevent\"[All Fields] OR \"preventability\"[All Fields] OR \"preventable\"[All Fields] OR \"preventative\"[All Fields] OR \"preventatively\"[All Fields] OR \"preventatives\"[All Fields] OR \"prevented\"[All Fields] OR \"preventing\"[All Fields] OR \"prevention and control\"[MeSH Subheading] OR (\"prevention\"[All Fields] AND \"control\"[All Fields]) OR \"prevention and control\"[All Fields] OR \"prevention\"[All Fields] OR \"prevention s\"[All Fields] OR \"preventions\"[All Fields] OR \"preventive\"[All Fields] OR \"preventively\"[All Fields] OR \"preventives\"[All Fields] OR \"prevents\"[All Fields])"
+  }
+}

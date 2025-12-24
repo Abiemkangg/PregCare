@@ -1,0 +1,21 @@
+{
+  "id": "41213787",
+  "title": "Updating the impact of mRNA COVID-19 vaccine exposure during pregnancy on obstetric and neonatal outcomes.",
+  "abstract": "Being a new vaccine platform, continuous monitoring of the mRNA COVID-19 vaccines in pregnant women is of critical importance. This systematic review and meta-analysis evaluate the maternal and neonatal outcomes associated with mRNA COVID-19 vaccination during pregnancy. We conducted a systematic search of PubMed, Embase, Cochrane Library, and clinical trial registries for studies published between December 2020 and July 2024. Studies were included if they assessed obstetric and neonatal outcomes following mRNA COVID-19 vaccination in pregnant women. Data were extracted and analyzed using a random-effects model to calculate pooled odds ratios (ORs) and 95 % confidence intervals (CIs). Fifteen studies met the inclusion criteria, encompassing 42,944 vaccinated and 183,733 unvaccinated pregnant women. mRNA vaccination was associated with a significant reduction in preterm delivery (OR 0.743, 95 % CI 0.607-0.911), fetal distress (OR 0.699, 95 % CI 0.546-0.893), neonatal congenital abnormalities (OR 0.712, 95 % CI 0.570-0.889), and NICU admissions (OR 0.718, 95 % CI 0.617-0.836). However, a slight increase in gestational diabetes risk was observed (OR 1.107, 95 % CI 1.054-1.162). mRNA COVID-19 vaccines are safe during pregnancy and associated with reduced risks of adverse obstetric and neonatal outcomes. An observed marginal increase in gestational diabetes risk underscores the need for continuous monitoring. These findings support the inclusion of pregnant women in vaccination campaigns and inform public health policies and clinical practices to improve maternal and neonatal health outcomes.",
+  "authors": [
+    "Frank Adusei-Mensah",
+    "Olubunmi Olubamwo",
+    "Sunday Olaleye",
+    "Laboni Akter",
+    "Oluwafemi Samson Balogun",
+    "Rethabile Joyce Moshoeshoe",
+    "Luqman Awoniyi",
+    "Adedayo Olawuni",
+    "Jussi Kauhanen"
+  ],
+  "year": 2025,
+  "doi": "10.1016/j.tjog.2025.07.022",
+  "source": "pubmed",
+  "raw_file": "pubmed_maternal_nutrition_during_pregnancy_1762890998.xml",
+  "category": "psychology"
+}

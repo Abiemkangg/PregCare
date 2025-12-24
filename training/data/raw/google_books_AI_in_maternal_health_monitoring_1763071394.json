@@ -1,0 +1,450 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "yOUWEQAAQBAJ",
+      "etag": "davdKXsZXVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yOUWEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Modernizing Maternal Care With Digital Technologies",
+        "authors": [
+          "Takale, Dattatray",
+          "Mahalle, Parikshit",
+          "Narvekar, Meera",
+          "Mahajan, Rupali"
+        ],
+        "publisher": "IGI Global",
+        "publishedDate": "2024-07-26",
+        "description": "In the ever-evolving landscape of maternal healthcare, expectant mothers face a myriad of challenges, from pregnancy complications to postpartum care. Traditional approaches often fail to provide timely and personalized interventions, leading to suboptimal outcomes for both mother and child. The lack of practical tools and strategies to address these complexities underscores the pressing need for innovative solutions that can revolutionize maternal care. Modernizing Maternal Care With Digital Technologies leads the way, offering a comprehensive solution that harnesses the power of modern technology and soft computing techniques to foster environments that improve maternal patient outcomes. This pioneering book delves into the transformative role of artificial intelligence (AI), data analytics, and wearable devices in reshaping maternal care. The book presents a paradigm shift in how expectant mothers can be supported throughout their pregnancy journey by highlighting the significance of predictive modeling and real-time monitoring.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798369337127"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yOUWEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yOUWEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=yOUWEQAAQBAJ&pg=PA278&dq=AI+in+maternal+health+monitoring&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yOUWEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yOUWEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8503532,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 5952472,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yOUWEQAAQBAJ&rdid=book-yOUWEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8503532000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 5952472000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Modernizing_Maternal_Care_With_Digital_T-sample-pdf.acsm?id=yOUWEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yOUWEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>AI</b>-based early warning systems <b>monitor maternal</b> and fetal <b>health</b> parameters in real-time, detecting signs of distress and prompting timely interventions to prevent adverse outcomes. • Personalized <b>Care</b> Plans: <b>AI</b>-driven algorithms&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Lwp_EQAAQBAJ",
+      "etag": "jNxhal6N2yQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Lwp_EQAAQBAJ",
+      "volumeInfo": {
+        "title": "Artificial Intelligence in Healthcare",
+        "subtitle": "Second International Conference, AIiH 2025, Cambridge, UK, September 8–10, 2025, Proceedings, Part II",
+        "authors": [
+          "Daniele Cafolla",
+          "Timothy Rittman",
+          "Hao Ni"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2025-08-19",
+        "description": "The two-volume set constitutes the proceedings of the Second International Conference on Artificial Intelligence in Healthcare, AIiH 2025, which took place in Cambridge, UK, in September 2025. The 60 full papers included in this book were carefully reviewed and selected from 83 submissions. They were organized in topical sections as follows: Health informatics, Personalised Healthcare, Robotics, Assisted Living Technology, Computational Medicine, Long-term Health Conditions, Maternity and Women’s Health and Wellbeing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783032006561"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3032006562"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Lwp_EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Lwp_EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=Lwp_EQAAQBAJ&pg=PA74&dq=AI+in+maternal+health+monitoring&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Lwp_EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Lwp_EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1088468,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 761928,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Lwp_EQAAQBAJ&rdid=book-Lwp_EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1088468000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 761928000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Artificial_Intelligence_in_Healthcare-sample-epub.acsm?id=Lwp_EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Artificial_Intelligence_in_Healthcare-sample-pdf.acsm?id=Lwp_EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Lwp_EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Maternal Health Monitoring</b> in Online Communities Zhen Zhu ID Kent Business School , University of Kent , Canterbury CT2 7FS , UK z.zhu@kent.ac.uk updates Abstract . Digital <b>maternity</b> support communities are growing in pop- ularity&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OWN4EQAAQBAJ",
+      "etag": "RaTE0UdgKJM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OWN4EQAAQBAJ",
+      "volumeInfo": {
+        "title": "Early Maternal and Child Health Management and the Impact of Living Environment",
+        "authors": [
+          "Hong Lu",
+          "Lihua Ren",
+          " Kathleen Marion Baird",
+          "Jiasi Yao"
+        ],
+        "publisher": "Frontiers Media SA",
+        "publishedDate": "2025-08-08",
+        "description": "Maternal and newborn health stands as a pivotal force in societal progress, aligning with the United Nations' Sustainable Development Goals (SDGs) that aim to diminish maternal mortality, reduce morbidity, and eliminate preventable deaths among women and infants. Over the past few decades, this field has burgeoned into a critical area of study, garnering attention from various disciplines such as obstetrics, gynecology, midwifery, nursing, psychology, and psychiatry. Evidence-based practices have catalyzed improvements in various health domains, ranging from managing complex pregnancies to fostering natural labor progression, promoting breastfeeding, and nurturing early parenthood. In light of contemporary global challenges, environmental alterations emerge as predominant health concerns significantly amplifying the vulnerability of women and infants. Issues like climate change, indoor and outdoor air pollution, and emerging environmental pollutants have spurred substantial attention towards the interaction between the environment and maternal-child health. Adverse environmental exposures may directly affect the health of mothers and children, perpetuating intergenerational consequences. A nuanced understanding of these effects and mechanisms is essential to safeguard maternal and child health.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782832565223"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2832565220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OWN4EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OWN4EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=OWN4EQAAQBAJ&pg=PA111&dq=AI+in+maternal+health+monitoring&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=OWN4EQAAQBAJ&dq=AI+in+maternal+health+monitoring&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Early_Maternal_and_Child_Health_Manageme.html?hl=&id=OWN4EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Early_Maternal_and_Child_Health_Manageme-sample-pdf.acsm?id=OWN4EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OWN4EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>monitoring</b>, several benefits of the proposed model can be observed. In terms of real-time performance and ... <b>AI</b> models like LightGBM can introduce biases if the training data is not representative of diverse populations&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GjfaEAAAQBAJ",
+      "etag": "Tu24A/Wt0Q0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GjfaEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Predicting Pregnancy Complications Through Artificial Intelligence and Machine Learning",
+        "authors": [
+          "Satishkumar, D.",
+          "Maniiarasan, P."
+        ],
+        "publisher": "IGI Global",
+        "publishedDate": "2023-09-25",
+        "description": "Artificial intelligence models are being used to make labor and delivery safer for mothers and newborns. Sensors are exploited to gauge health parameters, and machine learning techniques are investigated to predict the health conditions of patients to assist medical practitioners. This is a critical area of study as maternal and infant health are indispensable for a healthy society. Predicting Pregnancy Complications Through Artificial Intelligence and Machine Learning considers the recent advances, challenges, and best practices of artificial intelligence and machine learning in relation to pregnancy complications. Covering key topics such as pregnancy complications, wearable sensors, and healthcare technologies, this premier reference source is ideal for nurses, doctors, computer scientists, medical professionals, industry professionals, researchers, academicians, scholars, instructors, and students.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668489765"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668489767"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GjfaEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GjfaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=GjfaEAAAQBAJ&pg=PA128&dq=AI+in+maternal+health+monitoring&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GjfaEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GjfaEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6192790,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 4334953,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GjfaEAAAQBAJ&rdid=book-GjfaEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6192790000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4334953000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Predicting_Pregnancy_Complications_Throu-sample-pdf.acsm?id=GjfaEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GjfaEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... medical data. In the context of <b>pregnancy</b>, <b>AI</b> has been applied to areas such as prenatal screening, fetal imaging, and <b>maternal health monitoring</b>. Some of the key applications of <b>AI</b> in the field of <b>pregnancy</b> complications include&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zxqDEQAAQBAJ",
+      "etag": "H5uj3RgmACw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zxqDEQAAQBAJ",
+      "volumeInfo": {
+        "title": "AI For All Bridging the Power of Artificial Intelligence with Society, Innovation, and Sustainable Development",
+        "authors": [
+          "Prof. (Dr.) N.K. Joshi",
+          "Prof. (Dr.) M. K. Sharma",
+          "Dr. Prashant Kumar "
+        ],
+        "publisher": "Chyren Publication",
+        "publishedDate": "2025-08-05",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789371431231"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9371431237"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 371,
+        "printType": "BOOK",
+        "categories": [
+          "Antiques & Collectibles"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zxqDEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zxqDEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=zxqDEQAAQBAJ&pg=PA21&dq=AI+in+maternal+health+monitoring&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=zxqDEQAAQBAJ&dq=AI+in+maternal+health+monitoring&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/AI_For_All_Bridging_the_Power_of_Artific.html?hl=&id=zxqDEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/AI_For_All_Bridging_the_Power_of_Artific-sample-pdf.acsm?id=zxqDEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zxqDEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>maternal health</b>. For instance, predictive analytics can detect early risk factors of gestational diabetes or pre ... <b>monitoring</b> systems <b>monitor</b> key <b>maternal health</b> indicators, such as glucose levels and blood pressure, flagging red&nbsp;..."
+      }
+    }
+  ]
+}

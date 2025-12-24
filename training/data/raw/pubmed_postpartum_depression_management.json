@@ -1,0 +1,44 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "2642",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "41287486",
+      "41263829",
+      "20301677",
+      "41257609",
+      "41256097",
+      "41253652",
+      "41250967",
+      "41250073",
+      "41249991",
+      "41244798",
+      "41241467",
+      "41239309",
+      "41237953",
+      "30000958",
+      "41232220",
+      "41229355",
+      "41200219",
+      "41198075",
+      "41180037",
+      "41179789"
+    ],
+    "translationset": [
+      {
+        "from": "postpartum depression",
+        "to": "\"depression, postpartum\"[MeSH Terms] OR (\"depression\"[All Fields] AND \"postpartum\"[All Fields]) OR \"postpartum depression\"[All Fields] OR (\"postpartum\"[All Fields] AND \"depression\"[All Fields])"
+      },
+      {
+        "from": "management",
+        "to": "\"manage\"[All Fields] OR \"managed\"[All Fields] OR \"management's\"[All Fields] OR \"managements\"[All Fields] OR \"manager\"[All Fields] OR \"manager's\"[All Fields] OR \"managers\"[All Fields] OR \"manages\"[All Fields] OR \"managing\"[All Fields] OR \"managment\"[All Fields] OR \"organization and administration\"[MeSH Terms] OR (\"organization\"[All Fields] AND \"administration\"[All Fields]) OR \"organization and administration\"[All Fields] OR \"management\"[All Fields] OR \"disease management\"[MeSH Terms] OR (\"disease\"[All Fields] AND \"management\"[All Fields]) OR \"disease management\"[All Fields]"
+      }
+    ],
+    "querytranslation": "(\"depression postpartum\"[MeSH Terms] OR (\"depression\"[All Fields] AND \"postpartum\"[All Fields]) OR \"postpartum depression\"[All Fields] OR (\"postpartum\"[All Fields] AND \"depression\"[All Fields])) AND (\"manage\"[All Fields] OR \"managed\"[All Fields] OR \"management s\"[All Fields] OR \"managements\"[All Fields] OR \"manager\"[All Fields] OR \"manager s\"[All Fields] OR \"managers\"[All Fields] OR \"manages\"[All Fields] OR \"managing\"[All Fields] OR \"managment\"[All Fields] OR \"organization and administration\"[MeSH Terms] OR (\"organization\"[All Fields] AND \"administration\"[All Fields]) OR \"organization and administration\"[All Fields] OR \"management\"[All Fields] OR \"disease management\"[MeSH Terms] OR (\"disease\"[All Fields] AND \"management\"[All Fields]) OR \"disease management\"[All Fields])"
+  }
+}

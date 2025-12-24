@@ -1,0 +1,2059 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 1833878,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              3
+            ]
+          ],
+          "date-time": "2022-04-03T07:48:53Z",
+          "timestamp": 1648972133235
+        },
+        "reference-count": 0,
+        "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+        "issue": "19",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Postgraduate Obstetrics &amp; Gynecology"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1097/01.pgo.0000334543.11435.f7",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              9,
+              7
+            ]
+          ],
+          "date-time": "2013-09-07T01:40:13Z",
+          "timestamp": 1378518013000
+        },
+        "page": "6",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Fetal Health Assessment Using Prenatal Diagnostic Techniques"
+        ],
+        "prefix": "10.1097",
+        "volume": "28",
+        "author": [
+          {
+            "family": "&NA;",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "276",
+        "container-title": [
+          "Postgraduate Obstetrics &amp; Gynecology"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://journals.lww.com/10.1097/01.PGO.0000334543.11435.f7",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              13
+            ]
+          ],
+          "date-time": "2021-05-13T19:32:21Z",
+          "timestamp": 1620934341000
+        },
+        "score": 23.206123,
+        "resource": {
+          "primary": {
+            "URL": "http://journals.lww.com/00256406-200810150-00002"
+          }
+        },
+        "subtitle": [
+          "CME QUIZ:Volume 28, Number 19"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "19"
+        },
+        "URL": "https://doi.org/10.1097/01.pgo.0000334543.11435.f7",
+        "ISSN": [
+          "0194-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "0194-3898",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              2
+            ]
+          ],
+          "date-time": "2022-04-02T12:51:29Z",
+          "timestamp": 1648903889675
+        },
+        "reference-count": 27,
+        "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+        "issue": "2",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1097/gco.0b013e3282f73242",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              3,
+              5
+            ]
+          ],
+          "date-time": "2009-03-05T16:20:12Z",
+          "timestamp": 1236270012000
+        },
+        "page": "152-156",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Fetal health assessment using prenatal diagnostic techniques"
+        ],
+        "prefix": "10.1097",
+        "volume": "20",
+        "author": [
+          {
+            "given": "James F",
+            "family": "Smith",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "276",
+        "reference": [
+          {
+            "key": "R1-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "1006",
+            "DOI": "10.1016/0002-9378(53)90625-5",
+            "article-title": "A study of fetal distress, its interpretation and significance",
+            "volume": "65",
+            "author": "McCall",
+            "year": "1953",
+            "journal-title": "Am J Obstet Gynecol"
+          },
+          {
+            "key": "R2-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1016/j.ejogrb.2006.03.002",
+            "article-title": "How often is a low 5-min Apgar score in term newborns due to asphyxia?",
+            "volume": "130",
+            "author": "Hogan",
+            "year": "2006",
+            "journal-title": "Eur J Obstet Gynecol Reprod Biol"
+          },
+          {
+            "key": "R3-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "301.e1",
+            "DOI": "10.1016/j.ajog.2007.06.053",
+            "article-title": "Intrapartum electronic fetal heart rate monitoring and the identification of metabolic acidosis and hypoxic-ischemic encephalopathy",
+            "volume": "197",
+            "author": "Larma",
+            "year": "2007",
+            "journal-title": "Am J Obstet Gynecol"
+          },
+          {
+            "key": "R4-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "656",
+            "DOI": "10.1097/01.AOG.0000230533.62760.ef",
+            "article-title": "Intrapartum electronic fetal heart rate monitoring and the prevention of perinatal brain injury",
+            "volume": "108",
+            "author": "Graham",
+            "year": "2006",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "R5-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1016/j.clp.2007.03.010",
+            "article-title": "Medical legal issues in fetal monitoring",
+            "volume": "34",
+            "author": "Schifrin",
+            "year": "2007",
+            "journal-title": "Clin Perinatol"
+          },
+          {
+            "key": "R6-14-20210129",
+            "first-page": "267",
+            "article-title": "Antepartum fetal evaluation",
+            "author": "Druzin",
+            "year": "2007"
+          },
+          {
+            "key": "R7-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1016/j.nurt.2007.04.003",
+            "article-title": "Beware: the misuse of technology and the law of unintended consequences",
+            "volume": "4",
+            "author": "Freeman",
+            "year": "2007",
+            "journal-title": "Neurotherapeutics"
+          },
+          {
+            "key": "R8-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "236.e1",
+            "DOI": "10.1016/j.ajog.2007.03.063",
+            "article-title": "The intrapartum deceleration in center stage: a physiologic approach to the interpretation of fetal heart rate changes in labor",
+            "volume": "197",
+            "author": "Westgate",
+            "year": "2007",
+            "journal-title": "Am J Obstet Gynecol"
+          },
+          {
+            "key": "R9-14-20210129",
+            "first-page": "3156",
+            "article-title": "New approach to quantitative description of deceleration of fetal heart rate for the patterns classification",
+            "volume": "1",
+            "author": "Labaj",
+            "year": "2007",
+            "journal-title": "Conf Proc IEEE Eng Biol Soc"
+          },
+          {
+            "key": "R10-14-20210129",
+            "first-page": "5170",
+            "article-title": "Some practical remarks on neural networks approach to fetal cardiotocograms classification",
+            "volume": "1",
+            "author": "Jezewski",
+            "year": "2007",
+            "journal-title": "Conf Proc IEEE Eng Med BIol Soc"
+          },
+          {
+            "key": "R12-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "1191",
+            "DOI": "10.1111/j.1471-0528.2007.01479.x",
+            "article-title": "Fetal electrocardiogram: ST waveform analysis in intrapartum surveillance",
+            "volume": "114",
+            "author": "Amer-Wahlin",
+            "year": "2007",
+            "journal-title": "BJOG"
+          },
+          {
+            "key": "R13-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "1202",
+            "DOI": "10.1111/j.1471-0528.2007.01480.x",
+            "article-title": "Review of the first 1502 cases of ECG-ST waveform analysis during labour in a teaching hospital",
+            "volume": "114",
+            "author": "Doria",
+            "year": "2007",
+            "journal-title": "BJOG"
+          },
+          {
+            "key": "R14-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "408",
+            "DOI": "10.1515/JPM.2007.097",
+            "article-title": "Fetal scalp pH and ST analysis of the fetal ECG as an adjunct to cardiotocography to predict fetal acidosis in labor",
+            "volume": "35",
+            "author": "Noren",
+            "year": "2007",
+            "journal-title": "J Perinat Med"
+          },
+          {
+            "key": "R15-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "819",
+            "DOI": "10.1111/j.1471-0528.2007.01369.x",
+            "article-title": "Change in heart rate variability in relation to a significant ST-event associates with newborn metabolic acidosis",
+            "volume": "114",
+            "author": "Siira",
+            "year": "2007",
+            "journal-title": "BJOG"
+          },
+          {
+            "key": "R16-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1080/14767050601055279",
+            "article-title": "Fetal ST segment heart rate analysis in labor: improvement of intervention criteria using interpolated base deficit",
+            "volume": "20",
+            "author": "Mansano",
+            "year": "2007",
+            "journal-title": "J Matern Fetal Neonatal Med"
+          },
+          {
+            "key": "R17-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "534",
+            "DOI": "10.1016/S0140-6736(01)05703-8",
+            "article-title": "Cardiotocography only versus cardiotocography plus ST analysis of fetal echocardiogram for intrapartum fetal monitoring: a Swedish randomized controlled trial",
+            "volume": "358",
+            "author": "Amer-Wahlin",
+            "year": "2001",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "R18-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "729",
+            "DOI": "10.1016/j.ajog.2006.06.002",
+            "article-title": "United States multicenter clinical usage study of the STAN 21 electonic fetal monitoring system",
+            "volume": "195",
+            "author": "Devoe",
+            "year": "2006",
+            "journal-title": "Am J Obstet Gynecol"
+          },
+          {
+            "key": "R19-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "299.e1",
+            "DOI": "10.1016/j.ajog.2007.07.007",
+            "article-title": "A French randomized controlled trial of ST-segment analysis in a population with abnormal cardiotocograms during labor",
+            "volume": "197",
+            "author": "Vayssiere",
+            "year": "2007",
+            "journal-title": "Am J Obstet Gynecol"
+          },
+          {
+            "key": "R20-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "1194",
+            "DOI": "10.1111/j.1471-0528.2007.01236.x",
+            "article-title": "Limitations of ST analysis in clinical practice: three cases of intrapartum metabolic acidosis",
+            "volume": "114",
+            "author": "Westerhaus",
+            "year": "2007",
+            "journal-title": "BJOG"
+          },
+          {
+            "key": "R21-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "408",
+            "DOI": "10.1515/JPM.2001.057",
+            "article-title": "Monitoring the fetal heart noninvasively: a review of methods",
+            "volume": "29",
+            "author": "Peters",
+            "year": "2001",
+            "journal-title": "J Perinat Med"
+          },
+          {
+            "key": "R22-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "118",
+            "DOI": "10.1007/BF02345275",
+            "article-title": "Compact long-term recorder for the transabdominal foetal and maternal electrocardiogram",
+            "volume": "39",
+            "author": "Pieri",
+            "year": "2001",
+            "journal-title": "Med Biol Eng Comput"
+          },
+          {
+            "key": "R23-14-20210129",
+            "first-page": "3282",
+            "article-title": "The novel method for the fetal electrocardiogram extraction from the abdominal signal",
+            "volume": "1",
+            "author": "Song",
+            "year": "2007",
+            "journal-title": "Conf Proc IEEE Eng Biol Soc"
+          },
+          {
+            "key": "R24-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1088/0967-3334/28/4/004",
+            "article-title": "A robust fetal ECG detection method for abdominal recordings",
+            "volume": "28",
+            "author": "Martens",
+            "year": "2007",
+            "journal-title": "Physiol Meas"
+          },
+          {
+            "key": "R25-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "478",
+            "DOI": "10.1097/GRF.0b013e31804bdd98",
+            "article-title": "The 20-week scan: beyond biometry and anatomy",
+            "volume": "50",
+            "author": "Bahado-Singh",
+            "year": "2007",
+            "journal-title": "Clin Obstet Gynecol"
+          },
+          {
+            "key": "R26-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1097/01.AOG.0000253215.79121.75",
+            "article-title": "Predictors of neonatal outcome in early-onset placental dysfunction",
+            "volume": "109",
+            "author": "Baschat",
+            "year": "2007",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "R27-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "250",
+            "DOI": "10.1097/01.AOG.0000254964.11691.af",
+            "article-title": "Doppler of the ductus venosus in severe preterm fetal growth restriction: a test in search of a purpose?",
+            "volume": "109",
+            "author": "Ghidini",
+            "year": "2007",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "R28-14-20210129",
+            "doi-asserted-by": "crossref",
+            "first-page": "156",
+            "DOI": "10.1056/NEJMoa052855",
+            "article-title": "Doppler ultrasonography versus amniocentesis to predict fetal anemia",
+            "volume": "355",
+            "author": "Oepkes",
+            "year": "2006",
+            "journal-title": "NEJM"
+          }
+        ],
+        "container-title": [
+          "Current Opinion in Obstetrics &amp; Gynecology"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://journals.lww.com/10.1097/GCO.0b013e3282f73242",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              14
+            ]
+          ],
+          "date-time": "2021-05-14T00:47:17Z",
+          "timestamp": 1620953237000
+        },
+        "score": 23.05831,
+        "resource": {
+          "primary": {
+            "URL": "https://journals.lww.com/00001703-200804000-00014"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              4
+            ]
+          ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+          "issue": "2",
+          "published-print": {
+            "date-parts": [
+              [
+                2008
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1097/gco.0b013e3282f73242",
+        "ISSN": [
+          "1040-872X"
+        ],
+        "issn-type": [
+          {
+            "value": "1040-872X",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              4
+            ]
+          ],
+          "date-time": "2022-04-04T10:31:54Z",
+          "timestamp": 1649068314010
+        },
+        "reference-count": 23,
+        "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+        "issue": "19",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Postgraduate Obstetrics &amp; Gynecology"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1097/01.pgo.0000334542.03811.63",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              9,
+              7
+            ]
+          ],
+          "date-time": "2013-09-07T01:40:13Z",
+          "timestamp": 1378518013000
+        },
+        "page": "1-5",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Fetal Health Assessment Using Prenatal Diagnostic Techniques"
+        ],
+        "prefix": "10.1097",
+        "volume": "28",
+        "author": [
+          {
+            "suffix": "Jr.",
+            "given": "James F.",
+            "family": "Smith",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "276",
+        "reference": [
+          {
+            "key": "R1-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "1006",
+            "DOI": "10.1016/0002-9378(53)90625-5",
+            "volume": "65",
+            "author": "McCall",
+            "year": "1953",
+            "journal-title": "Am J Obstet Gynecol"
+          },
+          {
+            "key": "R2-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1016/j.ejogrb.2006.03.002",
+            "volume": "130",
+            "author": "Hogan",
+            "year": "2006",
+            "journal-title": "Eur J Obstet Gynecol Reprod Biol"
+          },
+          {
+            "key": "R4-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "656",
+            "DOI": "10.1097/01.AOG.0000230533.62760.ef",
+            "volume": "108",
+            "author": "Graham",
+            "year": "2006",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "R5-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1016/j.clp.2007.03.010",
+            "volume": "34",
+            "author": "Schifrin",
+            "year": "2007",
+            "journal-title": "Clin Perinatol"
+          },
+          {
+            "key": "R7-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1016/j.nurt.2007.04.003",
+            "volume": "4",
+            "author": "Freeman",
+            "year": "2007",
+            "journal-title": "Neurotherapeutics"
+          },
+          {
+            "key": "R9-1-20130906",
+            "first-page": "3156",
+            "volume": "1",
+            "author": "Labaj",
+            "year": "2007",
+            "journal-title": "Conf Proc IEEE Eng Biol Soc"
+          },
+          {
+            "key": "R10-1-20130906",
+            "first-page": "5170",
+            "volume": "1",
+            "author": "Jezewski",
+            "year": "2007",
+            "journal-title": "Conf Proc IEEE Eng Med BIol Soc"
+          },
+          {
+            "key": "R12-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "1191",
+            "DOI": "10.1111/j.1471-0528.2007.01479.x",
+            "volume": "114",
+            "author": "Amer-Wahlin",
+            "year": "2007",
+            "journal-title": "BJOG"
+          },
+          {
+            "key": "R13-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "1202",
+            "DOI": "10.1111/j.1471-0528.2007.01480.x",
+            "volume": "114",
+            "author": "Doria",
+            "year": "2007",
+            "journal-title": "BJOG"
+          },
+          {
+            "key": "R14-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "408",
+            "DOI": "10.1515/JPM.2007.097",
+            "volume": "35",
+            "author": "Noren",
+            "year": "2007",
+            "journal-title": "J Perinat Med"
+          },
+          {
+            "key": "R15-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "819",
+            "DOI": "10.1111/j.1471-0528.2007.01369.x",
+            "volume": "114",
+            "author": "Siira",
+            "year": "2007",
+            "journal-title": "BJOG"
+          },
+          {
+            "key": "R16-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1080/14767050601055279",
+            "volume": "20",
+            "author": "Mansano",
+            "year": "2007",
+            "journal-title": "J Matern Fetal Neonatal Med"
+          },
+          {
+            "key": "R17-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "534",
+            "DOI": "10.1016/S0140-6736(01)05703-8",
+            "volume": "358",
+            "author": "Amer-Wahlin",
+            "year": "2001",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "R18-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "729",
+            "DOI": "10.1016/j.ajog.2006.06.002",
+            "volume": "195",
+            "author": "Devoe",
+            "year": "2006",
+            "journal-title": "Am J Obstet Gynecol"
+          },
+          {
+            "key": "R20-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "1194",
+            "DOI": "10.1111/j.1471-0528.2007.01236.x",
+            "volume": "114",
+            "author": "Westerhuis",
+            "year": "2007",
+            "journal-title": "BJOG"
+          },
+          {
+            "key": "R21-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "408",
+            "DOI": "10.1515/JPM.2001.057",
+            "volume": "29",
+            "author": "Peters",
+            "year": "2001",
+            "journal-title": "J Perinat Med"
+          },
+          {
+            "key": "R22-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "118",
+            "DOI": "10.1007/BF02345275",
+            "volume": "39",
+            "author": "Pieri",
+            "year": "2001",
+            "journal-title": "Med Biol Eng Comput"
+          },
+          {
+            "key": "R23-1-20130906",
+            "first-page": "3282",
+            "volume": "1",
+            "author": "Song",
+            "year": "2007",
+            "journal-title": "Conf Proc IEEE Eng Biol Soc"
+          },
+          {
+            "key": "R24-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1088/0967-3334/28/4/004",
+            "volume": "28",
+            "author": "Martens",
+            "year": "2007",
+            "journal-title": "Physiol Meas"
+          },
+          {
+            "key": "R25-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "478",
+            "DOI": "10.1097/GRF.0b013e31804bdd98",
+            "volume": "50",
+            "author": "Bahado-Singh",
+            "year": "2007",
+            "journal-title": "Clin Obstet Gynecol"
+          },
+          {
+            "key": "R26-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1097/01.AOG.0000253215.79121.75",
+            "volume": "109",
+            "author": "Baschat",
+            "year": "2007",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "R27-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "250",
+            "DOI": "10.1097/01.AOG.0000254964.11691.af",
+            "volume": "109",
+            "author": "Ghidini",
+            "year": "2007",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "R28-1-20130906",
+            "doi-asserted-by": "crossref",
+            "first-page": "156",
+            "DOI": "10.1056/NEJMoa052855",
+            "volume": "355",
+            "author": "Oepkes",
+            "year": "2006",
+            "journal-title": "New Engl J Med"
+          }
+        ],
+        "container-title": [
+          "Postgraduate Obstetrics &amp; Gynecology"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://journals.lww.com/10.1097/01.PGO.0000334542.03811.63",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              13
+            ]
+          ],
+          "date-time": "2021-05-13T19:32:20Z",
+          "timestamp": 1620934340000
+        },
+        "score": 23.006779,
+        "resource": {
+          "primary": {
+            "URL": "http://journals.lww.com/00256406-200810150-00001"
+          }
+        },
+        "subtitle": [
+          ""
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        },
+        "references-count": 23,
+        "journal-issue": {
+          "issue": "19"
+        },
+        "URL": "https://doi.org/10.1097/01.pgo.0000334542.03811.63",
+        "ISSN": [
+          "0194-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "0194-3898",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              29
+            ]
+          ],
+          "date-time": "2025-10-29T02:22:14Z",
+          "timestamp": 1761704534127,
+          "version": "build-2065373602"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "issue": "S1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2015,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2015-04-01T00:00:00Z",
+              "timestamp": 1427846400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "faseb.onlinelibrary.wiley.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "The FASEB Journal"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              4
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Over 30% of children, as young as 6 years, are overweight or obese with increased risk factors of heart disease. Excess adipose, especially abdominal, is associated with increased risk of heart disease. Research has shown an association between obesity, cardiovascular disease, and autonomic imbalance. It has been suggested that a major focus of disease prevention should target the prenatal period, since this is a critical time of organ development. Our previous studies found prenatal exercise is associated with improved fetal, infant, and child heart health and autonomic control. Though these results are promising, exercise was self‐reported and subject to bias. Therefore we conducted a preliminary exercise intervention study with the goal to test the hypothesis that prenatal exercise intervention will improve fetal and infant measures of heart rate (HR), obesity, and nervous system development. Participants either exercised (5+45 min,3X per wk,16‐36 wks pregnant) or did not. Statistical analyses included t‐tests &amp; ANOVA. Preliminary data show lower HR and adipose accumulation, with increased HR variability and neurodevelopmental scores in fetus and infants of exercisers compared to offspring of controls. This study is of public import regarding prevention of heart disease and obesity by targeting the critical time period before birth in order to improve child health, potentially decrease health care costs, while being a safe, low‐cost, non‐pharmacologic intervention available to the general public.</jats:p>",
+        "DOI": "10.1096/fasebj.29.1_supplement.1055.28",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              6,
+              21
+            ]
+          ],
+          "date-time": "2021-06-21T12:49:05Z",
+          "timestamp": 1624279745000
+        },
+        "update-policy": "https://doi.org/10.1002/crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Influence of Prenatal Exercise on Fetal/Infant Health"
+        ],
+        "prefix": "10.1096",
+        "volume": "29",
+        "author": [
+          {
+            "given": "Linda",
+            "family": "May",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>1</sup></label>--> Foundational Sciences and Research East Carolina University (ECU) Greenville NC United States"
+              },
+              {
+                "name": "<!--<label><sup>2</sup></label>--> Obstetrics &amp; Gynecology ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "Diana",
+            "family": "Strickland",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>2</sup></label>--> Obstetrics &amp; Gynecology ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "Ed",
+            "family": "Newton",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>2</sup></label>--> Obstetrics &amp; Gynecology ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "Amy",
+            "family": "Gross McMillan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>3</sup></label>--> Physical Therapy ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "Dennis",
+            "family": "Steed",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>4</sup></label>--> Pediatric Cardiology ECU Greenville NC United States"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Biko",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "<!--<label><sup>5</sup></label>--> Pediatric Radiology Children's Hospital of Philadelphia Philadelphia PA United States"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "The FASEB Journal"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              28
+            ]
+          ],
+          "date-time": "2025-10-28T21:58:23Z",
+          "timestamp": 1761688703000
+        },
+        "score": 22.145666,
+        "resource": {
+          "primary": {
+            "URL": "https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.29.1_supplement.1055.28"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              4
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "S1",
+          "published-print": {
+            "date-parts": [
+              [
+                2015,
+                4
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1096/fasebj.29.1_supplement.1055.28"
+        ],
+        "URL": "https://doi.org/10.1096/fasebj.29.1_supplement.1055.28",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0892-6638",
+          "1530-6860"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0892-6638"
+          },
+          {
+            "type": "electronic",
+            "value": "1530-6860"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              4
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "2015-04-01",
+            "order": 3,
+            "name": "published",
+            "label": "Published",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          }
+        ],
+        "article-number": "1055.28"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              7
+            ]
+          ],
+          "date-time": "2025-08-07T20:23:40Z",
+          "timestamp": 1754598220552,
+          "version": "3.40.3"
+        },
+        "publisher-location": "New York, NY",
+        "reference-count": 70,
+        "publisher": "Springer New York",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9781461406037"
+          },
+          {
+            "type": "electronic",
+            "value": "9781461406044"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2014,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2014-01-01T00:00:00Z",
+              "timestamp": 1388534400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2014,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2014-01-01T00:00:00Z",
+              "timestamp": 1388534400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-1-4614-0604-4_20",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              7,
+              2
+            ]
+          ],
+          "date-time": "2014-07-02T15:40:19Z",
+          "timestamp": 1404315619000
+        },
+        "page": "219-232",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Prenatal Maternal-Fetal Imaging for Global Health Radiology"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Toma",
+            "family": "Omonuwa",
+            "sequence": "first",
+            "affiliation": []
+          },
+          {
+            "given": "Maria",
+            "family": "Small",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Sujata",
+            "family": "Ghate",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2014,
+              5,
+              31
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "issue": "9726",
+            "key": "20_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "1609",
+            "DOI": "10.1016/S0140-6736(10)60518-1",
+            "volume": "375",
+            "author": "MC Hogan",
+            "year": "2010",
+            "unstructured": "Hogan MC, Foreman KJ, Naghavi M, et al. Maternal mortality for 181 countries, 1980-2008: a systematic analysis of progress towards Millennium Development Goal 5. Lancet. 2010;375(9726):1609–23.",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "20_CR2",
+            "unstructured": "World Health Organization, UNICEF, UNFPA, The World Bank. Trends in maternal mortality 1990-2010. http://www.who.int/reproductivehealth/publications/monitoring/9789241503631/en/index.html. Accessed 10 July 2012."
+          },
+          {
+            "issue": "9462",
+            "key": "20_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "891",
+            "DOI": "10.1016/S0140-6736(05)71048-5",
+            "volume": "365",
+            "author": "JE Lawn",
+            "year": "2005",
+            "unstructured": "Lawn JE, Cousens S, Zupan J, Lancet Neonatal Survival Steering Team. 4 million neonatal deaths: when, where, why? Lancet. 2005;365(9462):891–900.",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "20_CR4",
+            "unstructured": "World Health Organization. Achieving Millennium Development Goal 5: target 5A and 5B on reducing maternal mortality and achieving universal access to reproductive health. http://whqlibdoc.who.int/hq/2009/WHO_RHR_09.06. Accessed 10 July 2012."
+          },
+          {
+            "issue": "2",
+            "key": "20_CR5",
+            "first-page": "77",
+            "volume": "1",
+            "author": "N Nour",
+            "year": "2008",
+            "unstructured": "Nour N. An introduction to maternal mortality. Rev Obstet Gynecol. 2008;1(2):77–81.",
+            "journal-title": "Rev Obstet Gynecol"
+          },
+          {
+            "key": "20_CR6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Oestergaard MZ, Inoue M, Yoshida S, Mahanani WR, Gore FM, Cousens S, Lawn JE, Mathers CD, on behalf of the United Nations Inter-agency Group for Child Mortality Estimation and the Child Health Epidemiology Reference Group. Neonatal mortality levels for 193 countries in 2009 with trends since 1990: a systematic analysis of progress, projections, and priorities. PLoS Med. 2011;8(8):e1001080.",
+            "DOI": "10.1371/journal.pmed.1001080"
+          },
+          {
+            "issue": "9730",
+            "key": "20_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "2032",
+            "DOI": "10.1016/S0140-6736(10)60678-2",
+            "volume": "375",
+            "author": "ZA Bhutta",
+            "year": "2010",
+            "unstructured": "Bhutta ZA, Chopra M, Axelson H, et al. Countdown to 2015 decade report (2000-10): taking stock of maternal, newborn, and child survival. Lancet. 2010;375(9730):2032–44.",
+            "journal-title": "Lancet"
+          },
+          {
+            "issue": "9516",
+            "key": "20_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "1066",
+            "DOI": "10.1016/S0140-6736(06)68397-9",
+            "volume": "367",
+            "author": "KS Khan",
+            "year": "2006",
+            "unstructured": "Khan KS, Wojdyla D, Say L, Gulmezoglu AM, Van Look PFA. WHO analysis of causes of maternal death: a systematic review. Lancet. 2006;367(9516):1066–74.",
+            "journal-title": "Lancet"
+          },
+          {
+            "issue": "1",
+            "key": "20_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "S21",
+            "DOI": "10.1016/j.ijgo.2009.07.017",
+            "volume": "107",
+            "author": "GJ Hofmeyr",
+            "year": "2009",
+            "unstructured": "Hofmeyr GJ, Haws RA, Bergstrom S, Lee AC, Okong P, Darmstadt GL, Mullany LC, Oo EK, Lawn JE. Obstetric care in low-resource settings: what, who, and how to overcome challenges to scale up? Int J Gynaecol Obstet. 2009;107(1):S21–44, S44-5.",
+            "journal-title": "Int J Gynaecol Obstet"
+          },
+          {
+            "issue": "9456",
+            "key": "20_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "347",
+            "DOI": "10.1016/S0140-6736(05)17791-5",
+            "volume": "365",
+            "author": "JD Sachs",
+            "year": "2005",
+            "unstructured": "Sachs JD, McArthur JW. The Millenium Project: a plan for meeting the Millenium Development Goals. Lancet. 2005;365(9456):347–53.",
+            "journal-title": "Lancet"
+          },
+          {
+            "issue": "9543",
+            "key": "20_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "1284",
+            "DOI": "10.1016/S0140-6736(06)69381-1",
+            "volume": "368",
+            "author": "OMR Campbell",
+            "year": "2006",
+            "unstructured": "Campbell OMR, Graham WJ. Strategies for reducing maternal mortality: getting on with what works. Lancet. 2006;368(9543):1284–99.",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "20_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "398",
+            "DOI": "10.1148/radiol.2322030504",
+            "volume": "232",
+            "author": "MC Frates",
+            "year": "2004",
+            "unstructured": "Frates MC, Kumar AJ, Benson CB, Ward VL, Tempany CM. Fetal anomalies: comparison of MR Imaging and US for diagnosis. Radiology. 2004;232:398–404.",
+            "journal-title": "Radiology"
+          },
+          {
+            "key": "20_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "250",
+            "DOI": "10.1097/GRF.0b013e3181a4c2d5",
+            "volume": "52",
+            "author": "JD Seffah",
+            "year": "2009",
+            "unstructured": "Seffah JD, Adanu RM. Obstetric ultrasonography in low-income countries. Clin Obstet Gynecol. 2009;52:250–5.",
+            "journal-title": "Clin Obstet Gynecol"
+          },
+          {
+            "issue": "2",
+            "key": "20_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "446",
+            "DOI": "10.1016/S0002-9378(99)70577-6",
+            "volume": "181",
+            "author": "H Grandjean",
+            "year": "1999",
+            "unstructured": "Grandjean H, Larroque D, Levi S. The performance of routine ultrasonographic screening of pregnancies in the Eurofetus Study. Am J Obstet Gynecol. 1999;181(2):446.",
+            "journal-title": "Am J Obstet Gynecol"
+          },
+          {
+            "issue": "8",
+            "key": "20_CR15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1067",
+            "DOI": "10.7863/jum.2009.28.8.1067",
+            "volume": "28",
+            "author": "RD Harris",
+            "year": "2009",
+            "unstructured": "Harris RD, Marks WM. Compact US for improving maternal and perinatal care in low-resource setting: review of potential benefits, implementation, challenges and public health issues. J Ultrasound Med. 2009;28(8):1067–76.",
+            "journal-title": "J Ultrasound Med"
+          },
+          {
+            "key": "20_CR16",
+            "doi-asserted-by": "publisher",
+            "first-page": "2",
+            "DOI": "10.1002/uog.11184",
+            "volume": "40",
+            "author": "A Sayasneh",
+            "year": "2012",
+            "unstructured": "Sayasneh A, Preisler J, Smith A, Saso S, Naji O, Abdallah Y, Stalder C, Daemen A, et al. Do pocket-sized ultrasound machines have the potential to be used as a tool to triage patients in obstetrics and gynecology? Ultrasound Obstet Gynecol. 2012;40:2.",
+            "journal-title": "Ultrasound Obstet Gynecol"
+          },
+          {
+            "issue": "6",
+            "key": "20_CR17",
+            "first-page": "73",
+            "volume": "42",
+            "author": "TE Goldner",
+            "year": "1993",
+            "unstructured": "Goldner TE, Lawson HW, Xia Z, Atrash HK. Surveillance for ectopic pregnancy—United States, 1970-1989. MMWR CDC Surveill Summ. 1993;42(6):73–85.",
+            "journal-title": "MMWR CDC Surveill Summ"
+          },
+          {
+            "issue": "3",
+            "key": "20_CR18",
+            "first-page": "46",
+            "volume": "44",
+            "author": "CDC",
+            "year": "1995",
+            "unstructured": "CDC. Ectopic pregnancy—United States, 1990-1992. MMWR Morb Mortal Wkly Rep. 1995;44(3):46–8. 145-150.",
+            "journal-title": "MMWR Morb Mortal Wkly Rep"
+          },
+          {
+            "issue": "6",
+            "key": "20_CR19",
+            "first-page": "565",
+            "volume": "69",
+            "author": "T Sy",
+            "year": "2009",
+            "unstructured": "Sy T, Diallo Y, Toure A, et al. Management of ectopic pregnancy in Conakry, Guinea. Med Trop (Mars). 2009;69(6):565–8.",
+            "journal-title": "Med Trop (Mars)"
+          },
+          {
+            "issue": "1",
+            "key": "20_CR20",
+            "doi-asserted-by": "publisher",
+            "first-page": "14",
+            "DOI": "10.1016/j.gyobfe.2005.11.001",
+            "volume": "34",
+            "author": "M Nayama",
+            "year": "2006",
+            "unstructured": "Nayama M, Gallais A, Ousmane N, et al. Management of ectopic pregnancy in developing countries: example of a Nigerian reference maternity. Gynecol Obstet Fertil. 2006;34(1):14–8.",
+            "journal-title": "Gynecol Obstet Fertil"
+          },
+          {
+            "issue": "7",
+            "key": "20_CR21",
+            "doi-asserted-by": "publisher",
+            "first-page": "1905",
+            "DOI": "10.1148/rg.287085060",
+            "volume": "28",
+            "author": "WC Baughman",
+            "year": "2008",
+            "unstructured": "Baughman WC, Corteville JE, Shah RR. Placenta accreta: spectrum of US and MR imaging findings. Radiographics. 2008;28(7):1905–16.",
+            "journal-title": "Radiographics"
+          },
+          {
+            "key": "20_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "434",
+            "DOI": "10.1046/j.1469-0705.1998.12060434.x",
+            "volume": "12",
+            "author": "KO Oyelese",
+            "year": "1998",
+            "unstructured": "Oyelese KO, Schwarzler P, Coates S, Sanusi FA, Hamid R, Campbell S. A strategy for reducing the mortality rate from vasa previa using transvaginal sonography with color Doppler. Ultrasound Obstet Gynecol. 1998;12:434–8.",
+            "journal-title": "Ultrasound Obstet Gynecol"
+          },
+          {
+            "issue": "8",
+            "key": "20_CR23",
+            "first-page": "629",
+            "volume": "53",
+            "author": "JL Hou",
+            "year": "2008",
+            "unstructured": "Hou JL, Wan XR, Xiang Y, Qi QW, Yang XY. Changes of clinical features in hydatidiform mole: analysis of 113 cases. J Reprod Med. 2008;53(8):629–33.",
+            "journal-title": "J Reprod Med"
+          },
+          {
+            "issue": "9550",
+            "key": "20_CR24",
+            "doi-asserted-by": "publisher",
+            "first-page": "1908",
+            "DOI": "10.1016/S0140-6736(06)69481-6",
+            "volume": "368",
+            "author": "DA Grimes",
+            "year": "2006",
+            "unstructured": "Grimes DA, Benson J, Singh S, Romero M, Ganatra B, Okonofua FE, Shah IH. Unsafe abortion: the preventable pandemic. Lancet. 2006;368(9550):1908–19.",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "20_CR25",
+            "volume-title": "Unsafe abortion: global and regional estimates of the incidence of unsafe abortion and associated mortality in 2000",
+            "author": "WHO",
+            "year": "2004",
+            "unstructured": "WHO. Unsafe abortion: global and regional estimates of the incidence of unsafe abortion and associated mortality in 2000. 4th ed. Geneva: World Health Organization; 2004.",
+            "edition": "4"
+          },
+          {
+            "issue": "Suppl 1",
+            "key": "20_CR26",
+            "doi-asserted-by": "publisher",
+            "first-page": "s52",
+            "DOI": "10.1016/j.ijgo.2004.01.010",
+            "volume": "85",
+            "author": "J Hussein",
+            "year": "2004",
+            "unstructured": "Hussein J, Fortney JA. Puerperal sepsis and maternal mortality: what role can new technologies play? Int J Gynaecol Obset. 2004;85 Suppl 1:s52–61.",
+            "journal-title": "Int J Gynaecol Obset"
+          },
+          {
+            "issue": "3",
+            "key": "20_CR27",
+            "doi-asserted-by": "publisher",
+            "first-page": "249",
+            "DOI": "10.1097/QCO.0b013e328339257c",
+            "volume": "23",
+            "author": "J van Dillen",
+            "year": "2010",
+            "unstructured": "van Dillen J, Zwart J, et al. Maternal sepsis: epidemiology, etiology and outcome. Curr Opin Infect Dis. 2010;23(3):249–54.",
+            "journal-title": "Curr Opin Infect Dis"
+          },
+          {
+            "key": "20_CR28",
+            "volume-title": "Health dimensions of sex and reproduction: the global burden of sexually transmitted diseases, maternal conditions, perinatal disorders, and congenital anomalies",
+            "author": "C Abouzahr",
+            "year": "1998",
+            "unstructured": "Abouzahr C, Aaahman E, Guidotti R. Puerperal sepsis and other puerperal infections. In: Murray CJL, Lopez AD, editors. Health dimensions of sex and reproduction: the global burden of sexually transmitted diseases, maternal conditions, perinatal disorders, and congenital anomalies. Geneva: WHO; 1998."
+          },
+          {
+            "issue": "4",
+            "key": "20_CR29",
+            "doi-asserted-by": "publisher",
+            "first-page": "388",
+            "DOI": "10.1002/uog.5225",
+            "volume": "31",
+            "author": "BO Verburg",
+            "year": "2008",
+            "unstructured": "Verburg BO, Steegers EAP, De Ridder M, Snijders RJM, Smith E, Hofman A, Moll HA, Jaddoe VWV, Witteman JCM. New charts for ultrasound dating of pregnancy and assessment of fetal growth: longitudinal data from a population-based cohort study. Ultrasound Obstet Gynecol. 2008;31(4):388–96.",
+            "journal-title": "Ultrasound Obstet Gynecol"
+          },
+          {
+            "issue": "5",
+            "key": "20_CR30",
+            "doi-asserted-by": "publisher",
+            "first-page": "1289",
+            "DOI": "10.1542/peds.2004-1482",
+            "volume": "115",
+            "author": "T Markestad",
+            "year": "2005",
+            "unstructured": "Markestad T, Kaaresen PI, Ronnestad A, Reigstad H, Lossius K, Medbo S, Zanussi G, Engelund IE, Skjaerven R, Irgens LM. Early death, morbidity, and need for treatment among extremely premature infants. Pediatrics. 2005;115(5):1289–98.",
+            "journal-title": "Pediatrics"
+          },
+          {
+            "issue": "2",
+            "key": "20_CR31",
+            "doi-asserted-by": "crossref",
+            "first-page": "499",
+            "DOI": "10.1148/radiology.177.2.2217791",
+            "volume": "177",
+            "author": "CB Benson",
+            "year": "1990",
+            "unstructured": "Benson CB, Belville JS, Lentini JF, Saltzman DH, Doubilet PM. Intrauterine growth retardation: diagnosis based on multiple parameters—a prospective study. Radiology. 1990;177(2):499–502.",
+            "journal-title": "Radiology"
+          },
+          {
+            "issue": "6453",
+            "key": "20_CR32",
+            "doi-asserted-by": "publisher",
+            "first-page": "1179",
+            "DOI": "10.1136/bmj.289.6453.1179",
+            "volume": "289",
+            "author": "JP Nielson",
+            "year": "1984",
+            "unstructured": "Nielson JP, Munjanja SP, Whitfield CR. Screening for small for dates fetuses: a controlled trial. BMJ. 1984;289(6453):1179–82.",
+            "journal-title": "BMJ"
+          },
+          {
+            "issue": "6",
+            "key": "20_CR33",
+            "doi-asserted-by": "publisher",
+            "first-page": "899",
+            "DOI": "10.1016/S0029-7844(99)00640-7",
+            "volume": "95",
+            "author": "A Conde-Agudelo",
+            "year": "2000",
+            "unstructured": "Conde-Agudelo A, Belizan J, Lindmark G. Maternal morbidity and mortality associated with multiple gestations. Obstet Gynecol. 2000;95(6):899–904.",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "issue": "4",
+            "key": "20_CR34",
+            "doi-asserted-by": "publisher",
+            "first-page": "685",
+            "DOI": "10.1016/S0029-7844(03)00616-1",
+            "volume": "102",
+            "author": "B Kahn",
+            "year": "2003",
+            "unstructured": "Kahn B, Lumey LH, Zybert PA, Lorenz JM, Cleary-Goodman J, D’Alton ME, Robinson JN. Prospective risk of fetal death in singleton, twin and triplet gestations: implications for practice. Obstet Gynecol. 2003;102(4):685–92.",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "20_CR35",
+            "doi-asserted-by": "publisher",
+            "first-page": "1203",
+            "DOI": "10.1111/j.1471-0528.1997.tb10948.x",
+            "volume": "104",
+            "author": "NJ Sebire",
+            "year": "1997",
+            "unstructured": "Sebire NJ, Snijders RJM, Huges K, Sepulveda W, Nicolaides KH. The hidden mortality of monochorionic twin pregnancies. BJOG. 1997;104:1203–7.",
+            "journal-title": "BJOG"
+          },
+          {
+            "key": "20_CR36",
+            "doi-asserted-by": "publisher",
+            "first-page": "68",
+            "DOI": "10.1148/radiology.220.1.r01jl1468",
+            "volume": "220",
+            "author": "I Trop",
+            "year": "2001",
+            "unstructured": "Trop I. The twin peak sign. Radiology. 2001;220:68–9.",
+            "journal-title": "Radiology"
+          },
+          {
+            "issue": "6",
+            "key": "20_CR37",
+            "doi-asserted-by": "publisher",
+            "first-page": "421",
+            "DOI": "10.1046/j.1469-0705.1996.07060421.x",
+            "volume": "7",
+            "author": "W Sepulveda",
+            "year": "1996",
+            "unstructured": "Sepulveda W, Sebire NJ, Hughes K, Odibo A, Nicolaides KH. The lambda sign at 10-14 weeks of gestation as a predictor of chorionicity in twin pregnancies. Ultrasound Obstet Gynecol. 1996;7(6):421–3.",
+            "journal-title": "Ultrasound Obstet Gynecol"
+          },
+          {
+            "issue": "5",
+            "key": "20_CR38",
+            "doi-asserted-by": "publisher",
+            "first-page": "338",
+            "DOI": "10.1053/j.semperi.2005.08.002",
+            "volume": "29",
+            "author": "E Norwitz",
+            "year": "2005",
+            "unstructured": "Norwitz E, Edusa V, Park J. Maternal physiology and complications of multiple pregnancy. Semin Perinatol. 2005;29(5):338–48.",
+            "journal-title": "Semin Perinatol"
+          },
+          {
+            "key": "20_CR39",
+            "doi-asserted-by": "publisher",
+            "first-page": "310",
+            "DOI": "10.1097/00006254-199705000-00023",
+            "volume": "52",
+            "author": "L Carbillon",
+            "year": "1997",
+            "unstructured": "Carbillon L, Oury JF, Guerin JM, Azancot A, Blot P. Clinical biological features of Ballantyne syndrome and the role of placental hydrops. Obstet Gynaecol Surv. 1997;52:310–4.",
+            "journal-title": "Obstet Gynaecol Surv"
+          },
+          {
+            "issue": "2",
+            "key": "20_CR40",
+            "doi-asserted-by": "publisher",
+            "first-page": "201",
+            "DOI": "10.1016/S0301-2115(99)00147-5",
+            "volume": "88",
+            "author": "DY Midgley",
+            "year": "2000",
+            "unstructured": "Midgley DY, Harding K. The Mirror Syndrome. Eur J Obstet Gynecol Reprod Med. 2000;88(2):201–2.",
+            "journal-title": "Eur J Obstet Gynecol Reprod Med"
+          },
+          {
+            "key": "20_CR41",
+            "doi-asserted-by": "publisher",
+            "first-page": "191",
+            "DOI": "10.1159/000305096",
+            "volume": "27",
+            "author": "T Braun",
+            "year": "2010",
+            "unstructured": "Braun T, Brauer M, Fuchs I, Czernik C, Dudenhausen JW, Henrich W, Sarioglu N. Mirror syndrome: a systematic review of fetal associated conditions, maternal presentation and perinatal outcome. Fetal Diagn Ther. 2010;27:191–203.",
+            "journal-title": "Fetal Diagn Ther"
+          },
+          {
+            "issue": "5",
+            "key": "20_CR42",
+            "doi-asserted-by": "publisher",
+            "first-page": "599",
+            "DOI": "10.1002/uog.6328",
+            "volume": "33",
+            "author": "MR Torloni",
+            "year": "2009",
+            "unstructured": "Torloni MR, Vedmedovska N, Merialdi M, Betrán AP, Allen T, González R, Platt LD. Safety of ultrasonography in pregnancy: WHO systematic review of the literature and meta-analysis. Ultrasound Obstet Gynecol. 2009;33(5):599–608.",
+            "journal-title": "Ultrasound Obstet Gynecol"
+          },
+          {
+            "key": "20_CR43",
+            "unstructured": "American Institute of Ultrasound in Medicine, Official Statement, Prudent Use and Clinical Safety, American Institute of Ultrasound in Medicine, March 2007."
+          },
+          {
+            "key": "20_CR44",
+            "unstructured": "Center for Devices and Radiological Health. Information for manufacturers seeking marketing clearance of diagnostic ultrasound systems and transducers. www.fda.gov/cdrh/ode/ulstran.pdf"
+          },
+          {
+            "issue": "3",
+            "key": "20_CR45",
+            "doi-asserted-by": "publisher",
+            "first-page": "519",
+            "DOI": "10.1111/j.1728-4457.2009.00295.x",
+            "volume": "35",
+            "author": "CZ Guilmoto",
+            "year": "2009",
+            "unstructured": "Guilmoto CZ. The Sex Ratio Transition in Asia. Popul Dev Rev. 2009;35(3):519–49.",
+            "journal-title": "Popul Dev Rev"
+          },
+          {
+            "key": "20_CR46",
+            "doi-asserted-by": "publisher",
+            "first-page": "245",
+            "DOI": "10.1002/uog.7320",
+            "volume": "34",
+            "author": "FA Chervenak",
+            "year": "2009",
+            "unstructured": "Chervenak FA, McCullough LB. Sex determination by ultrasound: ethical challenges of sex ratio imbalances and invidious discrimination. Ultrasound Obstet Gynecol. 2009;34:245.",
+            "journal-title": "Ultrasound Obstet Gynecol"
+          },
+          {
+            "issue": "4",
+            "key": "20_CR47",
+            "doi-asserted-by": "publisher",
+            "first-page": "1083",
+            "DOI": "10.1525/aa.2001.103.4.1083",
+            "volume": "103",
+            "author": "BD Miller",
+            "year": "2001",
+            "unstructured": "Miller BD. Female-selective abortion in Asia: patterns, polices, and debates. Am Anthropol. 2001;103(4):1083–95.",
+            "journal-title": "Am Anthropol"
+          },
+          {
+            "issue": "4",
+            "key": "20_CR48",
+            "doi-asserted-by": "publisher",
+            "first-page": "5",
+            "DOI": "10.1162/016228802753696753",
+            "volume": "26",
+            "author": "VM Hudson",
+            "year": "2002",
+            "unstructured": "Hudson VM, Den Boer A. A surplus of men, a deficit of peace: security and sex ratios in Asia’s largest states. Int Secur. 2002;26(4):5–38.",
+            "journal-title": "Int Secur"
+          },
+          {
+            "key": "20_CR49",
+            "unstructured": "Li S. Imbalanced sex ratio at birth and comprehensive intervention in China. Presentation at 4th Asia Pacific Conference on Reproductive and Sexual Health and Rights, Hyderabad, 2007 Oct 29–31. www.unfpa.org/gender/docs/studies/china.pdf. Accessed Sept 2012."
+          },
+          {
+            "issue": "7427",
+            "key": "20_CR50",
+            "doi-asserted-by": "publisher",
+            "first-page": "1297",
+            "DOI": "10.1136/bmj.327.7427.1297",
+            "volume": "327",
+            "author": "A Sen",
+            "year": "2003",
+            "unstructured": "Sen A. Missing women—revisited. BMJ. 2003;327(7427):1297–8.",
+            "journal-title": "BMJ"
+          },
+          {
+            "issue": "9464",
+            "key": "20_CR51",
+            "doi-asserted-by": "publisher",
+            "first-page": "1009",
+            "DOI": "10.1016/S0140-6736(05)71118-1",
+            "volume": "365",
+            "author": "C Renzetti",
+            "year": "2005",
+            "unstructured": "Renzetti C. Gender-based violence. Lancet. 2005;365(9464):1009–10.",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "20_CR52",
+            "unstructured": "UNFPA. Sex-selective abortions and fertility decline: the case of Haryana and Punjab. United Nations Population Fund, New Delhi; 2001."
+          },
+          {
+            "key": "20_CR53",
+            "first-page": "1289",
+            "volume": "14",
+            "author": "A Bumgarner",
+            "year": "2007",
+            "unstructured": "Bumgarner A. A Right to Choose?: Sex Selection in the International Context. Duke J Gend Law Policy. 2007;14:1289.",
+            "journal-title": "Duke J Gend Law Policy"
+          },
+          {
+            "issue": "3",
+            "key": "20_CR54",
+            "doi-asserted-by": "publisher",
+            "first-page": "287",
+            "DOI": "10.1016/j.ijgo.2007.09.021",
+            "volume": "100",
+            "author": "CO Chigbu",
+            "year": "2008",
+            "unstructured": "Chigbu CO, Odugu B, Okezie O. Implications of incorrect determination of fetal sex by ultrasound. Int J Gynaecol Obstet. 2008;100(3):287–90.",
+            "journal-title": "Int J Gynaecol Obstet"
+          },
+          {
+            "issue": "29",
+            "key": "20_CR55",
+            "doi-asserted-by": "publisher",
+            "first-page": "163",
+            "DOI": "10.1016/S0968-8080(06)29280-2",
+            "volume": "15",
+            "author": "T Gammeltoft",
+            "year": "2007",
+            "unstructured": "Gammeltoft T, Nguyen HT. The commodification of obstetric ultrasound scanning in Hanoi, Viet Nam. Reprod Health Matters. 2007;15(29):163–71.",
+            "journal-title": "Reprod Health Matters"
+          },
+          {
+            "issue": "6",
+            "key": "20_CR56",
+            "first-page": "332",
+            "volume": "16",
+            "author": "HS Kohli",
+            "year": "2003",
+            "unstructured": "Kohli HS. Ultrasound scanning in pregnancy: the hope and the shame. Natl Med J India. 2003;16(6):332–33.",
+            "journal-title": "Natl Med J India"
+          },
+          {
+            "issue": "8",
+            "key": "20_CR57",
+            "doi-asserted-by": "publisher",
+            "first-page": "875",
+            "DOI": "10.1080/01443610400018775",
+            "volume": "24",
+            "author": "PI Okonta",
+            "year": "2004",
+            "unstructured": "Okonta PI, Okogbenin SA, Adeoye-Sunday I. Pregnant Nigerian woman’s view of her prenatal sex determination. J Obstet Gynaecol. 2004;24(8):875–7.",
+            "journal-title": "J Obstet Gynaecol"
+          },
+          {
+            "issue": "11",
+            "key": "20_CR58",
+            "doi-asserted-by": "publisher",
+            "first-page": "2248",
+            "DOI": "10.1016/j.socscimed.2007.02.015",
+            "volume": "64",
+            "author": "T Gammeltoft",
+            "year": "2007",
+            "unstructured": "Gammeltoft T, Nguyen HT. Fetal conditions and fatal decisions: ethical dilemmas in ultrasound screening in Vietnam. Soc Sci Med. 2007;64(11):2248–59.",
+            "journal-title": "Soc Sci Med"
+          },
+          {
+            "issue": "5",
+            "key": "20_CR59",
+            "doi-asserted-by": "publisher",
+            "first-page": "698",
+            "DOI": "10.1016/S0277-9536(99)00321-4",
+            "volume": "50",
+            "author": "S Tautz",
+            "year": "2000",
+            "unstructured": "Tautz S, Jahn A, Molokomme I, Gorgen R. Between fear and relief: how rural pregnant women experience foetal ultrasound in a Botswana district hospital. Soc Sci Med. 2000;50(5):698–701.",
+            "journal-title": "Soc Sci Med"
+          },
+          {
+            "issue": "12",
+            "key": "20_CR60",
+            "doi-asserted-by": "publisher",
+            "first-page": "1523",
+            "DOI": "10.1111/j.1365-3156.2009.02402.x",
+            "volume": "14",
+            "author": "S Scott",
+            "year": "2009",
+            "unstructured": "Scott S, Ronsmans C. The relationship between birth with a health professional and maternal mortality in observational studies: a review of the literature. Trop Med Int Health. 2009;14(12):1523–33.",
+            "journal-title": "Trop Med Int Health"
+          },
+          {
+            "issue": "2",
+            "key": "20_CR61",
+            "doi-asserted-by": "publisher",
+            "first-page": "127",
+            "DOI": "10.1016/j.healthpol.2004.11.001",
+            "volume": "73",
+            "author": "JO Parkhurst",
+            "year": "2005",
+            "unstructured": "Parkhurst JO, Penn-Kekana L, Blaauw D, Balabanova D, Danishevski K, Rahman SA, Onama V, Ssengooba F. Health systems factors influencing maternal health services: a four-country comparison. Health Policy. 2005;73(2):127–38.",
+            "journal-title": "Health Policy"
+          },
+          {
+            "key": "20_CR62",
+            "first-page": "97",
+            "volume-title": "Safe motherhood strategies: a review of the evidence",
+            "author": "WJ Grahm",
+            "year": "2001",
+            "unstructured": "Grahm WJ, Bell J, Bullough C. Can skilled attendance at delivery reduce maternal mortality in developing countries? In: De Brouwere V, van Lerberghe W, editors. Safe motherhood strategies: a review of the evidence. Antwerp: ITG Press; 2001. p. 97–130."
+          },
+          {
+            "issue": "8776",
+            "key": "20_CR63",
+            "doi-asserted-by": "publisher",
+            "first-page": "1183",
+            "DOI": "10.1016/0140-6736(91)92041-Y",
+            "volume": "338",
+            "author": "V Fauveau",
+            "year": "1991",
+            "unstructured": "Fauveau V, Stewart K, Khan SA, Chakraborty J. Effect on mortality of community-based maternity-care programme in rural Bangladesh. Lancet. 1991;338(8776):1183–6.",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "20_CR64",
+            "volume-title": "Investing in maternal health: learning from Malaysia and Sri Lanka",
+            "author": "I Pathmanathan",
+            "year": "2003",
+            "unstructured": "Pathmanathan I, Liljestrand J, Martins JM, Rajapaksa LC, Lissner C, Silva AD, et al. Investing in maternal health: learning from Malaysia and Sri Lanka. Washington, DC: The World Bank, Human Development Network; 2003."
+          },
+          {
+            "key": "20_CR65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1596/0-8213-5392-6",
+            "volume-title": "Reducing maternal mortality: learning from Bolivia, Egypt, Honduras, Indonesia, Jamaica, and Zimbabwe",
+            "author": "M Koblinsky",
+            "year": "2003",
+            "unstructured": "Koblinsky M. Reducing maternal mortality: learning from Bolivia, Egypt, Honduras, Indonesia, Jamaica, and Zimbabwe. Washington, DC: World Bank; 2003."
+          },
+          {
+            "key": "20_CR66",
+            "doi-asserted-by": "publisher",
+            "first-page": "d7102",
+            "DOI": "10.1136/bmj.d7102",
+            "volume": "343",
+            "author": "A Wilson",
+            "year": "2011",
+            "unstructured": "Wilson A, Gallos ID, Plana N, et al. Effectiveness of strategies incorporating training and support of traditional birth attendants on perinatal and maternal mortality: meta-analysis. BMJ. 2011;343:d7102.",
+            "journal-title": "BMJ"
+          },
+          {
+            "key": "20_CR67",
+            "doi-asserted-by": "publisher",
+            "first-page": "104",
+            "DOI": "10.1016/S0968-8080(12)39615-8",
+            "volume": "20",
+            "author": "HV Doctor",
+            "year": "2012",
+            "unstructured": "Doctor HV, Findley SE, Ager A, et al. Using community-based research to shape the design and delivery of maternal health services in Northern Nigeria. Reprod Health Matters. 2012;20:104.",
+            "journal-title": "Reprod Health Matters"
+          },
+          {
+            "issue": "5",
+            "key": "20_CR68",
+            "doi-asserted-by": "publisher",
+            "first-page": "862",
+            "DOI": "10.1007/s10995-012-1061-4",
+            "volume": "17",
+            "author": "K Oyerinde",
+            "year": "2013",
+            "unstructured": "Oyerinde K, Harding Y, Amara P, et al. A qualitative evaluation of the choice of traditional birth attendants for maternity care in 2008 Sierra Leone: implications for universal skilled attendance at delivery. Matern Child Health J. 2013;17(5):862–8.",
+            "journal-title": "Matern Child Health J"
+          },
+          {
+            "issue": "9837",
+            "key": "20_CR69",
+            "doi-asserted-by": "publisher",
+            "first-page": "111",
+            "DOI": "10.1016/S0140-6736(12)60478-4",
+            "volume": "380",
+            "author": "S Ahmed",
+            "year": "2012",
+            "unstructured": "Ahmed S, Li Q, Liu L, Tsui AO. Maternal deaths averted by contraceptive use: an analysis of 172 countries. Lancet. 2012;380(9837):111–25.",
+            "journal-title": "Lancet"
+          },
+          {
+            "issue": "4",
+            "key": "20_CR70",
+            "doi-asserted-by": "publisher",
+            "first-page": "297",
+            "DOI": "10.1016/j.ajog.2006.05.055",
+            "volume": "196",
+            "author": "A Conde-Agudelo",
+            "year": "2007",
+            "unstructured": "Conde-Agudelo A, Rosas-Bermúdez A, Kafury-Goeta AC. Effects of birth spacing on maternal health: a systematic review. Am J Obstet Gynecol. 2007;196(4): 297–308.",
+            "journal-title": "Am J Obstet Gynecol"
+          }
+        ],
+        "container-title": [
+          "Radiology in Global Health"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-1-4614-0604-4_20",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              12
+            ]
+          ],
+          "date-time": "2024-07-12T11:03:54Z",
+          "timestamp": 1720782234000
+        },
+        "score": 22.129156,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-1-4614-0604-4_20"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "ISBN": [
+          "9781461406037",
+          "9781461406044"
+        ],
+        "references-count": 70,
+        "URL": "https://doi.org/10.1007/978-1-4614-0604-4_20",
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "31 May 2014",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          }
+        ]
+      }
+    ],
+    "items-per-page": 5,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

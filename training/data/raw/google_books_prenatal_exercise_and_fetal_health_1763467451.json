@@ -1,0 +1,465 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3NOGeMizQZEC",
+      "etag": "QR/8cJsgT/A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3NOGeMizQZEC",
+      "volumeInfo": {
+        "title": "Physiology of Prenatal Exercise and Fetal Development",
+        "authors": [
+          "Linda E. May"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2012-03-27",
+        "description": "This new SpringerBrief in Physiology explores the newest research findings on how exercise influences the fetus in utero and beyond. Physiology of Prenatal Exercise and Fetal Development reviews the current findings of how maternal exercise throughout gestation influences fetal development of key organ systems, and also encompasses the relationship between maternal activity level and fetal, birth, and neonatal effects. This information will help researchers and scientists better understand the physiological effects of exercise during pregnancy on offspring development.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781461434078"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1461434076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 49,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3NOGeMizQZEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3NOGeMizQZEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=3NOGeMizQZEC&pg=PA27&dq=prenatal+exercise+and+fetal+health&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=3NOGeMizQZEC&dq=prenatal+exercise+and+fetal+health&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Physiology_of_Prenatal_Exercise_and_Feta.html?hl=&id=3NOGeMizQZEC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Physiology_of_Prenatal_Exercise_and_Feta-sample-pdf.acsm?id=3NOGeMizQZEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3NOGeMizQZEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>health</b>- care provider intervention throughout gestation may be more effective than other times due to the frequent nature of <b>prenatal</b> visits, this does not explain why so little women <b>exercise</b> during <b>pregnancy</b>. This may be explained by&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E3B_DwAAQBAJ",
+      "etag": "z8bkqz3t9c0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E3B_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Exercise and Sporting Activity During Pregnancy",
+        "subtitle": "Evidence-Based Guidelines",
+        "authors": [
+          "Rita Santos-Rocha"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2018-12-13",
+        "description": "This clinically and practice oriented, multidisciplinary book is intended to fill the gap between evidence-based knowledge on the benefits of physical activity and exercise during pregnancy and the implementation of exercise programmes and related health promotion measures in pregnant women. It will provide medical, sports, and fitness professionals both with the knowledge needed to allay undue fears regarding the consequences of exercising during pregnancy and with the practical expertise to offer optimal guidance on exercising to pregnant exercisers and athletes. Readers will find up-to-date evidence on the psychological, social, physiological, body composition, musculoskeletal, and biomechanical changes that occur during pregnancy and their implications for physical activity and exercise. Detailed descriptions are provided of the components of exercise testing and prescription for pregnant women, the current evidence-based and practice-oriented guidelines, and exercise selection and adaptation during pregnancy. Exercises specifically targeting musculoskeletal health are discussed separately, and a concluding chapter explains the nutritional requirements in pregnant women who exercise.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783319910321"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3319910329"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 355,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E3B_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E3B_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=E3B_DwAAQBAJ&pg=PA191&dq=prenatal+exercise+and+fetal+health&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=E3B_DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=E3B_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2612597,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1828818,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=E3B_DwAAQBAJ&rdid=book-E3B_DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2612597000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1828818000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_and_Sporting_Activity_During_Pr-sample-epub.acsm?id=E3B_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_and_Sporting_Activity_During_Pr-sample-pdf.acsm?id=E3B_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E3B_DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>exercise</b>. 7. Similar work is needed to create an improved evidence base concerning the effects of occupational <b>physical activity</b> on maternal–<b>fetal health</b>. The first step before planning to start or continuing an <b>exercise</b> program during&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WV2YEAAAQBAJ",
+      "etag": "3mzjRXp2wCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WV2YEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Exercise and Physical Activity During Pregnancy and Postpartum",
+        "subtitle": "Evidence-Based Guidelines",
+        "authors": [
+          "Rita Santos-Rocha"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2022-10-26",
+        "description": "This is the second edition of a well-received, practice oriented, multidisciplinary book filling the gap between evidence-based knowledge on the benefits of physical activity and exercise during pregnancy and postpartum and the implementation of exercise programs and related health promotion measures in pregnant women. Readers will find up-to-date evidence on the psychological, social, physiological, body composition, musculoskeletal, and biomechanical changes that occur during pregnancy and their implications for physical activity and exercise. Further, the authors equip the reader with the latest guidelines and detailed description of exercise testing, prescription, selection and adaptation for pregnant and postpartum women, including those with clinical conditions. This new edition has been thoroughly updated, and includes additional chapters focused on the pedagogical intervention in pre and postnatal exercise programs, exercise prescription and adaptation during postpartum and diet recommendations for the pregnant exerciser and athlete. Written by recognized experts in the field, the book aims to allay undue fears regarding the consequences of exercising during pregnancy. Moreover, it provides medical, sports, and fitness professionals both with the knowledge and the practical expertise needed to offer an optimal guidance on exercising to pregnant exercisers and athletes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783031061370"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3031061373"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 489,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WV2YEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WV2YEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=WV2YEAAAQBAJ&pg=PA274&dq=prenatal+exercise+and+fetal+health&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WV2YEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WV2YEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2177132,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1523992,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WV2YEAAAQBAJ&rdid=book-WV2YEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2177132000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1523992000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_and_Physical_Activity_During_Pr-sample-epub.acsm?id=WV2YEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_and_Physical_Activity_During_Pr-sample-pdf.acsm?id=WV2YEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WV2YEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Exercise</b> and fluid replacement. Med Sci Sports Exerc. 2007;39(2):377–90. 173. Schauberger CW, Rooney BL, Goldsmith ... <b>health</b> risks. Lancet. 2021;398(10301):698–708. 176. Dervis S, Dobson KL, Nagpal TS, Geurts C, Haman F, Adamo KB&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2MlyEQAAQBAJ",
+      "etag": "7jFSJCbYYfU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2MlyEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Understanding Influenza During Pregnancy: A Comprehensive Guide to Maternal and Fetal Health",
+        "authors": [
+          "Dr. Spineanu Eugenia"
+        ],
+        "publisher": "Dr. Spineanu Eugenia",
+        "publishedDate": "2025-02-19",
+        "description": "Explore the comprehensive treatise on pregnancy care, delving into cutting-edge insights, innovative therapies, and holistic approaches to maternal-fetal health. From emerging therapeutic strategies to integrative therapies and precision medicine, this guide offers evidence-based recommendations for optimizing pregnancy outcomes and promoting maternal well-being. Dive into the latest advancements in prenatal care, including genomic medicine, regenerative therapies, and artificial intelligence applications, to stay informed and empowered throughout your pregnancy journey. Whether you're seeking guidance on nutrition, exercise, or complementary medicine, this treatise provides invaluable insights and practical tips for navigating the complexities of pregnancy with confidence and care. Discover the future of maternal-fetal medicine and unlock the potential for healthier pregnancies and thriving families.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2MlyEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2MlyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=2MlyEQAAQBAJ&pg=PT108&dq=prenatal+exercise+and+fetal+health&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2MlyEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2MlyEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21420,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 21420,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2MlyEQAAQBAJ&rdid=book-2MlyEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21420000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 21420000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Understanding_Influenza_During_Pregnancy-sample-epub.acsm?id=2MlyEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Understanding_Influenza_During_Pregnancy-sample-pdf.acsm?id=2MlyEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2MlyEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Healthcare</b> Provider: Pregnant women should consult with their <b>healthcare</b> provider before initiating or modifying an <b>exercise</b> program during <b>pregnancy</b>, particularly ... Training: Incorporating strength training <b>exercises</b> into a <b>prenatal</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AiyDEQAAQBAJ",
+      "etag": "tUf3psexmZ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AiyDEQAAQBAJ",
+      "volumeInfo": {
+        "title": "BUKU REFERENSI PENTINGNYA AKTIVITAS FISIK BAGI IBU HAMIL",
+        "authors": [
+          "Bdn. Sri Utami Subagio, M.Tr.Keb",
+          "Hj. Badriah, SST,MPH",
+          "Ns. Chinthia Kartikaningtias.,M.Kep",
+          "Santi Wahyuni, SKp, M.Kep, Sp.Mat,",
+          "Ns. Ayut Merdikawati, S.Kep., M.Kep.",
+          "Bdn. Warda Anil Masyayih, S.ST., M.Kes.,",
+          "Jum Natosba, M.Kep., Ns.Sp.Kep.Mat,"
+        ],
+        "publisher": "Optimal Untuk Negeri",
+        "publishedDate": "2025-06-02",
+        "description": "Kehamilan merupakan fase penting dalam kehidupan seorang wanita, di mana tubuh mengalami berbagai perubahan signifikan secara fisik, fisiologis, dan psikologis. Buku Referensi \"Pentingnya Aktivitas Fisik bagi Ibu Hamil\" hadir sebagai panduan komprehensif untuk ibu hamil dan tenaga kesehatan, khususnya bidan, dalam memahami pentingnya aktivitas fisik sebagai bagian integral dari perawatan antenatal yang efektif dan aman. Informasi dalam buku ini didasarkan pada penelitian ilmiah terbaru, yang memberikan panduan jelas mengenai jenis aktivitas fisik yang aman, manfaatnya, serta cara penerapannya dalam kehidupan sehari-hari. Buku ini memaparkan beragam manfaat penting dari aktivitas fisik yang dilakukan selama kehamilan, seperti memperbaiki kebugaran jantung, mengurangi risiko diabetes gestasional, hipertensi, dan preeklampsia. Selain itu, buku ini menjelaskan secara rinci bagaimana olahraga dapat membantu ibu mempersiapkan tubuh untuk proses persalinan yang lebih lancar, mengurangi nyeri selama persalinan, serta meningkatkan kesejahteraan mental dan kualitas tidur ibu hamil. Dilengkapi dengan penjelasan mendalam tentang berbagai jenis olahraga yang aman untuk ibu hamil seperti yoga prenatal, berenang, jalan kaki, hingga senam hamil, buku ini juga menawarkan panduan praktis untuk menjalankan aktivitas fisik secara aman. Termasuk di dalamnya strategi dan pedoman tentang bagaimana mengenali batasan tubuh, tanda-tanda peringatan yang harus diwaspadai, serta pentingnya konsultasi rutin dengan tenaga kesehatan. Dengan pendekatan holistik dan berbasis bukti ilmiah, buku ini diharapkan mampu meningkatkan kesadaran ibu hamil tentang pentingnya gaya hidup aktif selama kehamilan. Lebih jauh lagi, buku ini bertujuan mendukung terciptanya pengalaman kehamilan yang sehat dan bahagia, serta persalinan yang aman dan nyaman bagi ibu dan bayi.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786238999255"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "623899925X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 147,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AiyDEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AiyDEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.co.id/books?id=AiyDEQAAQBAJ&pg=PA26&dq=prenatal+exercise+and+fetal+health&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AiyDEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AiyDEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 111000,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 75480,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AiyDEQAAQBAJ&rdid=book-AiyDEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 111000000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 75480000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/BUKU_REFERENSI_PENTINGNYA_AKTIVITAS_FISI-sample-pdf.acsm?id=AiyDEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AiyDEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Prenatal exercise</b> is not associated with <b>fetal</b> mortality: a systematic review and meta-analysis. British Journal of ... <b>Health</b>, 29(3), 338-346. Field, T., Diego, M., Delgado, J., &amp; Medina, L. (2021). Yoga and social support reduce&nbsp;..."
+      }
+    }
+  ]
+}

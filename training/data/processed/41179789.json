@@ -1,0 +1,24 @@
+{
+  "id": "41179789",
+  "title": "Development and validation of an interpretable machine learning model and online web-based calculator based on social-ecosystem theory for early prediction of postpartum depression: a longitudinal study.",
+  "abstract": "Postpartum depression (PPD) has emerged as a global public health issue that can cause significant harm to mothers and their families. Currently, there is an urgent need for a robust early risk prediction model to enable accurate predictions of postpartum depression in hospitals. This was a longitudinal study. Using social ecosystem theory, we collected multi-dimensional and multi-angle risk factors for early postpartum depression from delivery to discharge, and conducted 42-day postpartum follow-ups using the Edinburgh Postnatal Depression Scale (EPDS). We strictly adhered to the Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis (TRIPOD) checklist, used 10 machine learning (ML) algorithms to construct and validate the prediction model, and employed the Shapley additive explanation (SHAP) algorithm to explain the model. Risk stratification was performed through K-Means clustering analysis, ultimately resulting in an clinical screening tool for early PPD risk prediction. The results showed that by comparing the performance of prediction models constructed by the 10 ML algorithms, the model constructed using the random forest algorithm was selected as the best, with an area under the receiver operating characteristic curve (AUC) of 0.91 (95% CI: 0.85-0.96) and 0.77 (95% CI: 0.70-0.85) in internal and external validation. Low risk probability (0, 0.26], medium risk probability (0.26, 0.63), and high risk probability (0.63, 1) were obtained through K-Means clustering analysis, and the SHAP value of the model was interpreted. Finally, we developed an online risk prediction calculator. This study developed an interpretable risk prediction model for early PPD, which may help healthcare providers to identify and implement intervention measures early, preventing the occurrence of PPD.",
+  "authors": [
+    "Shusen Lin",
+    "Peng Wang",
+    "Chongyu Yue",
+    "Guofang Kuang",
+    "Xuefei Han",
+    "Yanxia Zhang",
+    "Xiaojing Wang",
+    "Min Wang",
+    "Shanshan Huan",
+    "Xinwei Zhang",
+    "Ping Tan",
+    "Huawei Li"
+  ],
+  "year": 2025,
+  "doi": "10.3389/fpubh.2025.1685305",
+  "source": "pubmed",
+  "raw_file": "pubmed_postpartum_depression_management_1763073216.xml",
+  "category": "psychology"
+}

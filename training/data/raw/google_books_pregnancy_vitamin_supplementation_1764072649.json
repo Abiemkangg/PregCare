@@ -1,0 +1,420 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "KR0U4RRAH9wC",
+      "etag": "P8U0jtnbwgM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KR0U4RRAH9wC",
+      "volumeInfo": {
+        "title": "Maternal-Fetal Evidence-Based Guidelines",
+        "authors": [
+          "Vincenzo Berghella"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2007-09-26",
+        "description": "Maternal-Fetal Medicine Evidence-Based Guidelines reviews the evidence for best practice in maternal-fetal medicine. It presents the reader with the right information, in the right format, by summarizing evidence in easy-to-use tables and algorithms. Each guideline is designed to \"make it easy to do it right\", with appropriate use of proven interventions and no use of harmful interventions. Plenty of evidence is available so that well-informed clinicians can reduce errors, so that the first aim is ultimately to improve the health of mother and fetus by providing quality care.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780203089644"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0203089642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KR0U4RRAH9wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KR0U4RRAH9wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=KR0U4RRAH9wC&pg=PA7&dq=pregnancy+vitamin+supplementation&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=KR0U4RRAH9wC&dq=pregnancy+vitamin+supplementation&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Maternal_Fetal_Evidence_Based_Guidelines.html?hl=&id=KR0U4RRAH9wC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Maternal_Fetal_Evidence_Based_Guidelines-sample-pdf.acsm?id=KR0U4RRAH9wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KR0U4RRAH9wC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>vitamin</b> C <b>supplementation</b> alone; the remaining trials used either a combination of <b>vitamin</b> C and <b>vitamin</b> E, or ... <b>pregnancy</b>. <b>Vitamin</b> D 1000 IU/day in the third trimester is associated with no consistent effect on incidence of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cO6X0kNwn8AC",
+      "etag": "VKg5BNZCONE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cO6X0kNwn8AC",
+      "volumeInfo": {
+        "title": "Nutrition and Diet Therapy",
+        "subtitle": "Self-instructional Modules",
+        "authors": [
+          "Peggy Stanfield",
+          "Peggy S. Stanfield",
+          "Yiu H. Hui"
+        ],
+        "publisher": "Jones & Bartlett Learning",
+        "publishedDate": "2003",
+        "description": "Ideal for self-paced or distance-learning courses, the text's unique modular format contains practice exercises and posttests throughout, allowing students to master one section of the material before moving on to the next.Visit this text's Web site at http://nursing.jbpub.com/stanfield/",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0763721409"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780763721404"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 644,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cO6X0kNwn8AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cO6X0kNwn8AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=cO6X0kNwn8AC&pg=PA143&dq=pregnancy+vitamin+supplementation&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=cO6X0kNwn8AC&dq=pregnancy+vitamin+supplementation&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nutrition_and_Diet_Therapy.html?hl=&id=cO6X0kNwn8AC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Nutrition_and_Diet_Therapy-sample-pdf.acsm?id=cO6X0kNwn8AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cO6X0kNwn8AC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... intake . Since protein will be used for energy if dietary energy is low , any diet below 1,800 calories may also negatively influence the out- come of <b>pregnancy</b> . Even with a diet adequate in other respects , an iron <b>supplement</b> may be&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AF5OAQAAMAAJ",
+      "etag": "5tGkuHkNWZQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AF5OAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Modifying Effects of Vitamin Supplements on the Relationship Between Prenatal Alcohol Exposure and Perinatal and Reproductive Outcomes",
+        "authors": [
+          "Lyndsay Nicole Ammon"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:C3482763"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AF5OAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AF5OAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=AF5OAQAAMAAJ&q=pregnancy+vitamin+supplementation&dq=pregnancy+vitamin+supplementation&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=AF5OAQAAMAAJ&dq=pregnancy+vitamin+supplementation&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Modifying_Effects_of_Vitamin_Supplem.html?hl=&id=AF5OAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AF5OAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>supplements</b> modify the relationship between alcohol consumption and adverse <b>pregnancy</b> outcomes provides a good first step to evaluating nutrition&#39;s impact . Micronutrient <b>supplementation</b> ... <b>multivitamin supplements</b> modify the relationship&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hc-SDQAAQBAJ",
+      "etag": "Kc/XudIfze8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hc-SDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Clinical Management of Pregnancies following ART",
+        "authors": [
+          "Kanna Jayaprakasan",
+          "Lucy Kean"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2016-11-24",
+        "description": "This book provides a detailed overview of the possible risks associated with ART pregnancies and their clinical management. While most pregnancies following Assisted Reproduction Treatment (ART) will progress normally and without any complications to mother or baby, some women who conceive after ART as well as their babies are at increased risk of pregnancy complications. There are some schools of thoughts proposing pregnancies following IVF should be regarded as being “high risk” and requires special attention. There are various reasons why ART pregnancies may be at higher risk – Female and male age factor, increased chance of multiple pregnancies, underlying cause of subfertility (pelvic pathology, uterine pathology, endometrial dysfunction) and potential increase in birth defects. This is an essential read for obstetricians, fertility specialists and Post-graduate trainees.​",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783319428581"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3319428586"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hc-SDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hc-SDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=Hc-SDQAAQBAJ&pg=PA104&dq=pregnancy+vitamin+supplementation&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Hc-SDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Hc-SDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1959399,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1371579,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Hc-SDQAAQBAJ&rdid=book-Hc-SDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1959399000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1371579000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Clinical_Management_of_Pregnancies_follo-sample-epub.acsm?id=Hc-SDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Clinical_Management_of_Pregnancies_follo-sample-pdf.acsm?id=Hc-SDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hc-SDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kanna Jayaprakasan, Lucy Kean. <b>Vitamin</b>. <b>Supplementation</b>. Folic Acid Folic acid is recommended as a pre-conception <b>vitamin supplementation</b> from the time of trying for a <b>pregnancy</b> up to the end of the first trimester in order to prevent&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xVqmBgAAQBAJ",
+      "etag": "ddon7SkXJx8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xVqmBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Herbs and Natural Supplements, Volume 1",
+        "subtitle": "An Evidence-Based Guide",
+        "authors": [
+          "Lesley Braun",
+          "Marc Cohen"
+        ],
+        "publisher": "Elsevier Health Sciences",
+        "publishedDate": "2014-10-01",
+        "description": "Herbs and Natural Supplements, 4th Edition: An evidence-based guide is an authoritative, evidence-based reference. This two volume resource is essential to the safe and effective use of herbal, nutritional and food supplements. The first volume provides a foundation of knowledge in the clinical practice of complementary medicine. It emphasises safe practice with strategies to prevent adverse drug reactions, guidelines in assessing benefit, risk and harm and the evaluation of research. - Comprehensive review of herbal medicine, clinical nutrition, aromatherapy, and food as medicine - Patient safety and wellness - Considerations in preoperative care and pregnancy - Use in the treatment of cancer - Herb/nutrient – drug interactions.Provides up-to-date evidence on the latest research impacting on herbal and natural medicine by top leaders within the fields of Pharmacy, Herbal Medicine and Natural Medicine.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780729581721"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0729581721"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 237,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xVqmBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xVqmBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=xVqmBgAAQBAJ&pg=PA200&dq=pregnancy+vitamin+supplementation&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xVqmBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xVqmBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 481362,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 341763,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xVqmBgAAQBAJ&rdid=book-xVqmBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 481362000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 341763000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Herbs_and_Natural_Supplements_Volume_1-sample-epub.acsm?id=xVqmBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Herbs_and_Natural_Supplements_Volume_1-sample-pdf.acsm?id=xVqmBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xVqmBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>vitamin</b> status and birth outcomes in Chinese women . Am J Clin Nutr 76.6 ( 2002 ) : 1385-1391 . Ronnenberg AG et al . Preconception B - <b>vitamin</b> and homocysteine status , conception , and early <b>pregnancy</b> loss . Am J Epidemiol 166.3&nbsp;..."
+      }
+    }
+  ]
+}

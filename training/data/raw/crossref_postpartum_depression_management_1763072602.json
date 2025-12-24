@@ -1,0 +1,1731 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 2095582,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              6
+            ]
+          ],
+          "date-time": "2025-11-06T19:58:51Z",
+          "timestamp": 1762459131205,
+          "version": "3.37.3"
+        },
+        "reference-count": 69,
+        "publisher": "Wiley",
+        "issue": "6",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2013,
+                  10,
+                  16
+                ]
+              ],
+              "date-time": "2013-10-16T00:00:00Z",
+              "timestamp": 1381881600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "funder": [
+          {
+            "name": "South Carolina Clinical & Translational Research Institute"
+          },
+          {
+            "DOI": "10.13039/100006942",
+            "name": "Medical University of South Carolina CTSA",
+            "doi-asserted-by": "crossref",
+            "id": [
+              {
+                "id": "10.13039/100006942",
+                "id-type": "DOI",
+                "asserted-by": "crossref"
+              }
+            ]
+          },
+          {
+            "name": "NIH/NCRR",
+            "award": [
+              "UL1RR029882"
+            ]
+          },
+          {
+            "name": "NIH/NCATS",
+            "award": [
+              "UL1TR000062"
+            ]
+          },
+          {
+            "name": "NIH/ORWH & NICHHD",
+            "award": [
+              "K12 HD055885"
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "onlinelibrary.wiley.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "J Midwife Womens Health"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              11
+            ]
+          ]
+        },
+        "abstract": "<jats:p>The mainstays of treatment for peripartum depression are psychotherapy and antidepressant medications. More research is needed to understand which treatments are safe, preferable, and effective. Postpartum depression, now termed peripartum depression by the <jats:italic>DSM‐V</jats:italic>, is one of the most common complications in the postpartum period and has potentially significant negative consequences for mothers and their families. This article highlights common clinical challenges in the treatment of peripartum depression and reviews the evidence for currently available treatment options. Psychotherapy is the first‐line treatment option for women with mild to moderate peripartum depression. Antidepressant medication in combination with therapy is recommended for women with moderate to severe depression. Although pooled case reports and small controlled studies have demonstrated undetectable infant serum levels and no short‐term adverse events in infants of mothers breastfeeding while taking sertraline (Zoloft) and paroxetine (Paxil), further research is needed including larger samples and long‐term follow‐up of infants exposed to antidepressants via breastfeeding controlling for maternal depression. Pharmacologic treatment recommendations for women who are lactating must include discussion with the patient regarding the benefits of breastfeeding, risks of antidepressant use during lactation, and risks of untreated illness. There is a growing evidence base for nonpharmacologic interventions including repetitive transcranial magnetic stimulation, which may offer an attractive option for women who wish to continue to breastfeed and are concerned about their infants being exposed to medication. Among severe cases of peripartum depression with psychosis, referral to a psychiatrist or psychiatric advanced practice registered nurse is warranted. Suicidal or homicidal ideation with a desire, intent, or plan to harm oneself or anyone else, including the infant, is a psychiatric emergency, and an evaluation by a mental health professional should be conducted immediately. Peripartum depression treatment research is limited by small sample sizes and few controlled studies. Much work is still needed to better understand which treatments women prefer and are the most effective in ameliorating the symptoms and disease burden associated with peripartum depression.</jats:p>",
+        "DOI": "10.1111/jmwh.12104",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              16
+            ]
+          ],
+          "date-time": "2013-10-16T17:39:07Z",
+          "timestamp": 1381945147000
+        },
+        "page": "643-653",
+        "update-policy": "https://doi.org/10.1002/crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 73,
+        "title": [
+          "Management of Postpartum Depression"
+        ],
+        "prefix": "10.1111",
+        "volume": "58",
+        "author": [
+          {
+            "given": "Constance",
+            "family": "Guille",
+            "sequence": "first",
+            "affiliation": []
+          },
+          {
+            "given": "Roger",
+            "family": "Newman",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Leah D.",
+            "family": "Fryml",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "Clay K.",
+            "family": "Lifton",
+            "sequence": "additional",
+            "affiliation": []
+          },
+          {
+            "given": "C. Neill",
+            "family": "Epperson",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              16
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "issue": "8",
+            "key": "e_1_2_5_2_1",
+            "first-page": "2247",
+            "article-title": "Postpartum major depression: detection and treatment",
+            "volume": "59",
+            "author": "Epperson CN",
+            "year": "1999",
+            "journal-title": "Am Fam Physician"
+          },
+          {
+            "key": "e_1_2_5_3_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1176/appi.books.9780890425596"
+          },
+          {
+            "key": "e_1_2_5_4_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/01.AOG.0000183597.31630.db"
+          },
+          {
+            "key": "e_1_2_5_5_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1552-6909.2006.00087.x"
+          },
+          {
+            "key": "e_1_2_5_6_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/01939450122045384"
+          },
+          {
+            "key": "e_1_2_5_7_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0883-9417(98)80004-6"
+          },
+          {
+            "key": "e_1_2_5_8_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1037/0012-1649.39.6.1083"
+          },
+          {
+            "key": "e_1_2_5_9_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-8624.1996.tb01871.x"
+          },
+          {
+            "key": "e_1_2_5_10_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1176/appi.ajp.2012.11111721"
+          },
+          {
+            "issue": "11",
+            "key": "e_1_2_5_11_1",
+            "first-page": "14",
+            "article-title": "Postpartum depression: help patients find the right treatment",
+            "volume": "11",
+            "author": "Freeman MP",
+            "year": "2012",
+            "journal-title": "Curr Psychiatry"
+          },
+          {
+            "key": "e_1_2_5_12_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1067/mob.2000.105409"
+          },
+          {
+            "key": "e_1_2_5_13_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1089/jwh.2006.15.1195"
+          },
+          {
+            "issue": "3",
+            "key": "e_1_2_5_14_1",
+            "doi-asserted-by": "crossref",
+            "first-page": "322",
+            "DOI": "10.1176/ps.2009.60.3.322",
+            "article-title": "Depression screening of perinatal women: an evaluation of the healthy start depression initiative",
+            "volume": "60",
+            "author": "Yonkers KA",
+            "year": "2009",
+            "journal-title": "Psychiatr Serv"
+          },
+          {
+            "key": "e_1_2_5_15_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.genhosppsych.2003.12.001"
+          },
+          {
+            "key": "e_1_2_5_16_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01674820400017889"
+          },
+          {
+            "key": "e_1_2_5_17_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00737-006-0145-9"
+          },
+          {
+            "key": "e_1_2_5_18_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00737-010-0153-7"
+          },
+          {
+            "key": "e_1_2_5_19_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1176/appi.ajp.2011.11010148"
+          },
+          {
+            "key": "e_1_2_5_20_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1210/jc.2011-2803"
+          },
+          {
+            "key": "e_1_2_5_21_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/jn/135.2.267"
+          },
+          {
+            "key": "e_1_2_5_22_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1176/appi.ajp.158.4.638"
+          },
+          {
+            "issue": "2",
+            "key": "e_1_2_5_23_1",
+            "first-page": "124",
+            "article-title": "Interpersonal psychotherapy adapted for the group setting in the treatment of postpartum depression",
+            "volume": "10",
+            "author": "Klier CM",
+            "year": "2001",
+            "journal-title": "J Psychother Pract Res"
+          },
+          {
+            "key": "e_1_2_5_24_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00737-003-0003-y"
+          },
+          {
+            "issue": "3",
+            "key": "e_1_2_5_25_1",
+            "first-page": "136",
+            "article-title": "Interpersonal psychotherapy: principles and applications",
+            "volume": "3",
+            "author": "Markowitz JC",
+            "year": "2004",
+            "journal-title": "World Psychiatry"
+          },
+          {
+            "issue": "4",
+            "key": "e_1_2_5_26_1",
+            "first-page": "276",
+            "article-title": "The past and future of cognitive therapy",
+            "volume": "6",
+            "author": "Beck AT",
+            "year": "1997",
+            "journal-title": "J Psychother Pract Res"
+          },
+          {
+            "key": "e_1_2_5_27_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cpr.2011.03.009"
+          },
+          {
+            "key": "e_1_2_5_28_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1523-536X.2006.00130.x"
+          },
+          {
+            "key": "e_1_2_5_29_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3122/jabfm.2007.03.060171"
+          },
+          {
+            "key": "e_1_2_5_30_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jmwh.2009.06.004"
+          },
+          {
+            "key": "e_1_2_5_31_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1176/appi.ajp.161.8.1471"
+          },
+          {
+            "issue": "1",
+            "key": "e_1_2_5_32_1",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.3928/02793695-20060101-08",
+            "article-title": "Telecare for women with postpartum depression",
+            "volume": "44",
+            "author": "Ugarriza DN",
+            "year": "2006",
+            "journal-title": "J Psychosoc Nurs Ment Health"
+          },
+          {
+            "key": "e_1_2_5_33_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.apnu.2012.12.001"
+          },
+          {
+            "key": "e_1_2_5_34_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/bmj.314.7085.932"
+          },
+          {
+            "key": "e_1_2_5_35_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.4088/JCP.v69n0420"
+          },
+          {
+            "key": "e_1_2_5_36_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.4088/JCP.11m07117"
+          },
+          {
+            "key": "e_1_2_5_37_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/01.jcp.0000227706.56870.dd"
+          },
+          {
+            "key": "e_1_2_5_38_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.4088/JCP.v65n0913"
+          },
+          {
+            "key": "e_1_2_5_39_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/depr.3050030109"
+          },
+          {
+            "key": "e_1_2_5_40_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.4088/JCP.v62n0803"
+          },
+          {
+            "key": "e_1_2_5_41_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1176/appi.ajp.158.10.1739"
+          },
+          {
+            "key": "e_1_2_5_42_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S1461145705005079"
+          },
+          {
+            "key": "e_1_2_5_43_1",
+            "first-page": "E4",
+            "article-title": "An open‐label trial of escitalopram for postpartum depression: considerations for research",
+            "volume": "11",
+            "author": "Freeman MP",
+            "year": "2012",
+            "journal-title": "Curr Psychiatry"
+          },
+          {
+            "issue": "2",
+            "key": "e_1_2_5_44_1",
+            "first-page": "CD006532",
+            "article-title": "Escitalopram versus other antidepressive agents for depression",
+            "volume": "15",
+            "author": "Cipriani A",
+            "year": "2009",
+            "journal-title": "Cochrane Database Syst Rev"
+          },
+          {
+            "volume-title": "Infant and Young Child Feeding",
+            "year": "2003",
+            "author": "World Health Organization",
+            "key": "e_1_2_5_45_1"
+          },
+          {
+            "key": "e_1_2_5_46_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1542/peds.2004-2491"
+          },
+          {
+            "key": "e_1_2_5_47_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.yapd.2007.03.014"
+          },
+          {
+            "key": "e_1_2_5_48_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/GRF.0b013e3181b52bd6"
+          },
+          {
+            "key": "e_1_2_5_49_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1089/bfm.2007.9978"
+          },
+          {
+            "issue": "92",
+            "key": "e_1_2_5_50_1",
+            "first-page": "1001",
+            "article-title": "ACOG practice bulletin clinical management guidelines for obstetrician–gynecologists: use of psychiatric medications during pregnancy and lactation",
+            "volume": "111",
+            "year": "2008",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "e_1_2_5_51_1",
+            "unstructured": "TomsonD PillingS BlakeF et al.National Institute for Clinical Excellence: Antenatal and Postnatal Mental Health: Clinical Management and Service Guidance Clinical Guideline No. 47."
+          },
+          {
+            "key": "e_1_2_5_52_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1176/appi.ajp.158.10.1631"
+          },
+          {
+            "key": "e_1_2_5_53_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1176/appi.ajp.161.6.1066"
+          },
+          {
+            "key": "e_1_2_5_54_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jpeds.2012.03.003"
+          },
+          {
+            "key": "e_1_2_5_55_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1542/peds.104.1.e11"
+          },
+          {
+            "key": "e_1_2_5_56_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1542/peds.112.5.e425"
+          },
+          {
+            "key": "e_1_2_5_57_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/YCT.0b013e3182315aa8"
+          },
+          {
+            "key": "e_1_2_5_58_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/NDT.S33851"
+          },
+          {
+            "key": "e_1_2_5_59_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/epirev/mxn002"
+          },
+          {
+            "key": "e_1_2_5_60_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1176/appi.ajp.2011.11050667"
+          },
+          {
+            "key": "e_1_2_5_61_1",
+            "first-page": "496",
+            "article-title": "Filicide‐suicide: common factors in parents who kill their children and themselves",
+            "volume": "33",
+            "author": "Friedman S",
+            "year": "2005",
+            "journal-title": "J Am Acad Psychiatry Law"
+          },
+          {
+            "key": "e_1_2_5_62_1",
+            "first-page": "74",
+            "article-title": "A review of maternal and patenal filicide",
+            "volume": "35",
+            "author": "Borget D",
+            "year": "2007",
+            "journal-title": "J Am Acad Psychiatry Law"
+          },
+          {
+            "key": "e_1_2_5_63_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2165/00002018-200730020-00002"
+          },
+          {
+            "key": "e_1_2_5_64_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/archdischild-2011-214239"
+          },
+          {
+            "key": "e_1_2_5_65_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0002-9378(03)00868-8"
+          },
+          {
+            "key": "e_1_2_5_66_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/01.ftd.0000187972.02624.2e"
+          },
+          {
+            "key": "e_1_2_5_67_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0006-3223(99)00155-9"
+          },
+          {
+            "key": "e_1_2_5_68_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/sj.jp.7211640"
+          },
+          {
+            "key": "e_1_2_5_69_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0006-3223(01)01197-0"
+          },
+          {
+            "key": "e_1_2_5_70_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.4088/JCP.v65n0622f"
+          }
+        ],
+        "container-title": [
+          "Journal of Midwifery &amp; Women's Health"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjmwh.12104",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjmwh.12104",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jmwh.12104",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jmwh.12104",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jmwh.12104",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              4
+            ]
+          ],
+          "date-time": "2023-09-04T09:40:27Z",
+          "timestamp": 1693820427000
+        },
+        "score": 25.912725,
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jmwh.12104"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              16
+            ]
+          ]
+        },
+        "references-count": 69,
+        "journal-issue": {
+          "issue": "6",
+          "published-print": {
+            "date-parts": [
+              [
+                2013,
+                11
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1111/jmwh.12104"
+        ],
+        "URL": "https://doi.org/10.1111/jmwh.12104",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "1526-9523",
+          "1542-2011"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1526-9523"
+          },
+          {
+            "type": "electronic",
+            "value": "1542-2011"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              16
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "2013-10-16",
+            "order": 2,
+            "name": "published",
+            "label": "Published",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              2
+            ]
+          ],
+          "date-time": "2022-04-02T17:44:01Z",
+          "timestamp": 1648921441357
+        },
+        "reference-count": 0,
+        "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+        "issue": "1",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1097/01.ebp.0000540546.39761.51",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              22
+            ]
+          ],
+          "date-time": "2021-02-22T20:59:48Z",
+          "timestamp": 1614027588000
+        },
+        "page": "5",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Postpartum depression screening and management"
+        ],
+        "prefix": "10.1097",
+        "volume": "17",
+        "author": [
+          {
+            "given": "Altaf",
+            "family": "Kaiseruddin",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "276",
+        "container-title": [
+          "Evidence-Based Practice"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://journals.lww.com/00132114-201401000-00005",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              3
+            ]
+          ],
+          "date-time": "2021-03-03T04:06:04Z",
+          "timestamp": 1614744364000
+        },
+        "score": 24.691015,
+        "resource": {
+          "primary": {
+            "URL": "https://journals.lww.com/00132114-201401000-00005"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              1
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                2014
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1097/01.ebp.0000540546.39761.51",
+        "ISSN": [
+          "1095-4120"
+        ],
+        "issn-type": [
+          {
+            "value": "1095-4120",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2025-09-11T18:13:14Z",
+          "timestamp": 1757614394816,
+          "version": "3.44.0"
+        },
+        "reference-count": 47,
+        "publisher": "Scientific Scholar",
+        "content-domain": {
+          "domain": [
+            "journalofcomprehensivehealth.co.in"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "JCH"
+        ],
+        "abstract": "<jats:p>The mental health of a mother during her pregnancy has a significant impact on the mother, her child, and the family. Psychopathologies such as postpartum depression (PPD) are among the most common. Many women are reluctant to acknowledge their sadness to others after having a child. Postpartum hormone fluctuations may be the cause of the baby blues. PPD is characterized by symptoms of depression, such as ongoing melancholy, disinterest, low self-esteem, disturbed sleep, appetite loss, anxiety, impatience with a hostile attitude toward newborns, self-blame, and feelings of humiliation. There has been a lot published about the symptoms, risk factors, and therapies for PPD, but not much research has been done on why women wait so long to get therapy. Remission, or the resolution of depressive symptoms, is the aim of PPD treatment. It could be required to coordinate with therapists and refer patients to psychiatrists for antidepressant medication. A complete recovery depends on early discovery and treatment.</jats:p>",
+        "DOI": "10.25259/jch_54_2024",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              14
+            ]
+          ],
+          "date-time": "2025-02-14T02:50:05Z",
+          "timestamp": 1739501405000
+        },
+        "page": "104-110",
+        "update-policy": "https://doi.org/10.25259/crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Postpartum Depression: Overview and Management"
+        ],
+        "prefix": "10.25259",
+        "volume": "13",
+        "author": [
+          {
+            "given": "Sarika",
+            "family": "Chaudhary",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Pharmacy, One Beat College of Medical Sciences, Lakhimpur, Uttar Pradesh, India,"
+              }
+            ]
+          }
+        ],
+        "member": "10894",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              13
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "10.25259/JCH_54_2024/ref-1",
+            "doi-asserted-by": "publisher",
+            "first-page": "114",
+            "DOI": "10.1038/s41598-017-00146-3",
+            "article-title": "Emotional Anticipation after Delivery-A Longitudinal Neuroimaging Study of the Postpartum Period",
+            "volume": "7",
+            "author": "Gingnell",
+            "year": "2017",
+            "journal-title": "Sci Rep"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-2",
+            "doi-asserted-by": "publisher",
+            "first-page": "385",
+            "DOI": "10.1016/j.jad.2015.01.012",
+            "article-title": "Risk Factors and Course Patterns of Anxiety and Depressive Disorders During Pregnancy and after Delivery: A Prospective-longitudinal Study",
+            "volume": "175",
+            "author": "Martini",
+            "year": "2015",
+            "journal-title": "J Affect Disord"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-3",
+            "doi-asserted-by": "publisher",
+            "first-page": "108",
+            "DOI": "10.1186/s12884-015-0532-1",
+            "article-title": "Sociodemographic and Clinical Features of Postpartum Depression among Turkish Women: A Prospective Study",
+            "volume": "15",
+            "author": "Turkcapar",
+            "year": "2015",
+            "journal-title": "BMC Pregnancy Childbirth"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-4",
+            "doi-asserted-by": "publisher",
+            "first-page": "207",
+            "DOI": "10.31887/DCNS.2015.17.2/smeltzerbrody",
+            "article-title": "Optimizing the Treatment of Mood Disorders in the Perinatal Period",
+            "volume": "17",
+            "author": "Meltzer-Brody",
+            "year": "2015",
+            "journal-title": "Dialogues Clin Neurosci"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-5",
+            "doi-asserted-by": "publisher",
+            "first-page": "391",
+            "DOI": "10.1016/j.jad.2016.01.027",
+            "article-title": "Perinatal Major Depression Biomarkers: A Systematic Review",
+            "volume": "193",
+            "author": "Serati",
+            "year": "2016",
+            "journal-title": "J Affect Disord"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-6",
+            "doi-asserted-by": "publisher",
+            "first-page": "1775",
+            "DOI": "10.1016/S0140-6736(14)61276-9",
+            "article-title": "Non-psychotic Mental Disorders in the Perinatal Period",
+            "volume": "384",
+            "author": "Howard",
+            "year": "2014",
+            "journal-title": "Lancet"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-7",
+            "doi-asserted-by": "publisher",
+            "first-page": "335",
+            "DOI": "10.1007/s00737-011-0227-1",
+            "article-title": "Depression and Anxiety among Postpartum and Adoptive Mothers",
+            "volume": "14",
+            "author": "Mott",
+            "year": "2011",
+            "journal-title": "Arch Womens Ment Health"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-8",
+            "doi-asserted-by": "publisher",
+            "first-page": "2665",
+            "DOI": "10.1111/jocn.16121",
+            "article-title": "Prevalence and Risk Factors of Postpartum Depression in Women: A Systematic Review and Meta-analysis",
+            "volume": "31",
+            "author": "Liu",
+            "year": "2022",
+            "journal-title": "J Clin Nurs"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-9",
+            "doi-asserted-by": "publisher",
+            "first-page": "2155042",
+            "DOI": "10.1080/14767058.2022.2155042",
+            "article-title": "Improving Maternal Mental Health: Assessing the Extent of Screening and Training about Peripartum Depression",
+            "volume": "36",
+            "author": "Valdes",
+            "year": "2023",
+            "journal-title": "J Matern Fetal Neonat Med"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-10",
+            "doi-asserted-by": "publisher",
+            "first-page": "543",
+            "DOI": "10.1038/s41398-021-01663-6",
+            "article-title": "Mapping Global Prevalence of Depression among Postpartum Women",
+            "volume": "11",
+            "author": "Wang",
+            "year": "2021",
+            "journal-title": "Transl Psychiatry"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-11",
+            "doi-asserted-by": "publisher",
+            "first-page": "e2214885",
+            "DOI": "10.1001/jamanetworkopen.2022.14885",
+            "article-title": "Assessment of Patient-reported Outcome Measures for Maternal Postpartum Depression Using the Consensus-Based Standards for the Selection of Health Measurement Instruments Guideline: A Systematic Review",
+            "volume": "5",
+            "author": "Sultan",
+            "year": "2022",
+            "journal-title": "JAMA Netw Open"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-12",
+            "doi-asserted-by": "publisher",
+            "first-page": "37",
+            "DOI": "10.3109/09540269609037816",
+            "article-title": "Rates and Risk of Postpartum Depression-A Meta-analysis",
+            "volume": "8",
+            "author": "O'hara",
+            "year": "1996",
+            "journal-title": "Int Rev Psychiatry"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-13",
+            "doi-asserted-by": "publisher",
+            "first-page": "e0259782",
+            "DOI": "10.1371/journal.pone.0259782",
+            "article-title": "Incidence and Predictors of Postpartum Depression among Postpartum Mothers in Kuala Lumpur, Malaysia: A Cross-sectional study",
+            "volume": "16",
+            "author": "Hairol",
+            "year": "2021",
+            "journal-title": "PLoS One"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-14",
+            "doi-asserted-by": "publisher",
+            "first-page": "25",
+            "DOI": "10.1016/j.wombi.2014.11.002",
+            "article-title": "Prevalence and Risk Factors for Postnatal Depression in Sabah, Malaysia: A Cohort Study",
+            "volume": "28",
+            "author": "Yusuff",
+            "year": "2015",
+            "journal-title": "Women Birth"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-15",
+            "first-page": "207",
+            "article-title": "Postpartum Major Depression at Six Weeks in Primary Health Care: Prevalence and Associated Factors",
+            "volume": "6",
+            "author": "Nakku",
+            "year": "2006",
+            "journal-title": "Afr Health Sci"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-16",
+            "doi-asserted-by": "publisher",
+            "first-page": "e12216",
+            "DOI": "10.7759/cureus.12216",
+            "article-title": "Postpartum Depression: Prevalence and Associated Risk Factors among Women in Sindh, Pakistan",
+            "volume": "12",
+            "author": "Yadav",
+            "year": "2020",
+            "journal-title": "Cureus"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-17",
+            "doi-asserted-by": "publisher",
+            "first-page": "49",
+            "DOI": "10.1186/s12884-023-06192-2",
+            "article-title": "Postpartum Depression-an Exploratory Mixed Method Study for Developing an Indigenous Tool",
+            "volume": "24",
+            "author": "Abdullah",
+            "year": "2024",
+            "journal-title": "BMC Pregnancy Childbirth"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-18",
+            "doi-asserted-by": "publisher",
+            "first-page": "706",
+            "DOI": "10.2471/BLT.17.192237",
+            "article-title": "Postpartum Depression in India: A Systematic Review and Meta-analysis",
+            "volume": "95",
+            "author": "Upadhyay",
+            "year": "2017",
+            "journal-title": "Bull World Health Organ"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-19",
+            "doi-asserted-by": "publisher",
+            "first-page": "e009443",
+            "DOI": "10.1136/bmjopen-2015-009443",
+            "article-title": "Determinants of Postnatal Depression in Sudanese Women at 3 Months Postpartum: A Cross-sectional Study",
+            "volume": "6",
+            "author": "Khalifa",
+            "year": "2016",
+            "journal-title": "BMJ Open"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-20",
+            "doi-asserted-by": "publisher",
+            "first-page": "63",
+            "DOI": "10.56101/rimj.v2i2.59",
+            "article-title": "Prevalence and Associated Factors of Postpartum Depression among Afghan Women: A Phase-wise Cross-sectional Study in Rezaie Maternal Hospital in Herat Province",
+            "volume": "2",
+            "author": "Sharifzade",
+            "year": "2022",
+            "journal-title": "Razi Int Med J"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-21",
+            "first-page": "76",
+            "article-title": "Postnatal Depression and Socio-cultural Practices among Postnatal Mothers in Kota Bahru, Kelantan, Malaysia",
+            "volume": "61",
+            "author": "Azidah",
+            "year": "2006",
+            "journal-title": "Med J Malaysia"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-22",
+            "doi-asserted-by": "publisher",
+            "first-page": "342",
+            "DOI": "10.1016/j.cegh.2018.08.009",
+            "article-title": "Prevalence and Predictors of Postpartum Depression among Mothers in the Rural Areas of Udupi Taluk, Karnataka, India: A Cross-sectional Study",
+            "volume": "7",
+            "author": "Agarwala",
+            "year": "2019",
+            "journal-title": "Clin Epidemiol Glob Health"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-23",
+            "first-page": "300",
+            "article-title": "The Prevalence of Postpartum Depression and Associated Factors: A Hospital-based Descriptive Study",
+            "volume": "8",
+            "author": "Arikan",
+            "year": "2017",
+            "journal-title": "J Clin Anal Med"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-24",
+            "first-page": "285",
+            "article-title": "Prevalence and Predictors of Postpartum Depression among Pregnant Women Referred to Mother-child Health Care Clinics (MCH)",
+            "volume": "2",
+            "author": "Azimi-Lolaty",
+            "year": "2007",
+            "journal-title": "Res J Biol Sci"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-25",
+            "first-page": "97",
+            "article-title": "Prevalence of Postpartum Depression in Alzahra Hospital in Rasht in 2004",
+            "volume": "15",
+            "author": "Najafi",
+            "year": "2006",
+            "journal-title": "Guilan Univ Med Sci J"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-26",
+            "doi-asserted-by": "publisher",
+            "first-page": "244",
+            "DOI": "10.1016/S1995-7645(14)60030-4",
+            "article-title": "Prevalence and Risk Factors of Postpartum Depression in a Population-based Sample of Women in Tangxia Community, Guangzhou",
+            "volume": "7",
+            "author": "Deng",
+            "year": "2014",
+            "journal-title": "Asian Pac J Trop Med"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-27",
+            "doi-asserted-by": "publisher",
+            "first-page": "1308",
+            "DOI": "10.1186/s12889-024-18502-0",
+            "article-title": "Exploring Predictors and Prevalence of Postpartum Depression among Mothers: Multinational Study",
+            "volume": "24",
+            "author": "Amer",
+            "year": "2024",
+            "journal-title": "BMC Public Health"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-28",
+            "doi-asserted-by": "publisher",
+            "first-page": "9",
+            "DOI": "10.1016/j.jad.2005.04.007",
+            "article-title": "Risk Factors Associated with the Development of Postpartum Mood Disorders",
+            "volume": "88",
+            "author": "Bloch",
+            "year": "2005",
+            "journal-title": "J Affect Disord"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-29",
+            "doi-asserted-by": "publisher",
+            "first-page": "110836",
+            "DOI": "10.1016/j.pnpbp.2023.110836",
+            "article-title": "Overview of Metabolomic Aspects in Postpartum Depression",
+            "volume": "127",
+            "author": "Konjevod",
+            "year": "2023",
+            "journal-title": "Prog Neuropsychopharmacol Biol Psychiatry"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-30",
+            "doi-asserted-by": "publisher",
+            "first-page": "60",
+            "DOI": "10.4103/jehp.jehp_9_16",
+            "article-title": "Postpartum Depression Risk Factors: A Narrative Review",
+            "volume": "6",
+            "author": "Ghaedrahmati",
+            "year": "2017",
+            "journal-title": "J Educ Health Promot"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-31",
+            "doi-asserted-by": "publisher",
+            "first-page": "1004",
+            "DOI": "10.1001/jamapsychiatry.2022.2400",
+            "article-title": "Family History of Psychiatric Disorders as a Risk Factor for Maternal Postpartum Depression: A Systematic Review and Meta-analysis: A Systematic Review and Meta-analysis",
+            "volume": "79",
+            "author": "Zacher Kjeldsen",
+            "year": "2022",
+            "journal-title": "JAMA Psychiatry"
+          },
+          {
+            "volume-title": "StatPearls",
+            "year": "2024",
+            "author": "Carlson",
+            "key": "10.25259/JCH_54_2024/ref-32"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-33",
+            "doi-asserted-by": "publisher",
+            "first-page": "1262",
+            "DOI": "10.1097/AOG.0000000000005202",
+            "article-title": "Treatment and Management of Mental Health Conditions During Pregnancy and Postpartum: ACOG Clinical Practice Guideline No. 5",
+            "volume": "141",
+            "year": "2023",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-34",
+            "doi-asserted-by": "publisher",
+            "first-page": "336",
+            "DOI": "10.1093/ajhp/zxz333",
+            "article-title": "Brexanolone for Postpartum Depression",
+            "volume": "77",
+            "author": "Hutcherson",
+            "year": "2020",
+            "journal-title": "Am J Health Syst Pharm"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-35",
+            "doi-asserted-by": "publisher",
+            "first-page": "231",
+            "DOI": "10.1080/0954026031000136857",
+            "article-title": "Postpartum Mood Disorders",
+            "volume": "15",
+            "author": "Seyfried",
+            "year": "2003",
+            "journal-title": "Int Rev Psychiatry"
+          },
+          {
+            "volume-title": "StatPearls",
+            "year": "2024",
+            "author": "Balaram",
+            "key": "10.25259/JCH_54_2024/ref-36"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-37",
+            "doi-asserted-by": "publisher",
+            "first-page": "40",
+            "DOI": "10.1097/00000446-200605000-00020",
+            "article-title": "Postpartum Depression: It Isn't Just the Blues",
+            "volume": "106",
+            "author": "Beck",
+            "year": "2006",
+            "journal-title": "Am J Nurs"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-38",
+            "doi-asserted-by": "publisher",
+            "first-page": "157",
+            "DOI": "10.1177/1060028019873320",
+            "article-title": "Brexanolone (Zulresso): Finally, An FDA-approved Treatment for Postpartum Depression",
+            "volume": "54",
+            "author": "Powell",
+            "year": "2020",
+            "journal-title": "Ann Pharmacother"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-39",
+            "doi-asserted-by": "publisher",
+            "first-page": "173734",
+            "DOI": "10.1016/j.pbb.2024.173734",
+            "article-title": "Zuranolone, a Neuroactive Drug, Used in the Treatment of Postpartum Depression by Modulation of GABAA Receptors",
+            "volume": "238",
+            "author": "Sharma",
+            "year": "2024",
+            "journal-title": "Pharmacol Biochem Behav"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-40",
+            "doi-asserted-by": "publisher",
+            "first-page": "668",
+            "DOI": "10.1176/appi.ajp.20220785",
+            "article-title": "Zuranolone for the Treatment of Postpartum Depression",
+            "volume": "180",
+            "author": "Deligiannidis",
+            "year": "2023",
+            "journal-title": "Am J Psychiatry"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-41",
+            "doi-asserted-by": "publisher",
+            "first-page": "e14",
+            "DOI": "10.1097/YCT.0000000000000936",
+            "article-title": "Accelerated Transcranial Magnetic Stimulation Provided Rapid Improvement in Depressive, Anxiety, Trauma, and Pain Symptoms in a Woman Experiencing Postpartum Depression",
+            "volume": "39",
+            "author": "Senda",
+            "year": "2023",
+            "journal-title": "J ECT"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-42",
+            "doi-asserted-by": "publisher",
+            "first-page": "236",
+            "DOI": "10.1177/0004867414565474",
+            "article-title": "Treatment of Postnatal Depression with Cognitive Behavioural Therapy, Sertraline and Combination Therapy: A Randomised Controlled Trial",
+            "volume": "49",
+            "author": "Milgrom",
+            "year": "2015",
+            "journal-title": "Aust N Z J Psychiatry"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-43",
+            "doi-asserted-by": "publisher",
+            "first-page": "183",
+            "DOI": "10.1146/annurev-med-041217-011106",
+            "article-title": "Postpartum Depression: Pathophysiology, Treatment, and Emerging Therapeutics",
+            "volume": "70",
+            "author": "Stewart",
+            "year": "2019",
+            "journal-title": "Annu Rev Med"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-44",
+            "doi-asserted-by": "publisher",
+            "first-page": "708",
+            "DOI": "10.1097/AOG.0b013e31822bd7e3",
+            "article-title": "Diagnosis, Pathophysiology, and Management of Mood Disorders in Pregnant and Postpartum Women",
+            "volume": "118",
+            "author": "Yonkers",
+            "year": "2011",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-45",
+            "doi-asserted-by": "publisher",
+            "first-page": "343",
+            "DOI": "10.1007/s00737-013-0366-7",
+            "article-title": "Biologically Based Treatment Approaches to the Patient with Resistant Perinatal Depression",
+            "volume": "16",
+            "author": "Robakis",
+            "year": "2013",
+            "journal-title": "Arch Womens Ment Health"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-46",
+            "doi-asserted-by": "publisher",
+            "first-page": "235",
+            "DOI": "10.1097/PSY.0b013e318190d7ca",
+            "article-title": "ECT in Pregnancy: A Review of the Literature from 1941 to 2007",
+            "volume": "71",
+            "author": "Anderson",
+            "year": "2009",
+            "journal-title": "Psychosom Med"
+          },
+          {
+            "key": "10.25259/JCH_54_2024/ref-47",
+            "doi-asserted-by": "publisher",
+            "first-page": "90",
+            "DOI": "10.1057/s41271-022-00384-4",
+            "article-title": "Recommendations for Maternal Mental Health Policy in India",
+            "volume": "44",
+            "author": "Priyadarshini",
+            "year": "2023",
+            "journal-title": "J Public Health Policy"
+          }
+        ],
+        "container-title": [
+          "Journal of Comprehensive Health"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://journalofcomprehensivehealth.co.in/postpartum-depression-overview-and-management/",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journalofcomprehensivehealth.co.in/postpartum-depression-overview-and-management/",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              5
+            ]
+          ],
+          "date-time": "2025-09-05T07:05:16Z",
+          "timestamp": 1757055916000
+        },
+        "score": 24.679016,
+        "resource": {
+          "primary": {
+            "URL": "https://journalofcomprehensivehealth.co.in/postpartum-depression-overview-and-management/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              13
+            ]
+          ]
+        },
+        "references-count": 47,
+        "alternative-id": [
+          "10.25259/JCH_54_2024"
+        ],
+        "URL": "https://doi.org/10.25259/jch_54_2024",
+        "ISSN": [
+          "2347-498X"
+        ],
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "2347-498X"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              13
+            ]
+          ]
+        },
+        "article-number": "104"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              13
+            ]
+          ],
+          "date-time": "2023-04-13T05:17:33Z",
+          "timestamp": 1681363053352
+        },
+        "reference-count": 0,
+        "publisher": "Fortune Journals",
+        "issue": "02",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "jppd"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "DOI": "10.26502/jppd.2572-519x0182",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              12
+            ]
+          ],
+          "date-time": "2023-04-12T11:33:48Z",
+          "timestamp": 1681299228000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Diagnosis and Management of Postpartum Depression"
+        ],
+        "prefix": "10.26502",
+        "volume": "07",
+        "author": [
+          {
+            "given": "Hend Abdelbary",
+            "family": "Ibrahim Aly",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "11040",
+        "published-online": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Psychiatry and Psychiatric Disorders"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              12
+            ]
+          ],
+          "date-time": "2023-04-12T11:33:49Z",
+          "timestamp": 1681299229000
+        },
+        "score": 23.649004,
+        "resource": {
+          "primary": {
+            "URL": "https://www.fortunejournals.com/articles/diagnosis-and-management-of-postpartum-depression.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "02",
+          "published-online": {
+            "date-parts": [
+              [
+                2023
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.26502/jppd.2572-519x0182",
+        "ISSN": [
+          "2572-519X"
+        ],
+        "issn-type": [
+          {
+            "value": "2572-519X",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              13
+            ]
+          ],
+          "date-time": "2022-07-13T07:42:45Z",
+          "timestamp": 1657698165792
+        },
+        "reference-count": 0,
+        "publisher": "Comprehensive Publications",
+        "issue": "3",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Int. J. Homoeopathic Sci."
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.33545/26164485.2022.v6.i3a.588",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              13
+            ]
+          ],
+          "date-time": "2022-07-13T07:22:52Z",
+          "timestamp": 1657696972000
+        },
+        "page": "386-388",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Postpartum Depression and its Homoeopathic Management"
+        ],
+        "prefix": "10.33545",
+        "volume": "6",
+        "author": [
+          {
+            "given": "Dr. AT Senthil",
+            "family": "Kumar",
+            "sequence": "first",
+            "affiliation": []
+          },
+          {
+            "given": "Dr. G Geetha Sudha",
+            "family": "Reddy",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "member": "19162",
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Homoeopathic Sciences"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              13
+            ]
+          ],
+          "date-time": "2022-07-13T07:22:53Z",
+          "timestamp": 1657696973000
+        },
+        "score": 23.530287,
+        "resource": {
+          "primary": {
+            "URL": "https://www.homoeopathicjournal.com/archives/2022/vol6issue3/A/6-2-50"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              1
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "3",
+          "published-online": {
+            "date-parts": [
+              [
+                2022,
+                7,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                7,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.33545/26164485.2022.v6.i3a.588",
+        "ISSN": [
+          "2616-4485",
+          "2616-4493"
+        ],
+        "issn-type": [
+          {
+            "value": "2616-4485",
+            "type": "print"
+          },
+          {
+            "value": "2616-4493",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              1
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 5,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

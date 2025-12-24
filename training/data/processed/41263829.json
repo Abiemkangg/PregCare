@@ -1,0 +1,18 @@
+{
+  "id": "41263829",
+  "title": "Evaluation protocol using propensity score matching to assess the impact of Arizona's Health Start Programme on maternal morbidity, chronic disease and mental health outcomes among Medicaid-enrolled mothers.",
+  "abstract": "In Arizona, chronic diseases, mental health conditions, haemorrhage and infections remain significant causes of severe maternal morbidity (SMM). Community health worker (CHW) interventions address social determinants of health and enhance healthcare access, which is particularly important for improving maternal health among high-risk Medicaid beneficiaries. The Arizona Health Start Programme (HSP), a home-visiting intervention, uses CHWs to improve maternal and child health outcomes through health education, referral support and advocacy services for at-risk pregnant and postpartum women with children up to age 2 years. Over 80% of HSP participants are insured by Medicaid. The goal of this evaluation is to determine if, among Arizona Medicaid beneficiaries, participation in HSP improves (1) the risk of experiencing SMM, (2) the care management of pregnant women diagnosed with chronic conditions (eg, diabetes, hypertension) and (3) the care management of pregnant women diagnosed with depression, compared with pregnant women who did not participate in HSP. To test our hypothesis, we employ a quasi-experimental design using retrospective data and propensity score matching to establish comparison groups using Arizona Medicaid claims and enrolment records spanning the study period (2008-2019). No primary data will be collected. This work is supported through an inter-agency contract from Arizona Department of Health Services (ADHS); approved by the ADHS Human Subjects Review Board, Project #17-00010, determined as non-human subjects research. Evaluation of the proposed outcomes will be completed by June 2027, and findings will be disseminated to HSP directors, managers and CHWs, as well as through academic journals and conferences.",
+  "authors": [
+    "Patrick Wightman",
+    "Kelly McCue Nation",
+    "Samantha Sabo",
+    "Sarah Asantewaa",
+    "Kristin Spevak",
+    "Martín Celaya"
+  ],
+  "year": 2025,
+  "doi": "10.1136/bmjopen-2024-094445",
+  "source": "pubmed",
+  "raw_file": "pubmed_postpartum_depression_management_1764074272.xml",
+  "category": "psychology"
+}

@@ -1,0 +1,414 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "FsmREQAAQBAJ",
+      "etag": "FmyB7VQfrIw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FsmREQAAQBAJ",
+      "volumeInfo": {
+        "title": "Artificial Intelligence for Human Fertility: Trends, Insights, and Predictions",
+        "authors": [
+          "KC Santosh"
+        ],
+        "publisher": "Springer Nature",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789819512485"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9819512484"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FsmREQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FsmREQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=FsmREQAAQBAJ&pg=PA45&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=FsmREQAAQBAJ&dq=fertility+and+menstrual+cycle+prediction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Artificial_Intelligence_for_Human_Fertil.html?hl=&id=FsmREQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Artificial_Intelligence_for_Human_Fertil-sample-epub.acsm?id=FsmREQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Artificial_Intelligence_for_Human_Fertil-sample-pdf.acsm?id=FsmREQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FsmREQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fertility</b> rates for men in their 30s increased by 21%, and for men aged 40 years and older, the rate surged by nearly 30 ... <b>menstrual cycles</b> and <b>ovulation</b>, impacting <b>fertility</b> for both genders [116]. Cocaine use is associated with&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5n4qEQAAQBAJ",
+      "etag": "Kqeklgj7YEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5n4qEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Data-Driven Reproductive Health",
+        "subtitle": "Role of Bioinformatics and Machine Learning Methods",
+        "authors": [
+          "Abhishek Sengupta",
+          "Priyanka Narad",
+          "Gaurav Majumdar",
+          "Deepak Modi"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2024-10-17",
+        "description": "This book provides insight into the transformative impact of data-driven approaches on reproductive health. Chapters cover a wealth of intricate algorithms of genomic analysis, predictive modeling, and personalized treatment strategies, providing an up-to-date view of the reproductive healthcare landscape. With more than 20 code-based examples, the book decodes complex biological data using bioinformatics and machine learning and provides valuable insights into fertility, genetic disorders, and personalized medicine. This book is relevant for healthcare professionals, researchers, and students in the fields of reproductive medicine, bioinformatics, and genetics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789819774517"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9819774519"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 235,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5n4qEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5n4qEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=5n4qEQAAQBAJ&pg=PA25&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5n4qEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5n4qEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3048063,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 2133644,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5n4qEQAAQBAJ&rdid=book-5n4qEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3048063000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2133644000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Data_Driven_Reproductive_Health-sample-epub.acsm?id=5n4qEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Data_Driven_Reproductive_Health-sample-pdf.acsm?id=5n4qEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5n4qEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... reproductive data in India S.N. Mobile apps 1 . Clue • Glow Flo • MyDays • Natural <b>Cycles</b> • Oura <b>Period Prediction</b> Ovia <b>Fertility</b> Purpose <b>Period</b> tracking and <b>fertility</b> 2 . 3 . 4 . 5 . BabyCenter • What to Expect • Ovia <b>Pregnancy</b> Tracker •&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hcc_DAAAQBAJ",
+      "etag": "geH152jVlE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hcc_DAAAQBAJ",
+      "volumeInfo": {
+        "title": "Clinical Practice Guidelines for Midwifery & Women's Health",
+        "authors": [
+          "Tharpe",
+          "Cindy L. Farley",
+          "Robin G. Jordan"
+        ],
+        "publisher": "Jones & Bartlett Publishers",
+        "publishedDate": "2016-05-20",
+        "description": "Clinical Practice Guidelines for Midwifery & Women's Health, Fifth Edition is an accessible and easy-to-use quick reference guide for midwives and women’s healthcare providers. Completely updated and revised to reflect the changing clinical environment, it offers current evidence-based practice, updated approaches, and opportunities for midwifery leadership in every practice setting. Also included are integrative, alternative, and complementary therapies. The Fifth Edition examines the transition to the use of ICD-10 codes, women’s health policy and advocacy, risk assessment and decision-making in practice, and inspiring trust in midwifery care. New clinical practice guidelines include health promotion and primary care practice, such as promoting restorative sleep, optimizing oral health, promoting a healthy weight, and caring for the woman with a substance abuse disorder.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781284070217"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1284070212"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 732,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hcc_DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hcc_DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=hcc_DAAAQBAJ&pg=PA318&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=hcc_DAAAQBAJ&dq=fertility+and+menstrual+cycle+prediction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Clinical_Practice_Guidelines_for_Midwife.html?hl=&id=hcc_DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Clinical_Practice_Guidelines_for_Midwife-sample-pdf.acsm?id=hcc_DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hcc_DAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>fertility</b> awareness tools <b>Ovulation</b> predictor tests Luteinizing hormone ( LH ) tests Electronic <b>fertility</b> monitors ... menstrual irregularities Experiencing subfertility For couples from cultural groups that prohibit use of other&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cPE8UoKvtukC",
+      "etag": "KZF4hyuZrh4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cPE8UoKvtukC",
+      "volumeInfo": {
+        "title": "Infertility Counseling",
+        "subtitle": "A Comprehensive Handbook for Clinicians",
+        "authors": [
+          "Sharon N. Covington",
+          "Linda Hammer Burns"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2006-10-16",
+        "description": "Infertility Counseling: A Comprehensive Handbook for Clinicians, 2nd edition, is a comprehensive, multidisciplinary textbook for all health professionals providing care for individuals facing reproductive health issues. It is the most thorough and extensive book currently available for clinicians in the field of infertility counseling, providing an exhaustive and comprehensive review of topics. It addresses both the medical and psychological aspects of infertility, reviewing assessment approaches, treatment strategies, counseling for medical conditions impacting fertility, third-party reproduction, alternative family building and post infertility counseling issues. Each chapter follows the same format: introduction, historical overview, literature review, theoretical framework, identification of clinical issues, suggestions for therapeutic interventions, and future implication. This edition also includes extensive appendixes of clinical tools useful to the clinician, including an Internet database of resources and an extensive glossary of terminology.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781139458337"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1139458337"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cPE8UoKvtukC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cPE8UoKvtukC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=cPE8UoKvtukC&pg=PA26&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=cPE8UoKvtukC&dq=fertility+and+menstrual+cycle+prediction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Infertility_Counseling.html?hl=&id=cPE8UoKvtukC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Infertility_Counseling-sample-epub.acsm?id=cPE8UoKvtukC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Infertility_Counseling-sample-pdf.acsm?id=cPE8UoKvtukC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cPE8UoKvtukC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Menstrual history Basal body temperature Serum progesterone Endometrial biopsy Serial ultrasound examinations ... cycle and higher than 98◦F (36.6◦C) during the second half of the <b>menstrual cycle</b>. However, the BBT does not give&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EIXGEAAAQBAJ",
+      "etag": "PQ7QPtCvvWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EIXGEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Effective Fertility Guide For Couples",
+        "subtitle": "Tips to Get pregnant, beat infertility with diet Smoothies boosting meal prep plan cookbook ovulation recipes men women over journal tracker 30 female male pcos beginners hormone balance Log plant based alkaline",
+        "publisher": "Sam Holen ",
+        "publishedDate": "2023-06-21",
+        "description": "🙂🙂🙂🙂🙂🙂🙂🙂🙂Bonus Fertility Journal and Period Tracker Included🙂🙂🙂🙂🙂🙂🙂🙂 Introducing \"The Effective Fertility Guide for Couples\" – your ultimate resource for practical tips, strategies, and expert guidance to optimize your fertility journey. Authored by a medical doctor and nutritionist Dr. Sam Holen, this comprehensive book is a must-have for couples striving to enhance their chances of conception. Are you and your partner longing to start or expand your family? Do you desire a comprehensive, reliable guide to unlock the secrets of successful conception? Look no further! \"The Effective Fertility Guide for Couples\" is here to empower you with the knowledge and tools you need to boost your fertility and increase your chances of achieving that precious pregnancy. Packed with Actionable Tips and Strategies: Dr. Sam, specializing in fertility, shares a wealth of practical advice you can implement immediately. Discover evidence-based dietary recommendations, lifestyle adjustments, and cutting-edge techniques to enhance both male and female fertility. From optimizing nutrition to managing stress and identifying the ideal time for conception, this book covers every aspect of your fertility journey. \"The Effective Fertility Guide for Couples\" includes a personalized one-year fertility journal and period tracker. This invaluable tool allows you to track your menstrual cycles, ovulation, and key fertility indicators throughout the year. Stay organized, monitor your progress, and gain a deeper understanding of your body's unique fertility patterns. Take Charge of Your Fertility Journey Today! Make \"The Effective Fertility Guide for Couples\" your trusted companion on the path to parenthood. Dr. Sam’s expert insight, combined with the practical fertility journal and period tracker, will equip you with the knowledge and tools to make informed decisions, optimize your fertility, and increase your chances of conceiving. So why wait? Don't let another day pass without taking proactive steps toward achieving your dream of starting or expanding your family. Get your copy of \" The Effective Fertility Guide for Couples\" Make this excellent resource that you now desire yours. With its straightforward, expert guidance, and ideal pricing, this book is sure to be a valuable addition to your library. Click on the \"Buy Now\" button and make this book yours, Your future family is waiting! Wishing you a delightful adventure as you own your journey to conception. Paperback available on Amazon With Same Details",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EIXGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EIXGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=EIXGEAAAQBAJ&pg=PA30&dq=fertility+and+menstrual+cycle+prediction&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EIXGEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EIXGEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 55394,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 41546,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EIXGEAAAQBAJ&rdid=book-EIXGEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 55394000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 41546000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/The_Effective_Fertility_Guide_For_Couple-sample-pdf.acsm?id=EIXGEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EIXGEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Prediction</b> Kits (OPKs): <b>Ovulation prediction</b> kits are available over the counter and work by detecting the surge of ... <b>menstrual cycle</b> length, basal body temperature, cervical mucus observations, and sometimes additional factors&nbsp;..."
+      }
+    }
+  ]
+}

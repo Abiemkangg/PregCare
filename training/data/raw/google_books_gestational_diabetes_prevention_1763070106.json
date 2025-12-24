@@ -1,0 +1,428 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ebrFxg8Y2AYC",
+      "etag": "KktAgBGFOiM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ebrFxg8Y2AYC",
+      "volumeInfo": {
+        "title": "Gestational Diabetes During and After Pregnancy",
+        "authors": [
+          "Catherine Kim",
+          "Assiamira Ferrara"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2014-01-02",
+        "description": "Gestational Diabetes Mellitus is becoming an increasingly prevalent disease as obesity and other chronic diseases are on the rise. It requires careful and informed clinical management as the care received during pregnancy affects not only perinatal health but the risk of developing type 2 diabetes even decades into the future, in both the mother and the child.From epidemiology and pathophysiology to diagnosis and management, covering recent breakthroughs in research and up-to-date developments in clinical practice, Gestational Diabetes During and After Pregnancy offers the reader a comprehensive and current look at Gestational Diabetes. Anyone involved in the research, public health or clinical aspects of Gestational Diabetes will find this volume a valuable aid in consolidating all recent developments regarding this disease.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781848821200"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1848821204"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 381,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ebrFxg8Y2AYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ebrFxg8Y2AYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=ebrFxg8Y2AYC&pg=PA388&dq=gestational+diabetes+prevention&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ebrFxg8Y2AYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ebrFxg8Y2AYC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1959399,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1371579,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ebrFxg8Y2AYC&rdid=book-ebrFxg8Y2AYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1959399000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1371579000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Gestational_Diabetes_During_and_After_Pr-sample-epub.acsm?id=ebrFxg8Y2AYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Gestational_Diabetes_During_and_After_Pr-sample-pdf.acsm?id=ebrFxg8Y2AYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ebrFxg8Y2AYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>gestational diabetes</b> mellitus , 164-165 in pregnancy , 159–161 F glucose uptake , 246–247 interventions and risk <b>prevention</b> of. Depot medroxyprogesterone acetate ( DMPA ) , 320 , 325-326 Diabetes <b>prevention</b> , interventions gestational&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mZxBEAAAQBAJ",
+      "etag": "aceX2BZGg8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mZxBEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Exercise to Prevent and Manage Chronic Disease Across the Lifespan",
+        "authors": [
+          "Jack Feehan",
+          "Nicholas Tripodi",
+          "Vasso Apostolopoulos"
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2022-04-30",
+        "description": "Exercise to Prevent and Manage Chronic Disease Across the Lifespan provides evidence-based insights into the clinical utility of exercise in the management of disease across a broad range of specialties and diseases. The book offers research informed strategies for the integration of exercise into standard practice in fields such as neurology, endocrinology, psychiatry and oncology, as well as decision-making pathways and clinical scenarios to advance patient care. The book is divided by specialty and includes clinical scenarios to allow for the integration of information within practice. The book's synthesized research evidence allows practitioners to safely and effectively begin to capitalize on the benefits of exercise in their patients. - Provides broad insights into the evidence-based underpinnings of the use of exercise in a range of common diseases - Coverage includes the immune system, musculoskeletal disease, oncology, endocrinology, cardiology, respiratory diseases, and more - Includes a glossary, bibliography and summary figures for quick reference of information",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780323885768"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0323885764"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 482,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mZxBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mZxBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=mZxBEAAAQBAJ&pg=PA160&dq=gestational+diabetes+prevention&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mZxBEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mZxBEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2778052,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1944636,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mZxBEAAAQBAJ&rdid=book-mZxBEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2778052000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1944636000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_to_Prevent_and_Manage_Chronic_D-sample-epub.acsm?id=mZxBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_to_Prevent_and_Manage_Chronic_D-sample-pdf.acsm?id=mZxBEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mZxBEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... diabetes. Diabetes Educ 2001;27(3):393–404. [134] Dutton GR, et al. Relationship between self-efficacy and physical ... <b>gestational diabetes</b> mellitus in China. Int J Environ Res Public Health 2020;17(24). [147] Agarwal MM&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p3hgEAAAQBAJ",
+      "etag": "7ji4L4ssTqk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p3hgEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Maternal-Fetal Evidence Based Guidelines",
+        "authors": [
+          "Vincenzo Berghella"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2022-03-29",
+        "description": "This new edition of an acclaimed text reviews the evidence for best practice in Maternal-Fetal Medicine, to present the reader with the right information, with appropriate use of proven interventions and avoidance of ineffectual or harmful ones. The information is presented in the right format by summarizing evidence succinctly and clearly in tables and algorithms. The aim is to inform the clinician, to reduce errors and \"to make it easy to do it right.\" The volume can be purchased separately or together with the companion volume on Obstetric Evidence Based Guidelines (set ISBN 9780367567033). The Series in Maternal-Fetal Medicine is published in conjunction with the Journal of Maternal-Fetal and Neonatal Medicine. From reviews of previous editions: \"An excellent resource with quick and easy protocols... this book has a permanent spot on my shelf.\" — Doody’s Review Service",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000484199"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "100048419X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 633,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p3hgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p3hgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=p3hgEAAAQBAJ&pg=PA74&dq=gestational+diabetes+prevention&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=p3hgEAAAQBAJ&dq=gestational+diabetes+prevention&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Maternal_Fetal_Evidence_Based_Guidelines.html?hl=&id=p3hgEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Maternal_Fetal_Evidence_Based_Guidelines-sample-pdf.acsm?id=p3hgEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p3hgEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>diabetes</b> mellitus: an overview of Cochrane reviews. Cochrane Database Syst Rev 2020;6(6):CD012394. [Meta-analysis ... <b>prevention</b>: a meta-analysis and meta-regression. BJOG 2019;126(3):311–320. [Meta- analysis, 47 RCTs, n = 15,745]&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oRKaDwAAQBAJ",
+      "etag": "UGidr1dwHRU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oRKaDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Gestational Diabetes",
+        "subtitle": "Causes, Diagnosis and Treatment",
+        "authors": [
+          "Luis Sobrevia"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2013-04-24",
+        "description": "This book summarizes several aspects of GD, which is caused by not well-understood multifactorial mechanisms. Common strategies seem to be key in the understanding of the syndrome, i.e., endothelial dysfunction and the role of other placenta cells such as trophoblasts. It is a book that will definitively help to increase the knowledge-based management of GD for the well being of the mother and the fetus. Several chapters lead us to the conclusion that pre-pregnancy and antenatal screening of women is required, something that will improve the management and outcome of a current pregnancy but will also optimize life-long health and well being considering the inter-generational consequences.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789535110774"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9535110772"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oRKaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oRKaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=oRKaDwAAQBAJ&pg=PA90&dq=gestational+diabetes+prevention&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=oRKaDwAAQBAJ&dq=gestational+diabetes+prevention&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gestational_Diabetes.html?hl=&id=oRKaDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Gestational_Diabetes-sample-pdf.acsm?id=oRKaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oRKaDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... GDM offers an important opportunity for the development for testing and the implementation of clinical strategies in <b>diabetic prevention</b> (Volpe et al 2007). The main objective should be to improve insulin sensitivity and <b>prevent diabetes</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X3WfDwAAQBAJ",
+      "etag": "z6BFw43PisI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X3WfDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Gestational Diabetes",
+        "authors": [
+          "Miroslav Radenkovic"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2011-11-02",
+        "description": "Gestational diabetes mellitus is defined as hyperglycemia with onset or first recognition during pregnancy. The incidence of gestational diabetes is still increasing and this pathological condition has strong association with adverse pregnancy outcomes. Since gestational diabetes can have long-term pathological consequences for both mother and the child, it is important that it is promptly recognized and adequately managed. Treatment of gestational diabetes is aimed to maintain euglycemia and it should involve regular glucose monitoring, dietary modifications, life style changes, appropriate physical activity, and when necessary, pharmacotherapy. Adequate glycemic control throughout the pregnancy can notably reduce the occurrence of specific adverse perinatal and maternal outcomes. In a long-term prospect, in order to prevent development of diabetes later in life, as well to avoid associated complications, an adequate education on lifestyle modifications should start in pregnancy and continue postpartum.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789533075815"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9533075813"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 395,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X3WfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X3WfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=X3WfDwAAQBAJ&pg=PA310&dq=gestational+diabetes+prevention&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=X3WfDwAAQBAJ&dq=gestational+diabetes+prevention&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gestational_Diabetes.html?hl=&id=X3WfDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Gestational_Diabetes-sample-pdf.acsm?id=X3WfDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X3WfDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>diabetes</b> mellitus requiring insulin therapy. New England Journal of Medicine, 333(19), 1237-1231. <b>Diabetes Prevention</b> Program Research Group. (14. Nov 2009). 10-year follow-up of <b>diabetes</b> incidence and weight loss in the <b>Diabetes Prevention</b>&nbsp;..."
+      }
+    }
+  ]
+}

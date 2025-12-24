@@ -1,0 +1,99 @@
+{
+  "numFound": 15,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 15,
+  "q": "gestational diabetes prevention",
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "docs": [
+    {
+      "author_key": [
+        "OL12983071A"
+      ],
+      "author_name": [
+        "Nickolas Harwick"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35967870W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Guide Prevent Gestational Diabetes : Tips and Advice to Manage Gestational Diabetes by Foods"
+    },
+    {
+      "author_key": [
+        "OL10272503A"
+      ],
+      "author_name": [
+        "James Lee Anderson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL40558330W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Diabetes : Type 1, Type 2, Gestational"
+    },
+    {
+      "author_key": [
+        "OL9370180A"
+      ],
+      "author_name": [
+        "Ragini B"
+      ],
+      "cover_edition_key": "OL33031381M",
+      "cover_i": 11715645,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL24851617W",
+      "public_scan_b": false,
+      "title": "Gestational Diabetes Step by Step Understanding, Managing, and Preventing Diabe"
+    },
+    {
+      "author_key": [
+        "OL12974862A"
+      ],
+      "author_name": [
+        "Roscoe Cheng"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35939551W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Gestational Diabetes Recipes : Steps Expectant Moms Can Take to Combat This Disease Through Diet"
+    },
+    {
+      "author_key": [
+        "OL9657418A"
+      ],
+      "author_name": [
+        "Beye De Base"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL28422356W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Diabetes Type 1, Type 2, and Gestational, All Tools to Rid Yourself of Diabete, Guide to Reversing and Preventing Diabetes"
+    }
+  ]
+}

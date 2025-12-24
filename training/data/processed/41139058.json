@@ -1,0 +1,20 @@
+{
+  "id": "41139058",
+  "title": "Retrospective evaluation of the use of non-human primates for fertility assessment of pharmaceuticals submitted for marketing approval in the EU.",
+  "abstract": "During development, potential adverse effects of pharmaceuticals on male and female fertility are evaluated. Although non-human primates (NHP) can be an appropriate model for some pharmaceuticals, there are scientific, ethical and practical limitations. We performed a retrospective analysis of the use of NHP for fertility assessment. A database was created, consisting of pharmaceuticals submitted to the European Medicines Agency (2011-2022). Pharmaceuticals with repeat-dose toxicity studies or dedicated studies to evaluate surrogate fertility endpoints in NHP were included. Publicly available data on product characteristics, study design, observations on standard surrogate fertility endpoints (changes in reproductive organ weight and histopathology), additional surrogate fertility endpoints (changes in reproductive hormone levels, menstrual cycle, and sperm parameters), and labeling were collected. In total, 263 pharmaceuticals were included. For 22 pharmaceuticals, adverse effects on surrogate fertility endpoints in NHP were reflected in the label. In all 22 cases, effects were predictable based on mechanism of action or rodent studies provided sufficient information on fertility. Hence, no clear scientific value of fertility assessment in sexually mature NHP was determined. In conclusion, using NHP to evaluate effects on surrogate fertility endpoints of pharmaceuticals did not have a significant impact on fertility labeling.",
+  "authors": [
+    "Puck Roos",
+    "Diann L Blanset",
+    "Peter Jk van Meer",
+    "Shermaine Mitchell-Ryan",
+    "Peter T Theunissen",
+    "Katie J Turner",
+    "Ronald L Wange",
+    "Christopher J Bowman"
+  ],
+  "year": 2025,
+  "doi": "10.1016/j.yrtph.2025.105967",
+  "source": "pubmed",
+  "raw_file": "pubmed_fertility_and_menstrual_cycle_prediction_1764074206.xml",
+  "category": "fertility"
+}

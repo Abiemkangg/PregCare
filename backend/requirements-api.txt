@@ -1,0 +1,17 @@
+# Django and REST Framework
+Django>=4.2.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+
+# Backend API requirements
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+python-multipart>=0.0.6
+
+# Already in training/requirement-clean.txt but adding for clarity
+google-genai>=1.52.0
+sentence-transformers
+langchain-postgres
+psycopg[binary]
+python-dotenv

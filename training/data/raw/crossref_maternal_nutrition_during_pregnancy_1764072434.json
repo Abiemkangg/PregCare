@@ -1,0 +1,753 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 2328796,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2022-03-30T19:39:22Z",
+          "timestamp": 1648669162095
+        },
+        "reference-count": 0,
+        "publisher": "Harvard University Press",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1960,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.4159/harvard.9780674592827.c10",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2014-03-31T20:21:07Z",
+          "timestamp": 1396297267000
+        },
+        "page": "59-66",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "MATERNAL NUTRITION DURING PREGNANCY"
+        ],
+        "prefix": "10.4159",
+        "member": "2652",
+        "container-title": [
+          "The Healthy Child"
+        ],
+        "link": [
+          {
+            "URL": "https://hup.degruyter.com/view/book/9780674592827/10.4159/harvard.9780674592827.c10.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/document/doi/10.4159/harvard.9780674592827.c10/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              23
+            ]
+          ],
+          "date-time": "2021-04-23T00:59:13Z",
+          "timestamp": 1619139553000
+        },
+        "score": 33.37393,
+        "resource": {
+          "primary": {
+            "URL": "https://www.degruyter.com/document/doi/10.4159/harvard.9780674592827.c10/html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1960,
+              12,
+              31
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.4159/harvard.9780674592827.c10",
+        "published": {
+          "date-parts": [
+            [
+              1960,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              29
+            ]
+          ],
+          "date-time": "2024-04-29T11:59:33Z",
+          "timestamp": 1714391973567
+        },
+        "reference-count": 0,
+        "publisher": "Jaypee Brothers Medical Publishers (P) Ltd.",
+        "isbn-type": [
+          {
+            "value": "9788180617119",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.5005/jp/books/10513_6",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              21
+            ]
+          ],
+          "date-time": "2013-02-21T20:05:01Z",
+          "timestamp": 1361477101000
+        },
+        "page": "36-36",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Maternal Nutrition during Pregnancy and Lactation"
+        ],
+        "prefix": "10.5005",
+        "author": [
+          {
+            "given": "Hiralal",
+            "family": "Konar",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "2914",
+        "published-online": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        },
+        "container-title": [
+          "Medical Disorders in Pregnancy—An Update"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              13
+            ]
+          ],
+          "date-time": "2019-08-13T21:40:11Z",
+          "timestamp": 1565732411000
+        },
+        "score": 30.59887,
+        "resource": {
+          "primary": {
+            "URL": "https://www.jaypeedigital.com/book/9788180617119/chapter/ch6"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        },
+        "ISBN": [
+          "9788180617119"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.5005/jp/books/10513_6",
+        "published": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              8
+            ]
+          ],
+          "date-time": "2023-04-08T04:20:00Z",
+          "timestamp": 1680927600138
+        },
+        "reference-count": 0,
+        "publisher": "American Medical Association (AMA)",
+        "issue": "1",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Arch Pediatr Adolesc Med"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1982,
+              1,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1001/archpedi.1982.03970370086032",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              11,
+              29
+            ]
+          ],
+          "date-time": "2011-11-29T00:10:49Z",
+          "timestamp": 1322525449000
+        },
+        "page": "84",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Maternal Nutrition During Pregnancy and Lactation"
+        ],
+        "prefix": "10.1001",
+        "volume": "136",
+        "author": [
+          {
+            "given": "LEWIS A.",
+            "family": "BARNESS",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "10",
+        "container-title": [
+          "Archives of Pediatrics &amp; Adolescent Medicine"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://archpedi.jamanetwork.com/ama/content_public/journal/peds/13070/archpedi_136_1_032.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2023-04-07T23:54:49Z",
+          "timestamp": 1680911689000
+        },
+        "score": 30.529602,
+        "resource": {
+          "primary": {
+            "URL": "http://archpedi.jamanetwork.com/article.aspx?doi=10.1001/archpedi.1982.03970370086032"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1982,
+              1,
+              1
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                1982,
+                1,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1001/archpedi.1982.03970370086032",
+        "ISSN": [
+          "1072-4710"
+        ],
+        "issn-type": [
+          {
+            "value": "1072-4710",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1982,
+              1,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              4
+            ]
+          ],
+          "date-time": "2025-10-04T08:03:15Z",
+          "timestamp": 1759564995092,
+          "version": "3.40.4"
+        },
+        "publisher-location": "Basel",
+        "reference-count": 0,
+        "publisher": "KARGER",
+        "isbn-type": [
+          {
+            "type": "electronic",
+            "value": "9783805583886"
+          },
+          {
+            "type": "print",
+            "value": "9783805583879"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "DOI": "10.1159/000113172",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              11
+            ]
+          ],
+          "date-time": "2008-01-11T14:33:14Z",
+          "timestamp": 1200061994000
+        },
+        "page": "79-89",
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+          "Maternal Nutrition Before and During Pregnancy"
+        ],
+        "prefix": "10.1159",
+        "author": [
+          {
+            "given": "T.",
+            "family": "Scholl",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "127",
+        "container-title": [
+          "Nestlé Nutrition Institute Workshop Series",
+          "The Window of Opportunity: Pre-Pregnancy to 24 Months of Age"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://www.karger.com/Article/Pdf/113172",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              23
+            ]
+          ],
+          "date-time": "2025-04-23T14:06:36Z",
+          "timestamp": 1745417196000
+        },
+        "score": 30.504923,
+        "resource": {
+          "primary": {
+            "URL": "https://karger.com/chapter/doi/10.1159/000113172"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783805583886",
+          "9783805583879"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1159/000113172",
+        "ISSN": [
+          "1664-2155",
+          "1664-2155"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1664-2155"
+          },
+          {
+            "type": "electronic",
+            "value": "1664-2155"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              23
+            ]
+          ],
+          "date-time": "2022-05-23T23:11:07Z",
+          "timestamp": 1653347467900
+        },
+        "reference-count": 22,
+        "publisher": "Mark Allen Group",
+        "issue": "3",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "British Journal of Midwifery"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              3
+            ]
+          ]
+        },
+        "abstract": "<jats:p> Government guidelines stress the need for pregnant women to have a balanced diet and to take certain vitamins and minerals. Midwives have a role in promoting healthy eating during pregnancy, particularly as pregnant women are faced with constant media messages about a healthy diet. Many women who have babies with a low birth weight are from low income backgrounds and are unable to provide themselves with an adequate diet. It is well documented that babies born underweight are more likely to suffer from illnesses and disabilities. Folic acid is an essential supplement for the first 12 weeks of pregnancy as it is proven to reduce the incidence of neural tube defects in babies. Essential fatty acids (EFAs) are fast becoming recognized as an important supplement for mothers, to ensure good brain development in the baby and a longer gestation period which increases birth weight. </jats:p>",
+        "DOI": "10.12968/bjom.2007.15.3.23031",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              5,
+              23
+            ]
+          ],
+          "date-time": "2014-05-23T13:55:32Z",
+          "timestamp": 1400853332000
+        },
+        "page": "167-170",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Maternal nutrition during pregnancy and folic acid"
+        ],
+        "prefix": "10.12968",
+        "volume": "15",
+        "author": [
+          {
+            "given": "Rachel",
+            "family": "Hale",
+            "sequence": "first",
+            "affiliation": []
+          }
+        ],
+        "member": "5130",
+        "reference": [
+          {
+            "key": "p_3",
+            "volume-title": "advises that pregnant women should not",
+            "author": "The FSA",
+            "year": "2003"
+          },
+          {
+            "key": "p_13",
+            "volume-title": "Folate Tables - Best Source http://www.internethealthlibrary.com/ DietandNutrition/Folate-tables.htm (Accessed",
+            "author": "Anon",
+            "year": "2006"
+          },
+          {
+            "key": "p_14",
+            "volume-title": "ADRAC Bulletin 15(4) http:// www.tga.gov.au/docs/html/aadrbltn/aadr9611.htm#vita (accessed",
+            "author": "Australian Adverse Drug Reaction",
+            "year": "1996"
+          },
+          {
+            "key": "p_15",
+            "volume-title": "Health Survey for England",
+            "author": "Blake M",
+            "year": "2002"
+          },
+          {
+            "key": "p_16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.12968/bjom.2006.14.3.20575"
+          },
+          {
+            "key": "p_17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.12968/bjom.2005.13.3.17641"
+          },
+          {
+            "key": "p_18",
+            "volume-title": "London",
+            "author": "Committee on Medical Aspects of Food &amp; Nutrition (COMA)",
+            "year": "2000"
+          },
+          {
+            "key": "p_19",
+            "volume-title": "London",
+            "author": "Committee on Medical Aspects of Food &amp; Nutrition (COMA)",
+            "year": "2000"
+          },
+          {
+            "key": "p_20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.12968/bjom.2007.15.2.22785"
+          },
+          {
+            "issue": "4",
+            "key": "p_21",
+            "first-page": "268",
+            "volume": "17",
+            "author": "Food Standards Agency (FSA)",
+            "year": "2007",
+            "journal-title": "Journal of Perinatal and Neonatal Health"
+          },
+          {
+            "key": "p_22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/jnci/85.11.875"
+          },
+          {
+            "key": "p_23",
+            "volume-title": "London",
+            "author": "Hamlyn B",
+            "year": "2000"
+          },
+          {
+            "key": "p_24",
+            "volume-title": "Diet and nutrition folate tables. Recommended intake",
+            "author": "Internet Health Library",
+            "year": "1998"
+          },
+          {
+            "key": "p_25",
+            "volume-title": "American Journal of Clinical Nutrition 72(1 supplement): 280s-290s",
+            "author": "Ladipo OA",
+            "year": "2000"
+          },
+          {
+            "key": "p_26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0140-6736(91)90133-A"
+          },
+          {
+            "key": "p_27",
+            "volume-title": "The effect National Council on Folic Acid (2004) About folic acid",
+            "author": "Mirghani HM",
+            "year": "2003"
+          },
+          {
+            "key": "p_29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0140-6736(92)90533-9"
+          },
+          {
+            "key": "p_30",
+            "volume-title": "Folates and disease prevention. An update",
+            "author": "Scientific Advisory Committee on Nutrition",
+            "year": "2001"
+          },
+          {
+            "key": "p_31",
+            "volume-title": "Periconceptional folic acid and food fortification in the prevention of neural tube defects",
+            "author": "Scientific Advisory Committee",
+            "year": "2003"
+          },
+          {
+            "key": "p_32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/00005237-200301000-00002"
+          },
+          {
+            "issue": "8",
+            "key": "p_33",
+            "first-page": "394",
+            "volume": "16",
+            "author": "Williamson C",
+            "year": "2006",
+            "journal-title": "Practice Nursing"
+          },
+          {
+            "key": "p_34",
+            "volume-title": "Healthy eating during pregnancy and breastfeeding. www.euro.who.int/document/e73182.pdf (Accessed",
+            "author": "World Health Organization (WHO)",
+            "year": "2001"
+          }
+        ],
+        "container-title": [
+          "British Journal of Midwifery"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://www.magonlinelibrary.com/doi/pdf/10.12968/bjom.2007.15.3.23031",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              23
+            ]
+          ],
+          "date-time": "2022-05-23T22:32:42Z",
+          "timestamp": 1653345162000
+        },
+        "score": 29.311262,
+        "resource": {
+          "primary": {
+            "URL": "http://www.magonlinelibrary.com/doi/10.12968/bjom.2007.15.3.23031"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              3
+            ]
+          ]
+        },
+        "references-count": 22,
+        "journal-issue": {
+          "issue": "3",
+          "published-print": {
+            "date-parts": [
+              [
+                2007,
+                3
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.12968/bjom.2007.15.3.23031"
+        ],
+        "URL": "https://doi.org/10.12968/bjom.2007.15.3.23031",
+        "ISSN": [
+          "0969-4900",
+          "2052-4307"
+        ],
+        "issn-type": [
+          {
+            "value": "0969-4900",
+            "type": "print"
+          },
+          {
+            "value": "2052-4307",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              3
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 5,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

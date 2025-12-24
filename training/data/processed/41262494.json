@@ -1,0 +1,20 @@
+{
+  "id": "41262494",
+  "title": "Real-time quality feedback on Doppler data for community midwives using edge-AI.",
+  "abstract": "This study presents a technical framework for real-time fetal Doppler data quality assessment using deep learning and edge-AI, designed to improve data collection and support future clinical studies in low-resource settings. Integrated into a low-cost, edge-computing system co-designed with Indigenous midwives in rural Guatemala, our solution utilizes an Android phone for data acquisition and decision support. Retrospective analysis demonstrates the potential to detect fetal growth restriction, hypertension, and other pregnancy-related conditions using Doppler-based fetal cardiac signals. To ensure accurate assessments and provide immediate feedback, a real-time signal quality metric is essential. We analyzed two fetal Doppler datasets: 191 recordings, captured in rural Guatemala, for training and validation, and five captured in a German hospital (in Leipzig) for testing. The data were segmented into 3.75 s intervals, and categorized into five quality levels: good, poor, radiofrequency interference, talking, and silent. A deep neural network was trained on these segments, achieving a micro",
+  "authors": [
+    "Mohsen Motie-Shirazi",
+    "Sepideh Nikookar",
+    "Mohammad Ahmad",
+    "Alireza Rafiei",
+    "Reza Sameni",
+    "Peter Rohloff",
+    "Gari D Clifford",
+    "Nasim Katebi"
+  ],
+  "year": 2025,
+  "doi": "10.1088/3049-477X/ae1bad",
+  "source": "pubmed",
+  "raw_file": "pubmed_AI_in_maternal_health_monitoring_1764074325.xml",
+  "category": "prenatal"
+}

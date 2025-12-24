@@ -1,0 +1,1686 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 532049,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              14
+            ]
+          ],
+          "date-time": "2023-10-14T09:42:42Z",
+          "timestamp": 1697276562418
+        },
+        "reference-count": 26,
+        "publisher": "Wiley",
+        "issue": "3",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2012,
+                  7,
+                  25
+                ]
+              ],
+              "date-time": "2012-07-25T00:00:00Z",
+              "timestamp": 1343174400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 24,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "obgyn.onlinelibrary.wiley.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "The Obstetric &amp; Gynaecologis"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        },
+        "abstract": "<jats:sec><jats:title>Key content</jats:title><jats:p>\n<jats:list list-type=\"bullet\">\n\n<jats:list-item><jats:p>Pregnant women should take 400 micrograms/day of folic acid periconceptionally.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>High‐dose vitamins C and E are not recommended.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>All pregnant women are now advised to take vitamin D supplements.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>Less than 50% of pregnant women in the UK take the vitamins recommended for pregnancy.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>Further collaborative research is required to understand the role of other vitamins in improving maternal and perinatal wellbeing in high and low‐resourced countries.</jats:p></jats:list-item>\n</jats:list>\n</jats:p></jats:sec><jats:sec><jats:title>Learning objectives</jats:title><jats:p>\n<jats:list list-type=\"bullet\">\n\n<jats:list-item><jats:p>To understand the role of vitamins in pregnancy.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>To gain an overview of recommendations on vitamin supplementation in pregnancy.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>To be aware of the benefits and harm of vitamin supplementation in pregnancy.</jats:p></jats:list-item>\n</jats:list>\n</jats:p></jats:sec><jats:sec><jats:title>Ethical Issues</jats:title><jats:p>\n<jats:list list-type=\"bullet\">\n\n<jats:list-item><jats:p>Is it appropriate to identify women at risk of vitamin deficiency based on parameters such as ethnicity and body mass index?</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>How should potential benefits and harms be balanced for mother and fetus when considering vitamin supplementation in pregnancy?</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>Is it ethical to consider food fortification with vitamins for the benefit of one group (pregnant women) when there may be harm for other groups (older persons)?</jats:p></jats:list-item>\n</jats:list>\n</jats:p></jats:sec>",
+        "DOI": "10.1111/j.1744-4667.2012.00116.x",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2012,
+              7,
+              25
+            ]
+          ],
+          "date-time": "2012-07-25T04:47:01Z",
+          "timestamp": 1343191621000
+        },
+        "page": "175-178",
+        "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Vitamin supplementation in pregnancy"
+        ],
+        "prefix": "10.1111",
+        "volume": "14",
+        "author": [
+          {
+            "given": "Susan",
+            "family": "Duckworth",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Division of Women's Health King's College London School of Medicine St Thomas' Hospital 10th Floor, North Wing, Westminster Bridge Road London SE1 7EH UK"
+              }
+            ]
+          },
+          {
+            "given": "Hiten D",
+            "family": "Mistry",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Division of Women's Health King's College London School of Medicine London SE1 7EH UK"
+              }
+            ]
+          },
+          {
+            "given": "Lucy C",
+            "family": "Chappell",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Division of Women's Health King's College London School of Medicine London SE1 7EH UK"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2012,
+              7,
+              25
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "e_1_2_10_2_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S1368980008002346"
+          },
+          {
+            "key": "e_1_2_10_3_1",
+            "first-page": "CD007950",
+            "article-title": "Effects and safety of periconceptional folate supplementation for preventing birth defects",
+            "volume": "10",
+            "author": "De‐Regil LM",
+            "year": "2010",
+            "journal-title": "Cochrane Database Syst Rev"
+          },
+          {
+            "key": "e_1_2_10_4_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S1701-2163(16)32227-7"
+          },
+          {
+            "key": "e_1_2_10_5_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/sj.clpt.6100100"
+          },
+          {
+            "key": "e_1_2_10_6_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/01.ede.0000152914.84962.13"
+          },
+          {
+            "key": "e_1_2_10_7_1",
+            "volume-title": "The Epilepsies: the Diagnosis and Management of the Epilepsies in Adults and Children in Primary and Secondary Care. CG137",
+            "author": "National Institute for Health and Clinical Excellence",
+            "year": "2012"
+          },
+          {
+            "key": "e_1_2_10_8_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1001/jama.1996.03530380031027"
+          },
+          {
+            "key": "e_1_2_10_9_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3945/ajcn.2008.27097"
+          },
+          {
+            "key": "e_1_2_10_10_1",
+            "volume-title": "Antenatal Care: Routine Care for the Healthy Pregnant Woman. CG62",
+            "author": "National Institute for Health and Clinical Excellence",
+            "year": "2008"
+          },
+          {
+            "key": "e_1_2_10_11_1",
+            "first-page": "CD008666",
+            "article-title": "Vitamin A supplementation during pregnancy for maternal and newborn outcomes",
+            "volume": "11",
+            "author": "van den Broek N",
+            "year": "2010",
+            "journal-title": "Cochrane Database Syst Rev"
+          },
+          {
+            "key": "e_1_2_10_12_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0890-6238(97)00102-0"
+          },
+          {
+            "key": "e_1_2_10_13_1",
+            "first-page": "CD007575",
+            "article-title": "Interventions for nausea and vomiting in early pregnancy",
+            "volume": "9",
+            "author": "Matthews A",
+            "year": "2010",
+            "journal-title": "Cochrane Database Syst Rev"
+          },
+          {
+            "key": "e_1_2_10_14_1",
+            "first-page": "CD000179",
+            "article-title": "Pyridoxine (vitamin B6) supplementation in pregnancy",
+            "volume": "2",
+            "author": "Thaver D",
+            "year": "2006",
+            "journal-title": "Cochrane Database Syst Rev"
+          },
+          {
+            "key": "e_1_2_10_15_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/278737a0"
+          },
+          {
+            "key": "e_1_2_10_16_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bpobgyn.2010.10.016"
+          },
+          {
+            "key": "e_1_2_10_17_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/OGX.0b013e3182095366"
+          },
+          {
+            "key": "e_1_2_10_18_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0002-8223(21)07902-5"
+          },
+          {
+            "key": "e_1_2_10_19_1",
+            "volume-title": "The National Diet & Nutrition Survey: Adults Aged 19 to 64 Years",
+            "author": "Ruston D",
+            "year": "2004"
+          },
+          {
+            "key": "e_1_2_10_20_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/ajcn/85.3.788"
+          },
+          {
+            "key": "e_1_2_10_21_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0140-6736(01)06580-1"
+          },
+          {
+            "key": "e_1_2_10_22_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/jn/137.11.2437"
+          },
+          {
+            "key": "e_1_2_10_23_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ajog.2011.03.058"
+          },
+          {
+            "key": "e_1_2_10_24_1",
+            "volume-title": "Improving the Nutrition of Pregnant and Breastfeeding Mothers in Low‐income Households. PH11",
+            "author": "National Institute for Health and Clinical Excellence",
+            "year": "2008"
+          },
+          {
+            "key": "e_1_2_10_25_1",
+            "unstructured": "Department of Health.Vitamin D – advice on supplements for at risk groups. 2 February 2012 [www.dh.gov.uk/health/2012/02/advice-vitamin-d/]."
+          },
+          {
+            "key": "e_1_2_10_26_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1212/WNL.58.4.549"
+          },
+          {
+            "key": "e_1_2_10_27_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1471-2458-11-S3-S19"
+          }
+        ],
+        "container-title": [
+          "The Obstetrician &amp; Gynaecologist"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1744-4667.2012.00116.x",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1744-4667.2012.00116.x",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              14
+            ]
+          ],
+          "date-time": "2023-10-14T01:09:58Z",
+          "timestamp": 1697245798000
+        },
+        "score": 28.032923,
+        "resource": {
+          "primary": {
+            "URL": "https://obgyn.onlinelibrary.wiley.com/doi/10.1111/j.1744-4667.2012.00116.x"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        },
+        "references-count": 26,
+        "journal-issue": {
+          "issue": "3",
+          "published-print": {
+            "date-parts": [
+              [
+                2012,
+                7
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1111/j.1744-4667.2012.00116.x"
+        ],
+        "URL": "https://doi.org/10.1111/j.1744-4667.2012.00116.x",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "1467-2561",
+          "1744-4667"
+        ],
+        "issn-type": [
+          {
+            "value": "1467-2561",
+            "type": "print"
+          },
+          {
+            "value": "1744-4667",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              7
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "2012-07-25",
+            "order": 2,
+            "name": "published",
+            "label": "Published",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              3
+            ]
+          ],
+          "date-time": "2025-03-03T05:29:36Z",
+          "timestamp": 1740979776701,
+          "version": "3.38.0"
+        },
+        "reference-count": 21,
+        "publisher": "SAGE Publications",
+        "issue": "2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  1989,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "1989-04-01T00:00:00Z",
+              "timestamp": 607392000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Journal of the Royal Society of Health"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1989,
+              4
+            ]
+          ]
+        },
+        "abstract": "<jats:p> THE AIM of the study was to investigate the extent and determinants of vitamin supplementation in early pregnancy. </jats:p><jats:p> Some 246 women were recruited in the antenatal clinics of a major teaching hospital and asked to com plete a brief questionnaire relating to sources of advice and details of diet and vitamin supplementation during the index pregnancy. Further information was abstracted from routine antenatal records. A total of fifty-seven women (23%) took some form of vitamin supplement during the index pregnancy. Factors which affected supplementation included advice received from diverse sources and whether or not the women took iron supplements. Somewhat surprisingly, supplementation was not affected by age, social class or reproductive history. </jats:p>",
+        "DOI": "10.1177/146642408910900209",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2007,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2007-09-18T17:36:39Z",
+          "timestamp": 1190136999000
+        },
+        "page": "60-63",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Vitamin Supplementation in Pregnancy"
+        ],
+        "prefix": "10.1177",
+        "volume": "109",
+        "author": [
+          {
+            "given": "Alison",
+            "family": "Best",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Nottingham Medical School"
+              }
+            ]
+          },
+          {
+            "given": "Julian",
+            "family": "Little",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Community Medicine and Epidemiology, University of Nottingham Medical School"
+              }
+            ]
+          },
+          {
+            "given": "Marion",
+            "family": "Macpherson",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Obstetrics and Gynaecology, University of Nottingham Medical School"
+              }
+            ]
+          }
+        ],
+        "member": "179",
+        "published-online": {
+          "date-parts": [
+            [
+              1989,
+              4,
+              1
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "atypb1",
+            "first-page": "182",
+            "volume": "43",
+            "author": "Bennett, A.",
+            "year": "1985",
+            "journal-title": "Health Bulletin"
+          },
+          {
+            "volume-title": "Perinatal Mortality",
+            "year": "1963",
+            "author": "Butler, N.R.",
+            "key": "atypb2"
+          },
+          {
+            "volume-title": "Patients and their Doctors: A Study of General Practice",
+            "year": "1967",
+            "author": "Cartwright, A.",
+            "key": "atypb3"
+          },
+          {
+            "key": "atypb4",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1136/dtb.22.9.33",
+            "volume": "22",
+            "author": "Drug and Therapeutic Bulletin.",
+            "year": "1984",
+            "journal-title": "Drug and Therapeutics Bulletin"
+          },
+          {
+            "key": "atypb5",
+            "first-page": "1088",
+            "volume": "129",
+            "author": "Elwood, J.M.",
+            "year": "1983",
+            "journal-title": "Canadian Medical Association Journal"
+          },
+          {
+            "volume-title": "Guardian, Doctors 'silenced' over deformity tests",
+            "year": "1982",
+            "key": "atypb6"
+          },
+          {
+            "key": "atypb7",
+            "unstructured": "Health Education Council, Pregnancy Book. London: Health Education Council, 1984."
+          },
+          {
+            "key": "atypb8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/oxfordjournals.epirev.a036257"
+          },
+          {
+            "key": "atypb9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0140-6736(80)91753-5"
+          },
+          {
+            "key": "atypb10",
+            "first-page": "1061",
+            "volume": "1",
+            "year": "1980",
+            "journal-title": "Lancet"
+          },
+          {
+            "journal-title": "Lancet",
+            "first-page": "1255",
+            "year": "1982",
+            "key": "atypb11"
+          },
+          {
+            "key": "atypb12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/bmj.281.6255.1592"
+          },
+          {
+            "key": "atypb13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/bmj.282.6275.1509"
+          },
+          {
+            "key": "atypb14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-954X.1978.tb00147.x"
+          },
+          {
+            "key": "atypb15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/300302a0"
+          },
+          {
+            "key": "atypb16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/bmj.286.6362.388-a"
+          },
+          {
+            "key": "atypb17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0140-6736(80)90886-7"
+          },
+          {
+            "key": "atypb18",
+            "unstructured": "Times. May 8, 1981."
+          },
+          {
+            "key": "atypb19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/bmj.291.6490.263"
+          },
+          {
+            "key": "atypb20",
+            "first-page": "516",
+            "volume": "91",
+            "author": "Wald, N.S.",
+            "year": "1984",
+            "journal-title": "Journal of Obstetrics and Gynaecology"
+          },
+          {
+            "key": "atypb21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/adc.61.5.440"
+          }
+        ],
+        "container-title": [
+          "Journal of the Royal Society of Health"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://journals.sagepub.com/doi/pdf/10.1177/146642408910900209",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://journals.sagepub.com/doi/pdf/10.1177/146642408910900209",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              2
+            ]
+          ],
+          "date-time": "2025-03-02T08:01:33Z",
+          "timestamp": 1740902493000
+        },
+        "score": 27.907896,
+        "resource": {
+          "primary": {
+            "URL": "https://journals.sagepub.com/doi/10.1177/146642408910900209"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1989,
+              4
+            ]
+          ]
+        },
+        "references-count": 21,
+        "journal-issue": {
+          "issue": "2",
+          "published-print": {
+            "date-parts": [
+              [
+                1989,
+                4
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1177/146642408910900209"
+        ],
+        "URL": "https://doi.org/10.1177/146642408910900209",
+        "ISSN": [
+          "0264-0325"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0264-0325"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1989,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              22
+            ]
+          ],
+          "date-time": "2025-10-22T05:17:05Z",
+          "timestamp": 1761110225544,
+          "version": "3.44.0"
+        },
+        "reference-count": 33,
+        "publisher": "BMJ",
+        "issue": "7",
+        "content-domain": {
+          "domain": [
+            "bmj.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "DTB"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              7
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Ensuring that a woman is well-nourished, both before and during pregnancy, is crucial for the health of the woman and that of the unborn child.<jats:sup>1</jats:sup> Maternal deficiency in key nutrients has been linked to pre-eclampsia, restricted fetal growth, neural tube defects, skeletal deformity and low birth weight.<jats:sup>1,2</jats:sup> Many nutritional supplements containing vitamins, minerals and other micronutrients are heavily marketed to women for all stages of pregnancy. However, much of the evidence for vitamin supplementation in pregnancy comes from studies carried out in low-income countries,<jats:sup>3</jats:sup> where women are more likely to be undernourished or malnourished than within the UK population. The challenges lie in knowing which supplements are beneficial and in improving uptake among those at most need. Here we summarise current UK guidance for vitamin supplementation in pregnancy and review the evidence behind it.</jats:p>",
+        "DOI": "10.1136/dtb.2016.7.0414",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              12
+            ]
+          ],
+          "date-time": "2016-07-12T20:10:01Z",
+          "timestamp": 1468354201000
+        },
+        "page": "81-84",
+        "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+        "source": "Crossref",
+        "is-referenced-by-count": 9,
+        "title": [
+          "Vitamin supplementation in pregnancy"
+        ],
+        "prefix": "10.1136",
+        "volume": "54",
+        "member": "239",
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              11
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "2025082623143284000_54.7.81.1",
+            "unstructured": "National Institute for Health and Care Excellence, 2014. Maternal and child nutrition (PH11) [online]. Available: https://www.nice.org.uk/guidance/ph11 [Accessed 22 June 2016]."
+          },
+          {
+            "key": "2025082623143284000_54.7.81.2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1365-3016.2012.01281.x"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1365-3016.2012.01276.x"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.4",
+            "unstructured": "National Institute for Health and Care Excellence, 2014. Vitamin D: increasing supplement use in at-risk groups (PH56) [online]. Available: http://www.nice.org.uk/guidance/ph56 [Accessed 22 June 2016]."
+          },
+          {
+            "key": "2025082623143284000_54.7.81.5",
+            "unstructured": "Royal College of Obstetricians and Gynaecologists, 2014. Healthy eating and vitamin supplements in pregnancy [online]. Available: https://www.rcog.org.uk/globalassets/documents/patients/patient-information-leaflets/pregnancy/pi-healthy-eating-and-vitamin-supplements-in-pregnancy.pdf [Accessed 22 June 2016]."
+          },
+          {
+            "key": "2025082623143284000_54.7.81.6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Khoshnood B , et al . Long term trends in prevalence of neural tube defects in Europe: population based study. BMJ 2015; 351: ph5949.",
+            "DOI": "10.1136/bmj.h5949"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/bmj.282.6275.1509"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0140-6736(91)90133-A"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1056/NEJM199212243272602"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1056/NEJM199911113412001"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12929-014-0077-z"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "De-Regil LM , et al . Effects and safety of periconceptional oral folate supplementation for preventing birth defects. Cochrane Database Syst Rev 2015; 12: CD007950. DOI:10.1002/14651858.CD007950.pub3 [Last assessed as up-to-date 31 August 2015].",
+            "DOI": "10.1002/14651858.CD007950.pub3"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.13",
+            "unstructured": "National Institute for Health and Care Excellence, 2016. Antenatal care for uncomplicated pregnancies (CG62) [online]. Available: http://www.nice.org.uk/guidance/cg62 [Accessed 22 June 2016]."
+          },
+          {
+            "key": "2025082623143284000_54.7.81.14",
+            "doi-asserted-by": "crossref",
+            "first-page": "547",
+            "DOI": "10.1016/j.nutres.2015.04.010",
+            "article-title": "Effects of vitamin D supplementation during pregnancy on neonatal vitamin D and calcium concentrations: a systematic review and meta-analysis",
+            "volume": "35",
+            "author": "Yang",
+            "year": "2015",
+            "journal-title": "Nutr Res"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.15",
+            "unstructured": "Scientific Advisory Committee on Nutrition, 2007. Update on vitamin D [online]. Available: https://www.gov.uk/government/publications/sacn-update-on-vitamin-d-2007 [Accessed 20 June 2016]."
+          },
+          {
+            "key": "2025082623143284000_54.7.81.16",
+            "unstructured": "Scientific Advisory Committee on Nutrition, 2015. Draft vitamin D and health report [online]. Available: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/447402/Draft_SACN_Vitamin_D_and_Health_Report.pdf [Accessed 22 June 2016]."
+          },
+          {
+            "key": "2025082623143284000_54.7.81.17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1357",
+            "DOI": "10.1111/aogs.12000",
+            "article-title": "The impact of vitamin D on pregnancy: a systematic review",
+            "volume": "9",
+            "author": "Christesen",
+            "year": "2012",
+            "journal-title": "Acta Obstet Gynecol Scand"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Christesen HT , et al . The impact of vitamin D in pregnancy on extraskeletal health in children: a systematic review. Acta Obstet Gynecol Scand 2012; 91: 1368-80.",
+            "DOI": "10.1111/aogs.12006"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1365-3016.2012.01283.x"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S2213-8587(16)00044-9"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.fertnstert.2015.02.019"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.22",
+            "unstructured": "Royal College of Obstetricians and Gynaecologists, 2014. Vitamin D in pregnancy [online]. Available: https://www.rcog.org.uk/globalassets/documents/guidelines/scientific-impact-papers/vitamin_d_sip43_june14.pdf [Accessed 22 June 2016]."
+          },
+          {
+            "key": "2025082623143284000_54.7.81.23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ejim.2012.01.007"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.24",
+            "doi-asserted-by": "crossref",
+            "first-page": "8366",
+            "DOI": "10.3390/nu7105398",
+            "article-title": "Vitamin D deficiency increases the risk of gestational diabetes mellitus: a meta-analysis of observational studies",
+            "volume": "7",
+            "author": "Zhang",
+            "year": "2015",
+            "journal-title": "Nutrients"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.25",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.1093/ajcn/85.1.6",
+            "article-title": "Risk assessment for vitamin D",
+            "volume": "85",
+            "author": "Hathcock",
+            "year": "2007",
+            "journal-title": "Am J Clin Nutr"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Peña-Rosas JP . Daily oral iron supplementation during pregnancy. Cochrane Database Syst Rev 2015; 7: CD004736. DOI:10.1002/14651858.CD004736.pub5 [Last assessed as up-to-date 10 January 2015].",
+            "DOI": "10.1002/14651858.CD004736.pub5"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rumbold A , et al . Vitamin C supplementation in pregnancy. Cochrane Database Syst Rev 2015; 9: CD004072. DOI:10.1002/14651858.CD004072.pub3 [Last assessed as up-to-date 31 March 2015].",
+            "DOI": "10.1002/14651858.CD004072.pub3"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rumbold A , et al . Vitamin E supplementation in pregnancy. Cochrane Database Syst Rev 2015; 9: CD004069. DOI:10.1002/14651858.CD004069.pub3 [Last assessed as up-to-date 31 March 2015].",
+            "DOI": "10.1002/14651858.CD004069.pub3"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.29",
+            "unstructured": "National Institute for Health and Care Excellence, 2016. Antenatal care for uncomplicated pregnancies (CG 62) [online]. Available: https://www.nice.org.uk/guidance/cg62 [Accessed 22 June 2016]."
+          },
+          {
+            "key": "2025082623143284000_54.7.81.30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Haider BA , et al . Multiple-micronutrient supplementation for women during pregnancy. Cochrane Database Syst Rev 2015; 11: CD004905. DOI:10.1002/14651858.CD004905.pub [Last assessed as up-to-date 11 March 2015].",
+            "DOI": "10.1002/14651858.CD004905.pub4"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0007114510000747"
+          },
+          {
+            "key": "2025082623143284000_54.7.81.32",
+            "unstructured": "Healthy Start, 2014. Vitamins [online]. Available: https://www.healthystart.nhs.uk/for-health-professionals/vitamins/ [Accessed 22 June 2016]."
+          },
+          {
+            "key": "2025082623143284000_54.7.81.33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/bmj.i3129"
+          }
+        ],
+        "container-title": [
+          "Drug and Therapeutics Bulletin"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://syndication.highwire.org/content/doi/10.1136/dtb.2016.7.0414",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              27
+            ]
+          ],
+          "date-time": "2025-08-27T06:14:47Z",
+          "timestamp": 1756275287000
+        },
+        "score": 27.792011,
+        "resource": {
+          "primary": {
+            "URL": "https://dtb.bmj.com/lookup/doi/10.1136/dtb.2016.7.0414"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              7
+            ]
+          ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+          "issue": "7",
+          "published-online": {
+            "date-parts": [
+              [
+                2016,
+                7,
+                14
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2016,
+                7
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.1136/dtb.2016.7.0414"
+        ],
+        "URL": "https://doi.org/10.1136/dtb.2016.7.0414",
+        "ISSN": [
+          "0012-6543",
+          "1755-5248"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0012-6543"
+          },
+          {
+            "type": "electronic",
+            "value": "1755-5248"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2025-10-08T15:33:11Z",
+          "timestamp": 1759937591321
+        },
+        "publisher-location": "Chichester, UK",
+        "reference-count": 27,
+        "publisher": "John Wiley & Sons, Ltd",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1002/14651858.cd004072",
+        "type": "reference-entry",
+        "created": {
+          "date-parts": [
+            [
+              2003,
+              11,
+              21
+            ]
+          ],
+          "date-time": "2003-11-21T22:16:55Z",
+          "timestamp": 1069453015000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Vitamin C supplementation in pregnancy"
+        ],
+        "prefix": "10.1002",
+        "author": [
+          {
+            "given": "Rumbold",
+            "family": "Alice",
+            "sequence": "first",
+            "affiliation": []
+          },
+          {
+            "given": "Crowther",
+            "family": "Caroline",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2003,
+              1,
+              20
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "10.1002/14651858.CD004072-BIB1|cit1",
+            "first-page": "367",
+            "article-title": "Vitamin C safety in humans",
+            "volume-title": "Vitamin C in health and disease",
+            "author": "Bendich",
+            "year": "1997"
+          },
+          {
+            "issue": "9181",
+            "key": "10.1002/14651858.CD004072-BIB2|cit2",
+            "doi-asserted-by": "crossref",
+            "first-page": "810",
+            "DOI": "10.1016/S0140-6736(99)80010-5",
+            "article-title": "Effect of antioxidants on the occurrence of pre-eclampsia in women at increased risk: a randomised trial",
+            "volume": "354",
+            "author": "Chappell",
+            "year": "1999",
+            "journal-title": "Lancet"
+          },
+          {
+            "volume-title": "Cochrane Reviewer's Handbook 4.1[updated June 2000].In: Review Manager (Revman) [Computer Program]. Version 4.1",
+            "year": "2000",
+            "author": "Clarke",
+            "key": "10.1002/14651858.CD004072-BIB3|cit3"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB4|cit4",
+            "first-page": "893",
+            "article-title": "Overnutrition in prenatal and neonatal life: a problem?",
+            "volume": "93",
+            "author": "Cochrane",
+            "year": "1965",
+            "journal-title": "Canadian Medical Association Journal"
+          },
+          {
+            "issue": "Suppl 1",
+            "key": "10.1002/14651858.CD004072-BIB5|cit5",
+            "doi-asserted-by": "crossref",
+            "first-page": "S77",
+            "DOI": "10.1079/BJN19980106",
+            "article-title": "Functional food science and defence against reactive oxidative species",
+            "volume": "80",
+            "author": "Diplock",
+            "year": "1998",
+            "journal-title": "British Journal of Nutrition"
+          },
+          {
+            "issue": "4",
+            "key": "10.1002/14651858.CD004072-BIB6|cit6",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.1007/s002280000149",
+            "article-title": "Drug use in pregnancy among Italian women",
+            "volume": "56",
+            "author": "Donati",
+            "year": "2000",
+            "journal-title": "European Journal of Clinical Pharmacology"
+          },
+          {
+            "issue": "2",
+            "key": "10.1002/14651858.CD004072-BIB7|cit7",
+            "doi-asserted-by": "crossref",
+            "first-page": "165",
+            "DOI": "10.1111/j.1479-828X.2000.tb01140.x",
+            "article-title": "Patterns of medication use during and prior to pregnancy",
+            "volume": "40",
+            "author": "Henry",
+            "year": "2000",
+            "journal-title": "Australian and New Zealand Journal of Obstetrics and Gynaecology"
+          },
+          {
+            "volume-title": "Dietary reference intakes for vitamin C, vitamin E, selenium, and carotenoids",
+            "year": "2000",
+            "key": "10.1002/14651858.CD004072-BIB8|cit8"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB9|cit9",
+            "first-page": "181",
+            "article-title": "Large and small doses of ascorbic acid in the absorption of ferrous iron",
+            "volume": "97",
+            "author": "Lee",
+            "year": "1967",
+            "journal-title": "Canadian Medical Association Journal"
+          },
+          {
+            "volume-title": "A treatise of the scurvy. In three parts. Containing an inquiry into the nature, causes and cure, of that disease. Together with a critical and chronological view of what has been published on the subject",
+            "year": "1753",
+            "author": "Lind",
+            "key": "10.1002/14651858.CD004072-BIB10|cit10"
+          },
+          {
+            "issue": "3",
+            "key": "10.1002/14651858.CD004072-BIB11|cit11",
+            "article-title": "Folate supplementation in pregnancy (Cochrane Review)",
+            "author": "Mahomed",
+            "year": "2002",
+            "journal-title": "The Cochrane Library"
+          },
+          {
+            "issue": "3",
+            "key": "10.1002/14651858.CD004072-BIB12|cit12",
+            "article-title": "Iron supplementation in pregnancy (Cochrane Review)",
+            "author": "Mahomed",
+            "year": "2002",
+            "journal-title": "The Cochrane Library"
+          },
+          {
+            "issue": "3",
+            "key": "10.1002/14651858.CD004072-BIB13|cit13",
+            "article-title": "Iron and folate supplementation in pregnancy (Cochrane Review)",
+            "author": "Mahomed",
+            "year": "2002",
+            "journal-title": "The Cochrane Library"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB14|cit14",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1136/bmj.319.7206.339",
+            "article-title": "Influence of maternal nutrition on outcome of pregnancy: prospective cohort study",
+            "volume": "319",
+            "author": "Mathews",
+            "year": "1999",
+            "journal-title": "BMJl"
+          },
+          {
+            "volume-title": "Recommended dietary intakes for use in Australia",
+            "year": "1991",
+            "author": "NHMRC",
+            "key": "10.1002/14651858.CD004072-BIB15|cit15"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB16|cit16",
+            "doi-asserted-by": "crossref",
+            "first-page": "170",
+            "DOI": "10.1056/NEJM198101153040311",
+            "article-title": "Vitamin C and iron",
+            "volume": "304",
+            "author": "Nienhuis",
+            "year": "1981",
+            "journal-title": "New England Journal of Medicine"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB17|cit17",
+            "doi-asserted-by": "crossref",
+            "first-page": "737",
+            "DOI": "10.1038/278737a0",
+            "article-title": "Direct observation of a free radical interaction between vitamin E and vitamin C",
+            "volume": "278",
+            "author": "Packer",
+            "year": "1979",
+            "journal-title": "Nature"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB18|cit18",
+            "article-title": "Vitamin C",
+            "volume-title": "Recommended nutrient intakes, Australian papers",
+            "author": "Read",
+            "year": "1990"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB19|cit19",
+            "unstructured": "Review Manager [Revman] Version 4.1 for Windows 2000"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB20|cit20",
+            "doi-asserted-by": "crossref",
+            "first-page": "788",
+            "DOI": "10.1016/S0140-6736(99)80002-6",
+            "article-title": "Is oxidative stress the link in the two-stage model of pre-eclampsia?",
+            "volume": "353",
+            "author": "Roberts",
+            "year": "1999",
+            "journal-title": "Lancet"
+          },
+          {
+            "issue": "4",
+            "key": "10.1002/14651858.CD004072-BIB21|cit21",
+            "article-title": "Vitamin E supplementation in pregnancy (Protocol for a Cochrane Review)",
+            "author": "Rumbold",
+            "year": "2002",
+            "journal-title": "The Cochrane Library"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB22|cit22",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1203/00006450-198802000-00001",
+            "article-title": "Hypoxanthine as an indiactor of hypoxia: its role in health and disease through free radical production",
+            "volume": "23",
+            "author": "Saugstad",
+            "year": "1988",
+            "journal-title": "Pediatric Research"
+          },
+          {
+            "issue": "2",
+            "key": "10.1002/14651858.CD004072-BIB23|cit23",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1097/00001703-200104000-00009",
+            "article-title": "Update on oxygen radical disease in neonatology",
+            "volume": "13",
+            "author": "Saugstad",
+            "year": "2001",
+            "journal-title": "Current Opinion in Obstetrics and Gynecology"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB24|cit24",
+            "doi-asserted-by": "crossref",
+            "first-page": "F214",
+            "DOI": "10.1136/fn.78.3.F214",
+            "article-title": "Antioxidant activity, packed cell transfusions, and outcome in premature infants",
+            "volume": "78",
+            "author": "Silvers",
+            "year": "1998",
+            "journal-title": "Archives of Disease in Chilhood Fetal and Neonatal Edition"
+          },
+          {
+            "key": "10.1002/14651858.CD004072-BIB25|cit25",
+            "doi-asserted-by": "crossref",
+            "first-page": "126",
+            "DOI": "10.1093/ajcn/28.2.126",
+            "article-title": "Folate metabolism in scurvy",
+            "volume": "28",
+            "author": "Stokes",
+            "year": "1975",
+            "journal-title": "American Journal of Clinical Nutritrion"
+          },
+          {
+            "issue": "9",
+            "key": "10.1002/14651858.CD004072-BIB26|cit26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1706",
+            "DOI": "10.1093/ajcn/34.9.1706",
+            "article-title": "Transport mechanisms for ascorbic acid in the human placenta",
+            "volume": "34",
+            "author": "Streeter",
+            "year": "1981",
+            "journal-title": "American Journal of Clinical Nutrition"
+          },
+          {
+            "issue": "1",
+            "key": "10.1002/14651858.CD004072-BIB27|cit27",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1067/mob.2001.115868",
+            "article-title": "Vitamins C and E: missing links in preventing preterm premature rupture of membranes?",
+            "volume": "185",
+            "author": "Woods",
+            "year": "2001",
+            "journal-title": "American Journal of Obstetrics and Gynecology"
+          }
+        ],
+        "container-title": [
+          "Cochrane Database of Systematic Reviews"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004072/epdf/full",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2021-08-09T21:29:51Z",
+          "timestamp": 1628544591000
+        },
+        "score": 26.732105,
+        "resource": {
+          "primary": {
+            "URL": "https://doi.wiley.com/10.1002/14651858.CD004072"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2003,
+              1,
+              20
+            ]
+          ]
+        },
+        "references-count": 27,
+        "URL": "https://doi.org/10.1002/14651858.cd004072",
+        "published": {
+          "date-parts": [
+            [
+              2003,
+              1,
+              20
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              30
+            ]
+          ],
+          "date-time": "2025-10-30T22:23:34Z",
+          "timestamp": 1761863014374,
+          "version": "3.30.1"
+        },
+        "update-to": [
+          {
+            "updated": {
+              "date-parts": [
+                [
+                  2011,
+                  2,
+                  16
+                ]
+              ],
+              "date-time": "2011-02-16T00:00:00Z",
+              "timestamp": 1297814400000
+            },
+            "DOI": "10.1002/14651858.cd000228",
+            "type": "withdrawal",
+            "source": "publisher",
+            "label": "Withdrawal"
+          },
+          {
+            "record-id": "33511",
+            "source": "retraction-watch",
+            "label": "Retraction",
+            "type": "retraction",
+            "updated": {
+              "date-time": "2011-02-16T00:00:00Z",
+              "date-parts": [
+                [
+                  2011,
+                  2,
+                  16
+                ]
+              ],
+              "timestamp": 1297814400000
+            },
+            "DOI": "10.1002/14651858.CD000228"
+          }
+        ],
+        "reference-count": 10,
+        "publisher": "Wiley",
+        "issue": "2",
+        "content-domain": {
+          "domain": [
+            "wiley.com",
+            "cochranelibrary.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "DOI": "10.1002/14651858.cd000228.pub2",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              2,
+              4
+            ]
+          ],
+          "date-time": "2011-02-04T18:26:36Z",
+          "timestamp": 1296843996000
+        },
+        "update-policy": "https://doi.org/10.1002/crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Vitamin D supplementation in pregnancy"
+        ],
+        "prefix": "10.1002",
+        "volume": "2011",
+        "author": [
+          {
+            "given": "Kassam",
+            "family": "Mahomed",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Ipswich Hospital; Ipswich Queensland Australia 4305"
+              }
+            ]
+          },
+          {
+            "given": "A Metin",
+            "family": "Gülmezoglu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "World Health Organization; UNDP/UNFPA/WHO/World Bank Special Programme of Research, Development and Research Training in Human Reproduction, Department of Reproductive Health and Research; 20 Avenue Appia Geneva Switzerland 1211"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              2011,
+              2,
+              16
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB1|cit1",
+            "doi-asserted-by": "crossref",
+            "first-page": "300",
+            "DOI": "10.1097/00006250-198609000-00002",
+            "article-title": "Vitamin D supplementation in pregnancy: a controlled trial of two methods",
+            "volume": "68",
+            "author": "Mallet",
+            "year": "1986",
+            "journal-title": "Obstet Gynecol"
+          },
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB2|cit2",
+            "doi-asserted-by": "crossref",
+            "first-page": "751",
+            "DOI": "10.1136/bmj.280.6216.751",
+            "article-title": "Vitamin D supplements in pregnant Asian women: effects on calcium status and fetal growth",
+            "volume": "1",
+            "author": "Brooke",
+            "year": "1980",
+            "journal-title": "BMJ"
+          },
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB3|cit3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1024",
+            "DOI": "10.1136/bmj.283.6298.1024",
+            "article-title": "Intrauterine vitamin D nutrition and postnatal growth in Asian infants",
+            "volume": "283",
+            "author": "Brooke",
+            "year": "1981",
+            "journal-title": "BMJ"
+          },
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB4|cit4",
+            "doi-asserted-by": "crossref",
+            "first-page": "987",
+            "DOI": "10.1111/j.1471-0528.1981.tb01686.x",
+            "article-title": "Vitamin D supplements enhance weight gain and nutritional status in pregnant Asians",
+            "volume": "88",
+            "author": "Maxwell",
+            "year": "1981",
+            "journal-title": "Br J Obstet Gynaecol"
+          },
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB5|cit5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1159",
+            "DOI": "10.1136/adc.61.12.1159",
+            "article-title": "Maternal compared with infant vitamin D supplementation",
+            "volume": "61",
+            "author": "Ala-Houhala",
+            "year": "1986",
+            "journal-title": "Arch Dis Child"
+          },
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB6|cit6",
+            "doi-asserted-by": "crossref",
+            "first-page": "328",
+            "DOI": "10.1016/S0022-3476(86)80396-1",
+            "article-title": "Vitamin D supplementation during pregnancy: effect on neonatal calcium homeostasis",
+            "volume": "109",
+            "author": "Delvin",
+            "year": "1986",
+            "journal-title": "J Pediatr"
+          },
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB7|cit7",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1159/000299597",
+            "article-title": "Effects of Vitamin D supplementation in pregnancy",
+            "volume": "12",
+            "author": "Marya",
+            "year": "1981",
+            "journal-title": "Gynecol Obstet Invest"
+          },
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB8|cit8",
+            "unstructured": "MacDonald HN Fetal and maternal benefits from calcium and Vitamin D supplementation of pregnant Asians (unpublished trial - no data)"
+          },
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB9|cit9",
+            "first-page": "488",
+            "article-title": "Effect of vitamin D supplementation during pregnancy on foetal growth",
+            "volume": "88",
+            "author": "Marya",
+            "year": "1988",
+            "journal-title": "Indian Journal of Medical Research"
+          },
+          {
+            "key": "10.1002/14651858.CD000228.pub2-BIB10|cit10",
+            "unstructured": "Mulrow CD Oxman AD editor(s) Cochrane Collaboration Handbook [updated September 1997] . In: The Cochrane Library [database on disk and CDROM].The Cochrane Collaboration. Oxford: Update Software; 1997, Issue 4."
+          }
+        ],
+        "container-title": [
+          "Cochrane Database of Systematic Reviews"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1002/14651858.CD000228.pub2/fullpdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              9
+            ]
+          ],
+          "date-time": "2024-01-09T13:16:48Z",
+          "timestamp": 1704806208000
+        },
+        "score": 26.732105,
+        "resource": {
+          "primary": {
+            "URL": "http://doi.wiley.com/10.1002/14651858.CD000228.pub2"
+          }
+        },
+        "editor": [
+          {
+            "name": "Cochrane Pregnancy and Childbirth Group",
+            "sequence": "additional",
+            "affiliation": []
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2011,
+              2,
+              16
+            ]
+          ]
+        },
+        "references-count": 10,
+        "journal-issue": {
+          "issue": "2",
+          "published-online": {
+            "date-parts": [
+              [
+                2011,
+                2
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1002/14651858.cd000228.pub2",
+        "ISSN": [
+          "1465-1858"
+        ],
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "1465-1858"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2011,
+              2,
+              16
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 5,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

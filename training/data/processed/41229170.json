@@ -1,0 +1,30 @@
+{
+  "id": "41229170",
+  "title": "Dual-center prospective validation of an early second-trimester predictive model integrating BMI trajectories and pathophysiological biomarkers for gestational diabetes risk stratification.",
+  "abstract": "To develop and validate an early second-trimester predictive model integrating body mass index (BMI) trajectories and pathophysiological biomarkers for gestational diabetes mellitus (GDM) risk stratification, with the aim of reducing weight-monitoring frequency while maintaining predictive accuracy. In this prospective dual-center cohort study, 1,450 pregnant women (<12 weeks gestation) without preexisting diabetes were enrolled from two Beijing maternal-child hospitals. Serial anthropometric (BMI at 6-10, 12-14, 15-19, and 24-28 weeks) and metabolic biomarkers (fasting glucose, C-peptide, lipids, uric acid) were analyzed. GDM was diagnosed via 75 g OGTT at 24-28 weeks. Multivariable logistic regression identified predictors using a 7:3 training-test split. Model performance was assessed by area under the ROC curve (AUC), calibration, and decision curve analysis. GDM incidence was 26.1% (378/1,450). Significant weight/BMI disparities emerged as early as 6-10 weeks (GDM vs NGT: +2.3 kg, P < 0.0001), escalating through gestation. The final model incorporated age (OR = 1.07/year, 95% CI = 1.03-1.11), 12-14-week BMI (OR = 1.06/kg/m This dual-center model pioneers GDM risk stratification by 12-14 weeks using clinically accessible metrics, reducing weight-monitoring frequency without compromising prognostic value. While AUC limitations (0.68-0.69) suggest unmeasured contributors, its operational simplicity and robust negative predictive capacity support implementation in resource-constrained settings. The findings redefine antenatal care paradigms by shifting focus to early metabolic dysregulation rather than late diagnostic thresholds.",
+  "authors": [
+    "Junxiang Gao",
+    "Shuoning Song",
+    "Yanbei Duo",
+    "Xiaolin Qiao",
+    "Yuemei Zhang",
+    "Jiyu Xu",
+    "Jing Zhang",
+    "Xiaorui Nie",
+    "Qiujin Sun",
+    "Xianchun Yang",
+    "Ailing Wang",
+    "Wei Sun",
+    "Yong Fu",
+    "Mengmeng Zhang",
+    "Yingyue Dong",
+    "Zechun Lu",
+    "Tao Yuan",
+    "Weigang Zhao"
+  ],
+  "year": 2025,
+  "doi": "10.1111/jdi.70179",
+  "source": "pubmed",
+  "raw_file": "pubmed_gestational_diabetes_prevention_1763467408.xml",
+  "category": "prenatal"
+}

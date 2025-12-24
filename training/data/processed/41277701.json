@@ -1,0 +1,19 @@
+{
+  "id": "41277701",
+  "title": "Comparative Analysis of Treatment With Folate Forms in Clinical Practice.",
+  "abstract": "Folate compounds are crucial for DNA and RNA synthesis, homocysteine regulation, and epigenetic methylation. However, significant differences exist between 5-methyltetrahydrofolate (5-MTHF) and folinic acid (CHO-THF) -and synthetic folic acid (sFA). Understanding their absorption, bioavailability, and clinical effects is essential, especially for women planning pregnancy, pregnant women, and patients with MTHFR or DHFR polymorphisms, autism spectrum disorders, or other folate-related conditions. A comparative analysis of clinical and biochemical studies was conducted to evaluate the efficacy, safety, and optimal dosing of these folate forms. 5-MTHF and CHO-THF demonstrated key advantages over sFA, including avoidance of unmetabolized folic acid accumulation, reduced risk of masking vitamin B12 deficiency, and improved metabolic support in individuals with genetic variants or folate receptor dysfunction. Both forms also show enhanced activity in high-dose therapies for patients with autoantibodies to folate receptors or transport defects. 5-MTHF efficiently crosses the blood-brain barrier, supports fetal and neonatal brain development, and has shown potential in improving cognitive function and depressive symptoms. CHO-THF exhibits promise in managing autism spectrum disorders by modulating neurotransmission and neurometabolic pathways. Despite these advantages, sFA remains the only folate form with proven efficacy in large randomized clinical trials for preventing neural tube defects (NTDs) and continues to play a key role in public health strategies. Use of sFA at doses above 1000 µg/day requires monitoring to avoid masking B12 deficiency. For personalized or high-risk cases, 5-MTHF and CHO-THF should be the preferred options, ideally combined with vitamin B12 supplementation.",
+  "authors": [
+    "Oleksandra Skavinska",
+    "Zoia Rossokha",
+    "Volodymyr Stefanyshyn",
+    "Olena Hrebeniuk",
+    "Liliia Fishchuk",
+    "Edward V Quadros",
+    "Natalia Gorovenko"
+  ],
+  "year": 2025,
+  "doi": "10.1093/nutrit/nuaf216",
+  "source": "pubmed",
+  "raw_file": "pubmed_pregnancy_vitamin_supplementation_1764074294.xml",
+  "category": "nutrition"
+}

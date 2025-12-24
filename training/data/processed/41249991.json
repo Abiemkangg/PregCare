@@ -1,0 +1,26 @@
+{
+  "id": "41249991",
+  "title": "Prenatal psychosocial factors and changes in marital satisfaction after childbirth: an online cohort study of pregnant women.",
+  "abstract": "Marital satisfaction is a key determinant of maternal mental health during the perinatal period. Identifying psychosocial factors associated with changes in marital satisfaction can help inform early preventive interventions. This longitudinal study examined associations between psychosocial factors measured during pregnancy and changes in marital satisfaction from pregnancy to 52 weeks postpartum. Participants were 752 pregnant women in Japan (mean age = 32.0 ± 4.3 years) who completed online surveys during pregnancy and at 52 weeks postpartum. Marital satisfaction was assessed using the Quality of Marriage Index (QMI), a validated measure of relationship satisfaction, and categorized into three groups based on QMI score differences: improved (≥ 1-point increase), unchanged (0-point difference), and worsened (≥ 1-point decrease). Psychosocial variables included depressive symptoms assessed by the Edinburgh Postnatal Depression Scale (EPDS), household income, perceived burden of household chores and childcare, parity, and perceived family support. Multinomial logistic regression was used to examine associations between these variables and changes in marital satisfaction. Higher levels of depressive symptoms during pregnancy, as measured by the EPDS, were significantly associated with worsening marital satisfaction after childbirth (RRR = 2.38, 95% CI: 1.30-4.37, p = 0.005). Lower household income also predicted a decline in satisfaction (RRR = 0.999, 95% CI: 0.999-1.00, p = 0.017). Participants who reported extremely long hours of household chores and childcare were less likely to experience improved satisfaction (RRR = 0.15, 95% CI: 0.04-0.65, p = 0.011). First-time childbirth was negatively associated with improvement (RRR = 0.41, 95% CI: 0.20-0.87, p = 0.019). Higher levels of perceived family support were also associated with less improvement in marital satisfaction (RRR = 0.89, 95% CI: 0.80-0.98, p = 0.017). Psychosocial factors during pregnancy, including depressive symptoms, economic hardship, and perceived domestic burden, were significantly associated with subsequent changes in marital satisfaction. These findings underscore the importance of early mental health screening and supportive interventions for expectant couples.",
+  "authors": [
+    "Chika Kubota",
+    "Chika Yokoyama",
+    "Haruna Irino",
+    "Yasue Mitamura",
+    "Aiko Okatsu",
+    "Satoko Sasagawa",
+    "Ayako Kanie",
+    "Aiichiro Nakajima",
+    "Miyuki Makino",
+    "Sayaka Aoyama",
+    "Yaeko Kataoka",
+    "Masaru Horikoshi",
+    "Hironori Kuga",
+    "Masaya Ito"
+  ],
+  "year": 2025,
+  "doi": "10.1186/s12884-025-08370-w",
+  "source": "pubmed",
+  "raw_file": "pubmed_postpartum_depression_management_1763467458.xml",
+  "category": "psychology"
+}

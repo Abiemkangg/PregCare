@@ -1,0 +1,20 @@
+{
+  "id": "41250989",
+  "title": "Impact of Preeclampsia Duration on Long-Term Cardiovascular Disease Risk.",
+  "abstract": "Preeclampsia is associated with increased risk of subsequent maternal cardiovascular diseases (CVD) compared with normotensive pregnancies. We examined whether prolonging the duration between preeclampsia diagnosis and delivery is associated with a higher CVD risk before age 55. Nationwide health registry data from 2 Finnish cohorts were used: FINNPEC (n=1139) and FinnGen (n=3603). Exposure was the duration from preeclampsia diagnosis to delivery in days. Outcome was a composite CVD, including new-onset hypertensive diseases, ischemic heart diseases, cerebral/precerebral arterial diseases, and peripheral artery diseases diagnosed before age 55. Cox proportional hazards models were used to estimate the risk of composite CVD for each day between preeclampsia diagnosis and delivery. Median follow-up time after delivery was 12.2 years (interquartile range, 11.0-15.5) in FINNPEC and 17.1 years (interquartile range, 12.5-22.2) in FinnGen. A longer preeclampsia duration was associated with elevated CVD risk on a daily basis, with a hazard ratio of 1.02 (95% CI, 1.00-1.04);  Long-term CVD risk before age 55 is estimated to increase 1% to 2% per day from preeclampsia diagnosis to delivery. Women with preeclampsia might benefit from early delivery.",
+  "authors": [
+    "Nina Keitaanpää",
+    "Jaakko S Tyrmi",
+    "Elli Toivonen",
+    "Heini Huhtala",
+    "Anni Kivelä",
+    "Seppo Heinonen",
+    "Tiina Jääskeläinen",
+    "Hannele Laivuori"
+  ],
+  "year": 2025,
+  "doi": "10.1161/HYPERTENSIONAHA.125.25054",
+  "source": "pubmed",
+  "raw_file": "pubmed_maternal_nutrition_during_pregnancy_1763467336.xml",
+  "category": "general_maternal_health"
+}

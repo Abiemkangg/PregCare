@@ -1,0 +1,16 @@
+{
+  "id": "41181471",
+  "title": "AI-driven placental biomarkers: a new era for preeclampsia prediction.",
+  "abstract": "Preeclampsia (PE) remains a major contributor to maternal and perinatal morbidity and mortality worldwide, accounting for tens of thousands of maternal deaths annually. Advances in artificial intelligence (AI) have enabled the development of predictive models incorporating placental biomarkers such as placental growth factor (PlGF), increasing early detection accuracy from 47% with traditional methods to as high as 75% in early gestation. Early identification enables timely interventions - including low-dose aspirin, increased monitoring, and planned delivery - that can significantly reduce adverse outcomes. While biomarker-based AI models require infrastructure investment, their integration into healthcare systems, particularly in resource-limited settings, offers substantial cost-effectiveness and the potential to reduce preventable deaths. Successful implementation depends on accurate data collection, workforce training, standardized biomarker assays, and ongoing model validation across diverse populations. Policymakers, clinicians, and global health stakeholders should prioritize phased adoption strategies, ethical oversight, and public-private collaboration to ensure equitable access and maximize the life-saving potential of AI-based PE prediction tools.",
+  "authors": [
+    "Raja Haris Shahid",
+    "Maliha Khalid",
+    "Muhammad Talha",
+    "Aminath Waafira"
+  ],
+  "year": 2025,
+  "doi": "10.1097/MS9.0000000000003787",
+  "source": "pubmed",
+  "raw_file": "pubmed_AI_in_maternal_health_monitoring_1764074325.xml",
+  "category": "general_maternal_health"
+}

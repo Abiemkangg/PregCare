@@ -1,0 +1,19 @@
+{
+  "id": "41250953",
+  "title": "First-Trimester Serum n-3/n-6 Fatty Acids Predict Large-for-Gestational-Age Risk: A Nested Case-Control Study.",
+  "abstract": "Polyunsaturated fatty acids (PUFAs) are critical for fetal development during pregnancy. This study evaluates the association between maternal serum n-3 and n-6 PUFAs in early pregnancy and the risk of large-for-gestational-age (LGA) infants. A nested case-control study was conducted with 45 LGA-appropriate for gestational age (AGA) matched pairs from a cohort of 2839 pregnant women. Maternal serum samples collected during early pregnancy were analyzed for lipid profiles using gas chromatography-mass spectrometry (GC-MS). Associations between fatty acid levels and LGA risk were assessed using Spearman correlation, chi-square tests, and logistic regression. The results indicated that higher arachidonic acid (ARA, p = 0.024) and docosahexaenoic acid (DHA, p = 0.039) levels were positively correlated with LGA risk. Linoleic acid (LA, p = 0.009), alpha-linolenic acid (ALA, p = 0.040), and the n-6/n-3 PUFA ratio (p = 0.034) were negatively correlated with LGA. Adjusted odds ratios indicated that higher quartiles of ARA (OR = 2.293, p = 0.078) and DHA (OR = 2.593, p = 0.038) increased LGA risk, while higher n-6 PUFA levels reduced the risk (OR = 0.340, p = 0.019). In conclusion, early pregnancy serum n-3 and n-6 PUFA levels are associated with LGA risk. Elevated ARA and DHA levels may increase LGA risk, while higher n-6 PUFA levels may be protective. These findings suggest that PUFA levels could serve as early indicators for targeted nutritional interventions.",
+  "authors": [
+    "Xiaxia Cai",
+    "Haiyan Zhu",
+    "Ning Liang",
+    "Yandi Zhu",
+    "Qinyu Dang",
+    "Min Gao",
+    "Huanling Yu"
+  ],
+  "year": 2026,
+  "doi": "10.1111/mcn.70140",
+  "source": "pubmed",
+  "raw_file": "pubmed_maternal_nutrition_during_pregnancy_1763467336.xml",
+  "category": "nutrition"
+}

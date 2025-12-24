@@ -1,0 +1,26 @@
+{
+  "id": "41256097",
+  "title": "Network analysis of postpartum depression symptoms and perinatal risk factors in Chinese women: a prospective observational study.",
+  "abstract": "Postpartum depression (PPD) is a prevalent mental health issue with significant implications for maternal and infant wellbeing. Despite extensive research, the complex interplay of perinatal factors contributing to PPD remains inadequately characterized. This study utilizes a network analysis approach to identify central depressive symptoms, critical perinatal risk factors, and pathways contributing to PPD among Chinese postpartum women. A prospective observational study enrolled 377 women from 10 tertiary hospitals in China. Sociodemographic and perinatal factors were assessed shortly after childbirth. At 4-6 weeks postpartum, PPD symptoms were evaluated using the Edinburgh Postnatal Depression Scale (EPDS). Maternal and infant health outcomes, breastfeeding experiences, and family support were captured through self-administered questionnaires. Random forest and Bayesian network analyses were employed to identify influential factors and their interrelationships. Among the participants, 98 women (26.0, 95% CI: 21.6-30.7%) screened positive for PPD (EPDS score ≥10).  This study reveals a significant prevalence of PPD among mothers in China. It underscores the positive impact of skin-to-skin contact, continuous postpartum care and tailored breastfeeding support in addressing PPD. These findings will advance PPD prevention strategies and inform evidence-based clinical practice in postpartum care.",
+  "authors": [
+    "Xian Zhang",
+    "Jiasi Yao",
+    "Hongxiao He",
+    "Jiahe Li",
+    "Junying Li",
+    "Hong Lu",
+    "Xiaona Huang",
+    "Xiaobo Tian",
+    "Junxiao Liang",
+    "Luxia Gong",
+    "Ruyan Pang",
+    "Qiong Luo",
+    "Jinbing An",
+    "Xiu Zhu"
+  ],
+  "year": 2025,
+  "doi": "10.3389/fpsyg.2025.1604013",
+  "source": "pubmed",
+  "raw_file": "pubmed_postpartum_depression_management_1764074272.xml",
+  "category": "psychology"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "41230535",
+  "title": "Alcohol consumption during pregnancy in Scotland following public health interventions: population-based study.",
+  "abstract": "Alcohol consumption during pregnancy is associated with adverse maternal and perinatal outcomes, with no safe lower limit established. We evaluated the individual and cumulative impact of three alcohol-related interventions on maternal alcohol use and perinatal outcomes in Scotland. Population-based study using Scottish National Health Service administrative linked data of all mothers giving birth in Scotland between 1 April 2013 and 31 December 2019. We investigated if alcohol consumption during pregnancy, as well as perinatal outcomes of small for gestational age (SGA), neonatal unit admission, and premature birth were affected by Public Health measures. The individual and cumulative effects of (1) Change in drink-driving legislation (5 December 2014), (2) UK Chief Medical Officers' (CMO) advice to abstain from alcohol during pregnancy (6 January 2016) and (3) Alcohol minimum unit pricing (MUP) (1 May 2018) were assessed using time series analysis. Of 346 360 antenatal care initiates, 92.7% had alcohol consumption data. By 2019, 26.1% reported alcohol use during pregnancy, with 55.2% women consuming >4 units per week. In women reporting alcohol use, MUP introduction showed a significant reduction in consumption by 0.59 (95% CI -0.99 to -0.18) units/week, contributing to an overall 0.69 (95% CI -0.90 to -0.48) units/week decrease following all interventions. Additionally, we observed improvements in perinatal outcomes, including reduced SGA (adjusted relative risk (adjRR) 0.88, 95% CI 0.85 to 0.90), and neonatal unit admission (adjRR 0.94, 95% CI 0.91 to 0.96), but not stillbirth (adjRR 0.87, 95% CI 0.74 to 1.02) or preterm birth (adjRR 1.09, 95% CI 1.06 to 1.13) following the implementation of these collective public health interventions. One in four women self-reported alcohol consumption during early pregnancy. Only MUP was associated with lower consumption among pregnant women. The public health measures were collectively associated with improvement in select perinatal outcomes, highlighting the potential effectiveness of universal interventions.",
+  "authors": [
+    "Michael Kinsella",
+    "Martin Shaw",
+    "Aizhan Kyzayeva",
+    "Alastair Leyland",
+    "Jill P Pell",
+    "Deborah Lawlor",
+    "Scott Nelson",
+    "Rachel Joyce Kearns"
+  ],
+  "year": 2025,
+  "doi": "10.1136/bmjph-2025-003264",
+  "source": "pubmed",
+  "raw_file": "pubmed_gestational_diabetes_prevention_1763467408.xml",
+  "category": "prenatal"
+}

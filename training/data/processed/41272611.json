@@ -1,0 +1,18 @@
+{
+  "id": "41272611",
+  "title": "Prenatal exposure to medication and risk of childhood cancer - a systematic review and meta-analysis.",
+  "abstract": "The use of medication during pregnancy carries a potential health risk, including childhood cancer, for the unborn child. However, most drugs examined in previous observational studies have shown inconsistent results with the risk of childhood cancer, and these findings have not been consolidated in drug-specific meta-analyses. We conducted a systematic search in the databases PubMed and Web of Science for studies on medication use during pregnancy and childhood cancer risk. Studies with exposure to diethylstilbestrol as a known teratogen were excluded. Meta-analyses were conducted if ≥ 3 studies on the same research question were available to calculate pooled estimates for random effects models with 95% confidence intervals (CI). The I Of 2,366 identified studies, 80 were included in the systematic review. Of these, 68 studies with a total of 14,396,922 participants were included in meta-analyses, covering 13 medication types and 11 childhood cancer sites across 70 analyses. From 54 site-specific analyses, we observed four risk reductions and eleven increases in risk. We found an increased risk for prenatal exposure to any kind of antibiotics and acute lymphoblastic leukemia (ALL; estimate (ES) = 1.14 (95%CI 1.03; 1.25), I Our results suggest that the use of antibiotics during pregnancy was associated with an increased childhood cancer risk, although this association is likely influenced by the underlying maternal infections that required treatment. This highlights the importance of considering maternal health factors when interpreting medication-related associations. Supplementation of vitamins and minerals during pregnancy might decrease the risk of AL, ALL and CNS tumors in children.",
+  "authors": [
+    "Alicia Lübtow",
+    "Manuela Marron",
+    "Rajini Nagrani",
+    "Loviisa Mulanje",
+    "Wolfgang Ahrens",
+    "Lara Kim Brackmann"
+  ],
+  "year": 2025,
+  "doi": "10.1186/s12885-025-15316-0",
+  "source": "pubmed",
+  "raw_file": "pubmed_pregnancy_vitamin_supplementation_1764074294.xml",
+  "category": "nutrition"
+}

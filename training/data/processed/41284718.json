@@ -1,0 +1,17 @@
+{
+  "id": "41284718",
+  "title": "Trends and determinants of antenatal care use and quality in Bangladesh: Insights from demographic and health survey data.",
+  "abstract": "High-quality antenatal care (ANC) reduces maternal and infant mortality and improves health outcomes, particularly in low-income countries. To assess the quality of ANC, three criteria are used: the number of visits, the timing of care initiation, and the inclusion of all recommended care components. The goal of this study was to identify and compare the factors associated with attending 4+ and 8 + ANC visits as well as obtaining high-quality ANC. Data from the Bangladesh Demographic and Health Survey (BDHS) 2017--2018 and 2022 were used to evaluate the prevalence of ANC, and a binary logistic regression model was used. High quality ANC included the following components: blood pressure measurement, urine tests for detecting bacteriuria and proteinuria, blood tests for syphilis and anemia, iron supplementation, vitamin A administration, a child's health check before discharge, and health education. In 2017--2018, 48% of women attended four or more visits, which decreased to 41% in 2022. ANC attendance for eight or more visits declined from 12% to 5%, and approximately 8% of women received no ANC in both periods. Higher levels of education among mothers and their spouses, urban residency and higher household wealth were positively correlated with ANC attendance and quality. Notably, essential components such as blood pressure monitoring and iron supplementation were more common among women with higher socioeconomic status, but their prevalence declined between 2017-2018 and 2022. Continuous efforts must be made in Bangladesh to improve access to higher-quality ANC. It is vital to target women with lower levels of education who come from low-income families. More focus must be placed on enhancing women's education for long-term improvement.",
+  "authors": [
+    "Sutapa Dey Barna",
+    "Abdul Quayyum",
+    "Goffar Hossain",
+    "Akhtarul Islam",
+    "Fuad Rahman"
+  ],
+  "year": 2025,
+  "doi": "10.1371/journal.pone.0337449",
+  "source": "pubmed",
+  "raw_file": "pubmed_pregnancy_vitamin_supplementation_1764074294.xml",
+  "category": "nutrition"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "41225594",
+  "title": "Fetal fractions mediate the association between total cell-free DNA and preeclampsia risk in a non-invasive prenatal testing cohort.",
+  "abstract": "Non-invasive prenatal testing (NIPT)-derived total cell-free DNA (cfDNA) and fetal fractions (FFs) are potential indicators of placental dysfunction, a hallmark of preeclampsia (PE). However, their clinical utility in PE risk stratification, particularly in twin pregnancies, remains underexplored. This study evaluated the association between total cfDNA levels and the incidence of PE and assessed mediation by FFs. This retrospective cohort study included 2,366 pregnant women who underwent NIPT at 12-22 weeks of gestation at a tertiary hospital. Total cfDNA levels and FFs were extracted from the NIPT data, and PE diagnoses were confirmed via medical records. Logistic regression and mediation analyses were used to assess associations and mediating effects. PE prevalence was 3.51% (83/2,366). Elevated total cfDNA tertiles (T2/T3 vs. T1) were associated with increased rates of PE (T2: OR = 2.36, 95% CI: 1.16-4.80; T3: OR = 3.00, 95% CI: 1.51-5.97). Each 1 µg/L increase in total cfDNA was associated with a 12% increase in PE odds (OR = 1.12, 95% CI: 1.05-1.20). Lower FFs were associated with PE risk (T1 vs. T3: OR = 2.70, 95% CI: 1.45-5.00; per 1% decrease: OR = 1.15, 95% CI: 1.07-1.23). In singleton pregnancies, total cfDNA levels ≤ 4.41 µg/L were significantly associated with increased PE risk (OR = 2.89, 95% CI: 1.32-6.29, P = 0.008) with a validated threshold effect [log-likelihood ratio test (LRT, P = 0.005)], while FF ≤ 8.86% showed a protective trend (OR = 0.81, 95% CI: 0.68-0.97, P = 0.021) despite a nonsignificant LRT (P = 0.192). In twin pregnancies, total cfDNA showed no significant threshold or linear association with PE risk (OR = 1.06, P = 0.382; LRT, P = 0.215), while FFs exhibited a stronger inverse linear association (OR = 0.77, 95% CI: 0.65-0.92, P = 0.003) with no significant threshold effect (LRT, P = 0.270). Total cfDNA was inversely correlated with FFs (T3 vs. T1: β=-2.96, 95% CI: -3.34 to -2.59). Mediation analyses showed FFs partially explained 24.4% and 32.5% of the total cfDNA-PE relationship in singleton pregnancies and all pregnancies, respectively. This study observed that elevated total cfDNA levels during NIPT were associated with an increased risk of PE, with FFs acting as partial mediators. These findings warrant further investigation into total cfDNA and FFs as potential biomarkers for early PE risk stratification, even in high-risk settings such as twin pregnancies, to determine whether their use in screening could contribute to the development of strategies aimed at improving maternal-fetal health.",
+  "authors": [
+    "Bin Zhang",
+    "Xusheng Chen",
+    "Sijie Xi",
+    "Zhaolong Zhan",
+    "He Dong",
+    "Yinglu Zhang",
+    "Xiaosong Yuan"
+  ],
+  "year": 2025,
+  "doi": "10.1186/s40246-025-00856-0",
+  "source": "pubmed",
+  "raw_file": "pubmed_prenatal_exercrise_and_fetal_health_1763070115.xml",
+  "category": "prenatal"
+}

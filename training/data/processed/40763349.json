@@ -1,0 +1,23 @@
+{
+  "id": "40763349",
+  "title": "Digitally Enabled AI-Interpreted Salivary Ferning-Based Ovulation Prediction: Feasibility Study.",
+  "abstract": "Females with irregular or unpredictable cycles, including those with polycystic ovary syndrome (PCOS), have limited options for validated at-home ovulation prediction. The majority of over-the-counter ovulation prediction kits use urinary luteinizing hormone (LH) indicators that were optimized for those with regular menstrual cycles exhibiting a predictable mid-cycle LH surge. Artificial intelligence (AI) holds potential to address this health deficit via a smartphone-based salivary ferning ovulation test. Research on populations with irregular menstruation and PCOS can be challenging due to the duration and frequency of menstrual cycles. The objective of this study was to evaluate the feasibility for participants with diverse menstrual cycle lengths to complete study tasks designed to train and develop a potential future AI model for salivary ferning-based ovulation prediction. Participants were recruited for 2 menstrual cycles where retention, engagement, and adherence were evaluated. Participation entailed remotely collecting and uploading daily data (saliva, LH values), attending lab visits, and returning biological saliva samples. Of the 133 females recruited from February to October 2023 via targeted patient messages and a public research website, 69 (51.9%) were eligible (age 19-35 years at enrollment, currently menstruating, able to read and comprehend English, weigh more than 110 lb, have an active primary care or gynecological provider, and able to commute to the Massachusetts General Hospital (MGH) main campus within 10 days of their ovulatory event). Of the 43 (62.3%) eligible participants who consented and completed the baseline survey, the majority were White (n=24, 55.8%), employed (n=33, 76.7%), and highly educated (college or more; n=32, 74.4%) and had a mean BMI of 28.9 (SD 7.8) kg/m To optimize future scaled participant completion, the study design would include a more targeted recruitment message to address the high ineligibility status, streamline study procedures to ease the participant burden, and incorporate health education to equip participants with ovulatory health information to ameliorate the potential stress impacts of observing anovulation. After optimization, when scaled, this study design could provide an AI model with sufficient data to develop a smartphone-based ovulation predictor specifically tested on females with irregular or unpredictable cycles, including those with PCOS. A well-informed study design is the foundation to AI advancement and femtech (the technology sector focused on enhancing female health) growth, particularity for ovulatory and fertility digital health.",
+  "authors": [
+    "Elizabeth Peebles",
+    "William Finlay",
+    "Thao-Mi Nguyen",
+    "Samuel Barrett",
+    "Prudhvi Thirumalaraju",
+    "Manoj Kumar Kanakasabapathy",
+    "Hemanth Kandula",
+    "Carrie Sarcione",
+    "Kaitlyn E James",
+    "Hadi Shafiee",
+    "Shruthi Mahalingaiah"
+  ],
+  "year": 2025,
+  "doi": "10.2196/73028",
+  "source": "pubmed",
+  "raw_file": "pubmed_fertility_and_menstrual_cycle_prediction_1764074206.xml",
+  "category": "fertility"
+}

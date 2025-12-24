@@ -1,0 +1,18 @@
+{
+  "id": "41244549",
+  "title": "Association between erythrocyte folate and pregnancy: A scientometric analysis.",
+  "abstract": "This study aimed to conduct a scientometric analysis of the trends and patterns in studies on the association between erythrocyte folic acid and pregnancy. The core dataset of Web of Science was searched for literatures on the association between erythrocyte folate and pregnancy, published between January 1980 to December 2023. CiteSpace6.1. R6(64-bit) and VOSviewer 1.6.19 software were used to visually analyze the network of keywords, countries, authors, institutions, fields and funds included in the studies. A total of 243 studies were analyzed. The most widely covered fields and journals are Nutrition & Dietetics and The American Journal of Clinical Nutrition (AJCN), respectively. The most collaborative authors, institutions and countries are: Czeizel AE, Centers for Disease Control and Prevention (CDC), the United States of America (USA), respectively. Key words clustering and emergence analysis identified 13 clusters. The research in the field was mainly reflected in the long- and short-term impact of red blood cells and related Vitamin- B12, homocysteine and methylene tetrahydrofolate reductase on pregnant women and infants. The association between erythrocyte folic acid, neural tube development abnormality and the reduction of maternal and infant complications by folic acid supplementation has been the focus of research in this field. Erythrocyte folate is undoubtedly associated with pregnancy, with risk factor and prevention may be the focus of future research. With strong publishing rates, the USA and UK have become the main research nations in this field. The key studies found that the prevention of NTDs require increased folic acid intake of 0.4mg/day, but improved dietary guidance to help pregnant women meet but not exceed dietary recommendations is warranted.",
+  "authors": [
+    "Yu Xia",
+    "Xuanyi Wang",
+    "Datong Liu",
+    "Limei Sun",
+    "Shen Li",
+    "Meiling Sun"
+  ],
+  "year": 2025,
+  "doi": "10.12669/pjms.41.10.12671",
+  "source": "pubmed",
+  "raw_file": "pubmed_pregnancy_vitamin_supplementation_1763467488.xml",
+  "category": "nutrition"
+}

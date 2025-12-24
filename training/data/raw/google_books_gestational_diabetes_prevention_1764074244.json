@@ -1,0 +1,416 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mZxBEAAAQBAJ",
+      "etag": "8z3ivsSjZMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mZxBEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Exercise to Prevent and Manage Chronic Disease Across the Lifespan",
+        "authors": [
+          "Jack Feehan",
+          "Nicholas Tripodi",
+          "Vasso Apostolopoulos"
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2022-04-30",
+        "description": "Exercise to Prevent and Manage Chronic Disease Across the Lifespan provides evidence-based insights into the clinical utility of exercise in the management of disease across a broad range of specialties and diseases. The book offers research informed strategies for the integration of exercise into standard practice in fields such as neurology, endocrinology, psychiatry and oncology, as well as decision-making pathways and clinical scenarios to advance patient care. The book is divided by specialty and includes clinical scenarios to allow for the integration of information within practice. The book's synthesized research evidence allows practitioners to safely and effectively begin to capitalize on the benefits of exercise in their patients. - Provides broad insights into the evidence-based underpinnings of the use of exercise in a range of common diseases - Coverage includes the immune system, musculoskeletal disease, oncology, endocrinology, cardiology, respiratory diseases, and more - Includes a glossary, bibliography and summary figures for quick reference of information",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780323885768"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0323885764"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 482,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mZxBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mZxBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=mZxBEAAAQBAJ&pg=PA160&dq=gestational+diabetes+prevention&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mZxBEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mZxBEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2778052,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 1944636,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mZxBEAAAQBAJ&rdid=book-mZxBEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2778052000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1944636000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_to_Prevent_and_Manage_Chronic_D-sample-epub.acsm?id=mZxBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Exercise_to_Prevent_and_Manage_Chronic_D-sample-pdf.acsm?id=mZxBEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mZxBEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... diabetes. Diabetes Educ 2001;27(3):393–404. [134] Dutton GR, et al. Relationship between self-efficacy and physical ... <b>gestational diabetes</b> mellitus in China. Int J Environ Res Public Health 2020;17(24). [147] Agarwal MM&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uHLVxp4aToQC",
+      "etag": "tQbsvKU1rNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uHLVxp4aToQC",
+      "volumeInfo": {
+        "title": "The Evidence Base for Diabetes Care",
+        "authors": [
+          "William Herman",
+          "Ann Louise Kinmonth",
+          "Nick Wareham",
+          "Rhys Williams"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2009-12-22",
+        "description": "Now in its second edition, The Evidence Base for Diabetes Care has been fully revised and updated to incorporate new evidence from clinical trials. The aim of the book remains the same – to provide treatment recommendations based on the latest research and ensure patients with diabetes receive the best possible care. Designed to be user-friendly, the evidence is displayed in clear tables with accompanying critiques including grading of evidence where appropriate. As well as summarizing the current evidence available for diabetes prevention and care, the contributors highlight areas where evidence is lacking and where studies are underway. This book is an invaluable source of evidence-based information distilled into guidance for clinical practice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780470682814"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0470682817"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 509,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uHLVxp4aToQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uHLVxp4aToQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=uHLVxp4aToQC&pg=PA95&dq=gestational+diabetes+prevention&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uHLVxp4aToQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uHLVxp4aToQC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5258778,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 3681145,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uHLVxp4aToQC&rdid=book-uHLVxp4aToQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5258778000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3681145000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/The_Evidence_Base_for_Diabetes_Care-sample-pdf.acsm?id=uHLVxp4aToQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uHLVxp4aToQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... gestational hyperglycaemia) is an important risk factor for the development of type 2 diabetes over the life course of a woman and it is also the main initiator of an inter-generational ... <b>Prevention</b> of type 2 and <b>gestational diabetes</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jIJXDwAAQBAJ",
+      "etag": "s7YQu17RJeo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jIJXDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Manual of High-Risk Pregnancy",
+        "authors": [
+          "Richa Baharani",
+          "Pushpa Pandey",
+          "Shash Khare",
+          "Sushma Dikhit"
+        ],
+        "publisher": "JP Medical Ltd",
+        "publishedDate": "2018-05-31",
+        "description": "This book is a comprehensive guide to the assessment and management of high risk pregnancy. Divided into eleven sections, the text begins with discussion on antenatal care, nutrition, genetic screening and ultrasonography-guided interventions in pregnancy. The following sections cover different factors that cause a pregnancy to be high risk including haematological disorders, early pregnancy complications, medical disorders such as gestational diabetes and cardiac disease, obstetric complications such as eclampsia and preterm labour, infections, foetal growth problems, and autoimmune diseases. The finals chapters discuss delivery complications and miscellaneous topics such as intrauterine foetal death, cerebrovascular accidents, ART pregnancies, and medicolegal aspects. The book is further enhanced by clinical photographs, diagrams and tables. Key points Comprehensive guide to management of high risk pregnancy Detailed discussion on screening and prevention of complications Presents recent advances in the field Highly illustrated with clinical photographs, diagrams and tables",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789352703920"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9352703928"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jIJXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jIJXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=jIJXDwAAQBAJ&pg=PA115&dq=gestational+diabetes+prevention&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=jIJXDwAAQBAJ&dq=gestational+diabetes+prevention&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_of_High_Risk_Pregnancy.html?hl=&id=jIJXDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Manual_of_High_Risk_Pregnancy-sample-pdf.acsm?id=jIJXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jIJXDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Prevention</b> Program Research Group: reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med. 2002;346:393-403. 37. Tuomilehto J, Lindstrom J, Eriksson JG, et al ... <b>Gestational Diabetes</b>. 115."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SwWOBFv2N4sC",
+      "etag": "ufYE/0utZe8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SwWOBFv2N4sC",
+      "volumeInfo": {
+        "title": "Congressional Record",
+        "subtitle": "Proceedings and Debates of the ... Congress",
+        "authors": [
+          "United States. Congress"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32437123363612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1564,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SwWOBFv2N4sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SwWOBFv2N4sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=SwWOBFv2N4sC&pg=PA16936&dq=gestational+diabetes+prevention&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SwWOBFv2N4sC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SwWOBFv2N4sC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=SwWOBFv2N4sC&rdid=book-SwWOBFv2N4sC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.id/books/download/Congressional_Record.epub?id=SwWOBFv2N4sC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SwWOBFv2N4sC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>GESTATIONAL DIABETES</b> ACT OF 2010 Mr. PALLONE . Mr. Speaker , I move to suspend the rules and pass the bill ( H.R. 5354 ) to establish an Advisory Committee on <b>Gestational Diabetes</b> , to provide grants to better understand and reduce&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PU7fD-mk698C",
+      "etag": "1hE00jh7AME",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PU7fD-mk698C",
+      "volumeInfo": {
+        "title": "Gestational Diabetes, Type 2 Diabetes Risk and Ethnicity",
+        "subtitle": "A Qualitative and Quantitative Analysis",
+        "authors": [
+          "Tara Denise Young"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:X79597"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PU7fD-mk698C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PU7fD-mk698C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=PU7fD-mk698C&q=gestational+diabetes+prevention&dq=gestational+diabetes+prevention&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=PU7fD-mk698C&dq=gestational+diabetes+prevention&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gestational_Diabetes_Type_2_Diabetes_Ris.html?hl=&id=PU7fD-mk698C"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PU7fD-mk698C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>gestational diabetes</b> ( hGDM ) are at increased risk for developing type 2 diabetes later in life compared to women without hGDM ( 1 ) . <b>Gestational diabetes</b> ( GDM ) during pregnancy can be ... Diabetes <b>Prevention</b> Study ( DPS ) 86."
+      }
+    }
+  ]
+}

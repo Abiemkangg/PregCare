@@ -1,0 +1,59 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "485",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "41257651",
+      "41219813",
+      "41207563",
+      "41205071",
+      "41176224",
+      "41176183",
+      "41153390",
+      "41076272",
+      "41052946",
+      "41050621",
+      "41010698",
+      "40999063",
+      "40957424",
+      "40927995",
+      "40883505",
+      "40868371",
+      "40804818",
+      "40803717",
+      "40746291",
+      "40716154"
+    ],
+    "translationset": [
+      {
+        "from": "prenatal",
+        "to": "\"prenatal\"[All Fields] OR \"prenatally\"[All Fields] OR \"prenatals\"[All Fields]"
+      },
+      {
+        "from": "exercise",
+        "to": "\"exercise\"[MeSH Terms] OR \"exercise\"[All Fields] OR \"exercises\"[All Fields] OR \"exercise therapy\"[MeSH Terms] OR (\"exercise\"[All Fields] AND \"therapy\"[All Fields]) OR \"exercise therapy\"[All Fields] OR \"exercising\"[All Fields] OR \"exercise's\"[All Fields] OR \"exercised\"[All Fields] OR \"exerciser\"[All Fields] OR \"exercisers\"[All Fields]"
+      },
+      {
+        "from": "fetal",
+        "to": "\"fetale\"[All Fields] OR \"fetally\"[All Fields] OR \"fetals\"[All Fields] OR \"fetus\"[MeSH Terms] OR \"fetus\"[All Fields] OR \"fetal\"[All Fields] OR \"foetal\"[All Fields]"
+      },
+      {
+        "from": "health",
+        "to": "\"health\"[MeSH Terms] OR \"health\"[All Fields] OR \"health's\"[All Fields] OR \"healthful\"[All Fields] OR \"healthfulness\"[All Fields] OR \"healths\"[All Fields]"
+      }
+    ],
+    "querytranslation": "(\"prenatal\"[All Fields] OR \"prenatally\"[All Fields] OR \"prenatals\"[All Fields]) AND (\"exercise\"[MeSH Terms] OR \"exercise\"[All Fields] OR \"exercises\"[All Fields] OR \"exercise therapy\"[MeSH Terms] OR (\"exercise\"[All Fields] AND \"therapy\"[All Fields]) OR \"exercise therapy\"[All Fields] OR \"exercising\"[All Fields] OR \"exercise s\"[All Fields] OR \"exercised\"[All Fields] OR \"exerciser\"[All Fields] OR \"exercisers\"[All Fields]) AND (\"fetale\"[All Fields] OR \"fetally\"[All Fields] OR \"fetals\"[All Fields] OR \"fetus\"[MeSH Terms] OR \"fetus\"[All Fields] OR \"fetal\"[All Fields] OR \"foetal\"[All Fields]) AND (\"health\"[MeSH Terms] OR \"health\"[All Fields] OR \"health s\"[All Fields] OR \"healthful\"[All Fields] OR \"healthfulness\"[All Fields] OR \"healths\"[All Fields])",
+    "warninglist": {
+      "phrasesignored": [
+        "and"
+      ],
+      "quotedphrasesnotfound": [],
+      "outputmessages": []
+    }
+  }
+}

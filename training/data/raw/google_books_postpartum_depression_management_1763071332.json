@@ -1,0 +1,401 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ztuboDYLzsIC",
+      "etag": "zZ/2cw5M7Fk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ztuboDYLzsIC",
+      "volumeInfo": {
+        "title": "New Research on Postpartum Depression",
+        "authors": [
+          "Adrian I. Rosenfield"
+        ],
+        "publisher": "Nova Publishers",
+        "publishedDate": "2007",
+        "description": "Postpartum depression affects 10-15 percent of women any time from a month to a year after childbirth. Women with postpartum depression may feel restless, anxious, sad or depressed. They may have feelings of guilt, decreased energy and motivation, and a sense of worthlessness. They may also have sleep difficulties and undergo unexplained weight loss or gain. Some mothers may worry about hurting themselves or their baby. In extremely rare cases - less than 1 percent of new mothers - women may develop something called postpartum psychosis. It usually occurs within the first few weeks after delivery. Symptoms may include refusing to eat, frantic energy, sleep disturbance, paranoia and irrational thoughts. Women with postpartum psychosis usually need to be hospitalised.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1600212840"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781600212840"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ztuboDYLzsIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ztuboDYLzsIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=ztuboDYLzsIC&pg=PA61&dq=postpartum+depression+management&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=ztuboDYLzsIC&dq=postpartum+depression+management&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/New_Research_on_Postpartum_Depression.html?hl=&id=ztuboDYLzsIC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/New_Research_on_Postpartum_Depression-sample-epub.acsm?id=ztuboDYLzsIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/New_Research_on_Postpartum_Depression-sample-pdf.acsm?id=ztuboDYLzsIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ztuboDYLzsIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>treatment</b> for their symptoms may not know where to turn for help . The peak incidence of <b>postpartum depression</b> is around 3 to 4 months after delivery [ 8 ] . Most women ... <b>Postpartum Depression</b> Screening , Diagnosis and <b>Treatment</b> 61."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cq_qHmqyf3gC",
+      "etag": "3Rk2BsmXXJw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cq_qHmqyf3gC",
+      "volumeInfo": {
+        "title": "Modern Management of Perinatal Psychiatric Disorder",
+        "authors": [
+          "Carol Henshaw",
+          "John Lee Cox",
+          "Joanne Barton"
+        ],
+        "publisher": "RCPsych Publications",
+        "publishedDate": "2009",
+        "description": "This book provides both trainees in perinatal psychiatry and the generalist who wishes to know more with an up-to-date overview of the subject. In addition, it is a useful resource for other professionals working in the field such as nurses, psychologists, obstetricians, midwives and health visitors. The chapters address historical and classification issues, the management of both new onset and existing mental disorders (including substance misuse) presenting in pregnancy and the postpartum period, prescribing and physical treatments during pregnancy and breast feeding. Also covered are issues for children and families, screening for and prevention of mental disorders in relation to childbirth, service provision and transcultural issues.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1904671365"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781904671367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.7.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cq_qHmqyf3gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cq_qHmqyf3gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=cq_qHmqyf3gC&pg=PA41&dq=postpartum+depression+management&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=cq_qHmqyf3gC&dq=postpartum+depression+management&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Modern_Management_of_Perinatal_Psychiatr.html?hl=&id=cq_qHmqyf3gC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Modern_Management_of_Perinatal_Psychiatr-sample-pdf.acsm?id=cq_qHmqyf3gC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cq_qHmqyf3gC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>treatment</b> of <b>postpartum depression</b> . Journal of Clinical Psychiatry , 62 , 592-596 . Cohen , L. S. , Nonacs , R. M. , Bailey , J. W. , et al ( 2004 ) Relapse of depression ... PERINATAL DEPRESSION , ANXIETY , STRESS AND ADJUSTMENT."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9ooMp53Sh5kC",
+      "etag": "T1gUXZGwWI8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9ooMp53Sh5kC",
+      "volumeInfo": {
+        "title": "Postpartum Depression and Child Development",
+        "authors": [
+          "Lynne Murray",
+          "Peter J. Cooper"
+        ],
+        "publisher": "Guilford Press",
+        "publishedDate": "1999-07-01",
+        "description": "One in ten women suffers from an episode of significant depression following the birth of a baby. These depressions can have a profoundly negative effect on the quality of the mother infant relationship and, in turn, on the course of child development itself. The first book in a decade to deal exclusively with the impact of postpartum depression on child development, this groundbreaking volume brings together rigorous and sophisticated research from eighteen of the leading authorities in the field.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1572305177"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781572305175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9ooMp53Sh5kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9ooMp53Sh5kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=9ooMp53Sh5kC&pg=PA202&dq=postpartum+depression+management&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.id/books?id=9ooMp53Sh5kC&dq=postpartum+depression+management&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Postpartum_Depression_and_Child_Developm.html?hl=&id=9ooMp53Sh5kC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9ooMp53Sh5kC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... antidepressant medication , but the majority of women are likely to refuse this form of <b>management</b> . It is also clear that nondirective counseling , which is highly acceptable to women , 202 THE <b>TREATMENT</b> OF <b>POSTPARTUM DEPRESSION</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "11nhdcfAQqoC",
+      "etag": "TkUZNaTCcgQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/11nhdcfAQqoC",
+      "volumeInfo": {
+        "title": "The Melanie Blocker-Stokes Postpartum Depression Research and Health Care Act",
+        "subtitle": "Hearing Before the Subcommittee on Health of the Committee on Energy and Commerce, House of Representatives, One Hundred Tenth Congress, First Session, on H.R. 20, May 1, 2007",
+        "authors": [
+          "United States. Congress. House. Committee on Energy and Commerce. Subcommittee on Health"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000063516234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=11nhdcfAQqoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=11nhdcfAQqoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=11nhdcfAQqoC&pg=PA63&dq=postpartum+depression+management&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=11nhdcfAQqoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=11nhdcfAQqoC"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=11nhdcfAQqoC&rdid=book-11nhdcfAQqoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.id/books/download/The_Melanie_Blocker_Stokes_Postpartum_De.epub?id=11nhdcfAQqoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=11nhdcfAQqoC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Administration</b> ( HRSA ) , announcing a publication entitled &quot; <b>Depression</b> During and After Pregnancy : A Resource for Women , Their Families , and Friends . &quot; This 20 page booklet can be downloaded in PDF format at www.mchb.hrsa.gov&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_hQ3EAAAQBAJ",
+      "etag": "UctoQCNT63M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_hQ3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Managing Treatment-Resistant Depression",
+        "subtitle": "Road to Novel Therapeutics",
+        "authors": [
+          "Joao L. de Quevedo",
+          "Patricio Riva-Posse",
+          "William V. Bobo"
+        ],
+        "publisher": "Academic Press",
+        "publishedDate": "2022-03-31",
+        "description": "Managing Treatment-Resistant Depression: Road to Novel Therapeutics defines TRD for readers, discussing the clinical and epidemiological predictors, economic burden and neurobiological factors. In addition, staging methods for treatment resistance are fully covered in this book, including serotonin specific reuptake inhibitors, serotonin norepinephrine reuptake inhibitors, other classes of antidepressants, including tricyclic antidepressants and monoamine oxidase inhibitors, augmentation strategies, and newer antidepressant treatments like ketamine and esketamine. In addition, evidence supporting the use of psychotherapies and neuromodulation strategies are also reviewed. Written by top experts in the field, this book is the first of its kind to review all methods of treatment for TRD. - Defines Treatment-Resistant Depression and Staging Treatment Intensity - Includes Treatment-Resistant Depression options for children, adolescents, geriatrics, during pregnancy, and during post-partum and menopause transitions - Discusses the use of Ketamine and Esketamine for treatment-resistant depression",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128240687"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0128240687"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 614,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_hQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_hQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.id/books?id=_hQ3EAAAQBAJ&pg=PA526&dq=postpartum+depression+management&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_hQ3EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_hQ3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ID",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4630087,
+          "currencyCode": "IDR"
+        },
+        "retailPrice": {
+          "amount": 3241061,
+          "currencyCode": "IDR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_hQ3EAAAQBAJ&rdid=book-_hQ3EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4630087000000,
+              "currencyCode": "IDR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3241061000000,
+              "currencyCode": "IDR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ID",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Managing_Treatment_Resistant_Depression-sample-epub.acsm?id=_hQ3EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.id/books/download/Managing_Treatment_Resistant_Depression-sample-pdf.acsm?id=_hQ3EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_hQ3EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... postpartum. depression. A small double - blind RCT found that women with severe <b>postpartum depression</b> treated with transdermal estradiol showed a ... <b>postpartum depression</b> Neuroactive steroids for the <b>treatment</b> of <b>postpartum depression</b>."
+      }
+    }
+  ]
+}

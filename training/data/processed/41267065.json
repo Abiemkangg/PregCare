@@ -1,0 +1,18 @@
+{
+  "id": "41267065",
+  "title": "Prognostic value of antepartum LDH serum levels in predicting adverse maternal outcomes in hypertensive disorders of pregnancy: a prospective cohort study.",
+  "abstract": "Hypertensive disorders of pregnancy (HDP) are a leading cause of maternal mortality, particularly in low-resource settings. While lactate dehydrogenase (LDH) has been proposed as a prognostic biomarker, its clinical utility is limited by a lack of consensus on a standardized threshold for interpretation. This study aimed to evaluate the predictive performance of antenatal LDH for adverse maternal outcomes and establish a clinically applicable cutoff for risk stratification. This prospective cohort study included 336 pregnant women with HDP admitted to a national tertiary referral hospital in Vietnam. Serum LDH levels were measured before delivery, and treating clinicians were blinded to the results to prevent performance bias. The primary outcome was a composite of adverse maternal events: eclampsia, HELLP syndrome, placental abruption, acute kidney injury, hepatic injury, pulmonary edema, and maternal death. Multivariate logistic regression and receiver operating characteristic curve analysis were performed to assess associations and predictive performance. As a single predictor, LDH demonstrated good overall discrimination for adverse maternal outcomes (AUC = 0.793). In a multivariable logistic regression model, adjusting for proteinuria, highest diastolic blood pressure (DBP), highest systolic blood pressure (SBP), urea, creatinine, maternal age, gravidity, body mass index (BMI), platelets, gestational diabetes mellitus, an LDH level ≥ 254.7 U/L remained a strong and independent predictor of the primary outcome (aOR 9.67; 95% CI 3.29-28.46). Notably, in this high-risk cohort, traditional factors like proteinuria and maternal age were not significant independent predictors in this adjusted model. The multivariable model demonstrated strong internal validity, with all the predictors having a variance inflation factor (VIF) < 5, indicating an absence of multicollinearity and, therefore, stable regression estimates. Antepartum LDH level ≥ 254.7 U/L is a strong, independent predictor of adverse maternal outcomes in patients with HDP. These findings, combined with the test's affordability and accessibility, underscore the potential of LDH as a valuable tool for improving risk stratification, particularly in low-resource settings.",
+  "authors": [
+    "Nguyen Manh Thang",
+    "Nguyen Dinh Ky",
+    "Truong Thanh Huong",
+    "Nguyen Quynh Anh",
+    "Nguyen Dieu My",
+    "Nguyen Thi Huyen Anh"
+  ],
+  "year": 2025,
+  "doi": "10.1186/s12884-025-08293-6",
+  "source": "pubmed",
+  "raw_file": "pubmed_gestational_diabetes_prevention_1764074228.xml",
+  "category": "prenatal"
+}

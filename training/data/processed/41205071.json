@@ -1,0 +1,23 @@
+{
+  "id": "41205071",
+  "title": "Prenatal attachment interventions: a comprehensive systematic review and meta-analysis.",
+  "abstract": "Amidst a rapidly growing worldwide literature on non-invasive interventions to optimize parent-child relationships prenatally, the effectiveness of prenatal attachment intervention remains uncertain due to methodologic restrictions of prior systematic reviews. The current systematic review was aimed at capturing the diversity of study designs, intervention targets and methods employed reflective of this burgeoning literature. We then employed meta-regression to evaluate the impact of expected heterogeneity on estimated intervention effects. We searched MEDLINE/PubMed, Scopus, PsychINFO, Trip database, and Google Scholar for empirical prenatal attachment intervention studies published through August 11, 2025, with titles and abstracts written in English. Articles with main texts written in other languages were translated prior to analysis (PROSPERO ID CRD42021241199). Prenatal attachment scores increased following intervention when examining all studies (p < . 001), randomized controlled trials only (p < .001), and studies of only male expectant parents (p = .017). Specific intervention methods found to be effective were touch and Leopold's maneuver (p = .004), fetal movement counting (p < .001), music, lullaby and singing (p = .012), relaxation techniques (p = .014), cognitive therapies (p = .022), meditation (p = .003), breathing exercises (p = .001), and educational interventions (p < .001). While the prior systematic reviews of prenatal attachment interventions involving a total of 15 randomized controlled trials suggested equivocal effects of prenatal intervention, evidence from the current more inclusive review of non-randomized control trial (RCT) studies testing a wide range of intervention methods was substantially more compelling. More research on prenatal attachment in non-pregnant expectant partners and other caregivers and on promising but understudied interventions involving music and 3D fetal ultrasound images is recommended.",
+  "authors": [
+    "John J Coté",
+    "Danielle B Dilsaver",
+    "James Dimmock",
+    "Pooja Doehrman",
+    "Samantha Teague",
+    "Remington D Coté",
+    "Brayden P Coté",
+    "Riley Kilzer",
+    "Mahsa Omrani Sabbaghi",
+    "Jessica L Borelli",
+    "Suena H Massey"
+  ],
+  "year": 2025,
+  "doi": "10.1007/s00737-025-01630-w",
+  "source": "pubmed",
+  "raw_file": "pubmed_prenatal_exercise_and_fetal_health_1764074253.xml",
+  "category": "prenatal"
+}

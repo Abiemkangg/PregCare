@@ -1,0 +1,16 @@
+langchain
+sentence-transformers
+faiss-cpu
+pgvector
+psycopg2-binary
+
+torch
+transformers
+scikit-learn
+pandas
+numpy
+tqdm
+python-dotenv
+pymupdf
+
+google-generativeai==0.5.2

@@ -1,0 +1,20 @@
+{
+  "id": "40935278",
+  "title": "Evaluating the feasibility of hyperspectral endometrial analysis as a less invasive technique for endometrial evaluation: a pilot study.",
+  "abstract": "To evaluate the feasibility of using hyperspectral imaging for endometrial evaluation as a potential minimally invasive method to identify the window of implantation within the same embryo transfer cycle. Prospective study. Healthy and normo-ovulatory volunteers aged ≤35 years with proven fertility who voluntarily agreed to participate in the study between September 2021 and February 2023 at a private fertility clinic in Spain. Hyperspectral samples were captured throughout a modified natural menstrual cycle in which ovulation was induced and controlled with human chorionic gonadotropin. A microfiberscope inside an embryo transfer catheter coupled with a hyperspectral camera was introduced into the uterine cavity to capture the endometrial spectra at the fundus level. The endometrial hyperspectral visible light wavelength signature (in the 400-1,000 nm spectral range) was evaluated as a potential technique to identify the endometrial secretory-phase stages. Comparison of the early and midsecretory stages identified 290 significantly different wavelengths (97.3% of the total number measured), 66 with differences of more than 50% intensity (intensity ratio >1.5); in turn, the late- and mid-secretory comparison resulted in 286 significantly different wavelengths (96%), nine of them with an intensity ratio of >1.5 between them; finally, the comparison of the early- and late-secretory stages found in 287 significantly different wavelengths (96.3%), 69 with and intensity ratio of >1.5 between them. A total of 26 wavelengths were identified as a signature that could distinguish the three different secretory stages. Using this signature, the prediction model performance discriminated the three secretory stages with a mean accuracy of 87.60% (95% confidence interval: [87.08%-88.11%]) and a mean area under the curve of 79.41% (95% confidence interval: [78.32%-80.50%]). This present study has shown, for the first time, the feasibility of using hyperspectral endometrial analysis specifically to evaluate the molecular changes that occur in the endometrium during the secretory phase. Thus, given the minimally invasive nature of this technology, the window of implantation could be discriminated in this way. Further prospective studies with infertile patients will be required to evaluate the clinical utility of this technique in patient stratification.",
+  "authors": [
+    "Diana Marti-Garcia",
+    "Patricia Sebastian-Leon",
+    "Pilar Alamá",
+    "Laura Caracena",
+    "Antonio Parraga-Leo",
+    "Elena Perez-Rico",
+    "Antonio Pellicer",
+    "Patricia Diaz-Gimeno"
+  ],
+  "year": 2025,
+  "doi": "10.1016/j.fertnstert.2025.09.004",
+  "source": "pubmed",
+  "raw_file": "pubmed_fertility_and_menstrual_cycle_prediction_1764074206.xml",
+  "category": "fertility"
+}

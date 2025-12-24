@@ -1,0 +1,19 @@
+{
+  "id": "41213790",
+  "title": "Effect of low-dose aspirin in women with pregestational diabetes mellitus: A propensity score matching study.",
+  "abstract": "Aspirin is recommended for women with pregestational diabetes mellitus (PGDM) because they are at a high risk for preeclampsia. However, previous studies have predominantly examined the effect of aspirin on high-risk groups, with few investigations of its effect on PGDM alone. Therefore, the aim of this study was to investigate the overall efficacy and safety of low-dose aspirin in women with PGDM. The dataset consisted of 40,713 records of women who received antenatal care between January 2011 and December 2021 at eight hospitals in different regions. We excluded patients who were not diagnosed with PGDM, had multiple pregnancies, had absent newborn records, were prescribed aspirin for less than 30 days, and had a dose of aspirin less than 100 mg during pregnancy. In total, 207 patients with PGDM were included in the analysis. We further excluded patients in whom aspirin was initiated at an unknown gestational age. To address the potential for selection bias and confounding variables, we employed propensity score matching (PSM) using the \"nearest neighbor\" method. Our study included 192 patients (aspirin group: N = 37; control group: N = 155). No difference was observed in maternal prognosis between the aspirin and control groups. Aspirin did not prevent preeclampsia, fetal growth restriction, or preterm birth. However, the aspirin group exhibited a higher rate of large-for-gestational-age (LGA) births than the control group (41 % vs. 16 %, p = 0.02). No significant obstetric differences were observed between the aspirin and control groups. In multivariate logistic regression analysis, LGA births were significantly associated with aspirin treatment (Odds ratio 3.51, 95 % confidence interval: 1.16-11.8). The use of low-dose aspirin in women with PGDM may be associated with an increased risk of LGA births. Because of the retrospective nature of this study, a large-scale prospective study is needed to verify these results.",
+  "authors": [
+    "Seon Ui Lee",
+    "Sae Kyung Choi",
+    "Ju Myung Song",
+    "Jinseon Han",
+    "Suein Choi",
+    "Seunghoon Han",
+    "In Yang Park"
+  ],
+  "year": 2025,
+  "doi": "10.1016/j.tjog.2024.11.014",
+  "source": "pubmed",
+  "raw_file": "pubmed_gestational_diabetes_prevention_1762891057.xml",
+  "category": "prenatal"
+}

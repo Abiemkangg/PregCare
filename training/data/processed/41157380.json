@@ -1,0 +1,17 @@
+{
+  "id": "41157380",
+  "title": "Accuracy of an Overnight Axillary-Temperature Sensor for Ovulation Detection: Validation in 194 Cycles.",
+  "abstract": "Several studies have evaluated the reliability of using temperature sensors placed in different locations on the body to identify the day of ovulation. However, such demonstrations are lacking for axillary temperature wearable devices. This study aimed to evaluate the accuracy with which an axillary temperature armband sensor (Tempdrop) identifies the day of ovulation and the fertile window, using the Clearblue Connected Ovulation Test System as the reference method. A total of 194 cycles were analyzed from 125 women that participated in the study between April 2023 and June 2024. The performance parameters were high: the sensitivity (96.8% (95% CI 95.6; 97.7)), specificity (99.1% (98.8; 99.4)), accuracy (98.6% (98.2; 98.9)), positive predictive value (96.8% (95.6; 97.7)) and negative predictive value (99.1% (98.8; 99.4)). Furthermore, the results revealed a remarkably clear and better-than-expected change in temperature around the time of ovulation. This axillary temperature wearable sensor is an effective alternative to urine ovulation tests for determining the timing of ovulation. Another advantage is that it provides a clear temperature curve that can be used to evaluate the quality of the luteal phase.",
+  "authors": [
+    "Yaniv Shpaichler",
+    "Alicia Thompson",
+    "Benedicte Fromager",
+    "Michael Vardi",
+    "Rene Ecochard"
+  ],
+  "year": 2025,
+  "doi": "10.3390/s25206327",
+  "source": "pubmed",
+  "raw_file": "pubmed_fertility_and_menstrual_cycle_prediction_1764074206.xml",
+  "category": "fertility"
+}

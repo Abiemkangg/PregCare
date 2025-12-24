@@ -1,0 +1,116 @@
+{
+  "numFound": 13,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 13,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "maternal nutrition during pregnancy",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL15284203A"
+      ],
+      "author_name": [
+        "Hugo Aebi/Roger Whiteheads"
+      ],
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 1980,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_3-456-80945"
+      ],
+      "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+      "key": "/works/OL43025566W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL58613516M",
+      "lending_identifier_s": "bwb_3-456-80945",
+      "public_scan_b": false,
+      "title": "Maternal Nutrition during Pregnancy and Lactation"
+    },
+    {
+      "author_key": [
+        "OL2674344A"
+      ],
+      "author_name": [
+        "-"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1980,
+      "has_fulltext": false,
+      "key": "/works/OL33646684W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Maternal Nutrition During Pregnancy and Lactation"
+    },
+    {
+      "author_key": [
+        "OL7316962A",
+        "OL4245260A"
+      ],
+      "author_name": [
+        "Michael E. Symonds",
+        "Margaret M. Ramsay"
+      ],
+      "cover_edition_key": "OL24062866M",
+      "cover_i": 8691817,
+      "ebook_access": "no_ebook",
+      "edition_count": 6,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL18707216W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Maternal-fetal nutrition during pregnancy and lactation"
+    },
+    {
+      "author_key": [
+        "OL12185930A"
+      ],
+      "author_name": [
+        "California. Maternal and Child Health Branch. WIC Supplemental Food Branch"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1990,
+      "has_fulltext": false,
+      "key": "/works/OL33667062W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Nutrition during pregnancy and the postpartum period"
+    },
+    {
+      "author_key": [
+        "OL982416A"
+      ],
+      "author_name": [
+        "Patrick Holford"
+      ],
+      "cover_edition_key": "OL7970016M",
+      "cover_i": 492576,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": true,
+      "ia": [
+        "optimumnutrition00patr"
+      ],
+      "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+      "key": "/works/OL15081967W",
+      "lending_edition_s": "OL7970016M",
+      "lending_identifier_s": "optimumnutrition00patr",
+      "public_scan_b": false,
+      "title": "Optimum Nutrition Before During and After Pregnancy"
+    }
+  ]
+}
