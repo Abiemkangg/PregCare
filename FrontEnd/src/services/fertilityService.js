@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8000/api/fertility';
+const API_URL = import.meta.env.VITE_API_URL 
+  ? `${import.meta.env.VITE_API_URL}/api/fertility`
+  : 'http://localhost:8000/api/fertility';
 
 // Configure axios defaults for Django session authentication
 axios.defaults.withCredentials = true;
