@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'pregcare_db',
         'USER': 'pregcare_admin',
-        'PASSWORD': 'Bnmjkliop123!',
+        'PASSWORD': 'PregCareAdmin123',
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {

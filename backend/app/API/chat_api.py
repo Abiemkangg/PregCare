@@ -233,7 +233,7 @@ async def chat(request: ChatRequest):
     - Gunakan pertanyaan spesifik tentang kehamilan
     - Hindari spam request berulang
     """
-    if not retriever or not genai_client:
+    if not genai_client:
         raise HTTPException(status_code=503, detail="RAG system not initialized")
     
     if not request.message.strip():
