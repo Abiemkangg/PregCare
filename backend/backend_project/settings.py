@@ -81,9 +81,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'pregcare_db',
-        'USER': 'root',  # Ganti dengan user MySQL Anda
-        'PASSWORD': 'Bnmjkliop123',  # Ganti dengan password MySQL Anda
-        'HOST': '127.0.0.1',  # localhost atau IP VPS
+        'USER': 'pregcare_admin',
+        'PASSWORD': 'Bnmjkliop123!',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {
             'charset': 'utf8mb4',
