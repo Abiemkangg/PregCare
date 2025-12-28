@@ -23,10 +23,19 @@ if __name__ == "__main__":
     print("API docs: http://localhost:8001/docs")
     print("Press CTRL+C to stop")
     
-    uvicorn.run(
-        app,
-        host="0.0.0.0",
-        port=8001,
-        log_level="info",
-        access_log=True
-    )
+    try:
+        uvicorn.run(
+            "chat_api:app",  # Use string reference instead of direct app object
+            host="0.0.0.0",
+            port=8001,
+            log_level="info",
+            access_log=True,
+            reload=False  # Disable reload for production
+        )
+    except KeyboardInterrupt:
+        print("\n[SHUTDOWN] Server stopped by user")
+    except Exception as e:
+        print(f"\n[ERROR] Server crashed: {e}")
+        import traceback
+        traceback.print_exc()
+

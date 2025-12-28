@@ -678,3 +678,836 @@ connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection re
 2025-12-24 19:33:26,112 - INFO - Conversation history cleared
 2025-12-24 19:33:26,730 - INFO - Conversation history cleared
 2025-12-24 19:33:26,732 - INFO - Conversation history cleared
+2025-12-24 21:00:18,669 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:00:18,670 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:00:24,987 - INFO - ✅ Database health check passed
+2025-12-24 21:00:24,987 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 21:00:25,105 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 21:00:25,148 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:00:25,148 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:00:30,509 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 21:01:07,196 - INFO - ConversationHistory initialized with max_history=10
+2025-12-24 21:01:07,196 - INFO - Conversation history cleared
+2025-12-24 21:01:07,197 - INFO - Conversation history cleared
+2025-12-24 21:01:14,591 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-12-24 21:01:15,046 - INFO - ✅ Retrieved 0 documents from database
+2025-12-24 21:01:15,047 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-24 21:01:15,047 - INFO - ✅ Question ACCEPTED (pregnancy-related): Makanan apa yang baik untuk ibu hamil?
+2025-12-24 21:01:15,048 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:01:15,317 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:01:15,319 - WARNING - ⚠️  Rate limit reached (429). Retrying in 2s... (Attempt 1/3)
+2025-12-24 21:01:17,320 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:01:17,412 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:01:17,413 - WARNING - ⚠️  Rate limit reached (429). Retrying in 4s... (Attempt 2/3)
+2025-12-24 21:01:21,414 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:01:21,502 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 403 Forbidden"
+2025-12-24 21:01:21,504 - ERROR - ❌ GenAI API call failed: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Your API key was reported as leaked. Please use another API key.', 'status': 'PERMISSION_DENIED'}}
+2025-12-24 21:01:21,624 - INFO - ✅ Answer generated in 7.03s
+2025-12-24 21:08:43,323 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:08:43,323 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:08:48,506 - INFO - ✅ Database health check passed
+2025-12-24 21:08:48,507 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 21:08:48,601 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 21:08:48,649 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:08:48,650 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:08:54,070 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 21:08:54,164 - INFO - ConversationHistory initialized with max_history=10
+2025-12-24 21:08:54,164 - INFO - Conversation history cleared
+2025-12-24 21:08:54,166 - INFO - Conversation history cleared
+2025-12-24 21:13:17,037 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:13:17,037 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:13:22,546 - INFO - ✅ Database health check passed
+2025-12-24 21:13:22,546 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 21:13:22,638 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 21:13:22,683 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:13:22,684 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:13:28,658 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 21:13:54,530 - INFO - ConversationHistory initialized with max_history=10
+2025-12-24 21:13:54,530 - INFO - Conversation history cleared
+2025-12-24 21:13:54,532 - INFO - Conversation history cleared
+2025-12-24 21:14:06,437 - INFO - 📝 Processing question: ada berapa agama yang ada diindonesia saat ini?...
+2025-12-24 21:14:06,568 - INFO - ✅ Retrieved 0 documents from database
+2025-12-24 21:14:06,568 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-24 21:14:06,569 - INFO - ❌ Question REJECTED: 'ada berapa agama yang ada diindonesia saat ini?' (forbidden=True, no_pregnancy_kw=True)
+2025-12-24 21:16:26,166 - INFO - Conversation history cleared
+2025-12-24 21:16:26,169 - INFO - Conversation history cleared
+2025-12-24 21:16:44,886 - INFO - 📝 Processing question: ada berapa agama di indonesia saat ini?...
+2025-12-24 21:16:45,105 - INFO - ✅ Retrieved 0 documents from database
+2025-12-24 21:16:45,105 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-24 21:16:45,106 - INFO - ❌ Question REJECTED: 'ada berapa agama di indonesia saat ini?' (forbidden=True, no_pregnancy_kw=True)
+2025-12-24 21:17:10,577 - INFO - 📝 Processing question: apakah nanas muda dapat menggugurkan kandungan?...
+2025-12-24 21:17:10,682 - INFO - ✅ Retrieved 0 documents from database
+2025-12-24 21:17:10,682 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-24 21:17:10,682 - INFO - ✅ Question ACCEPTED (pregnancy-related): apakah nanas muda dapat menggugurkan kandungan?
+2025-12-24 21:17:10,690 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:17:11,284 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:17:11,297 - WARNING - ⚠️  Rate limit reached (429). Retrying in 2s... (Attempt 1/3)
+2025-12-24 21:17:13,298 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:17:13,394 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:17:13,395 - WARNING - ⚠️  Rate limit reached (429). Retrying in 4s... (Attempt 2/3)
+2025-12-24 21:17:17,396 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:17:17,478 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:17:17,479 - ERROR - ❌ Rate limit exceeded after 3 attempts
+2025-12-24 21:17:17,484 - INFO - ✅ Answer generated in 6.91s
+2025-12-24 21:17:43,229 - INFO - 📝 Processing question: apakah nanas muda dapat menggugurkan kandungan?...
+2025-12-24 21:17:43,260 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-12-24 21:20:03,061 - INFO - 📝 Processing question: apakah nanas muda dapat menggugurkan kandungan?...
+2025-12-24 21:20:03,090 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-12-24 21:23:33,215 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:23:33,216 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:23:39,318 - INFO - ✅ Database health check passed
+2025-12-24 21:23:39,320 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 21:23:39,458 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 21:23:39,527 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:23:39,527 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:23:45,450 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 21:24:51,213 - INFO - ConversationHistory initialized with max_history=10
+2025-12-24 21:24:51,213 - INFO - Conversation history cleared
+2025-12-24 21:24:51,214 - INFO - Conversation history cleared
+2025-12-24 21:25:13,502 - INFO - 📝 Processing question: apakah nanas muda dapat menggugurkan kandungan?...
+2025-12-24 21:25:13,527 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-12-24 21:27:46,446 - INFO - 📝 Processing question: apakah nanas muda dapat menggugurkan kandungan?...
+2025-12-24 21:27:46,472 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-12-24 21:31:08,659 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:31:08,660 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:31:14,868 - INFO - ✅ Database health check passed
+2025-12-24 21:31:14,869 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 21:31:15,000 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 21:31:15,065 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:31:15,065 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:31:21,810 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 21:31:35,814 - INFO - ConversationHistory initialized with max_history=10
+2025-12-24 21:31:35,815 - INFO - Conversation history cleared
+2025-12-24 21:31:35,825 - INFO - Conversation history cleared
+2025-12-24 21:33:54,960 - INFO - 📝 Processing question: apkah nanas muda bisa menggugurkan kandungan?...
+2025-12-24 21:33:55,393 - INFO - ✅ Retrieved 0 documents from database
+2025-12-24 21:33:55,394 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-24 21:33:55,394 - INFO - ❌ Question REJECTED: 'apkah nanas muda bisa menggugurkan kandungan?' (forbidden=True, no_pregnancy_kw=False)
+2025-12-24 21:37:22,354 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:37:22,355 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:37:28,007 - INFO - ✅ Database health check passed
+2025-12-24 21:37:28,007 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 21:37:28,148 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 21:37:28,198 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:37:28,198 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:37:33,248 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 21:38:04,856 - INFO - ConversationHistory initialized with max_history=10
+2025-12-24 21:38:04,857 - INFO - 📝 Processing question: apkah nanas muda bisa menggugurkan kandungan?...
+2025-12-24 21:38:05,281 - INFO - ✅ Retrieved 0 documents from database
+2025-12-24 21:38:05,282 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-24 21:38:05,283 - INFO - ✅ Question ACCEPTED (pregnancy-related): apkah nanas muda bisa menggugurkan kandungan?
+2025-12-24 21:38:05,283 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:38:05,538 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:38:05,542 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-24 21:38:06,544 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:38:06,642 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:38:06,643 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-24 21:38:06,643 - INFO - ✅ Answer generated in 1.79s
+2025-12-24 21:42:16,024 - INFO - RateLimiter initialized with 4.0s minimum interval
+2025-12-24 21:42:16,030 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:42:16,030 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:42:21,193 - INFO - ✅ Database health check passed
+2025-12-24 21:42:21,193 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 21:42:21,307 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 21:42:21,350 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:42:21,350 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:42:26,666 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 21:42:47,627 - INFO - ConversationHistory initialized with max_history=10
+2025-12-24 21:42:47,633 - INFO - Conversation history cleared
+2025-12-24 21:42:47,650 - INFO - Conversation history cleared
+2025-12-24 21:43:23,419 - INFO - 📝 Processing question: apakah nanas muda bisa menggugurkan kandungan?...
+2025-12-24 21:43:23,811 - INFO - ✅ Retrieved 0 documents from database
+2025-12-24 21:43:23,812 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-24 21:43:23,813 - INFO - ✅ Question ACCEPTED (pregnancy-related): apakah nanas muda bisa menggugurkan kandungan?
+2025-12-24 21:43:23,813 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:43:24,064 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:43:24,066 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-24 21:43:25,067 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:43:25,161 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:43:25,162 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-24 21:43:25,163 - INFO - ✅ Answer generated in 1.74s
+2025-12-24 21:47:22,011 - INFO - RateLimiter initialized with 4.0s minimum interval
+2025-12-24 21:47:22,018 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:47:22,018 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:47:28,005 - INFO - ✅ Database health check passed
+2025-12-24 21:47:28,006 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 21:47:28,101 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 21:47:28,146 - INFO - Use pytorch device_name: cpu
+2025-12-24 21:47:28,146 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 21:47:33,510 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-24 21:48:48,752 - INFO - ConversationHistory initialized with max_history=10
+2025-12-24 21:48:48,753 - INFO - Conversation history cleared
+2025-12-24 21:48:48,755 - INFO - Conversation history cleared
+2025-12-24 21:49:33,579 - INFO - 📝 Processing question: apakah nanas muda bisa menggugurkan kandungan...
+2025-12-24 21:49:33,984 - INFO - ✅ Retrieved 0 documents from database
+2025-12-24 21:49:33,985 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-24 21:49:33,986 - INFO - ✅ Question ACCEPTED (pregnancy-related): apakah nanas muda bisa menggugurkan kandungan
+2025-12-24 21:49:33,986 - INFO - ⏳ Rate limiting: waiting 3.6s before next API call
+2025-12-24 21:49:37,581 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:49:38,005 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:49:38,007 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-24 21:49:39,008 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 21:49:39,097 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 21:49:39,098 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-24 21:49:39,099 - INFO - ✅ Answer generated in 5.52s
+2025-12-24 22:03:22,274 - INFO - 📝 Processing question: apakah nanas muda bisa menggugurkan kandungan...
+2025-12-24 22:03:22,585 - INFO - ✅ Retrieved 0 documents from database
+2025-12-24 22:03:22,586 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-24 22:03:22,586 - INFO - ✅ Question ACCEPTED (pregnancy-related): apakah nanas muda bisa menggugurkan kandungan
+2025-12-24 22:03:22,587 - INFO - ⏳ Rate limiting: waiting 3.7s before next API call
+2025-12-24 22:03:26,275 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 22:03:26,615 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 22:03:26,618 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-24 22:03:27,619 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-24 22:03:27,718 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-24 22:03:27,719 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-24 22:03:27,719 - INFO - ✅ Answer generated in 5.45s
+2025-12-24 22:10:01,065 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-24 22:10:01,071 - INFO - Use pytorch device_name: cpu
+2025-12-24 22:10:01,071 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 22:10:08,439 - INFO - ✅ Database health check passed
+2025-12-24 22:10:08,439 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-24 22:10:08,548 - INFO - ✅ PGVector retriever created successfully
+2025-12-24 22:10:08,592 - INFO - Use pytorch device_name: cpu
+2025-12-24 22:10:08,592 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 22:10:16,251 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 22:25:49,013 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 22:25:49,018 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:25:49,019 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:25:54,750 - INFO - ✅ Database health check passed
+2025-12-26 22:25:54,750 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 22:25:54,858 - INFO - ✅ PGVector retriever created successfully
+2025-12-26 22:25:54,919 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:25:54,920 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:26:00,583 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 22:32:49,650 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 22:32:49,730 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:32:49,730 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:32:56,237 - INFO - ✅ Database health check passed
+2025-12-26 22:32:56,238 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 22:32:56,344 - INFO - ✅ PGVector retriever created successfully
+2025-12-26 22:32:56,390 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:32:56,390 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:33:03,009 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 22:33:04,621 - INFO - ConversationHistory initialized with max_history=10
+2025-12-26 22:33:04,622 - INFO - Conversation history cleared
+2025-12-26 22:33:04,623 - INFO - Conversation history cleared
+2025-12-26 22:33:33,266 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-26 22:33:34,096 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 22:33:34,096 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 22:33:34,097 - INFO - ✅ Question ACCEPTED (pregnancy-related): Apa saja tanda-tanda kehamilan awal?
+2025-12-26 22:33:34,097 - INFO - ⏳ Rate limiting: waiting 7.2s before next API call
+2025-12-26 22:33:41,266 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 22:33:41,540 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 22:33:41,542 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 22:33:42,543 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 22:33:42,630 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 22:33:42,630 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 22:33:42,631 - INFO - ✅ Answer generated in 9.36s
+2025-12-26 22:42:00,603 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 22:42:00,656 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:42:00,657 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:42:06,657 - INFO - ✅ Database health check passed
+2025-12-26 22:42:06,658 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 22:42:06,748 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 22:42:06,791 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:42:06,791 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:42:11,647 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 22:50:24,014 - INFO - Conversation history cleared
+2025-12-26 22:50:24,020 - INFO - Conversation history cleared
+2025-12-26 22:50:26,608 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-26 22:50:26,621 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-12-26 22:51:29,041 - INFO - Conversation history cleared
+2025-12-26 22:51:29,044 - INFO - Conversation history cleared
+2025-12-26 22:52:19,235 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 22:52:19,280 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:52:19,281 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:52:24,748 - INFO - ✅ Database health check passed
+2025-12-26 22:52:24,749 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 22:52:24,885 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 22:52:24,967 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:52:24,967 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:52:29,847 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 22:54:26,994 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 22:54:26,998 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:54:26,998 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:54:32,711 - INFO - ✅ Database health check passed
+2025-12-26 22:54:32,711 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 22:54:32,790 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 22:54:32,833 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:54:32,833 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:54:37,972 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 22:55:59,641 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 22:55:59,651 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:55:59,652 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:56:05,886 - INFO - ✅ Database health check passed
+2025-12-26 22:56:05,887 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 22:56:05,987 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 22:56:06,030 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:56:06,031 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:56:10,887 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 22:57:20,017 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 22:57:20,021 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:57:20,021 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:57:24,953 - INFO - ✅ Database health check passed
+2025-12-26 22:57:24,954 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 22:57:25,028 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 22:57:25,069 - INFO - Use pytorch device_name: cpu
+2025-12-26 22:57:25,069 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 22:57:29,859 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 23:19:38,595 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 23:19:38,601 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:19:38,601 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:19:43,919 - INFO - ✅ Database health check passed
+2025-12-26 23:19:43,919 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 23:19:44,039 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 23:19:44,094 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:19:44,094 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:19:49,287 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 23:22:19,518 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 23:22:19,524 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:22:19,524 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:22:25,108 - INFO - ✅ Database health check passed
+2025-12-26 23:22:25,109 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 23:22:25,351 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 23:22:25,445 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:22:25,445 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:22:30,375 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 23:22:34,328 - INFO - ConversationHistory initialized with max_history=10
+2025-12-26 23:22:34,328 - INFO - Conversation history cleared
+2025-12-26 23:22:34,332 - INFO - Conversation history cleared
+2025-12-26 23:22:39,278 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-26 23:22:39,816 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:22:39,817 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:22:39,818 - INFO - ✅ Question ACCEPTED (pregnancy-related): Apa saja tanda-tanda kehamilan awal?
+2025-12-26 23:22:39,819 - INFO - ⏳ Rate limiting: waiting 7.5s before next API call
+2025-12-26 23:22:47,279 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:22:47,517 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:22:47,519 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:22:48,520 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:22:48,610 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:22:48,627 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:22:48,643 - INFO - ✅ Answer generated in 9.37s
+2025-12-26 23:28:34,505 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 23:28:34,511 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:28:34,512 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:28:40,331 - INFO - ✅ Database health check passed
+2025-12-26 23:28:40,331 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 23:28:40,474 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 23:28:40,530 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:28:40,530 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:28:46,335 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 23:34:12,883 - INFO - ConversationHistory initialized with max_history=10
+2025-12-26 23:34:12,930 - INFO - 📝 Processing question: apa saja tanda kehamilan awal?...
+2025-12-26 23:34:12,945 - INFO - ⚡ Cache hit! Similarity: 0.967
+2025-12-26 23:34:43,411 - INFO - 📝 Processing question: makanan sehat untuk ibu hamil trimester pertama...
+2025-12-26 23:34:43,583 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:34:43,584 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:34:43,586 - INFO - ✅ Question ACCEPTED (pregnancy-related): makanan sehat untuk ibu hamil trimester pertama
+2025-12-26 23:34:43,586 - INFO - ⏳ Rate limiting: waiting 7.8s before next API call
+2025-12-26 23:34:51,388 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:34:51,690 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:34:51,697 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:34:52,698 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:34:52,793 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:34:52,794 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:34:52,795 - INFO - ✅ Answer generated in 9.38s
+2025-12-26 23:36:18,796 - INFO - Conversation history cleared
+2025-12-26 23:36:18,801 - INFO - Conversation history cleared
+2025-12-26 23:37:05,409 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-26 23:37:05,425 - INFO - ⚡ Cache hit! Similarity: 1.000
+2025-12-26 23:39:41,468 - INFO - Conversation history cleared
+2025-12-26 23:39:41,471 - INFO - Conversation history cleared
+2025-12-26 23:44:17,026 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 23:44:17,057 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:44:17,058 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:44:23,147 - INFO - ✅ Database health check passed
+2025-12-26 23:44:23,148 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 23:44:23,336 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 23:44:23,423 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:44:23,423 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:44:30,747 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 23:47:05,066 - INFO - ConversationHistory initialized with max_history=10
+2025-12-26 23:47:05,092 - INFO - 📝 Processing question: apa saja tanda-tanda kehamilan awal?...
+2025-12-26 23:47:05,101 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-26 23:47:05,219 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:47:05,220 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:47:05,220 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa saja tanda-tanda kehamilan awal?
+2025-12-26 23:47:05,220 - INFO - ⏳ Rate limiting: waiting 7.8s before next API call
+2025-12-26 23:47:13,069 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:47:13,369 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:47:13,374 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:47:14,375 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:47:14,473 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:47:14,474 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:47:14,474 - INFO - ✅ Answer generated in 9.38s
+2025-12-26 23:49:01,389 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 23:49:01,393 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:49:01,394 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:49:06,625 - INFO - ✅ Database health check passed
+2025-12-26 23:49:06,626 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 23:49:06,712 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 23:49:06,758 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:49:06,758 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:49:11,994 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 23:49:27,052 - INFO - ConversationHistory initialized with max_history=10
+2025-12-26 23:49:27,076 - INFO - 📝 Processing question: apa saja tanda-tanda kehamilan awal?...
+2025-12-26 23:49:27,086 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-26 23:49:27,175 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:49:27,176 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:49:27,176 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa saja tanda-tanda kehamilan awal?
+2025-12-26 23:49:27,176 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-26 23:49:35,053 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:49:35,263 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:49:35,265 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:49:36,266 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:49:36,349 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:49:36,350 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:49:36,351 - INFO - ✅ Answer generated in 9.27s
+2025-12-26 23:49:36,560 - INFO - ⏳ Rate limiting: waiting 6.5s before next API call
+2025-12-26 23:49:43,073 - INFO - 📝 Processing question: apa saja tanda-tanda kehamilan awal?...
+2025-12-26 23:49:43,092 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-26 23:49:43,165 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:49:43,166 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:49:43,166 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa saja tanda-tanda kehamilan awal?
+2025-12-26 23:49:43,167 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-26 23:49:51,054 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:49:51,275 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:49:51,276 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:49:52,277 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:49:52,360 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:49:52,361 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:49:52,361 - INFO - ✅ Answer generated in 9.29s
+2025-12-26 23:50:43,563 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 23:50:43,569 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:50:43,569 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:50:48,881 - INFO - ✅ Database health check passed
+2025-12-26 23:50:48,881 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 23:50:48,978 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 23:50:49,024 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:50:49,024 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:50:54,203 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 23:50:54,361 - INFO - ConversationHistory initialized with max_history=10
+2025-12-26 23:50:54,374 - INFO - 📝 Processing question: apa saja tanda-tanda kehamilan awal?...
+2025-12-26 23:50:54,385 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-26 23:50:54,454 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:50:54,455 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:50:54,455 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa saja tanda-tanda kehamilan awal?
+2025-12-26 23:50:54,455 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-26 23:51:02,361 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:51:02,566 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:51:02,568 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:51:03,569 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:51:03,656 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:51:03,657 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:51:03,658 - INFO - ✅ Answer generated in 9.28s
+2025-12-26 23:51:11,743 - INFO - 📝 Processing question: apa tanda kehamilan?...
+2025-12-26 23:51:11,758 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-26 23:51:11,826 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:51:11,826 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:51:11,827 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan?
+2025-12-26 23:51:11,827 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-26 23:51:19,728 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:51:19,939 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:51:19,940 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:51:20,941 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:51:21,026 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:51:21,027 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:51:21,027 - INFO - ✅ Answer generated in 9.28s
+2025-12-26 23:53:33,497 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 23:53:33,502 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:53:33,502 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:53:38,650 - INFO - ✅ Database health check passed
+2025-12-26 23:53:38,650 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 23:53:38,750 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 23:53:38,792 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:53:38,793 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:53:44,017 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 23:53:45,868 - INFO - ConversationHistory initialized with max_history=10
+2025-12-26 23:53:45,881 - INFO - 📝 Processing question: apa tanda kehamilan?...
+2025-12-26 23:53:45,892 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-26 23:53:45,967 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:53:45,967 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:53:45,968 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan?
+2025-12-26 23:53:45,968 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-26 23:53:53,869 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:53:54,091 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:53:54,094 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:53:55,096 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:53:55,181 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:53:55,182 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:53:55,183 - INFO - ✅ Answer generated in 9.30s
+2025-12-26 23:55:46,555 - INFO - 📝 Processing question: apa saja tanda kehamilan awal?...
+2025-12-26 23:55:46,565 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-26 23:55:46,627 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:55:46,627 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:55:46,627 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa saja tanda kehamilan awal?
+2025-12-26 23:55:46,628 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-26 23:55:54,544 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:55:54,728 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:55:54,729 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:55:55,731 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:55:55,928 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:55:55,929 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:55:55,929 - INFO - ✅ Answer generated in 9.37s
+2025-12-26 23:57:50,761 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-26 23:57:50,765 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:57:50,765 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:57:55,790 - INFO - ✅ Database health check passed
+2025-12-26 23:57:55,791 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-26 23:57:55,889 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-26 23:57:55,931 - INFO - Use pytorch device_name: cpu
+2025-12-26 23:57:55,931 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-26 23:58:01,137 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-26 23:58:31,227 - INFO - ConversationHistory initialized with max_history=10
+2025-12-26 23:58:31,859 - INFO - 📝 Processing question: apa saja tanda kehamilan awal?...
+2025-12-26 23:58:32,050 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-26 23:58:32,333 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:58:32,336 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:58:32,338 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa saja tanda kehamilan awal?
+2025-12-26 23:58:32,339 - INFO - ⏳ Rate limiting: waiting 6.9s before next API call
+2025-12-26 23:58:39,229 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:58:39,420 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:58:39,424 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:58:40,425 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:58:40,511 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:58:40,511 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:58:40,513 - INFO - ✅ Answer generated in 8.65s
+2025-12-26 23:58:40,582 - INFO - ⏳ Rate limiting: waiting 6.6s before next API call
+2025-12-26 23:58:47,390 - INFO - 📝 Processing question: makanan sehat untuk ibu hamil...
+2025-12-26 23:58:47,588 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:58:47,596 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:58:47,597 - INFO - ✅ Question ACCEPTED (pregnancy-related): makanan sehat untuk ibu hamil
+2025-12-26 23:58:47,597 - INFO - ⏳ Rate limiting: waiting 7.6s before next API call
+2025-12-26 23:58:55,230 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:58:55,457 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:58:55,459 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:58:56,461 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:58:56,539 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:58:56,540 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:58:56,541 - INFO - ✅ Answer generated in 9.15s
+2025-12-26 23:58:56,574 - INFO - ⏳ Rate limiting: waiting 6.7s before next API call
+2025-12-26 23:59:03,250 - INFO - 📝 Processing question: cara mengatasi mual saat hamil...
+2025-12-26 23:59:03,324 - INFO - ✅ Retrieved 0 documents from database
+2025-12-26 23:59:03,325 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-26 23:59:03,326 - INFO - ✅ Question ACCEPTED (pregnancy-related): cara mengatasi mual saat hamil
+2025-12-26 23:59:03,326 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-26 23:59:11,232 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:59:11,426 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:59:11,428 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-26 23:59:12,430 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-26 23:59:12,507 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-26 23:59:12,508 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-26 23:59:12,509 - INFO - ✅ Answer generated in 9.26s
+2025-12-27 00:00:47,738 - INFO - Conversation history cleared
+2025-12-27 00:00:47,742 - INFO - Conversation history cleared
+2025-12-27 00:00:50,271 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-27 00:00:50,287 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:00:50,362 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:00:50,369 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:00:50,369 - INFO - ✅ Question ACCEPTED (pregnancy-related): Apa saja tanda-tanda kehamilan awal?
+2025-12-27 00:00:50,369 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-27 00:00:58,254 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:00:58,436 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:00:58,437 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:00:59,439 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:00:59,516 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:00:59,517 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:00:59,517 - INFO - ✅ Answer generated in 9.25s
+2025-12-27 00:01:30,660 - INFO - 📝 Processing question: Apa saja tanda kehamilan awal?...
+2025-12-27 00:01:30,676 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:01:30,750 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:01:30,752 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:01:30,752 - INFO - ✅ Question ACCEPTED (pregnancy-related): Apa saja tanda kehamilan awal?
+2025-12-27 00:01:30,753 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-27 00:01:38,640 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:01:38,823 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:01:38,825 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:01:39,828 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:01:39,913 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:01:39,914 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:01:39,916 - INFO - ✅ Answer generated in 9.26s
+2025-12-27 00:02:49,453 - INFO - 📝 Processing question: apa saja tanda kehamilan?...
+2025-12-27 00:02:49,467 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:02:49,536 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:02:49,537 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:02:49,538 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa saja tanda kehamilan?
+2025-12-27 00:02:49,538 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-27 00:02:57,412 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:02:57,611 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:02:57,612 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:02:58,614 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:02:58,692 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:02:58,693 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:02:58,694 - INFO - ✅ Answer generated in 9.24s
+2025-12-27 00:03:42,750 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 00:03:42,755 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:03:42,756 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:03:47,853 - INFO - ✅ Database health check passed
+2025-12-27 00:03:47,853 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-27 00:03:47,942 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-27 00:03:47,986 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:03:47,986 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:03:53,544 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-27 00:03:56,005 - INFO - ConversationHistory initialized with max_history=10
+2025-12-27 00:03:56,020 - INFO - 📝 Processing question: apa tanda kehamilan awal?...
+2025-12-27 00:03:56,034 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:03:56,125 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:03:56,126 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:03:56,126 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan awal?
+2025-12-27 00:03:56,126 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-27 00:04:04,006 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:04:04,245 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:04:04,247 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:04:05,248 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:04:05,328 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:04:05,329 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:04:05,329 - INFO - ✅ Answer generated in 9.31s
+2025-12-27 00:09:12,686 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 00:09:12,692 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:09:12,692 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:09:18,468 - INFO - ✅ Database health check passed
+2025-12-27 00:09:18,468 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-27 00:09:18,618 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-27 00:09:18,675 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:09:18,675 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:09:25,722 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-27 00:21:32,340 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 00:21:32,350 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:21:32,351 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:21:39,188 - INFO - ✅ Database health check passed
+2025-12-27 00:21:39,189 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-27 00:21:39,443 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-27 00:21:39,579 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:21:39,579 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:21:45,614 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-27 00:22:02,657 - INFO - ConversationHistory initialized with max_history=10
+2025-12-27 00:22:02,700 - INFO - 📝 Processing question: apa tanda kehamilan awal?...
+2025-12-27 00:22:02,731 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:22:02,918 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:22:02,918 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:22:02,919 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan awal?
+2025-12-27 00:22:02,919 - INFO - ⏳ Rate limiting: waiting 7.7s before next API call
+2025-12-27 00:22:10,658 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:22:10,906 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:22:10,913 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:22:11,914 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:22:12,018 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:22:12,019 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:22:12,020 - INFO - ✅ Answer generated in 9.32s
+2025-12-27 00:22:12,303 - INFO - ⏳ Rate limiting: waiting 6.4s before next API call
+2025-12-27 00:22:18,706 - INFO - 📝 Processing question: makanan sehat untuk ibu hamil...
+2025-12-27 00:22:18,729 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:22:18,852 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:22:18,853 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:22:18,853 - INFO - ✅ Question ACCEPTED (pregnancy-related): makanan sehat untuk ibu hamil
+2025-12-27 00:22:18,854 - INFO - ⏳ Rate limiting: waiting 7.8s before next API call
+2025-12-27 00:22:26,660 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:22:27,163 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:22:27,165 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:22:28,166 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:22:28,248 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:22:28,250 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:22:28,251 - INFO - ✅ Answer generated in 9.55s
+2025-12-27 00:22:28,260 - INFO - ⏳ Rate limiting: waiting 6.4s before next API call
+2025-12-27 00:22:34,695 - INFO - 📝 Processing question: apa tanda kehamilan awal?...
+2025-12-27 00:22:34,745 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:22:34,841 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:22:34,843 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:22:34,843 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan awal?
+2025-12-27 00:22:34,844 - INFO - ⏳ Rate limiting: waiting 7.8s before next API call
+2025-12-27 00:22:42,662 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:22:42,844 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:22:42,846 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:22:43,847 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:22:43,997 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:22:44,010 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:22:44,047 - INFO - ✅ Answer generated in 9.35s
+2025-12-27 00:25:04,784 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 00:26:26,026 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 00:26:26,055 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:26:26,055 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:26:32,997 - INFO - ✅ Database health check passed
+2025-12-27 00:26:32,997 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-27 00:26:33,264 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-27 00:26:33,376 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:26:33,376 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:26:39,813 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-27 00:27:30,914 - INFO - 📝 Processing question: apa tanda kehamilan awal?...
+2025-12-27 00:27:31,469 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:27:31,984 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:27:31,986 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:27:31,990 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan awal?
+2025-12-27 00:27:31,995 - INFO - ⏳ Rate limiting: waiting 6.1s before next API call
+2025-12-27 00:27:38,146 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:27:38,676 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:27:38,687 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:27:39,689 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:27:39,784 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:27:39,792 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:27:39,793 - INFO - ✅ Answer generated in 8.88s
+2025-12-27 00:31:26,308 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 00:31:26,315 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:31:26,315 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:31:32,523 - INFO - ✅ Database health check passed
+2025-12-27 00:31:32,523 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-27 00:31:32,709 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-27 00:31:32,789 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:31:32,789 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:31:38,032 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-27 00:34:24,118 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 00:34:24,124 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:34:24,125 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:34:30,249 - INFO - ✅ Database health check passed
+2025-12-27 00:34:30,251 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-27 00:34:30,634 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-27 00:34:30,786 - INFO - Use pytorch device_name: cpu
+2025-12-27 00:34:30,787 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 00:34:37,586 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-27 00:34:50,068 - INFO - ConversationHistory initialized with max_history=10
+2025-12-27 00:34:50,110 - INFO - 📝 Processing question: apa tanda kehamilan awal?...
+2025-12-27 00:34:50,135 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:34:50,567 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:34:50,569 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:34:50,569 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan awal?
+2025-12-27 00:34:50,570 - INFO - ⏳ Rate limiting: waiting 7.5s before next API call
+2025-12-27 00:34:58,069 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:34:58,703 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:34:58,717 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:34:59,718 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:34:59,814 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:34:59,816 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:34:59,819 - INFO - ✅ Answer generated in 9.71s
+2025-12-27 00:35:06,499 - INFO - 📝 Processing question: apa tanda kehamilan awal?...
+2025-12-27 00:35:07,137 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:35:07,688 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:35:07,688 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:35:07,692 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan awal?
+2025-12-27 00:35:07,693 - INFO - ⏳ Rate limiting: waiting 6.5s before next API call
+2025-12-27 00:35:14,177 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:35:14,357 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:35:14,360 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:35:15,360 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:35:15,432 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:35:15,433 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:35:15,434 - INFO - ✅ Answer generated in 8.93s
+2025-12-27 00:58:35,742 - INFO - 📝 Processing question: apa tanda kehamilan awal?...
+2025-12-27 00:58:35,762 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-27 00:58:35,922 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 00:58:35,922 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 00:58:35,922 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan awal?
+2025-12-27 00:58:35,924 - INFO - ⏳ Rate limiting: waiting 7.4s before next API call
+2025-12-27 00:58:43,285 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:58:43,827 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:58:43,836 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 00:58:44,837 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 00:58:44,924 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 00:58:44,925 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 00:58:44,926 - INFO - ✅ Answer generated in 9.19s
+2025-12-27 01:09:11,670 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 01:09:11,675 - INFO - Use pytorch device_name: cpu
+2025-12-27 01:09:11,675 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 01:09:16,865 - INFO - ✅ Database health check passed
+2025-12-27 01:09:16,866 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-27 01:09:16,988 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-27 01:09:17,036 - INFO - Use pytorch device_name: cpu
+2025-12-27 01:09:17,037 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 01:09:21,808 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-27 01:14:11,698 - INFO - ConversationHistory initialized with max_history=10
+2025-12-27 01:14:11,706 - INFO - 📝 Processing question: apa tanda kehamilan awal?...
+2025-12-27 01:14:12,238 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 01:14:12,238 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 01:14:12,239 - INFO - ✅ Question ACCEPTED (pregnancy-related): apa tanda kehamilan awal?
+2025-12-27 01:14:12,239 - INFO - ⏳ Rate limiting: waiting 7.5s before next API call
+2025-12-27 01:14:19,698 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 01:14:19,968 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 01:14:19,971 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 01:14:20,973 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 01:14:21,053 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 01:14:21,053 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 01:14:21,054 - INFO - ✅ Answer generated in 9.35s
+2025-12-27 01:15:56,678 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 01:15:56,690 - INFO - Use pytorch device_name: cpu
+2025-12-27 01:15:56,690 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 01:16:03,258 - INFO - ✅ Database health check passed
+2025-12-27 01:16:03,259 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-27 01:16:03,376 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-27 01:16:03,428 - INFO - Use pytorch device_name: cpu
+2025-12-27 01:16:03,428 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 01:16:08,661 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-27 01:17:11,922 - INFO - ConversationHistory initialized with max_history=10
+2025-12-27 01:17:12,032 - INFO - 📝 Processing question: apa tanda kehamilan awal?...
+2025-12-27 01:17:12,033 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:17:47,997 - INFO - 📝 Processing question: makanan sehat untuk ibu hamil...
+2025-12-27 01:17:47,998 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:17:49,020 - INFO - ⏳ Rate limiting: waiting 7.0s before next API call
+2025-12-27 01:17:55,998 - INFO - 📝 Processing question: cara mengatasi mual...
+2025-12-27 01:17:55,998 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:17:57,008 - INFO - ⏳ Rate limiting: waiting 7.0s before next API call
+2025-12-27 01:18:03,994 - INFO - 📝 Processing question: olahraga ibu hamil...
+2025-12-27 01:18:03,994 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:18:05,005 - INFO - ⏳ Rate limiting: waiting 7.0s before next API call
+2025-12-27 01:18:11,989 - INFO - 📝 Processing question: vitamin ibu hamil...
+2025-12-27 01:18:11,990 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:18:12,995 - INFO - ⏳ Rate limiting: waiting 7.0s before next API call
+2025-12-27 01:18:19,992 - INFO - 📝 Processing question: posisi tidur ibu hamil...
+2025-12-27 01:18:19,992 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:21:34,732 - INFO - Conversation history cleared
+2025-12-27 01:21:34,740 - INFO - Conversation history cleared
+2025-12-27 01:21:39,964 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-27 01:21:39,964 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:21:55,273 - INFO - 📝 Processing question: Bagaimana cara meningkatkan kesuburan?...
+2025-12-27 01:21:55,600 - INFO - ✅ Retrieved 0 documents from database
+2025-12-27 01:21:55,601 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-27 01:21:55,601 - INFO - ✅ Question ACCEPTED (pregnancy-related): Bagaimana cara meningkatkan kesuburan?
+2025-12-27 01:21:55,602 - INFO - ⏳ Rate limiting: waiting 7.6s before next API call
+2025-12-27 01:22:03,254 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 01:22:03,624 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 01:22:03,637 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-27 01:22:04,638 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-27 01:22:04,723 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-27 01:22:04,724 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-27 01:22:04,725 - INFO - ✅ Answer generated in 9.45s
+2025-12-27 01:22:14,710 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-27 01:22:14,710 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:28:33,222 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-27 01:28:33,229 - INFO - Use pytorch device_name: cpu
+2025-12-27 01:28:33,230 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 01:28:38,752 - INFO - ✅ Database health check passed
+2025-12-27 01:28:38,753 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-27 01:28:38,957 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-27 01:28:39,073 - INFO - Use pytorch device_name: cpu
+2025-12-27 01:28:39,073 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-27 01:28:43,964 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-27 01:29:39,420 - INFO - ConversationHistory initialized with max_history=10
+2025-12-27 01:29:39,421 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-27 01:29:39,422 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:29:39,618 - INFO - ⏳ Rate limiting: waiting 7.8s before next API call
+2025-12-27 01:29:47,420 - INFO - 📝 Processing question: Bagaimana cara meningkatkan kesuburan?...
+2025-12-27 01:29:47,421 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:29:47,430 - INFO - ⏳ Rate limiting: waiting 8.0s before next API call
+2025-12-27 01:29:55,421 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-12-27 01:29:55,421 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:29:55,444 - INFO - ⏳ Rate limiting: waiting 8.0s before next API call
+2025-12-27 01:30:03,422 - INFO - 📝 Processing question: Apa yang menyebabkan kelahiran prematur?...
+2025-12-27 01:30:03,423 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:31:50,007 - INFO - Conversation history cleared
+2025-12-27 01:31:50,013 - INFO - Conversation history cleared
+2025-12-27 01:31:51,567 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-27 01:31:51,568 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:32:01,630 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-12-27 01:32:01,633 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:32:08,042 - INFO - ⏳ Rate limiting: waiting 1.6s before next API call
+2025-12-27 01:32:09,631 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-27 01:32:09,631 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:32:13,554 - INFO - ⏳ Rate limiting: waiting 4.1s before next API call
+2025-12-27 01:32:17,632 - INFO - 📝 Processing question: Bagaimana cara meningkatkan kesuburan?...
+2025-12-27 01:32:17,633 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:32:24,616 - INFO - ⏳ Rate limiting: waiting 1.0s before next API call
+2025-12-27 01:32:25,633 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-12-27 01:32:25,633 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:32:33,494 - INFO - ⏳ Rate limiting: waiting 0.1s before next API call
+2025-12-27 01:32:33,634 - INFO - 📝 Processing question: Apa yang menyebabkan kelahiran prematur?...
+2025-12-27 01:32:33,635 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-27 01:32:48,833 - INFO - Conversation history cleared
+2025-12-27 01:32:48,838 - INFO - Conversation history cleared

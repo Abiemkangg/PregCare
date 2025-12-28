@@ -1,16 +1,12 @@
 # ============================================
-# PregCare Full Stack Startup Script
+# PregCare Complete System Startup Script
 # ============================================
-# This script automatically starts both backend and frontend
-# Just double-click this file to run the complete application
+# Starts: Django Backend + RAG Backend + Frontend
 # ============================================
 
-Write-Host "`n" -ForegroundColor White
-Write-Host "╔════════════════════════════════════════════╗" -ForegroundColor Cyan
-Write-Host "║     PregCare RAG Chatbot System           ║" -ForegroundColor Cyan
-Write-Host "║     Full Stack Startup                    ║" -ForegroundColor Cyan
-Write-Host "╚════════════════════════════════════════════╝" -ForegroundColor Cyan
-Write-Host "`n"
+Write-Host "`n================================" -ForegroundColor Cyan
+Write-Host "  PregCare Complete Startup    " -ForegroundColor Cyan
+Write-Host "================================`n" -ForegroundColor Cyan
 
 $ErrorActionPreference = "Continue"
 $projectRoot = $PSScriptRoot

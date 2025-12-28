@@ -25,6 +25,13 @@ try:
 except ImportError:
     SemanticCache = None
 
+# Fallback responses for common questions
+try:
+    from fallback_responses import get_fallback_answer, add_fallback_to_cache
+except ImportError:
+    get_fallback_answer = None
+    add_fallback_to_cache = None
+
 # third-party
 try:
     from dotenv import load_dotenv
@@ -41,7 +48,7 @@ try:
     from langchain_postgres import PGVector
     from langchain_core.documents import Document
     from langchain_core.prompts import PromptTemplate
-except Exception:
+except Exception:     
     PGVector = None
     Document = None
     PromptTemplate = None
@@ -165,7 +172,7 @@ class ConversationHistory:
             return ""
         
         context_parts = ["\n=== RIWAYAT PERCAKAPAN ==="]
-        for i, exchange in enumerate(self.history[-3:], 1):  # Last 3 exchanges
+        for i, exchange in enumerate(self.history[-2:], 1):  # Last 2 exchanges
             context_parts.append(f"\nQ{i}: {exchange['question']}")
             context_parts.append(f"A{i}: {exchange['answer'][:150]}...")  # Truncate for brevity
         context_parts.append("\n=== AKHIR RIWAYAT ===\n")
@@ -176,6 +183,31 @@ class ConversationHistory:
         """Clear conversation history"""
         self.history.clear()
         logger.info("Conversation history cleared")
+
+# -------------------------
+# Rate Limiter for API Calls
+# -------------------------
+class RateLimiter:
+    """Simple rate limiter to prevent hitting API rate limits"""
+    def __init__(self, min_interval: float = 4.0):
+        self.min_interval = min_interval  # Minimum seconds between requests
+        self.last_request_time = 0
+        logger.info(f"RateLimiter initialized with {min_interval}s minimum interval")
+    
+    def wait_if_needed(self):
+        """Wait if needed to respect rate limits"""
+        current_time = time.time()
+        time_since_last = current_time - self.last_request_time
+        
+        if time_since_last < self.min_interval:
+            wait_time = self.min_interval - time_since_last
+            logger.info(f"⏳ Rate limiting: waiting {wait_time:.1f}s before next API call")
+            time.sleep(wait_time)
+        
+        self.last_request_time = time.time()
+
+# Global rate limiter instance
+api_rate_limiter = RateLimiter(min_interval=8.0)  # Safer: ~7-8 RPM to avoid rate limits
 
 # -------------------------
 # GenAI call wrapper (simplified and working)
@@ -197,8 +229,8 @@ class GenAIClientWrapper:
         """
         Generate text using Gemini API with retry logic for rate limiting
         """
-        max_retries = 3
-        base_delay = 2  # seconds
+        max_retries = 2  # Reduced from 3 to 2
+        base_delay = 1  # Reduced from 2s to 1s
         
         for attempt in range(max_retries):
             try:
@@ -237,7 +269,7 @@ class GenAIClientWrapper:
                         continue
                     else:
                         logger.error(f"❌ Rate limit exceeded after {max_retries} attempts")
-                        return "Maaf, sistem sedang sibuk karena banyak permintaan. Silakan tunggu beberapa saat dan coba lagi. 🙏"
+                        return "Maaf, quota API Gemini sudah mencapai limit. Silakan tunggu 5-10 menit atau coba lagi besok. Untuk penggunaan intensif, pertimbangkan upgrade ke Gemini Paid Tier. 🙏"
                 
                 # Handle other errors
                 logger.error(f"❌ GenAI API call failed: {e}")
@@ -322,8 +354,8 @@ def build_retriever(pg_conn: Optional[str], embeddings_wrapper: Optional[SimpleE
             collection_name=collection_name,
             embeddings=embeddings_wrapper,
         )
-        retriever = vectordb.as_retriever(search_kwargs={"k": 5})
-        logger.info("✅ PGVector retriever created successfully")
+        retriever = vectordb.as_retriever(search_kwargs={"k": 2})
+        logger.info("✅ PGVector retriever created successfully (k=2 for token efficiency)")
         return retriever
     except Exception as e:
         logger.error(f"❌ Failed to create PGVector retriever: {e}")
@@ -446,13 +478,27 @@ def rag_answer(
     start_time = time.time()
     logger.info(f"📝 Processing question: {question[:100]}...")
     
-    # Check cache first
+    # 1. FALLBACK ANSWERS FIRST (zero API calls, zero tokens!)
+    if get_fallback_answer:
+        fallback = get_fallback_answer(question)
+        if fallback:
+            elapsed = time.time() - start_time
+            logger.info(f"💡 Fallback answer used! Response time: {elapsed:.2f}s (0 tokens)")
+            if conversation_history:
+                conversation_history.add_exchange(question, fallback)
+            return fallback
+    
+    # 2. Check cache second (but skip if cached answer is an error message)
     if cache:
         cached_result = cache.get(question)
         if cached_result:
             answer, similarity = cached_result
-            logger.info(f"⚡ Cache hit! Similarity: {similarity:.3f}")
-            return answer
+            # Skip cache if it's an error message
+            if not answer.startswith("Maaf, quota") and not answer.startswith("ERROR"):
+                logger.info(f"⚡ Cache hit! Similarity: {similarity:.3f}")
+                return answer
+            else:
+                logger.info(f"⚠️ Skipping cached error message, will generate fresh answer")
     
     # Safety
     block_reason = safety_check(question)
@@ -549,7 +595,7 @@ def rag_answer(
         'resep masakan', 'cara masak', 'cara membuat', 'tumis', 'goreng', 'rebus',
         'agama', 'islam', 'kristen', 'katolik', 'hindu', 'buddha', 'warna', 'indonesia',
         'music', 'lagu', 'penyanyi', 'band', 'konser',
-        'mobil', 'motor', 'kendaraan', 'transportasi', 'bis', 'kereta',
+        'mobil', 'motor', 'kendaraan', 'transportasi', 'kereta',
         'hp', 'handphone', 'laptop', 'komputer', 'gadget', 'smartphone',
         'pelajaran', 'sekolah', 'ujian', 'kuliah', 'kampus', 'matematika',
         'wisata', 'liburan', 'jalan-jalan', 'travelling', 'pantai', 'gunung',
@@ -559,34 +605,40 @@ def rag_answer(
     has_forbidden = any(keyword in question_lower for keyword in forbidden_keywords)
     
     # REJECT jika:
-    # 1. Ada kata forbidden DAN tidak ada kata pregnancy
-    # 2. Tidak ada kata pregnancy sama sekali
-    if has_forbidden or not has_pregnancy_keyword:
+    # 1. Tidak ada kata pregnancy sama sekali
+    # 2. Ada kata forbidden DAN tidak ada kata pregnancy yang kuat
+    # Prioritas: Jika ada pregnancy keyword, terima dulu (false positive lebih baik daripada false negative)
+    if not has_pregnancy_keyword:
         reject_msg = "Maaf ya, aku cuma bisa bantu pertanyaan seputar kehamilan dan kesehatan ibu hamil. Ada yang mau ditanyain soal kehamilanmu?"
-        logger.info(f"❌ Question REJECTED: '{question}' (forbidden={has_forbidden}, no_pregnancy_kw={not has_pregnancy_keyword})")
+        logger.info(f"❌ Question REJECTED: '{question}' (no_pregnancy_keyword)")
         
         if conversation_history:
             conversation_history.add_exchange(question, reject_msg)
         
         return reject_msg
     
+    # Jika ada pregnancy keyword, lanjutkan (abaikan forbidden check untuk mengurangi false negative)
+    
     logger.info(f"✅ Question ACCEPTED (pregnancy-related): {question}")
     
-    # Add conversation history if available
-    history_context = ""
-    if conversation_history and conversation_history.history:
-        history_context = conversation_history.get_context()
-        logger.debug(f"Added conversation history ({len(conversation_history.history)} exchanges)")
+    # SKIP conversation history to save tokens (free tier optimization)
+    # history_context = ""
+    # if conversation_history and conversation_history.history:
+    #     history_context = conversation_history.get_context()
+    #     logger.debug(f"Added conversation history ({len(conversation_history.history)} exchanges)")
     
-    # Build prompt with context and history
-    full_context = history_context + "\n" + (ctx or "Tidak ada konteks relevan.")
+    # Build prompt with context only (no history to save tokens)
+    full_context = (ctx or "Tidak ada konteks relevan.")
     prompt_text = PROMPT_TEMPLATE.format(context=full_context, question=question)
 
     # Call genai
     try:
+        # Wait if needed to respect rate limits (auto-delay)
+        api_rate_limiter.wait_if_needed()
+        
         logger.debug("🤖 Generating answer with LLM...")
-        # Increased tokens for better structured answers
-        answer = genai_client.generate(prompt_text, temperature=0.3, max_output_tokens=800)
+        # Ultra-optimized tokens for FREE tier efficiency (hemat 50%+ token)
+        answer = genai_client.generate(prompt_text, temperature=0.3, max_output_tokens=400)
         
         # Post-processing: Remove ALL asterisks (single *, double **, triple ***, etc)
         import re
@@ -601,8 +653,8 @@ def rag_answer(
         if conversation_history:
             conversation_history.add_exchange(question, answer)
         
-        # Cache the answer
-        if cache:
+        # Cache the answer ONLY if it's not an error message
+        if cache and not answer.startswith("Maaf, sistem sedang sibuk") and not answer.startswith("ERROR"):
             cache.set(question, answer, response_time=elapsed_time)
             logger.debug(f"💾 Answer cached")
         
@@ -748,6 +800,13 @@ def run_pipeline(interactive=True, use_cache=True):
     else:
         # simple test questions (for automated test)
         conv_history = ConversationHistory()
+        
+        # Pre-populate cache with fallback answers to avoid API calls
+        if cache and add_fallback_to_cache:
+            logger.info("💾 Pre-populating cache with common Q&A...")
+            add_fallback_to_cache(cache)
+            logger.info(f"✅ Cache initialized with fallback answers")
+        
         tests = [
             "Apa makanan terbaik untuk trimester pertama?",
             "Bagaimana mencegah diabetes gestasional?",

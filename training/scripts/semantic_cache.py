@@ -27,7 +27,7 @@ class SemanticCache:
     def __init__(
         self, 
         model_name: str = "all-MiniLM-L6-v2",
-        similarity_threshold: float = 0.85,
+        similarity_threshold: float = 0.90,  # Lowered from 0.85 to 0.90 for AGGRESSIVE caching
         max_cache_size: int = 100,
         ttl_hours: int = 24,
         cache_file: Optional[pathlib.Path] = None
@@ -35,7 +35,7 @@ class SemanticCache:
         """
         Args:
             model_name: Model untuk encode pertanyaan
-            similarity_threshold: Threshold untuk match (0-1)
+            similarity_threshold: Threshold untuk match (0-1) - LOWER = more cache hits
             max_cache_size: Maximum entries di cache
             ttl_hours: Time-to-live untuk cache entries (jam)
             cache_file: File untuk persist cache (optional)

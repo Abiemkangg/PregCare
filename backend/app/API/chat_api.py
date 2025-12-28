@@ -19,6 +19,8 @@ from auth_api import router as auth_router
 
 # Add training scripts to path
 TRAINING_PATH = Path(__file__).parent.parent.parent.parent / "training"
+SCRIPTS_PATH = TRAINING_PATH / "scripts"
+sys.path.insert(0, str(SCRIPTS_PATH))  # Add scripts folder for fallback_responses
 sys.path.insert(0, str(TRAINING_PATH))
 
 # Will import inside startup event after path is set
@@ -29,6 +31,7 @@ rag_answer = None
 ConversationHistory = None
 SemanticCache = None
 genai = None
+api_rate_limiter = None  # Rate limiter instance
 
 # ==================== Pydantic Models ====================
 
@@ -116,7 +119,7 @@ def get_conversation_history(user_id: str):
 @app.on_event("startup")
 async def startup_event():
     """Initialize RAG components on server startup"""
-    global retriever, genai_client, local_docs, cache
+    global retriever, genai_client, local_docs, cache, api_rate_limiter
     global SimpleEmbeddingsWrapper, build_retriever, load_docs_from_embedding_file
     global rag_answer, ConversationHistory, SemanticCache, genai
     
@@ -130,6 +133,7 @@ async def startup_event():
             load_docs_from_embedding_file as load_docs,
             rag_answer as rag_ans,
             ConversationHistory as ConvHist,
+            api_rate_limiter as rate_lim,
         )
         from scripts.semantic_cache import SemanticCache as SemCache
         import google.genai as genai_module
@@ -142,6 +146,7 @@ async def startup_event():
         ConversationHistory = ConvHist
         SemanticCache = SemCache
         genai = genai_module
+        api_rate_limiter = rate_lim
         
         # Load environment from training folder
         from dotenv import load_dotenv
@@ -222,12 +227,21 @@ async def root():
 async def chat(request: ChatRequest):
     """
     Main chat endpoint - send question, receive AI answer
+    
+    Best Practices:
+    - Tunggu 4-5 detik antar pertanyaan
+    - Gunakan pertanyaan spesifik tentang kehamilan
+    - Hindari spam request berulang
     """
     if not retriever or not genai_client:
         raise HTTPException(status_code=503, detail="RAG system not initialized")
     
     if not request.message.strip():
         raise HTTPException(status_code=400, detail="Message cannot be empty")
+    
+    # Apply rate limiting to prevent API abuse
+    if api_rate_limiter:
+        api_rate_limiter.wait_if_needed()
     
     try:
         # Get user's conversation history
