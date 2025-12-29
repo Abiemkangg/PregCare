@@ -34,26 +34,26 @@ const FertilityTracker = () => {
 
   // Daftar gejala lengkap
   const symptomsList = [
-    { id: 'cramps', name: 'Kram Perut', icon: '😣', category: 'physical' },
-    { id: 'headache', name: 'Sakit Kepala', icon: '🤕', category: 'physical' },
-    { id: 'backpain', name: 'Sakit Punggung', icon: '😩', category: 'physical' },
-    { id: 'bloating', name: 'Kembung', icon: '🫄', category: 'physical' },
-    { id: 'fatigue', name: 'Kelelahan', icon: '😴', category: 'physical' },
-    { id: 'breast_tender', name: 'Payudara Nyeri', icon: '💔', category: 'physical' },
-    { id: 'acne', name: 'Jerawat', icon: '😔', category: 'physical' },
-    { id: 'nausea', name: 'Mual', icon: '🤢', category: 'physical' },
-    { id: 'happy', name: 'Bahagia', icon: '😊', category: 'mood' },
-    { id: 'sad', name: 'Sedih', icon: '😢', category: 'mood' },
-    { id: 'irritable', name: 'Mudah Tersinggung', icon: '😤', category: 'mood' },
-    { id: 'anxious', name: 'Cemas', icon: '😰', category: 'mood' },
-    { id: 'mood_swings', name: 'Mood Swing', icon: '🎭', category: 'mood' },
-    { id: 'energetic', name: 'Berenergi', icon: '⚡', category: 'mood' },
-    { id: 'cravings', name: 'Ngidam Makanan', icon: '🍫', category: 'other' },
-    { id: 'insomnia', name: 'Susah Tidur', icon: '🌙', category: 'other' },
-    { id: 'heavy_flow', name: 'Aliran Deras', icon: '💧', category: 'flow' },
-    { id: 'medium_flow', name: 'Aliran Sedang', icon: '💦', category: 'flow' },
-    { id: 'light_flow', name: 'Aliran Ringan', icon: '✨', category: 'flow' },
-    { id: 'spotting', name: 'Flek', icon: '🔴', category: 'flow' },
+    { id: 'cramps', name: 'Kram Perut', category: 'physical' },
+    { id: 'headache', name: 'Sakit Kepala', category: 'physical' },
+    { id: 'backpain', name: 'Sakit Punggung', category: 'physical' },
+    { id: 'bloating', name: 'Kembung', category: 'physical' },
+    { id: 'fatigue', name: 'Kelelahan', category: 'physical' },
+    { id: 'breast_tender', name: 'Payudara Nyeri', category: 'physical' },
+    { id: 'acne', name: 'Jerawat', category: 'physical' },
+    { id: 'nausea', name: 'Mual', category: 'physical' },
+    { id: 'happy', name: 'Bahagia', category: 'mood' },
+    { id: 'sad', name: 'Sedih', category: 'mood' },
+    { id: 'irritable', name: 'Mudah Tersinggung', category: 'mood' },
+    { id: 'anxious', name: 'Cemas', category: 'mood' },
+    { id: 'mood_swings', name: 'Mood Swing', category: 'mood' },
+    { id: 'energetic', name: 'Berenergi', category: 'mood' },
+    { id: 'cravings', name: 'Ngidam Makanan', category: 'other' },
+    { id: 'insomnia', name: 'Susah Tidur', category: 'other' },
+    { id: 'heavy_flow', name: 'Aliran Deras', category: 'flow' },
+    { id: 'medium_flow', name: 'Aliran Sedang', category: 'flow' },
+    { id: 'light_flow', name: 'Aliran Ringan', category: 'flow' },
+    { id: 'spotting', name: 'Flek', category: 'flow' },
   ];
 
   const daysOfWeek = ['Min', 'Sen', 'Sel', 'Rab', 'Kam', 'Jum', 'Sab'];
@@ -181,17 +181,17 @@ const FertilityTracker = () => {
     const currentPhaseType = cycle.phase || 'normal';
     
     if (currentPhaseType === 'menstruation') {
-      phase = { ...phase, name: 'Menstruasi', color: 'red', icon: '🔴', description: 'Fase peluruhan dinding rahim' };
+      phase = { ...phase, name: 'Menstruasi', color: 'red', description: 'Fase peluruhan dinding rahim' };
     } else if (currentPhaseType === 'follicular') {
-      phase = { ...phase, name: 'Folikuler', color: 'blue', icon: '🔵', description: 'Folikel berkembang di ovarium' };
+      phase = { ...phase, name: 'Folikuler', color: 'blue', description: 'Folikel berkembang di ovarium' };
     } else if (currentPhaseType === 'ovulation') {
-      phase = { ...phase, name: 'Ovulasi', color: 'purple', icon: '🟣', description: 'Sel telur dilepaskan - puncak kesuburan' };
+      phase = { ...phase, name: 'Ovulasi', color: 'purple', description: 'Sel telur dilepaskan - puncak kesuburan' };
     } else if (currentPhaseType === 'fertile') {
-      phase = { ...phase, name: 'Masa Subur', color: 'green', icon: '🟢', description: 'Waktu optimal untuk program hamil' };
+      phase = { ...phase, name: 'Masa Subur', color: 'green', description: 'Waktu optimal untuk program hamil' };
     } else if (currentPhaseType === 'luteal') {
-      phase = { ...phase, name: 'Luteal', color: 'orange', icon: '🟠', description: 'Tubuh mempersiapkan kemungkinan kehamilan' };
+      phase = { ...phase, name: 'Luteal', color: 'orange', description: 'Tubuh mempersiapkan kemungkinan kehamilan' };
     } else {
-      phase = { ...phase, name: 'Normal', color: 'gray', icon: '⚪', description: 'Fase normal siklus' };
+      phase = { ...phase, name: 'Normal', color: 'gray', description: 'Fase normal siklus' };
     }
     
     setCurrentPhase(phase);
@@ -360,10 +360,23 @@ const FertilityTracker = () => {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-background-soft flex items-center justify-center">
-        <div className="text-center">
-          <div className="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-primary-pink"></div>
-          <p className="mt-4 text-text-light">Memuat data...</p>
+      <div className="min-h-screen bg-gradient-to-br from-rose-50 via-white to-purple-50 flex items-center justify-center">
+        <div className="text-center p-8">
+          <div className="relative inline-flex mb-6">
+            <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-primary-pink to-primary-purple flex items-center justify-center shadow-lg shadow-pink-200/50">
+              <svg className="w-8 h-8 text-white animate-pulse" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <div className="absolute -inset-1 rounded-2xl bg-gradient-to-br from-primary-pink to-primary-purple opacity-30 blur-md animate-pulse"></div>
+          </div>
+          <h3 className="text-lg font-semibold text-slate-700 mb-2">Memuat Data</h3>
+          <p className="text-slate-500 text-sm">Menyiapkan informasi siklus Anda...</p>
+          <div className="mt-4 flex justify-center gap-1">
+            <div className="w-2 h-2 rounded-full bg-primary-pink animate-bounce" style={{ animationDelay: '0ms' }}></div>
+            <div className="w-2 h-2 rounded-full bg-primary-purple animate-bounce" style={{ animationDelay: '150ms' }}></div>
+            <div className="w-2 h-2 rounded-full bg-violet-500 animate-bounce" style={{ animationDelay: '300ms' }}></div>
+          </div>
         </div>
       </div>
     );
@@ -371,16 +384,33 @@ const FertilityTracker = () => {
 
   if (error) {
     return (
-      <div className="min-h-screen bg-background-soft flex items-center justify-center">
-        <div className="text-center max-w-md p-6 bg-red-50 rounded-xl">
-          <p className="text-red-600 font-semibold mb-2">⚠️ Terjadi Kesalahan</p>
-          <p className="text-sm text-text-light mb-4">{error}</p>
-          <button
-            onClick={() => window.location.reload()}
-            className="px-4 py-2 bg-primary-pink text-white rounded-lg hover:bg-primary-purple transition"
-          >
-            Muat Ulang
-          </button>
+      <div className="min-h-screen bg-gradient-to-br from-rose-50 via-white to-purple-50 flex items-center justify-center p-4">
+        <div className="max-w-md w-full bg-white rounded-3xl shadow-xl border border-red-100 overflow-hidden">
+          <div className="bg-gradient-to-r from-red-50 to-rose-50 px-6 py-5 border-b border-red-100">
+            <div className="flex items-center gap-3">
+              <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-red-400 to-rose-500 flex items-center justify-center shadow-lg shadow-red-200/50">
+                <svg className="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                </svg>
+              </div>
+              <div>
+                <h3 className="text-lg font-bold text-red-800">Terjadi Kesalahan</h3>
+                <p className="text-sm text-red-600">Tidak dapat memuat data siklus</p>
+              </div>
+            </div>
+          </div>
+          <div className="p-6">
+            <p className="text-slate-600 text-sm mb-6">{error}</p>
+            <button
+              onClick={() => window.location.reload()}
+              className="w-full bg-gradient-to-r from-red-500 to-rose-500 text-white py-3.5 rounded-xl font-semibold shadow-lg shadow-red-200/50 hover:shadow-xl hover:shadow-red-200/60 transition-all duration-200 flex items-center justify-center gap-2"
+            >
+              <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+              </svg>
+              Muat Ulang
+            </button>
+          </div>
         </div>
       </div>
     );
@@ -392,21 +422,23 @@ const FertilityTracker = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <div className="inline-block bg-gradient-to-r from-primary-pink to-primary-purple rounded-full p-4 mb-4">
-            <span className="text-4xl">📊</span>
+            <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+            </svg>
           </div>
           <h1 className="text-3xl font-bold text-text-dark mb-2">Fertility Tracker</h1>
           <p className="text-text-light">Pantau siklus menstruasi dan masa subur Anda</p>
           <div className="mt-3 max-w-2xl mx-auto p-3 bg-blue-50 rounded-lg">
             <p className="text-xs text-blue-600">
-              <strong>ℹ️ Penting:</strong> Fitur ini bersifat edukatif dan membantu tracking siklus. 
+              <strong>Penting:</strong> Fitur ini bersifat edukatif dan membantu tracking siklus. 
               Tidak memberikan klaim medis atau jaminan kehamilan. Konsultasikan dengan dokter untuk masalah kesehatan reproduksi.
             </p>
           </div>
         </div>
 
-        {/* Modal Setup Awal */}
+        {/* Modal Setup Awal - Enhanced Design */}
         {showSetupModal && (
-          <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4" onClick={() => {
+          <div className="fixed inset-0 bg-slate-900/40 backdrop-blur-sm flex items-center justify-center z-50 p-4" onClick={() => {
             if (!cycleHistory.length && !currentCycle) {
               if (confirm('Anda belum memiliki data siklus. Yakin ingin keluar tanpa input data?')) {
                 setShowSetupModal(false);
@@ -415,44 +447,64 @@ const FertilityTracker = () => {
               setShowSetupModal(false);
             }
           }}>
-            <div className="bg-white rounded-2xl shadow-xl max-w-md w-full p-6 relative" onClick={(e) => e.stopPropagation()}>
-              <button
-                onClick={() => {
-                  if (!cycleHistory.length && !currentCycle) {
-                    if (confirm('Anda belum memiliki data siklus. Yakin ingin keluar tanpa input data?')) {
-                      setShowSetupModal(false);
-                    }
-                  } else {
-                    setShowSetupModal(false);
-                  }
-                }}
-                className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 text-2xl font-bold w-8 h-8 flex items-center justify-center transition-colors hover:bg-gray-100 rounded-full"
-                title="Tutup"
-              >
-                ×
-              </button>
-              <h2 className="text-2xl font-bold text-text-dark mb-4 text-center pr-8">
-                🌸 Mulai Tracking Siklus
-              </h2>
-              <p className="text-text-light text-center mb-6">
-                Masukkan informasi menstruasi terakhir Anda untuk memulai
-              </p>
+            <div 
+              className="bg-gradient-to-b from-white to-rose-50/30 rounded-3xl shadow-2xl max-w-md w-full overflow-hidden border border-rose-100" 
+              onClick={(e) => e.stopPropagation()}
+            >
+              {/* Modal Header */}
+              <div className="bg-gradient-to-r from-primary-pink/10 via-primary-purple/5 to-transparent px-6 py-5 border-b border-rose-100">
+                <div className="flex justify-between items-start">
+                  <div className="flex items-center gap-3">
+                    <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-primary-pink to-primary-purple flex items-center justify-center shadow-lg shadow-pink-200/50">
+                      <svg className="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <h2 className="text-xl font-bold text-slate-800">
+                        Mulai Tracking Siklus
+                      </h2>
+                      <p className="text-sm text-slate-500">Masukkan data menstruasi terakhir</p>
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => {
+                      if (!cycleHistory.length && !currentCycle) {
+                        if (confirm('Anda belum memiliki data siklus. Yakin ingin keluar tanpa input data?')) {
+                          setShowSetupModal(false);
+                        }
+                      } else {
+                        setShowSetupModal(false);
+                      }
+                    }}
+                    className="w-10 h-10 rounded-full bg-white shadow-sm border border-slate-200 flex items-center justify-center text-slate-400 hover:text-slate-600 hover:border-slate-300 transition-all duration-200"
+                  >
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                  </button>
+                </div>
+              </div>
 
-              <div className="space-y-4">
-                <div>
-                  <label className="block text-sm font-medium text-text-dark mb-2">
+              {/* Modal Body */}
+              <div className="p-6 space-y-5">
+                {/* Date Input Cards */}
+                <div className="bg-white rounded-2xl p-4 shadow-sm border border-pink-100">
+                  <label className="flex items-center gap-2 text-sm font-semibold text-slate-700 mb-3">
+                    <span className="w-6 h-6 rounded-full bg-pink-100 text-pink-600 flex items-center justify-center text-xs font-bold">1</span>
                     Hari Pertama Menstruasi (Day 1)
                   </label>
                   <input
                     type="date"
                     value={periodStartDate}
                     onChange={(e) => setPeriodStartDate(e.target.value)}
-                    className="w-full p-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary-pink focus:border-transparent"
+                    className="w-full p-3.5 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-pink-300 focus:border-pink-400 focus:bg-white transition-all duration-200 text-slate-700"
                   />
                 </div>
 
-                <div>
-                  <label className="block text-sm font-medium text-text-dark mb-2">
+                <div className="bg-white rounded-2xl p-4 shadow-sm border border-pink-100">
+                  <label className="flex items-center gap-2 text-sm font-semibold text-slate-700 mb-3">
+                    <span className="w-6 h-6 rounded-full bg-pink-100 text-pink-600 flex items-center justify-center text-xs font-bold">2</span>
                     Hari Terakhir Menstruasi
                   </label>
                   <input
@@ -460,44 +512,66 @@ const FertilityTracker = () => {
                     value={periodEndDate}
                     onChange={(e) => setPeriodEndDate(e.target.value)}
                     min={periodStartDate}
-                    className="w-full p-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary-pink focus:border-transparent"
+                    className="w-full p-3.5 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-pink-300 focus:border-pink-400 focus:bg-white transition-all duration-200 text-slate-700"
                   />
                 </div>
 
-                <div>
-                  <label className="block text-sm font-medium text-text-dark mb-2">
-                    Rata-rata Panjang Siklus (hari)
+                <div className="bg-white rounded-2xl p-4 shadow-sm border border-purple-100">
+                  <label className="flex items-center gap-2 text-sm font-semibold text-slate-700 mb-3">
+                    <span className="w-6 h-6 rounded-full bg-purple-100 text-purple-600 flex items-center justify-center text-xs font-bold">3</span>
+                    Rata-rata Panjang Siklus
                   </label>
-                  <div className="flex items-center space-x-4">
+                  <div className="flex items-center gap-4">
                     <input
                       type="range"
                       min="21"
                       max="40"
                       value={averageCycleLength}
                       onChange={(e) => setAverageCycleLength(parseInt(e.target.value))}
-                      className="flex-1"
+                      className="flex-1 h-2 bg-gradient-to-r from-pink-200 to-purple-200 rounded-lg appearance-none cursor-pointer accent-primary-purple"
                     />
-                    <span className="text-2xl font-bold text-primary-purple w-16 text-center">
-                      {averageCycleLength}
-                    </span>
+                    <div className="w-16 h-12 bg-gradient-to-br from-primary-purple to-violet-600 rounded-xl flex items-center justify-center shadow-sm">
+                      <span className="text-xl font-bold text-white">{averageCycleLength}</span>
+                    </div>
                   </div>
-                  <p className="text-xs text-text-light mt-1">
-                    Normal: 21-35 hari. Rata-rata: 28 hari
+                  <p className="text-xs text-slate-500 mt-2 flex items-center gap-1">
+                    <svg className="w-4 h-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    Normal: 21-35 hari. Rata-rata umum: 28 hari
                   </p>
                 </div>
+              </div>
 
+              {/* Modal Footer */}
+              <div className="px-6 py-4 bg-white border-t border-slate-100 space-y-3">
                 <button
                   onClick={handleSubmitCycle}
                   disabled={saving}
-                  className="w-full bg-gradient-to-r from-primary-pink to-primary-purple text-white py-3 rounded-xl font-semibold hover:shadow-lg transition-shadow disabled:opacity-50"
+                  className="w-full bg-gradient-to-r from-primary-pink to-primary-purple text-white py-3.5 rounded-xl font-semibold shadow-lg shadow-pink-200/50 hover:shadow-xl hover:shadow-pink-200/60 transition-all duration-200 flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
-                  {saving ? 'Menyimpan...' : 'Mulai Tracking'}
+                  {saving ? (
+                    <>
+                      <svg className="w-5 h-5 animate-spin" fill="none" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                      </svg>
+                      Menyimpan...
+                    </>
+                  ) : (
+                    <>
+                      <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                      </svg>
+                      Mulai Tracking
+                    </>
+                  )}
                 </button>
 
                 {(cycleHistory.length > 0 || currentCycle) && (
                   <button
                     onClick={() => setShowSetupModal(false)}
-                    className="w-full text-text-light py-2 hover:text-text-dark transition-colors"
+                    className="w-full py-2.5 text-slate-500 hover:text-slate-700 font-medium transition-colors"
                   >
                     Batal
                   </button>
@@ -507,38 +581,58 @@ const FertilityTracker = () => {
           </div>
         )}
 
-        {/* Modal Edit Cycle */}
+        {/* Modal Edit Cycle - Enhanced Design */}
         {isEditingCycle && (
-          <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4" onClick={() => setIsEditingCycle(null)}>
-            <div className="bg-white rounded-2xl shadow-xl max-w-md w-full p-6 relative" onClick={(e) => e.stopPropagation()}>
-              <button
-                onClick={() => setIsEditingCycle(null)}
-                className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 text-2xl font-bold w-8 h-8 flex items-center justify-center"
-              >
-                ×
-              </button>
-              <h2 className="text-2xl font-bold text-text-dark mb-4 text-center pr-8">
-                ✏️ Edit Tanggal Siklus
-              </h2>
-              <p className="text-text-light text-center mb-6">
-                Sistem akan otomatis menghitung ulang fase dan prediksi
-              </p>
+          <div className="fixed inset-0 bg-slate-900/40 backdrop-blur-sm flex items-center justify-center z-50 p-4" onClick={() => setIsEditingCycle(null)}>
+            <div 
+              className="bg-gradient-to-b from-white to-rose-50/30 rounded-3xl shadow-2xl max-w-md w-full overflow-hidden border border-rose-100" 
+              onClick={(e) => e.stopPropagation()}
+            >
+              {/* Modal Header */}
+              <div className="bg-gradient-to-r from-primary-pink/10 via-primary-purple/5 to-transparent px-6 py-5 border-b border-rose-100">
+                <div className="flex justify-between items-start">
+                  <div className="flex items-center gap-3">
+                    <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-violet-400 to-purple-500 flex items-center justify-center shadow-lg shadow-purple-200/50">
+                      <svg className="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <h2 className="text-xl font-bold text-slate-800">
+                        Edit Tanggal Siklus
+                      </h2>
+                      <p className="text-sm text-slate-500">Perhitungan akan diperbarui otomatis</p>
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => setIsEditingCycle(null)}
+                    className="w-10 h-10 rounded-full bg-white shadow-sm border border-slate-200 flex items-center justify-center text-slate-400 hover:text-slate-600 hover:border-slate-300 transition-all duration-200"
+                  >
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                  </button>
+                </div>
+              </div>
 
-              <div className="space-y-4">
-                <div>
-                  <label className="block text-sm font-medium text-text-dark mb-2">
+              {/* Modal Body */}
+              <div className="p-6 space-y-5">
+                <div className="bg-white rounded-2xl p-4 shadow-sm border border-pink-100">
+                  <label className="flex items-center gap-2 text-sm font-semibold text-slate-700 mb-3">
+                    <span className="w-6 h-6 rounded-full bg-pink-100 text-pink-600 flex items-center justify-center text-xs font-bold">1</span>
                     Hari Pertama Menstruasi
                   </label>
                   <input
                     type="date"
                     defaultValue={isEditingCycle.start_date}
                     onChange={(e) => setIsEditingCycle({...isEditingCycle, start_date: e.target.value})}
-                    className="w-full p-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary-pink focus:border-transparent"
+                    className="w-full p-3.5 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-pink-300 focus:border-pink-400 focus:bg-white transition-all duration-200 text-slate-700"
                   />
                 </div>
 
-                <div>
-                  <label className="block text-sm font-medium text-text-dark mb-2">
+                <div className="bg-white rounded-2xl p-4 shadow-sm border border-pink-100">
+                  <label className="flex items-center gap-2 text-sm font-semibold text-slate-700 mb-3">
+                    <span className="w-6 h-6 rounded-full bg-pink-100 text-pink-600 flex items-center justify-center text-xs font-bold">2</span>
                     Hari Terakhir Menstruasi
                   </label>
                   <input
@@ -546,137 +640,296 @@ const FertilityTracker = () => {
                     defaultValue={isEditingCycle.end_date}
                     onChange={(e) => setIsEditingCycle({...isEditingCycle, end_date: e.target.value})}
                     min={isEditingCycle.start_date}
-                    className="w-full p-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary-pink focus:border-transparent"
+                    className="w-full p-3.5 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-pink-300 focus:border-pink-400 focus:bg-white transition-all duration-200 text-slate-700"
                   />
                 </div>
+              </div>
 
-                <div className="flex gap-3">
-                  <button
-                    onClick={() => handleEditCycleDates(isEditingCycle.id, isEditingCycle.start_date, isEditingCycle.end_date)}
-                    disabled={saving}
-                    className="flex-1 bg-gradient-to-r from-primary-pink to-primary-purple text-white py-3 rounded-xl font-semibold hover:shadow-lg transition-shadow disabled:opacity-50"
-                  >
-                    {saving ? 'Menyimpan...' : 'Simpan Perubahan'}
-                  </button>
-                  <button
-                    onClick={() => setIsEditingCycle(null)}
-                    disabled={saving}
-                    className="px-6 text-text-light hover:text-text-dark disabled:opacity-50"
-                  >
-                    Batal
-                  </button>
-                </div>
+              {/* Modal Footer */}
+              <div className="px-6 py-4 bg-white border-t border-slate-100 flex gap-3">
+                <button
+                  onClick={() => handleEditCycleDates(isEditingCycle.id, isEditingCycle.start_date, isEditingCycle.end_date)}
+                  disabled={saving}
+                  className="flex-1 bg-gradient-to-r from-primary-pink to-primary-purple text-white py-3.5 rounded-xl font-semibold shadow-lg shadow-pink-200/50 hover:shadow-xl hover:shadow-pink-200/60 transition-all duration-200 flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                  {saving ? (
+                    <>
+                      <svg className="w-5 h-5 animate-spin" fill="none" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                      </svg>
+                      Menyimpan...
+                    </>
+                  ) : (
+                    <>
+                      <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                      </svg>
+                      Simpan Perubahan
+                    </>
+                  )}
+                </button>
+                <button
+                  onClick={() => setIsEditingCycle(null)}
+                  disabled={saving}
+                  className="px-6 py-3.5 bg-slate-100 text-slate-600 rounded-xl font-medium hover:bg-slate-200 transition-colors disabled:opacity-50"
+                >
+                  Batal
+                </button>
               </div>
             </div>
           </div>
         )}
 
-        {/* Modal Gejala */}
+        {/* Modal Gejala - Enhanced Design */}
         {showSymptomModal && (
-          <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4" onClick={() => setShowSymptomModal(false)}>
-            <div className="bg-white rounded-2xl shadow-xl max-w-2xl w-full p-6 max-h-[90vh] overflow-y-auto" onClick={(e) => e.stopPropagation()}>
-              <div className="flex justify-between items-center mb-6">
-                <h2 className="text-2xl font-bold text-text-dark">
-                  📝 Catat Gejala Hari Ini
-                </h2>
+          <div className="fixed inset-0 bg-slate-900/40 backdrop-blur-sm flex items-center justify-center z-50 p-4" onClick={() => setShowSymptomModal(false)}>
+            <div 
+              className="bg-gradient-to-b from-white to-rose-50/30 rounded-3xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-hidden border border-rose-100" 
+              onClick={(e) => e.stopPropagation()}
+            >
+              {/* Modal Header */}
+              <div className="bg-gradient-to-r from-primary-pink/10 via-primary-purple/5 to-transparent px-6 py-5 border-b border-rose-100">
+                <div className="flex justify-between items-center">
+                  <div>
+                    <h2 className="text-xl font-bold text-slate-800">
+                      Catat Gejala Hari Ini
+                    </h2>
+                    <p className="text-sm text-slate-500 mt-1">Pilih gejala yang Anda rasakan untuk pelacakan yang lebih akurat</p>
+                  </div>
+                  <button
+                    onClick={() => setShowSymptomModal(false)}
+                    className="w-10 h-10 rounded-full bg-white shadow-sm border border-slate-200 flex items-center justify-center text-slate-400 hover:text-slate-600 hover:border-slate-300 transition-all duration-200"
+                  >
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                  </button>
+                </div>
+              </div>
+
+              {/* Modal Body */}
+              <div className="p-6 overflow-y-auto max-h-[calc(90vh-180px)] space-y-6">
+                {/* Gejala Fisik Section */}
+                <div className="bg-white rounded-2xl p-5 shadow-sm border border-pink-100">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-pink-400 to-rose-500 flex items-center justify-center shadow-sm">
+                      <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <h3 className="text-base font-semibold text-slate-800">Gejala Fisik</h3>
+                      <p className="text-xs text-slate-500">Kondisi tubuh yang dirasakan</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+                    {symptomsList.filter(s => s.category === 'physical').map((symptom) => (
+                      <button
+                        key={symptom.id}
+                        onClick={() => toggleSymptom(symptom.id)}
+                        className={`group relative p-4 rounded-xl border-2 transition-all duration-200 hover:shadow-md ${
+                          isSymptomSelected(symptom.id)
+                            ? 'border-pink-400 bg-gradient-to-br from-pink-50 to-rose-50 shadow-sm'
+                            : 'border-slate-100 bg-white hover:border-pink-200 hover:bg-pink-50/30'
+                        }`}
+                      >
+                        <div className={`w-10 h-10 rounded-full mx-auto mb-2 flex items-center justify-center transition-colors ${
+                          isSymptomSelected(symptom.id) 
+                            ? 'bg-gradient-to-br from-pink-400 to-rose-500 text-white' 
+                            : 'bg-slate-100 text-slate-400 group-hover:bg-pink-100 group-hover:text-pink-500'
+                        }`}>
+                          <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                          </svg>
+                        </div>
+                        <p className={`text-sm font-medium text-center ${isSymptomSelected(symptom.id) ? 'text-pink-700' : 'text-slate-600'}`}>
+                          {symptom.name}
+                        </p>
+                        {isSymptomSelected(symptom.id) && (
+                          <div className="absolute top-2 right-2 w-5 h-5 rounded-full bg-pink-500 flex items-center justify-center">
+                            <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                            </svg>
+                          </div>
+                        )}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Mood Section */}
+                <div className="bg-white rounded-2xl p-5 shadow-sm border border-purple-100">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-purple-400 to-violet-500 flex items-center justify-center shadow-sm">
+                      <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <h3 className="text-base font-semibold text-slate-800">Mood dan Emosi</h3>
+                      <p className="text-xs text-slate-500">Perasaan dan suasana hati Anda</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
+                    {symptomsList.filter(s => s.category === 'mood').map((symptom) => (
+                      <button
+                        key={symptom.id}
+                        onClick={() => toggleSymptom(symptom.id)}
+                        className={`group relative p-4 rounded-xl border-2 transition-all duration-200 hover:shadow-md ${
+                          isSymptomSelected(symptom.id)
+                            ? 'border-purple-400 bg-gradient-to-br from-purple-50 to-violet-50 shadow-sm'
+                            : 'border-slate-100 bg-white hover:border-purple-200 hover:bg-purple-50/30'
+                        }`}
+                      >
+                        <div className={`w-10 h-10 rounded-full mx-auto mb-2 flex items-center justify-center transition-colors ${
+                          isSymptomSelected(symptom.id) 
+                            ? 'bg-gradient-to-br from-purple-400 to-violet-500 text-white' 
+                            : 'bg-slate-100 text-slate-400 group-hover:bg-purple-100 group-hover:text-purple-500'
+                        }`}>
+                          <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                          </svg>
+                        </div>
+                        <p className={`text-sm font-medium text-center ${isSymptomSelected(symptom.id) ? 'text-purple-700' : 'text-slate-600'}`}>
+                          {symptom.name}
+                        </p>
+                        {isSymptomSelected(symptom.id) && (
+                          <div className="absolute top-2 right-2 w-5 h-5 rounded-full bg-purple-500 flex items-center justify-center">
+                            <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                            </svg>
+                          </div>
+                        )}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Flow Section */}
+                <div className="bg-white rounded-2xl p-5 shadow-sm border border-red-100">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-red-400 to-rose-500 flex items-center justify-center shadow-sm">
+                      <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 3c0 0-6 7-6 11a6 6 0 0012 0c0-4-6-11-6-11z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <h3 className="text-base font-semibold text-slate-800">Aliran Menstruasi</h3>
+                      <p className="text-xs text-slate-500">Intensitas aliran saat ini</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+                    {symptomsList.filter(s => s.category === 'flow').map((symptom) => (
+                      <button
+                        key={symptom.id}
+                        onClick={() => toggleSymptom(symptom.id)}
+                        className={`group relative p-4 rounded-xl border-2 transition-all duration-200 hover:shadow-md ${
+                          isSymptomSelected(symptom.id)
+                            ? 'border-red-400 bg-gradient-to-br from-red-50 to-rose-50 shadow-sm'
+                            : 'border-slate-100 bg-white hover:border-red-200 hover:bg-red-50/30'
+                        }`}
+                      >
+                        <div className={`w-10 h-10 rounded-full mx-auto mb-2 flex items-center justify-center transition-colors ${
+                          isSymptomSelected(symptom.id) 
+                            ? 'bg-gradient-to-br from-red-400 to-rose-500 text-white' 
+                            : 'bg-slate-100 text-slate-400 group-hover:bg-red-100 group-hover:text-red-500'
+                        }`}>
+                          <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 3c0 0-6 7-6 11a6 6 0 0012 0c0-4-6-11-6-11z" />
+                          </svg>
+                        </div>
+                        <p className={`text-sm font-medium text-center ${isSymptomSelected(symptom.id) ? 'text-red-700' : 'text-slate-600'}`}>
+                          {symptom.name}
+                        </p>
+                        {isSymptomSelected(symptom.id) && (
+                          <div className="absolute top-2 right-2 w-5 h-5 rounded-full bg-red-500 flex items-center justify-center">
+                            <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                            </svg>
+                          </div>
+                        )}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Other Symptoms Section */}
+                <div className="bg-white rounded-2xl p-5 shadow-sm border border-amber-100">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-amber-400 to-orange-500 flex items-center justify-center shadow-sm">
+                      <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                      </svg>
+                    </div>
+                    <div>
+                      <h3 className="text-base font-semibold text-slate-800">Gejala Lainnya</h3>
+                      <p className="text-xs text-slate-500">Kondisi tambahan yang dirasakan</p>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-2 gap-3">
+                    {symptomsList.filter(s => s.category === 'other').map((symptom) => (
+                      <button
+                        key={symptom.id}
+                        onClick={() => toggleSymptom(symptom.id)}
+                        className={`group relative p-4 rounded-xl border-2 transition-all duration-200 hover:shadow-md ${
+                          isSymptomSelected(symptom.id)
+                            ? 'border-amber-400 bg-gradient-to-br from-amber-50 to-orange-50 shadow-sm'
+                            : 'border-slate-100 bg-white hover:border-amber-200 hover:bg-amber-50/30'
+                        }`}
+                      >
+                        <div className={`w-10 h-10 rounded-full mx-auto mb-2 flex items-center justify-center transition-colors ${
+                          isSymptomSelected(symptom.id) 
+                            ? 'bg-gradient-to-br from-amber-400 to-orange-500 text-white' 
+                            : 'bg-slate-100 text-slate-400 group-hover:bg-amber-100 group-hover:text-amber-500'
+                        }`}>
+                          <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+                          </svg>
+                        </div>
+                        <p className={`text-sm font-medium text-center ${isSymptomSelected(symptom.id) ? 'text-amber-700' : 'text-slate-600'}`}>
+                          {symptom.name}
+                        </p>
+                        {isSymptomSelected(symptom.id) && (
+                          <div className="absolute top-2 right-2 w-5 h-5 rounded-full bg-amber-500 flex items-center justify-center">
+                            <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                            </svg>
+                          </div>
+                        )}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Selected Summary */}
+                {todaySymptoms.length > 0 && (
+                  <div className="bg-gradient-to-r from-emerald-50 to-teal-50 rounded-2xl p-4 border border-emerald-200">
+                    <div className="flex items-center gap-2 mb-2">
+                      <svg className="w-5 h-5 text-emerald-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      <span className="text-sm font-semibold text-emerald-800">
+                        {todaySymptoms.length} gejala tercatat hari ini
+                      </span>
+                    </div>
+                    <p className="text-xs text-emerald-600">Data gejala akan membantu menganalisis pola siklus Anda</p>
+                  </div>
+                )}
+              </div>
+
+              {/* Modal Footer */}
+              <div className="px-6 py-4 bg-white border-t border-slate-100">
                 <button
                   onClick={() => setShowSymptomModal(false)}
-                  className="text-gray-400 hover:text-gray-600 text-2xl"
+                  className="w-full bg-gradient-to-r from-primary-pink to-primary-purple text-white py-3.5 rounded-xl font-semibold shadow-lg shadow-pink-200/50 hover:shadow-xl hover:shadow-pink-200/60 transition-all duration-200 flex items-center justify-center gap-2"
                 >
-                  ✕
+                  <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
+                  Simpan Gejala
                 </button>
               </div>
-
-              {/* Gejala Fisik */}
-              <div className="mb-6">
-                <h3 className="text-lg font-semibold text-text-dark mb-3">Gejala Fisik</h3>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-                  {symptomsList.filter(s => s.category === 'physical').map((symptom) => (
-                    <button
-                      key={symptom.id}
-                      onClick={() => toggleSymptom(symptom.id)}
-                      className={`p-3 rounded-xl border-2 transition-all ${
-                        isSymptomSelected(symptom.id)
-                          ? 'border-primary-pink bg-primary-pink/10'
-                          : 'border-gray-200 hover:border-primary-pink/50'
-                      }`}
-                    >
-                      <span className="text-2xl">{symptom.icon}</span>
-                      <p className="text-sm mt-1">{symptom.name}</p>
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              {/* Mood */}
-              <div className="mb-6">
-                <h3 className="text-lg font-semibold text-text-dark mb-3">Mood</h3>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-                  {symptomsList.filter(s => s.category === 'mood').map((symptom) => (
-                    <button
-                      key={symptom.id}
-                      onClick={() => toggleSymptom(symptom.id)}
-                      className={`p-3 rounded-xl border-2 transition-all ${
-                        isSymptomSelected(symptom.id)
-                          ? 'border-primary-purple bg-primary-purple/10'
-                          : 'border-gray-200 hover:border-primary-purple/50'
-                      }`}
-                    >
-                      <span className="text-2xl">{symptom.icon}</span>
-                      <p className="text-sm mt-1">{symptom.name}</p>
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              {/* Flow */}
-              <div className="mb-6">
-                <h3 className="text-lg font-semibold text-text-dark mb-3">Aliran Menstruasi</h3>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-                  {symptomsList.filter(s => s.category === 'flow').map((symptom) => (
-                    <button
-                      key={symptom.id}
-                      onClick={() => toggleSymptom(symptom.id)}
-                      className={`p-3 rounded-xl border-2 transition-all ${
-                        isSymptomSelected(symptom.id)
-                          ? 'border-red-400 bg-red-50'
-                          : 'border-gray-200 hover:border-red-300'
-                      }`}
-                    >
-                      <span className="text-2xl">{symptom.icon}</span>
-                      <p className="text-sm mt-1">{symptom.name}</p>
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              {/* Lainnya */}
-              <div className="mb-6">
-                <h3 className="text-lg font-semibold text-text-dark mb-3">Lainnya</h3>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-                  {symptomsList.filter(s => s.category === 'other').map((symptom) => (
-                    <button
-                      key={symptom.id}
-                      onClick={() => toggleSymptom(symptom.id)}
-                      className={`p-3 rounded-xl border-2 transition-all ${
-                        isSymptomSelected(symptom.id)
-                          ? 'border-accent-orange bg-accent-orange/10'
-                          : 'border-gray-200 hover:border-accent-orange/50'
-                      }`}
-                    >
-                      <span className="text-2xl">{symptom.icon}</span>
-                      <p className="text-sm mt-1">{symptom.name}</p>
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              <button
-                onClick={() => setShowSymptomModal(false)}
-                className="w-full bg-gradient-to-r from-primary-pink to-primary-purple text-white py-3 rounded-xl font-semibold"
-              >
-                Simpan Gejala
-              </button>
             </div>
           </div>
         )}
@@ -691,7 +944,7 @@ const FertilityTracker = () => {
                   <div>
                     <div className="text-sm opacity-80">Hari ke-{currentPhase.day} dari {currentPhase.totalDays}</div>
                     <h2 className="text-2xl font-bold flex items-center gap-2">
-                      <span>{currentPhase.icon}</span>
+                      <span className={`w-4 h-4 rounded-full bg-${currentPhase.color}-500`}></span>
                       Fase {currentPhase.name}
                     </h2>
                     <p className="text-sm opacity-90 mt-1">{currentPhase.description}</p>
@@ -720,13 +973,17 @@ const FertilityTracker = () => {
             <div className="bg-white rounded-card shadow-card p-6">
               <div className="flex items-center justify-between mb-6">
                 <button onClick={prevMonth} className="p-2 hover:bg-gray-100 rounded-lg">
-                  <span className="text-xl">←</span>
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
                 </button>
                 <h2 className="text-2xl font-semibold text-text-dark">
                   {monthNames[currentDate.getMonth()]} {currentDate.getFullYear()}
                 </h2>
                 <button onClick={nextMonth} className="p-2 hover:bg-gray-100 rounded-lg">
-                  <span className="text-xl">→</span>
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
                 </button>
               </div>
 
@@ -789,9 +1046,12 @@ const FertilityTracker = () => {
                 <h2 className="text-xl font-semibold text-text-dark">Catat Gejala Hari Ini</h2>
                 <button
                   onClick={() => setShowSymptomModal(true)}
-                  className="text-primary-pink hover:text-primary-purple"
+                  className="text-primary-pink hover:text-primary-purple flex items-center"
                 >
-                  Lihat Semua →
+                  Lihat Semua
+                  <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
                 </button>
               </div>
               
@@ -804,7 +1064,7 @@ const FertilityTracker = () => {
                       const symptom = symptomsList.find(sym => sym.id === s.symptom_type);
                       return symptom ? (
                         <span key={s.id} className="bg-white px-3 py-1 rounded-full text-sm flex items-center gap-1">
-                          {symptom.icon} {symptom.name}
+                          {symptom.name}
                         </span>
                       ) : null;
                     })}
@@ -823,7 +1083,7 @@ const FertilityTracker = () => {
                         : 'border-gray-200 hover:border-primary-pink/50'
                     }`}
                   >
-                    <span className="text-3xl">{symptom.icon}</span>
+                    <div className="w-8 h-8 bg-gray-100 rounded-full mx-auto"></div>
                     <p className="text-sm mt-2 font-medium">{symptom.name}</p>
                   </button>
                 ))}
@@ -844,7 +1104,9 @@ const FertilityTracker = () => {
             {cycleAnalysis && (
               <div className="bg-white rounded-card shadow-card p-6">
                 <div className="flex items-center mb-4">
-                  <span className="text-2xl mr-2">📈</span>
+                  <svg className="w-6 h-6 mr-2 text-primary-purple" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                  </svg>
                   <h2 className="text-lg font-semibold text-text-dark">Analisis Siklus</h2>
                 </div>
                 
@@ -872,11 +1134,10 @@ const FertilityTracker = () => {
                     <h3 className={`font-semibold mb-2 ${
                       cycleAnalysis.analysis_type !== 'normal' ? 'text-red-600' : 'text-green-600'
                     }`}>
-                      {cycleAnalysis.analysis_type !== 'normal' ? '⚠️' : '✅'} 
-                      {cycleAnalysis.analysis_type === 'short' && ' Siklus Pendek'}
-                      {cycleAnalysis.analysis_type === 'long' && ' Siklus Panjang'}
-                      {cycleAnalysis.analysis_type === 'irregular' && ' Siklus Tidak Teratur'}
-                      {cycleAnalysis.analysis_type === 'normal' && ' Siklus Normal'}
+                      {cycleAnalysis.analysis_type === 'short' && 'Siklus Pendek'}
+                      {cycleAnalysis.analysis_type === 'long' && 'Siklus Panjang'}
+                      {cycleAnalysis.analysis_type === 'irregular' && 'Siklus Tidak Teratur'}
+                      {cycleAnalysis.analysis_type === 'normal' && 'Siklus Normal'}
                     </h3>
                     <p className="text-sm text-text-dark mb-3">{cycleAnalysis.message}</p>
                     
@@ -914,28 +1175,30 @@ const FertilityTracker = () => {
             {/* Fase Penjelasan */}
             <div className="bg-white rounded-card shadow-card p-6">
               <div className="flex items-center mb-4">
-                <span className="text-2xl mr-2">📚</span>
+                <svg className="w-6 h-6 mr-2 text-primary-pink" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                </svg>
                 <h2 className="text-lg font-semibold text-text-dark">Fase Siklus</h2>
               </div>
               <div className="space-y-3">
                 <div className="p-3 bg-red-50 rounded-lg border-l-4 border-red-400">
-                  <h3 className="font-semibold text-red-600">🔴 Menstruasi</h3>
+                  <h3 className="font-semibold text-red-600">Menstruasi</h3>
                   <p className="text-xs text-text-light">Hari 1-7: Peluruhan dinding rahim</p>
                 </div>
                 <div className="p-3 bg-blue-50 rounded-lg border-l-4 border-blue-400">
-                  <h3 className="font-semibold text-blue-600">🔵 Folikuler</h3>
+                  <h3 className="font-semibold text-blue-600">Folikuler</h3>
                   <p className="text-xs text-text-light">Hari 8-13: Folikel berkembang</p>
                 </div>
                 <div className="p-3 bg-green-50 rounded-lg border-l-4 border-green-400">
-                  <h3 className="font-semibold text-green-600">🟢 Masa Subur</h3>
+                  <h3 className="font-semibold text-green-600">Masa Subur</h3>
                   <p className="text-xs text-text-light">Hari 10-17: Waktu optimal kehamilan</p>
                 </div>
                 <div className="p-3 bg-purple-50 rounded-lg border-l-4 border-purple-500">
-                  <h3 className="font-semibold text-purple-600">🟣 Ovulasi</h3>
+                  <h3 className="font-semibold text-purple-600">Ovulasi</h3>
                   <p className="text-xs text-text-light">Hari 14-16: Pelepasan sel telur</p>
                 </div>
                 <div className="p-3 bg-orange-50 rounded-lg border-l-4 border-orange-400">
-                  <h3 className="font-semibold text-orange-600">🟠 Luteal</h3>
+                  <h3 className="font-semibold text-orange-600">Luteal</h3>
                   <p className="text-xs text-text-light">Hari 17-28: Persiapan kehamilan</p>
                 </div>
               </div>
@@ -946,7 +1209,9 @@ const FertilityTracker = () => {
               <div className="bg-white rounded-card shadow-card p-6">
                 <div className="flex items-center justify-between mb-4">
                   <div className="flex items-center">
-                    <span className="text-2xl mr-2">📅</span>
+                    <svg className="w-6 h-6 mr-2 text-primary-pink" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                    </svg>
                     <h2 className="text-lg font-semibold text-text-dark">Riwayat</h2>
                   </div>
                   <button
@@ -977,7 +1242,7 @@ const FertilityTracker = () => {
                               onClick={() => setIsEditingCycle(cycle)}
                               className="text-xs text-blue-500 hover:underline"
                             >
-                              ✏️
+                              Edit
                             </button>
                           )}
                         </div>
@@ -991,7 +1256,9 @@ const FertilityTracker = () => {
             {/* Tips */}
             <div className="bg-gradient-to-br from-primary-pink to-primary-purple rounded-card shadow-card p-6 text-white">
               <div className="flex items-center mb-4">
-                <span className="text-2xl mr-2">💡</span>
+                <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+                </svg>
                 <h2 className="text-lg font-semibold">Tips Sesuai Fase</h2>
               </div>
               <div className="space-y-3">

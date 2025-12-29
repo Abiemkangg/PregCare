@@ -11,9 +11,14 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 from pathlib import Path
+import os
+from dotenv import load_dotenv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+
+# Load environment variables from .env file
+load_dotenv(BASE_DIR / '.env')
 
 
 # Quick-start development settings - unsuitable for production
@@ -39,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
+    'authentication',
     'fertility',
 ]
 
@@ -138,9 +144,21 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://localhost:5174",
+    "http://localhost:5175",
+    "http://localhost:5176",
+    "http://localhost:5177",
+    "http://localhost:5178",
+    "http://localhost:5179",
+    "http://localhost:5180",
     "http://localhost:3000",
     "http://127.0.0.1:5173",
     "http://127.0.0.1:5174",
+    "http://127.0.0.1:5175",
+    "http://127.0.0.1:5176",
+    "http://127.0.0.1:5177",
+    "http://127.0.0.1:5178",
+    "http://127.0.0.1:5179",
+    "http://127.0.0.1:5180",
     "http://127.0.0.1:3000",
 ]
 
@@ -154,6 +172,12 @@ CSRF_COOKIE_SECURE = False  # Set to True in production with HTTPS
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:5173",
     "http://localhost:5174",
+    "http://localhost:5175",
+    "http://localhost:5176",
+    "http://localhost:5177",
+    "http://localhost:5178",
+    "http://localhost:5179",
+    "http://localhost:5180",
     "http://localhost:3000",
 ]
 
@@ -168,4 +192,55 @@ REST_FRAMEWORK = {
     ],
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE': 50
+}
+
+
+# =========================================
+# Email Configuration (Gmail SMTP)
+# =========================================
+# Configure these via environment variables for security:
+# - PREGCARE_EMAIL_HOST: SMTP host (default: smtp.gmail.com)
+# - PREGCARE_EMAIL_PORT: SMTP port (default: 587)
+# - PREGCARE_EMAIL_USER: Gmail address
+# - PREGCARE_EMAIL_PASSWORD: Gmail App Password
+# - PREGCARE_EMAIL_FROM_NAME: Display name (default: PregCare)
+# - PREGCARE_APP_URL: Application URL for email links
+
+import os
+
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = os.environ.get('PREGCARE_EMAIL_HOST', 'smtp.gmail.com')
+EMAIL_PORT = int(os.environ.get('PREGCARE_EMAIL_PORT', '587'))
+EMAIL_USE_TLS = True
+EMAIL_HOST_USER = os.environ.get('PREGCARE_EMAIL_USER', '')
+EMAIL_HOST_PASSWORD = os.environ.get('PREGCARE_EMAIL_PASSWORD', '')
+DEFAULT_FROM_EMAIL = os.environ.get('PREGCARE_EMAIL_USER', 'noreply@pregcare.com')
+
+# Logging configuration
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'verbose': {
+            'format': '{levelname} {asctime} {module} {message}',
+            'style': '{',
+        },
+    },
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+            'formatter': 'verbose',
+        },
+        'file': {
+            'class': 'logging.FileHandler',
+            'filename': BASE_DIR / 'notification.log',
+            'formatter': 'verbose',
+        },
+    },
+    'loggers': {
+        'fertility.notifications': {
+            'handlers': ['console', 'file'],
+            'level': 'INFO',
+        },
+    },
 }

@@ -92,7 +92,7 @@ class SemanticCache:
             ]
         
         if expired_hashes:
-            print(f"   🗑️  Evicted {len(expired_hashes)} expired cache entries")
+            print(f"   [EVICT] Evicted {len(expired_hashes)} expired cache entries")
     
     def _evict_oldest(self):
         """Remove oldest entry when cache is full"""
@@ -285,7 +285,7 @@ class SemanticCache:
         """Print cache statistics"""
         stats = self.get_stats()
         print("\n" + "="*50)
-        print("📊 Cache Statistics")
+        print("[STATS] Cache Statistics")
         print("="*50)
         print(f"Total Queries: {stats['total_queries']}")
         print(f"Cache Hits: {stats['hits']}")
@@ -324,7 +324,7 @@ if __name__ == "__main__":
     
     # Simulate caching
     for i, query in enumerate(test_queries):
-        print(f"\n🔍 Query {i+1}: {query}")
+        print(f"\n[QUERY] Query {i+1}: {query}")
         
         # Try to get from cache
         cached = cache.get(query)

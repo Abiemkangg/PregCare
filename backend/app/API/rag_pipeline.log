@@ -1511,3 +1511,275 @@ connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection re
 2025-12-27 01:32:33,635 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
 2025-12-27 01:32:48,833 - INFO - Conversation history cleared
 2025-12-27 01:32:48,838 - INFO - Conversation history cleared
+2025-12-29 03:41:54,680 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-29 03:41:54,692 - INFO - Use pytorch device_name: cpu
+2025-12-29 03:41:54,693 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 03:42:01,164 - INFO - ✅ Database health check passed
+2025-12-29 03:42:01,166 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-29 03:42:01,988 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-29 03:42:02,139 - INFO - Use pytorch device_name: cpu
+2025-12-29 03:42:02,139 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 03:42:07,858 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-29 03:44:17,400 - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\chris\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chris\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-29 03:44:17,885 - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\chris\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chris\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-29 03:51:32,425 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-29 03:51:32,457 - INFO - Use pytorch device_name: cpu
+2025-12-29 03:51:32,476 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 03:51:39,383 - INFO - ✅ Database health check passed
+2025-12-29 03:51:39,383 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-29 03:51:39,539 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-29 03:51:39,621 - INFO - Use pytorch device_name: cpu
+2025-12-29 03:51:39,621 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 03:51:45,904 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-29 03:57:29,908 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-29 03:57:29,923 - INFO - Use pytorch device_name: cpu
+2025-12-29 03:57:29,924 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 03:57:36,275 - INFO - ✅ Database health check passed
+2025-12-29 03:57:36,277 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-29 03:57:36,459 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-29 03:57:36,581 - INFO - Use pytorch device_name: cpu
+2025-12-29 03:57:36,582 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 03:57:42,550 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-29 04:10:53,246 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-29 04:10:53,279 - INFO - Use pytorch device_name: cpu
+2025-12-29 04:10:53,280 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 04:11:00,465 - INFO - ✅ Database health check passed
+2025-12-29 04:11:00,468 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-29 04:11:00,697 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-29 04:11:00,806 - INFO - Use pytorch device_name: cpu
+2025-12-29 04:11:00,807 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 04:11:08,274 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-29 04:11:45,904 - INFO - ConversationHistory initialized with max_history=10
+2025-12-29 04:11:45,908 - INFO - Conversation history cleared
+2025-12-29 04:11:45,917 - INFO - Conversation history cleared
+2025-12-29 04:11:54,773 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-29 04:11:54,777 - INFO - 💡 Fallback answer used! Response time: 0.01s (0 tokens)
+2025-12-29 04:12:23,661 - INFO - 📝 Processing question: apa yang bisa membuat sperma laki laki jelek...
+2025-12-29 04:12:25,313 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 04:12:25,314 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 04:12:25,315 - INFO - ❌ Question REJECTED: 'apa yang bisa membuat sperma laki laki jelek' (no_pregnancy_keyword)
+2025-12-29 04:13:00,151 - INFO - 📝 Processing question: bagaimana sperma yang baik agar kehamilan terjadi...
+2025-12-29 04:13:00,315 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 04:13:00,315 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 04:13:00,316 - INFO - ✅ Question ACCEPTED (pregnancy-related): bagaimana sperma yang baik agar kehamilan terjadi
+2025-12-29 04:13:00,316 - INFO - ⏳ Rate limiting: waiting 7.8s before next API call
+2025-12-29 04:13:08,174 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 04:13:08,781 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 04:13:08,859 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-29 04:13:09,862 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 04:13:09,941 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 04:13:09,944 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-29 04:13:09,947 - INFO - ✅ Answer generated in 9.80s
+2025-12-29 04:13:38,580 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-12-29 04:13:38,582 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 04:13:44,041 - INFO - ⏳ Rate limiting: waiting 2.4s before next API call
+2025-12-29 04:13:46,479 - INFO - 📝 Processing question: Makanan apa yang baik untuk ibu hamil?...
+2025-12-29 04:13:46,480 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 04:13:50,170 - INFO - ⏳ Rate limiting: waiting 4.3s before next API call
+2025-12-29 04:13:54,490 - INFO - 📝 Processing question: Apa yang menyebabkan kelahiran prematur?...
+2025-12-29 04:13:54,491 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 04:18:19,792 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-29 04:18:19,830 - INFO - Use pytorch device_name: cpu
+2025-12-29 04:18:19,831 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 04:18:26,839 - INFO - ✅ Database health check passed
+2025-12-29 04:18:26,840 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-29 04:18:27,100 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-29 04:18:27,187 - INFO - Use pytorch device_name: cpu
+2025-12-29 04:18:27,187 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 04:18:33,042 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-29 04:19:24,142 - INFO - ConversationHistory initialized with max_history=10
+2025-12-29 04:19:24,144 - INFO - Conversation history cleared
+2025-12-29 04:19:24,155 - INFO - Conversation history cleared
+2025-12-29 04:19:30,840 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-29 04:19:30,847 - INFO - 💡 Fallback answer used! Response time: 0.01s (0 tokens)
+2025-12-29 04:20:02,696 - INFO - 📝 Processing question: apakah sperma yang baik mempengaruhi janin ibu...
+2025-12-29 04:20:02,699 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 04:20:30,478 - INFO - 📝 Processing question: apa agama yang ada di indonesia...
+2025-12-29 04:20:31,528 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 04:20:31,533 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 04:20:31,537 - INFO - ❌ Question REJECTED: 'apa agama yang ada di indonesia' (no_pregnancy_keyword)
+2025-12-29 04:20:51,561 - INFO - 📝 Processing question: nanas muda bisa buat keguuran...
+2025-12-29 04:20:51,656 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 04:20:51,658 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 04:20:51,659 - INFO - ❌ Question REJECTED: 'nanas muda bisa buat keguuran' (no_pregnancy_keyword)
+2025-12-29 04:40:27,533 - INFO - Conversation history cleared
+2025-12-29 04:40:27,559 - INFO - Conversation history cleared
+2025-12-29 04:48:33,818 - INFO - 📝 Processing question: seperti apa sperma yang berkualitas baik...
+2025-12-29 04:48:33,827 - INFO - 💡 Fallback answer used! Response time: 0.01s (0 tokens)
+2025-12-29 04:49:04,136 - INFO - 📝 Processing question: sperma sehat seperti apa...
+2025-12-29 04:49:04,142 - INFO - 💡 Fallback answer used! Response time: 0.01s (0 tokens)
+2025-12-29 04:51:32,212 - INFO - 📝 Processing question: gaya apa yang baik untuk pasangan...
+2025-12-29 04:51:32,222 - INFO - 💡 Fallback answer used! Response time: 0.01s (0 tokens)
+2025-12-29 04:51:53,292 - INFO - 📝 Processing question: gaya yang baik untuk sex...
+2025-12-29 04:51:53,300 - INFO - 💡 Fallback answer used! Response time: 0.01s (0 tokens)
+2025-12-29 04:52:14,244 - INFO - 📝 Processing question: agama apa yang ada di indonesia saat ini...
+2025-12-29 04:52:15,257 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 04:52:15,262 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 04:52:15,265 - INFO - ❌ Question REJECTED: 'agama apa yang ada di indonesia saat ini' (no_pregnancy_keyword)
+2025-12-29 04:56:33,489 - INFO - 📝 Processing question: Apa yang menyebabkan kelahiran prematur?...
+2025-12-29 04:56:33,522 - INFO - 💡 Fallback answer used! Response time: 0.04s (0 tokens)
+2025-12-29 05:00:44,821 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-29 05:00:44,830 - INFO - Use pytorch device_name: cpu
+2025-12-29 05:00:44,831 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 05:00:53,363 - INFO - ✅ Database health check passed
+2025-12-29 05:00:53,365 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-29 05:00:53,683 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-29 05:00:53,836 - INFO - Use pytorch device_name: cpu
+2025-12-29 05:00:53,840 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 05:01:01,160 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-29 05:01:11,690 - INFO - ConversationHistory initialized with max_history=10
+2025-12-29 05:01:11,691 - INFO - Conversation history cleared
+2025-12-29 05:01:11,692 - INFO - Conversation history cleared
+2025-12-29 05:01:29,277 - INFO - 📝 Processing question: Bagaimana cara meningkatkan kesuburan?...
+2025-12-29 05:01:29,286 - INFO - 💡 Fallback answer used! Response time: 0.01s (0 tokens)
+2025-12-29 05:01:41,806 - INFO - 📝 Processing question: sperma yang baik itu seperti apasih...
+2025-12-29 05:01:42,935 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 05:01:42,935 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 05:01:42,936 - INFO - ✅ Question ACCEPTED (pregnancy-related): sperma yang baik itu seperti apasih
+2025-12-29 05:01:42,936 - INFO - ⏳ Rate limiting: waiting 6.9s before next API call
+2025-12-29 05:01:49,815 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 05:01:50,207 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 05:01:50,230 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-29 05:01:51,230 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 05:01:51,306 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 05:01:51,307 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-29 05:01:51,309 - INFO - ✅ Answer generated in 9.50s
+2025-12-29 11:41:45,607 - INFO - Conversation history cleared
+2025-12-29 11:41:45,631 - INFO - Conversation history cleared
+2025-12-29 11:41:55,343 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-29 11:41:55,348 - INFO - 💡 Fallback answer used! Response time: 0.01s (0 tokens)
+2025-12-29 18:38:32,365 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-29 18:38:32,371 - INFO - Use pytorch device_name: cpu
+2025-12-29 18:38:32,371 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 18:38:38,156 - INFO - ✅ Database health check passed
+2025-12-29 18:38:38,157 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-29 18:38:38,312 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-29 18:38:38,367 - INFO - Use pytorch device_name: cpu
+2025-12-29 18:38:38,367 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 18:38:43,375 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-29 18:38:52,177 - INFO - ConversationHistory initialized with max_history=10
+2025-12-29 18:38:52,177 - INFO - Conversation history cleared
+2025-12-29 18:38:52,178 - INFO - Conversation history cleared
+2025-12-29 18:38:57,743 - INFO - 📝 Processing question: Apa saja tanda-tanda kehamilan awal?...
+2025-12-29 18:38:57,744 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 18:49:13,092 - INFO - Conversation history cleared
+2025-12-29 18:49:13,096 - INFO - Conversation history cleared
+2025-12-29 18:49:13,793 - INFO - Conversation history cleared
+2025-12-29 18:49:13,794 - INFO - Conversation history cleared
+2025-12-29 18:56:22,120 - INFO - Conversation history cleared
+2025-12-29 18:56:22,133 - INFO - Conversation history cleared
+2025-12-29 18:56:22,731 - INFO - Conversation history cleared
+2025-12-29 18:56:22,733 - INFO - Conversation history cleared
+2025-12-29 22:44:29,501 - INFO - RateLimiter initialized with 8.0s minimum interval
+2025-12-29 22:44:29,523 - INFO - Use pytorch device_name: cpu
+2025-12-29 22:44:29,523 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 22:44:36,774 - INFO - ✅ Database health check passed
+2025-12-29 22:44:36,775 - INFO - 🔗 Connecting to PGVector (collection: pregcare_rag)...
+2025-12-29 22:44:37,089 - INFO - ✅ PGVector retriever created successfully (k=2 for token efficiency)
+2025-12-29 22:44:37,220 - INFO - Use pytorch device_name: cpu
+2025-12-29 22:44:37,220 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-29 22:44:44,485 - INFO - ✅ GenAI client initialized with model: gemini-2.0-flash
+2025-12-29 22:44:44,514 - INFO - ConversationHistory initialized with max_history=10
+2025-12-29 22:44:44,514 - INFO - Conversation history cleared
+2025-12-29 22:44:44,520 - INFO - Conversation history cleared
+2025-12-29 22:44:49,804 - INFO - 📝 Processing question: Tanda-tanda kehamilan awal?...
+2025-12-29 22:44:49,824 - INFO - 💡 Fallback answer used! Response time: 0.02s (0 tokens)
+2025-12-29 22:54:27,454 - INFO - Conversation history cleared
+2025-12-29 22:54:27,482 - INFO - Conversation history cleared
+2025-12-29 22:54:33,388 - INFO - 📝 Processing question: Penyebab kelahiran prematur?...
+2025-12-29 22:54:33,406 - INFO - 💡 Fallback answer used! Response time: 0.02s (0 tokens)
+2025-12-29 23:02:36,793 - INFO - Conversation history cleared
+2025-12-29 23:02:36,844 - INFO - Conversation history cleared
+2025-12-29 23:03:58,956 - INFO - Conversation history cleared
+2025-12-29 23:03:58,975 - INFO - Conversation history cleared
+2025-12-29 23:05:57,375 - INFO - Conversation history cleared
+2025-12-29 23:05:57,386 - INFO - Conversation history cleared
+2025-12-29 23:06:02,125 - INFO - 📝 Processing question: Cara meningkatkan kesuburan?...
+2025-12-29 23:06:02,127 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 23:06:09,509 - INFO - ⏳ Rate limiting: waiting 0.1s before next API call
+2025-12-29 23:06:09,636 - INFO - 📝 Processing question: Cara meningkatkan kesuburan?...
+2025-12-29 23:06:09,637 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 23:06:37,217 - INFO - 📝 Processing question: apakah tinggi berpengaruh oleh gen orang tua...
+2025-12-29 23:06:37,886 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 23:06:37,887 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 23:06:37,891 - INFO - ❌ Question REJECTED: 'apakah tinggi berpengaruh oleh gen orang tua' (no_pregnancy_keyword)
+2025-12-29 23:08:53,823 - INFO - 📝 Processing question: cara meningkatkan kualitas sperma dong...
+2025-12-29 23:08:53,950 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 23:08:53,951 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 23:08:53,951 - INFO - ❌ Question REJECTED: 'cara meningkatkan kualitas sperma dong' (no_pregnancy_keyword)
+2025-12-29 23:09:08,910 - INFO - 📝 Processing question: posisi sex yang baik untuk ibu hamil...
+2025-12-29 23:09:08,997 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 23:09:08,998 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 23:09:08,998 - INFO - ✅ Question ACCEPTED (pregnancy-related): posisi sex yang baik untuk ibu hamil
+2025-12-29 23:09:08,999 - INFO - ⏳ Rate limiting: waiting 7.9s before next API call
+2025-12-29 23:09:16,905 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 23:09:17,672 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 23:09:17,702 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-29 23:09:18,703 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 23:09:18,794 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 23:09:18,796 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-29 23:09:18,798 - INFO - ✅ Answer generated in 9.89s
+2025-12-29 23:10:00,950 - INFO - 📝 Processing question: Makanan baik untuk ibu hamil?...
+2025-12-29 23:10:01,166 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 23:10:01,167 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 23:10:01,167 - INFO - ✅ Question ACCEPTED (pregnancy-related): Makanan baik untuk ibu hamil?
+2025-12-29 23:10:01,169 - INFO - ⏳ Rate limiting: waiting 7.2s before next API call
+2025-12-29 23:10:08,380 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 23:10:08,640 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 23:10:08,643 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-29 23:10:09,644 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 23:10:09,728 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 23:10:09,746 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-29 23:10:09,746 - INFO - ✅ Answer generated in 8.80s
+2025-12-29 23:12:11,337 - INFO - Conversation history cleared
+2025-12-29 23:12:11,345 - INFO - Conversation history cleared
+2025-12-29 23:12:14,608 - INFO - Conversation history cleared
+2025-12-29 23:12:14,616 - INFO - Conversation history cleared
+2025-12-29 23:12:32,245 - INFO - 📝 Processing question: Tanda-tanda kehamilan awal?...
+2025-12-29 23:12:32,251 - INFO - 💡 Fallback answer used! Response time: 0.01s (0 tokens)
+2025-12-29 23:12:38,832 - INFO - ⏳ Rate limiting: waiting 0.7s before next API call
+2025-12-29 23:12:39,525 - INFO - 📝 Processing question: Cara meningkatkan kesuburan?...
+2025-12-29 23:12:39,526 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 23:12:46,790 - INFO - ⏳ Rate limiting: waiting 0.7s before next API call
+2025-12-29 23:12:47,538 - INFO - 📝 Processing question: Penyebab kelahiran prematur?...
+2025-12-29 23:12:47,538 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 23:12:52,129 - INFO - ⏳ Rate limiting: waiting 3.4s before next API call
+2025-12-29 23:12:55,525 - INFO - 📝 Processing question: Makanan baik untuk ibu hamil?...
+2025-12-29 23:12:55,538 - INFO - ⚠️ Skipping cached error message, will generate fresh answer
+2025-12-29 23:12:55,704 - INFO - ✅ Retrieved 0 documents from database
+2025-12-29 23:12:55,704 - WARNING - ⚠️  No docs from DB, using local fallback
+2025-12-29 23:12:55,704 - INFO - ✅ Question ACCEPTED (pregnancy-related): Makanan baik untuk ibu hamil?
+2025-12-29 23:12:55,705 - INFO - ⏳ Rate limiting: waiting 7.8s before next API call
+2025-12-29 23:13:03,500 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 23:13:03,793 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 23:13:03,798 - WARNING - ⚠️  Rate limit reached (429). Retrying in 1s... (Attempt 1/2)
+2025-12-29 23:13:04,799 - INFO - AFC is enabled with max remote calls: 10.
+2025-12-29 23:13:04,885 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-12-29 23:13:04,886 - ERROR - ❌ Rate limit exceeded after 2 attempts
+2025-12-29 23:13:04,886 - INFO - ✅ Answer generated in 9.36s
+2025-12-29 23:13:11,538 - INFO - 📝 Processing question: Tanda-tanda kehamilan awal?...
+2025-12-29 23:13:11,538 - INFO - 💡 Fallback answer used! Response time: 0.00s (0 tokens)
+2025-12-29 23:22:42,784 - INFO - Conversation history cleared
+2025-12-29 23:22:42,796 - INFO - Conversation history cleared
+2025-12-29 23:22:46,042 - INFO - Conversation history cleared
+2025-12-29 23:22:46,045 - INFO - Conversation history cleared
+2025-12-29 23:23:02,264 - INFO - Conversation history cleared
+2025-12-29 23:23:02,266 - INFO - Conversation history cleared

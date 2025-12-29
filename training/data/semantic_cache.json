@@ -1,1 +1,40 @@
-{"cache":{},"stats":{"hits":0,"misses":0,"saves":0}}
+{
+  "cache": {
+    "9ceeab90e7f551ea9cb95f9314df6d3e": {
+      "original_query": "sperma yang baik itu seperti apasih",
+      "answer": "Maaf, quota API Gemini sudah mencapai limit. Silakan tunggu 5-10 menit atau coba lagi besok. Untuk penggunaan intensif, pertimbangkan upgrade ke Gemini Paid Tier. 🙏",
+      "timestamp": "2025-12-29T05:01:51.353543",
+      "response_time": 9.5034499168396,
+      "hits": 0
+    },
+    "fdc44df7d06960d0ec2f154988ab272e": {
+      "original_query": "posisi sex yang baik untuk ibu hamil",
+      "answer": "Maaf, quota API Gemini sudah mencapai limit. Silakan tunggu 5-10 menit atau coba lagi besok. Untuk penggunaan intensif, pertimbangkan upgrade ke Gemini Paid Tier. 🙏",
+      "timestamp": "2025-12-29T23:09:18.814022",
+      "response_time": 9.887596368789673,
+      "hits": 0
+    },
+    "0ced1658c4f30a5c18055636ec648013": {
+      "original_query": "Makanan baik untuk ibu hamil?",
+      "answer": "Maaf, quota API Gemini sudah mencapai limit. Silakan tunggu 5-10 menit atau coba lagi besok. Untuk penggunaan intensif, pertimbangkan upgrade ke Gemini Paid Tier. 🙏",
+      "timestamp": "2025-12-29T23:10:09.763504",
+      "response_time": 8.797525644302368,
+      "hits": 0
+    },
+    "a432a9e9b63a548258f42ffc5e6f8ca4": {
+      "original_query": "apakah nanas muda bikin keguguran",
+      "answer": "Maaf, quota API Gemini sudah mencapai limit. Silakan tunggu 5-10 menit atau coba lagi besok. Untuk penggunaan intensif, pertimbangkan upgrade ke Gemini Paid Tier. 🙏",
+      "timestamp": "2025-12-30T00:32:25.780687",
+      "response_time": 8.932785749435425,
+      "hits": 0
+    }
+  },
+  "stats": {
+    "hits": 0,
+    "misses": 18,
+    "total_queries": 18,
+    "cache_size": 4,
+    "total_saved_time": 0.0,
+    "saves": 0
+  }
+}

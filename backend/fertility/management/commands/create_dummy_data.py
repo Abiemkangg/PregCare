@@ -34,9 +34,9 @@ class Command(BaseCommand):
         # Get or create user
         try:
             user = User.objects.get(username=username)
-            self.stdout.write(self.style.SUCCESS(f'✓ Found user: {user.username}'))
+            self.stdout.write(self.style.SUCCESS(f'[OK] Found user: {user.username}'))
         except User.DoesNotExist:
-            self.stdout.write(self.style.ERROR(f'✗ User {username} not found!'))
+            self.stdout.write(self.style.ERROR(f'[ERROR] User {username} not found!'))
             self.stdout.write('Creating user...')
             user = User.objects.create_user(
                 username=username,
@@ -45,7 +45,7 @@ class Command(BaseCommand):
                 first_name='Test',
                 last_name='User'
             )
-            self.stdout.write(self.style.SUCCESS(f'✓ Created user: {username}'))
+            self.stdout.write(self.style.SUCCESS(f'[OK] Created user: {username}'))
 
         # Delete existing data for fresh start
         self.stdout.write('Deleting existing fertility data...')
@@ -53,7 +53,7 @@ class Command(BaseCommand):
         MenstrualCycle.objects.filter(user=user).delete()
         Symptom.objects.filter(user=user).delete()
         CycleAnalysis.objects.filter(user=user).delete()
-        self.stdout.write(self.style.SUCCESS('✓ Cleared existing data'))
+        self.stdout.write(self.style.SUCCESS('[OK] Cleared existing data'))
 
         # Create fertility profile
         profile = FertilityProfile.objects.create(
@@ -61,7 +61,7 @@ class Command(BaseCommand):
             average_cycle_length=28,
             average_period_length=5
         )
-        self.stdout.write(self.style.SUCCESS(f'✓ Created fertility profile'))
+        self.stdout.write(self.style.SUCCESS(f'[OK] Created fertility profile'))
 
         # Create menstrual cycles (going backwards from today)
         cycles_created = []
@@ -84,7 +84,7 @@ class Command(BaseCommand):
             cycles_created.append(cycle)
             
             self.stdout.write(self.style.SUCCESS(
-                f'✓ Created cycle {i+1}: {cycle.start_date} to {cycle.end_date} '
+                f'[OK] Created cycle {i+1}: {cycle.start_date} to {cycle.end_date} '
                 f'(ovulation: {cycle.ovulation_date}, fertile: {cycle.fertile_window_start} - {cycle.fertile_window_end})'
             ))
 
@@ -96,12 +96,12 @@ class Command(BaseCommand):
         analysis_result = CycleAnalysis.generate_analysis(user)
         if analysis_result:
             self.stdout.write(self.style.SUCCESS(
-                f'✓ Generated cycle analysis: {analysis_result.get("type", "unknown")}'
+                f'[OK] Generated cycle analysis: {analysis_result.get("type", "unknown")}'
             ))
             self.stdout.write(f'  Message: {analysis_result.get("message", "")[:80]}...')
             self.stdout.write(f'  Confidence: {analysis_result.get("confidence", "N/A")}')
         else:
-            self.stdout.write(self.style.WARNING('⚠ Not enough cycles for analysis'))
+            self.stdout.write(self.style.WARNING('[WARN] Not enough cycles for analysis'))
 
         # Summary
         self.stdout.write(self.style.SUCCESS(f'\n{"="*60}'))

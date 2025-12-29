@@ -40,7 +40,7 @@ def chunk_text(text, max_words=300):
 
 # ===== MAIN EMBEDDING GENERATOR =====
 def generate_embeddings():
-    print("📦 Membaca dokumen dari PostgreSQL...")
+    print(" Membaca dokumen dari PostgreSQL...")
 
     conn = connect_db()
     cur = conn.cursor()
@@ -49,7 +49,7 @@ def generate_embeddings():
     cur.close()
     conn.close()
 
-    print(f"✔ {len(rows)} dokumen ditemukan, memulai embedding...")
+    print(f" {len(rows)} dokumen ditemukan, memulai embedding...")
 
     all_records = []
 
@@ -77,10 +77,10 @@ def generate_embeddings():
         for rec in all_records:
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
-    print(f"✔ {len(all_records)} embedding disimpan ke embeddings.jsonl")
+    print(f" {len(all_records)} embedding disimpan ke embeddings.jsonl")
 
     # ===== INSERT POSTGRES =====
-    print("📥 Menyimpan embedding ke PostgreSQL...")
+    print(" Menyimpan embedding ke PostgreSQL...")
     conn = connect_db()
     cur = conn.cursor()
 
@@ -107,8 +107,8 @@ def generate_embeddings():
     cur.close()
     conn.close()
 
-    print(f"✔ {len(values)} embedding berhasil dimasukkan ke DB!")
-    print("🎉 Tahap embedding selesai tanpa error.")
+    print(f" {len(values)} embedding berhasil dimasukkan ke DB!")
+    print(" Tahap embedding selesai tanpa error.")
 
 if __name__ == "__main__":
     generate_embeddings()

@@ -6,42 +6,36 @@ const CaraKerja = () => {
       number: '1',
       title: 'Daftar & Buat Profil',
       description: 'Buat akun dan lengkapi profil kesehatan Anda dengan mudah dan aman',
-      icon: '📝',
       color: 'from-primary-pink to-primary-purple',
     },
     {
       number: '2',
       title: 'Daily Check-In',
       description: 'Catat kondisi harian, gejala, dan aktivitas untuk tracking yang akurat',
-      icon: '📋',
       color: 'from-primary-green to-accent-blue',
     },
     {
       number: '3',
       title: 'AI Analysis',
       description: 'AI Mira menganalisis data Anda dan memberikan insight personal',
-      icon: '🤖',
       color: 'from-primary-purple to-accent-blue',
     },
     {
       number: '4',
       title: 'Fertility Tracking',
       description: 'Monitor siklus dan masa subur dengan kalender cerdas',
-      icon: '📊',
       color: 'from-accent-orange to-accent-yellow',
     },
     {
       number: '5',
       title: 'Misi Pasangan',
       description: 'Lakukan aktivitas bonding untuk memperkuat hubungan',
-      icon: '❤️',
       color: 'from-primary-pink to-accent-orange',
     },
     {
       number: '6',
       title: 'Komunitas Support',
       description: 'Berbagi cerita dan dapatkan dukungan dari komunitas',
-      icon: '👥',
       color: 'from-primary-green to-primary-pink',
     },
   ];
@@ -74,12 +68,9 @@ const CaraKerja = () => {
 
                 {/* Content Card */}
                 <div className="flex-1 bg-white rounded-card shadow-card p-6 hover:shadow-card-hover transition-shadow">
-                  <div className="flex items-start gap-4">
-                    <span className="text-5xl">{step.icon}</span>
-                    <div className="flex-1">
-                      <h3 className="text-2xl font-bold text-text-dark mb-2">{step.title}</h3>
-                      <p className="text-text-light leading-relaxed">{step.description}</p>
-                    </div>
+                  <div className="flex-1">
+                    <h3 className="text-2xl font-bold text-text-dark mb-2">{step.title}</h3>
+                    <p className="text-text-light leading-relaxed">{step.description}</p>
                   </div>
                 </div>
               </div>
@@ -93,7 +84,9 @@ const CaraKerja = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-white rounded-card shadow-card p-6">
               <div className="bg-gradient-to-r from-primary-pink to-primary-purple rounded-full w-12 h-12 flex items-center justify-center mb-4">
-                <span className="text-2xl">🤖</span>
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                </svg>
               </div>
               <h3 className="text-lg font-semibold text-text-dark mb-2">AI Smart Companion</h3>
               <p className="text-sm text-text-light">
@@ -103,7 +96,9 @@ const CaraKerja = () => {
 
             <div className="bg-white rounded-card shadow-card p-6">
               <div className="bg-gradient-to-r from-primary-green to-accent-blue rounded-full w-12 h-12 flex items-center justify-center mb-4">
-                <span className="text-2xl">📈</span>
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                </svg>
               </div>
               <h3 className="text-lg font-semibold text-text-dark mb-2">Prediksi Akurat</h3>
               <p className="text-sm text-text-light">
@@ -113,7 +108,9 @@ const CaraKerja = () => {
 
             <div className="bg-white rounded-card shadow-card p-6">
               <div className="bg-gradient-to-r from-accent-orange to-accent-yellow rounded-full w-12 h-12 flex items-center justify-center mb-4">
-                <span className="text-2xl">📱</span>
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" />
+                </svg>
               </div>
               <h3 className="text-lg font-semibold text-text-dark mb-2">Dashboard Lengkap</h3>
               <p className="text-sm text-text-light">
@@ -123,7 +120,9 @@ const CaraKerja = () => {
 
             <div className="bg-white rounded-card shadow-card p-6">
               <div className="bg-gradient-to-r from-primary-purple to-accent-blue rounded-full w-12 h-12 flex items-center justify-center mb-4">
-                <span className="text-2xl">🏆</span>
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+                </svg>
               </div>
               <h3 className="text-lg font-semibold text-text-dark mb-2">Gamification</h3>
               <p className="text-sm text-text-light">
@@ -133,7 +132,9 @@ const CaraKerja = () => {
 
             <div className="bg-white rounded-card shadow-card p-6">
               <div className="bg-gradient-to-r from-primary-pink to-accent-orange rounded-full w-12 h-12 flex items-center justify-center mb-4">
-                <span className="text-2xl">🔒</span>
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+                </svg>
               </div>
               <h3 className="text-lg font-semibold text-text-dark mb-2">Privasi Terjamin</h3>
               <p className="text-sm text-text-light">
@@ -143,7 +144,9 @@ const CaraKerja = () => {
 
             <div className="bg-white rounded-card shadow-card p-6">
               <div className="bg-gradient-to-r from-primary-green to-primary-pink rounded-full w-12 h-12 flex items-center justify-center mb-4">
-                <span className="text-2xl">💬</span>
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+                </svg>
               </div>
               <h3 className="text-lg font-semibold text-text-dark mb-2">Komunitas Aktif</h3>
               <p className="text-sm text-text-light">

@@ -6,8 +6,8 @@ const Testimoni = () => {
       id: 1,
       name: 'Sarah & Andi',
       location: 'Jakarta',
-      avatar: '❤️',
-      story: 'Setelah 8 bulan menggunakan PregCare, kami akhirnya berhasil! Fitur tracking yang akurat dan dukungan dari AI Mira sangat membantu kami memahami siklus dengan lebih baik. Terima kasih PregCare! 🎉',
+      avatar: 'SA',
+      story: 'Setelah 8 bulan menggunakan PregCare, kami akhirnya berhasil! Fitur tracking yang akurat dan dukungan dari AI Mira sangat membantu kami memahami siklus dengan lebih baik. Terima kasih PregCare!',
       achievement: 'Berhasil Hamil',
       duration: '8 bulan',
       rating: 5,
@@ -16,7 +16,7 @@ const Testimoni = () => {
       id: 2,
       name: 'Dina & Rama',
       location: 'Bandung',
-      avatar: '💕',
+      avatar: 'DR',
       story: 'Misi pasangan benar-benar game changer! Kami jadi lebih dekat dan komunikasi membaik. Stres berkurang dan 6 bulan kemudian kami mendapat kabar bahagia. PregCare luar biasa!',
       achievement: 'Berhasil Hamil',
       duration: '6 bulan',
@@ -26,7 +26,7 @@ const Testimoni = () => {
       id: 3,
       name: 'Putri & Adi',
       location: 'Surabaya',
-      avatar: '💗',
+      avatar: 'PA',
       story: 'AI Mira seperti teman yang selalu ada saat kami butuh motivasi. Daily check-in membantu kami stay consistent. Sekarang kami sedang menunggu kelahiran baby pertama kami!',
       achievement: 'Sedang Hamil',
       duration: '10 bulan',
@@ -36,7 +36,7 @@ const Testimoni = () => {
       id: 4,
       name: 'Lina & Budi',
       location: 'Yogyakarta',
-      avatar: '💖',
+      avatar: 'LB',
       story: 'Komunitas PregCare sangat supportif! Berbagi cerita dengan pasangan lain membuat kami tidak merasa sendirian. Setelah 1 tahun, kami akhirnya berhasil!',
       achievement: 'Berhasil Hamil',
       duration: '12 bulan',
@@ -46,7 +46,7 @@ const Testimoni = () => {
       id: 5,
       name: 'Maya & Rudi',
       location: 'Medan',
-      avatar: '💝',
+      avatar: 'MR',
       story: 'Fertility tracker dengan AI prediction sangat akurat. Kami bisa planning dengan lebih baik dan 5 bulan kemudian test pack menunjukkan 2 garis! Alhamdulillah!',
       achievement: 'Berhasil Hamil',
       duration: '5 bulan',
@@ -56,7 +56,7 @@ const Testimoni = () => {
       id: 6,
       name: 'Siti & Haris',
       location: 'Makassar',
-      avatar: '🌸',
+      avatar: 'SH',
       story: 'Dashboard yang lengkap membuat kami mudah monitor progress. Tips dari AI Mira juga sangat membantu. 9 bulan menggunakan PregCare dan sekarang kami sedang menanti kelahiran!',
       achievement: 'Sedang Hamil',
       duration: '9 bulan',
@@ -65,10 +65,10 @@ const Testimoni = () => {
   ];
 
   const stats = [
-    { number: '2,847', label: 'Pasangan Aktif', icon: '👥' },
-    { number: '342', label: 'Success Stories', icon: '🎉' },
-    { number: '88%', label: 'Tingkat Keberhasilan', icon: '📈' },
-    { number: '4.9/5', label: 'Rating Pengguna', icon: '⭐' },
+    { number: '2,847', label: 'Pasangan Aktif' },
+    { number: '342', label: 'Success Stories' },
+    { number: '88%', label: 'Tingkat Keberhasilan' },
+    { number: '4.9/5', label: 'Rating Pengguna' },
   ];
 
   return (
@@ -86,7 +86,6 @@ const Testimoni = () => {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-16">
           {stats.map((stat, index) => (
             <div key={index} className="bg-white rounded-card shadow-card p-6 text-center">
-              <div className="text-4xl mb-2">{stat.icon}</div>
               <div className="text-3xl font-bold text-primary-pink mb-1">{stat.number}</div>
               <div className="text-sm text-text-light">{stat.label}</div>
             </div>
@@ -113,7 +112,9 @@ const Testimoni = () => {
               {/* Rating */}
               <div className="flex mb-3">
                 {[...Array(testimonial.rating)].map((_, i) => (
-                  <span key={i} className="text-accent-yellow text-xl">⭐</span>
+                  <svg key={i} className="w-5 h-5 text-accent-yellow" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+                  </svg>
                 ))}
               </div>
 
@@ -125,7 +126,9 @@ const Testimoni = () => {
               {/* Achievement Badge */}
               <div className="flex items-center justify-between pt-4 border-t border-gray-100">
                 <div className="flex items-center space-x-2">
-                  <span className="text-primary-green">✓</span>
+                  <svg className="w-5 h-5 text-primary-green" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
                   <span className="text-sm font-medium text-primary-green">{testimonial.achievement}</span>
                 </div>
                 <span className="text-sm text-text-light">{testimonial.duration}</span>
@@ -142,7 +145,9 @@ const Testimoni = () => {
               <div key={video} className="aspect-video bg-gradient-to-br from-primary-pink/10 to-primary-purple/10 rounded-lg flex items-center justify-center">
                 <div className="text-center">
                   <div className="w-16 h-16 mx-auto mb-3 rounded-full bg-white shadow-lg flex items-center justify-center">
-                    <span className="text-2xl">▶️</span>
+                    <svg className="w-8 h-8 text-primary-pink" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M8 5v14l11-7z" />
+                    </svg>
                   </div>
                   <p className="text-sm text-text-light">Video Testimoni #{video}</p>
                 </div>
@@ -158,8 +163,10 @@ const Testimoni = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
             <div className="flex items-start space-x-4">
-              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary-pink flex items-center justify-center text-white text-xl">
-                ✓
+              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary-pink flex items-center justify-center text-white">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
               </div>
               <div>
                 <h3 className="font-semibold text-text-dark mb-1">AI yang Akurat</h3>
@@ -170,8 +177,10 @@ const Testimoni = () => {
             </div>
 
             <div className="flex items-start space-x-4">
-              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary-green flex items-center justify-center text-white text-xl">
-                ✓
+              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary-green flex items-center justify-center text-white">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
               </div>
               <div>
                 <h3 className="font-semibold text-text-dark mb-1">Dukungan 24/7</h3>
@@ -182,8 +191,10 @@ const Testimoni = () => {
             </div>
 
             <div className="flex items-start space-x-4">
-              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary-purple flex items-center justify-center text-white text-xl">
-                ✓
+              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary-purple flex items-center justify-center text-white">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
               </div>
               <div>
                 <h3 className="font-semibold text-text-dark mb-1">Komunitas Aktif</h3>
@@ -194,8 +205,10 @@ const Testimoni = () => {
             </div>
 
             <div className="flex items-start space-x-4">
-              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-accent-blue flex items-center justify-center text-white text-xl">
-                ✓
+              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-accent-blue flex items-center justify-center text-white">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
               </div>
               <div>
                 <h3 className="font-semibold text-text-dark mb-1">Holistik Approach</h3>

@@ -41,31 +41,46 @@ const Register = () => {
 
     try {
       const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+      
+      // Generate username from email (part before @)
+      const username = formData.email.split('@')[0];
+      
+      // Split full_name into first_name and last_name
+      const nameParts = formData.full_name.trim().split(' ');
+      const first_name = nameParts[0] || '';
+      const last_name = nameParts.slice(1).join(' ') || '';
+      
       const response = await fetch(`${API_URL}/api/auth/register`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
+        credentials: 'include',
         body: JSON.stringify({
+          username: username,
           email: formData.email,
           password: formData.password,
-          full_name: formData.full_name,
-          partner_name: formData.partner_name || null
+          first_name: first_name,
+          last_name: last_name
         })
       });
 
       const data = await response.json();
 
       if (!response.ok) {
-        throw new Error(data.detail || 'Registration failed');
+        throw new Error(data.error || 'Registration failed');
       }
 
-      // Save token and user data
-      localStorage.setItem('token', data.access_token);
-      localStorage.setItem('user', JSON.stringify(data.user));
+      // Save user data
+      if (data.user) {
+        localStorage.setItem('user', JSON.stringify(data.user));
+      }
+      localStorage.setItem('isAuthenticated', 'true');
 
       // Redirect to dashboard
-      navigate('/dashboard');
+      setTimeout(() => {
+        navigate('/dashboard');
+      }, 100);
     } catch (err) {
       setError(err.message || 'Registrasi gagal. Silakan coba lagi.');
     } finally {
@@ -79,7 +94,9 @@ const Register = () => {
         {/* Logo & Header */}
         <div className="text-center mb-8">
           <div className="inline-flex items-center justify-center w-20 h-20 bg-gradient-to-r from-primary-pink to-primary-purple rounded-full mb-4">
-            <span className="text-4xl">❤️</span>
+            <svg className="w-10 h-10 text-white" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+            </svg>
           </div>
           <h1 className="text-3xl font-bold bg-gradient-to-r from-primary-pink to-primary-purple bg-clip-text text-transparent mb-2">
             Bergabung dengan PregCare
@@ -216,9 +233,12 @@ const Register = () => {
         <div className="mt-6 text-center">
           <Link
             to="/"
-            className="text-sm text-text-muted hover:text-text-dark transition"
+            className="text-sm text-text-muted hover:text-text-dark transition flex items-center justify-center"
           >
-            ← Kembali ke Beranda
+            <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+            </svg>
+            Kembali ke Beranda
           </Link>
         </div>
       </div>

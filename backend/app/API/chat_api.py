@@ -81,14 +81,7 @@ app = FastAPI(
 # CORS Configuration
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",  # Vite default
-        "http://localhost:5174",  # Vite alternate port
-        "http://localhost:3000",  # React default
-        "http://127.0.0.1:5173",
-        "http://127.0.0.1:5174",
-        "http://127.0.0.1:3000",
-    ],
+    allow_origins=["*"],  # Allow all origins for development
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -215,6 +208,17 @@ async def startup_event():
 @app.get("/", response_model=StatusResponse)
 async def root():
     """Health check endpoint"""
+    return StatusResponse(
+        status="online",
+        message="PregCare RAG API is running",
+        rag_ready=retriever is not None and genai_client is not None,
+        cache_enabled=cache is not None,
+        local_docs_count=len(local_docs) if local_docs else 0
+    )
+
+@app.get("/health", response_model=StatusResponse)
+async def health_check():
+    """Health check endpoint for frontend"""
     return StatusResponse(
         status="online",
         message="PregCare RAG API is running",

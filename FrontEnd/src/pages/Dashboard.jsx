@@ -8,33 +8,30 @@ const Dashboard = () => {
   const [ovulationDays, setOvulationDays] = useState(5);
 
   const tasks = [
-    { id: 1, name: 'Daily Check-In', completed: true, icon: '✅', link: '/daily-checkin' },
-    { id: 2, name: 'Catat Gejala Harian', completed: true, icon: '✅', link: '/fertility-tracker' },
-    { id: 3, name: 'Peluk Pasangan', completed: false, icon: '⭕', link: '/misi-pasangan' },
-    { id: 4, name: 'Chat dengan AI', completed: false, icon: '⭕', link: '/ai-assistant' },
+    { id: 1, name: 'Daily Check-In', completed: true, link: '/daily-checkin' },
+    { id: 2, name: 'Catat Gejala Harian', completed: true, link: '/fertility-tracker' },
+    { id: 3, name: 'Peluk Pasangan', completed: false, link: '/misi-pasangan' },
+    { id: 4, name: 'Chat dengan AI', completed: false, link: '/ai-assistant' },
   ];
 
   const achievements = [
-    { name: 'Love Champion', icon: '🏆', color: 'from-accent-yellow to-accent-orange' },
-    { name: 'Weekly Warrior', icon: '🎖️', color: 'from-primary-pink to-primary-purple' },
-    { name: 'Consistent Star', icon: '⭐', color: 'from-accent-blue to-primary-green' },
+    { name: 'Love Champion', color: 'from-accent-yellow to-accent-orange' },
+    { name: 'Weekly Warrior', color: 'from-primary-pink to-primary-purple' },
+    { name: 'Consistent Star', color: 'from-accent-blue to-primary-green' },
   ];
 
   const aiInsights = [
     {
       title: 'Masa Subur Segera Tiba!',
       description: 'Ovulasi diprediksi dalam 5 hari lagi Ini waktu optimal untuk program hamil',
-      icon: '📅',
     },
     {
       title: 'Konsistensi Luar Biasa!',
       description: 'Kamu sudah check-in 7 hari berturut-turut. Keep it up!',
-      icon: '🔥',
     },
     {
       title: 'Misi Pasangan Minggu Ini',
       description: 'Jangan lupa date night mingguan dengan pasangan ya!',
-      icon: '❤️',
     },
   ];
 
@@ -44,10 +41,10 @@ const Dashboard = () => {
         {/* Greeting Section */}
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-text-dark mb-2">
-            Halo, Papi & Mami! 👋
+            Halo, Papi & Mami!
           </h1>
           <p className="text-text-light">
-            Semangat memulai hari dengan penuh harapan ❤️
+            Semangat memulai hari dengan penuh harapan
           </p>
         </div>
 
@@ -57,7 +54,9 @@ const Dashboard = () => {
             {/* Status Kesuburan Card */}
             <div className="bg-white rounded-card shadow-card p-6">
               <div className="flex items-center mb-4">
-                <span className="text-2xl mr-2">💓</span>
+                <svg className="w-6 h-6 text-primary-pink mr-2" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+                </svg>
                 <h2 className="text-xl font-semibold text-text-dark">Status Kesuburan</h2>
               </div>
               <div className="grid grid-cols-3 gap-4">
@@ -70,7 +69,9 @@ const Dashboard = () => {
                   <div className="text-sm text-text-light">Ovulasi Dalam</div>
                 </div>
                 <div className="text-center p-4 bg-primary-green/10 rounded-lg">
-                  <div className="text-2xl mb-1">📈</div>
+                  <svg className="w-8 h-8 mx-auto mb-1 text-primary-green" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                  </svg>
                   <div className="text-sm text-text-light">Peluang Meningkat</div>
                 </div>
               </div>
@@ -90,7 +91,15 @@ const Dashboard = () => {
                     }`}
                   >
                     <div className="flex items-center space-x-3">
-                      <span className="text-2xl">{task.icon}</span>
+                      {task.completed ? (
+                        <svg className="w-6 h-6 text-primary-green" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      ) : (
+                        <svg className="w-6 h-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <circle cx="12" cy="12" r="9" strokeWidth={2} />
+                        </svg>
+                      )}
                       <span className={task.completed ? 'text-text-dark' : 'text-text-light'}>
                         {task.name}
                       </span>
@@ -113,7 +122,9 @@ const Dashboard = () => {
               {/* Streak Card */}
               <div className="bg-gradient-to-br from-accent-orange to-accent-yellow rounded-card shadow-card p-6 text-white">
                 <div className="flex items-center justify-between mb-2">
-                  <span className="text-4xl">🔥</span>
+                  <svg className="w-10 h-10" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M12 23c-3.866 0-7-3.134-7-7 0-2.549 1.637-5.106 3.412-7.24C10.203 6.744 12 4.786 12 3c0 1.786 1.797 3.744 3.588 5.76C17.363 10.894 19 13.451 19 16c0 3.866-3.134 7-7 7zm0-14c-1.5 2-3 4-3 7 0 1.657 1.343 3 3 3s3-1.343 3-3c0-3-1.5-5-3-7z"/>
+                  </svg>
                   <span className="text-sm font-medium bg-white/20 px-3 py-1 rounded-full">
                     Streak
                   </span>
@@ -125,7 +136,9 @@ const Dashboard = () => {
               {/* Progress Misi */}
               <div className="bg-gradient-to-br from-primary-green to-accent-blue rounded-card shadow-card p-6 text-white">
                 <div className="flex items-center justify-between mb-2">
-                  <span className="text-4xl">❤️</span>
+                  <svg className="w-10 h-10" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+                  </svg>
                   <span className="text-sm font-medium bg-white/20 px-3 py-1 rounded-full">
                     Progress Misi
                   </span>
@@ -146,7 +159,9 @@ const Dashboard = () => {
                     key={index}
                     className={`p-6 rounded-lg bg-gradient-to-br ${achievement.color} text-white text-center`}
                   >
-                    <div className="text-5xl mb-3">{achievement.icon}</div>
+                    <svg className="w-12 h-12 mx-auto mb-3" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                    </svg>
                     <div className="font-semibold">{achievement.name}</div>
                   </div>
                 ))}
@@ -159,18 +174,17 @@ const Dashboard = () => {
             {/* AI Insights Panel */}
             <div className="bg-gradient-to-br from-primary-pink to-primary-purple rounded-card shadow-card p-6 text-white">
               <div className="flex items-center mb-4">
-                <span className="text-2xl mr-2">✨</span>
+                <svg className="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" />
+                </svg>
                 <h2 className="text-xl font-semibold">AI Insights</h2>
               </div>
               <div className="space-y-4">
                 {aiInsights.map((insight, index) => (
                   <div key={index} className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
-                    <div className="flex items-start space-x-3">
-                      <span className="text-2xl">{insight.icon}</span>
-                      <div>
-                        <h3 className="font-semibold mb-1">{insight.title}</h3>
-                        <p className="text-sm opacity-90">{insight.description}</p>
-                      </div>
+                    <div>
+                      <h3 className="font-semibold mb-1">{insight.title}</h3>
+                      <p className="text-sm opacity-90">{insight.description}</p>
                     </div>
                   </div>
                 ))}

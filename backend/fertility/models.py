@@ -81,22 +81,45 @@ class MenstrualCycle(models.Model):
         self.save()
 
     def get_phase(self, date):
-        """Tentukan fase siklus pada tanggal tertentu"""
+        """Tentukan fase siklus pada tanggal tertentu - SUPPORT FUTURE DATES"""
         from datetime import timedelta
         
         if not self.start_date or not self.cycle_length:
-            return 'unknown'
+            return 'normal'
         
-        # Hitung hari ke berapa dalam siklus
+        # Hitung hari ke berapa dari start date
         days_from_start = (date - self.start_date).days
         
+        # Jika tanggal SEBELUM siklus ini, return normal
         if days_from_start < 0:
-            return 'before_cycle'
+            return 'normal'
         
+        # Jika tanggal SETELAH siklus saat ini, PROJECT ke siklus berikutnya
         if days_from_start >= self.cycle_length:
-            return 'after_cycle'
+            # Calculate which cycle number this date falls into
+            cycle_number = days_from_start // self.cycle_length
+            days_in_current_cycle = days_from_start % self.cycle_length
+            
+            # Project tanggal-tanggal penting ke siklus berikutnya
+            projected_start = self.start_date + timedelta(days=cycle_number * self.cycle_length)
+            projected_end = projected_start + timedelta(days=(self.period_length or 5) - 1)
+            projected_ovulation = projected_start + timedelta(days=self.cycle_length - 14)
+            projected_fertile_start = projected_ovulation - timedelta(days=5)
+            projected_fertile_end = projected_ovulation + timedelta(days=1)
+            
+            # Cek fase berdasarkan proyeksi
+            if date <= projected_end:
+                return 'menstruation'
+            elif projected_fertile_start <= date <= projected_fertile_end:
+                if date == projected_ovulation:
+                    return 'ovulation'
+                return 'fertile'
+            elif days_in_current_cycle < self.cycle_length - 14:
+                return 'follicular'
+            else:
+                return 'luteal'
         
-        # Tentukan fase
+        # Untuk tanggal DALAM siklus saat ini
         if self.end_date and date <= self.end_date:
             return 'menstruation'
         elif self.fertile_window_start and self.fertile_window_end:

@@ -15,4 +15,6 @@ router.register(r'analyses', CycleAnalysisViewSet, basename='cycle-analysis')
 
 urlpatterns = [
     path('', include(router.urls)),
+    # Notification API routes
+    path('notifications/', include('fertility.notifications.urls')),
 ]

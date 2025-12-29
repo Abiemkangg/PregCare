@@ -49,14 +49,25 @@ class MenstrualCycleViewSet(viewsets.ModelViewSet):
     # permission_classes = [IsAuthenticated]  # Temporarily disabled
     
     def get_queryset(self):
+        # Return all cycles for now (for testing)
         if self.request.user.is_authenticated:
-            return MenstrualCycle.objects.filter(user=self.request.user)
-        return MenstrualCycle.objects.all()[:10]  # Return sample for testing
+            return MenstrualCycle.objects.filter(user=self.request.user).order_by('-start_date')
+        return MenstrualCycle.objects.all().order_by('-start_date')[:10]
     
     def perform_create(self, serializer):
+        # Get user - if not authenticated, try to get first user for testing
+        user = self.request.user if self.request.user.is_authenticated else None
+        if not user:
+            # For testing without auth
+            from django.contrib.auth.models import User
+            user = User.objects.first()
+            if not user:
+                from rest_framework.exceptions import ValidationError
+                raise ValidationError("No user available. Please login or create a user first.")
+        
         # Set is_current=False untuk siklus lain
-        MenstrualCycle.objects.filter(user=self.request.user, is_current=True).update(is_current=False)
-        serializer.save(user=self.request.user, is_current=True)
+        MenstrualCycle.objects.filter(user=user, is_current=True).update(is_current=False)
+        serializer.save(user=user, is_current=True)
     
     def perform_update(self, serializer):
         """Auto-recalculate saat update"""
@@ -80,12 +91,37 @@ class MenstrualCycleViewSet(viewsets.ModelViewSet):
         """Quick log menstruasi dengan tanggal start dan end"""
         start_date = request.data.get('start_date')
         end_date = request.data.get('end_date')
+        cycle_length = request.data.get('cycle_length', 28)
         
         if not start_date:
             return Response(
                 {'error': 'start_date is required'}, 
                 status=status.HTTP_400_BAD_REQUEST
             )
+        
+        # Get user
+        user = request.user if request.user.is_authenticated else None
+        if not user:
+            # For testing without auth
+            from django.contrib.auth.models import User
+            user = User.objects.first()
+            if not user:
+                return Response(
+                    {'error': 'No user available. Please login first.'}, 
+                    status=status.HTTP_401_UNAUTHORIZED
+                )
+        
+        # AUTO-CREATE FERTILITY PROFILE if not exists
+        profile, created = FertilityProfile.objects.get_or_create(
+            user=user,
+            defaults={
+                'average_cycle_length': cycle_length,
+                'average_period_length': 5
+            }
+        )
+        
+        if created:
+            print(f"[OK] Auto-created FertilityProfile for user {user.username}")
         
         # Parse dates
         try:
@@ -99,16 +135,20 @@ class MenstrualCycleViewSet(viewsets.ModelViewSet):
             )
         
         # Set is_current=False untuk siklus lain
-        MenstrualCycle.objects.filter(user=request.user, is_current=True).update(is_current=False)
+        MenstrualCycle.objects.filter(user=user, is_current=True).update(is_current=False)
         
         # Create new cycle
         cycle = MenstrualCycle.objects.create(
-            user=request.user,
+            user=user,
             start_date=start_date,
             end_date=end_date,
             is_current=True
         )
         cycle.calculate_cycle_data()
+        
+        # Update profile
+        profile.average_cycle_length = cycle_length
+        profile.save()
         
         serializer = self.get_serializer(cycle)
         return Response(serializer.data, status=status.HTTP_201_CREATED)
@@ -148,6 +188,15 @@ class MenstrualCycleViewSet(viewsets.ModelViewSet):
     @action(detail=False, methods=['get'])
     def calendar(self, request):
         """Get calendar data dengan fase per hari untuk bulan tertentu"""
+        # Get user
+        user = request.user if request.user.is_authenticated else None
+        if not user:
+            # For testing without auth
+            from django.contrib.auth.models import User
+            user = User.objects.first()
+            if not user:
+                return Response({'calendar_data': []})
+        
         # Parse year dan month dari query params
         year = request.query_params.get('year')
         month = request.query_params.get('month')
@@ -167,27 +216,39 @@ class MenstrualCycleViewSet(viewsets.ModelViewSet):
         else:
             last_day = date(year, month + 1, 1) - timedelta(days=1)
         
-        # Get current cycle
-        current_cycle = MenstrualCycle.objects.filter(
-            user=request.user, 
-            is_current=True
-        ).first()
+        # Get ALL cycles untuk user ini (untuk perhitungan yang lebih akurat)
+        cycles = MenstrualCycle.objects.filter(user=user).order_by('-start_date')
         
-        if not current_cycle:
-            current_cycle = MenstrualCycle.objects.filter(user=request.user).first()
+        # Get current or latest cycle
+        current_cycle = cycles.filter(is_current=True).first()
+        if not current_cycle and cycles.exists():
+            current_cycle = cycles.first()
         
         calendar_data = []
         current_date = first_day
         
         while current_date <= last_day:
-            # Get phase for this date
+            # Get phase for this date from ANY cycle that covers this date
             phase = 'normal'
+            cycle_for_date = None
+            
             if current_cycle:
+                # Check if current cycle covers this date
                 phase = current_cycle.get_phase(current_date)
+                cycle_for_date = current_cycle
+            
+            # Check other cycles if needed
+            if phase == 'normal' and cycles.exists():
+                for cycle in cycles:
+                    temp_phase = cycle.get_phase(current_date)
+                    if temp_phase != 'normal':
+                        phase = temp_phase
+                        cycle_for_date = cycle
+                        break
             
             # Get symptoms for this date
             symptoms = Symptom.objects.filter(
-                user=request.user,
+                user=user,
                 date=current_date
             )
             
@@ -198,7 +259,7 @@ class MenstrualCycleViewSet(viewsets.ModelViewSet):
                 'phase': phase,
                 'has_symptoms': symptoms.exists(),
                 'symptoms': symptom_list,
-                'notes': current_cycle.notes if current_cycle and current_date == current_cycle.start_date else ''
+                'notes': cycle_for_date.notes if cycle_for_date and current_date == cycle_for_date.start_date else ''
             })
             
             current_date += timedelta(days=1)
@@ -307,6 +368,14 @@ class CycleAnalysisViewSet(viewsets.ModelViewSet):
         
         if analysis_data.get('type') == 'insufficient_data':
             return Response(analysis_data, status=status.HTTP_200_OK)
+        
+        # Send notification for AI analysis completion
+        try:
+            from .notifications.services import notification_triggers
+            notification_triggers.on_ai_analysis_complete(request.user, analysis_data)
+        except Exception as e:
+            # Log but don't fail the request
+            print(f"[WARN] Failed to send analysis notification: {e}")
         
         # Get the created analysis
         analysis = CycleAnalysis.objects.get(id=analysis_data['id'])

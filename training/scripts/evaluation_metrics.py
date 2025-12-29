@@ -237,22 +237,22 @@ class RAGEvaluator:
     def print_evaluation(self, result: EvaluationResult):
         """Print evaluation result in readable format"""
         print("\n" + "="*60)
-        print("📊 RAG EVALUATION RESULTS")
+        print(" RAG EVALUATION RESULTS")
         print("="*60)
         
         # Overall score with color
         overall_pct = result.overall_score * 100
         if overall_pct >= 80:
-            emoji = "🌟"
+            emoji = ""
             grade = "Excellent"
         elif overall_pct >= 60:
-            emoji = "✅"
+            emoji = ""
             grade = "Good"
         elif overall_pct >= 40:
-            emoji = "⚠️"
+            emoji = "️"
             grade = "Fair"
         else:
-            emoji = "❌"
+            emoji = ""
             grade = "Poor"
         
         print(f"\n{emoji} Overall Score: {overall_pct:.1f}% ({grade})")
@@ -273,7 +273,7 @@ class RAGEvaluator:
         
         # Details
         print("\n" + "-"*60)
-        print("📋 Details:")
+        print(" Details:")
         
         faith_details = result.details["faithfulness"]
         print(f"\n  Faithfulness:")

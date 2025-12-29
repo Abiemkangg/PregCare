@@ -62,7 +62,7 @@ class Command(BaseCommand):
             user.save()
             
             if created:
-                self.stdout.write(self.style.SUCCESS(f'  ✓ Created new user: {user.username}'))
+                self.stdout.write(self.style.SUCCESS(f'  [OK] Created new user: {user.username}'))
             else:
                 self.stdout.write(self.style.WARNING(f'  ⟳ Updated existing user: {user.username}'))
             
@@ -79,7 +79,7 @@ class Command(BaseCommand):
                 average_cycle_length=avg_cycle,
                 average_period_length=random.randint(4, 6)
             )
-            self.stdout.write(f'  ✓ Created profile (avg cycle: {avg_cycle} days)')
+            self.stdout.write(f'  [OK] Created profile (avg cycle: {avg_cycle} days)')
             
             # Create cycles
             num_cycles = random.randint(4, 8)
@@ -105,12 +105,12 @@ class Command(BaseCommand):
                 symptom_count = self.create_symptoms_for_cycle(user, cycle)
                 total_symptoms += symptom_count
             
-            self.stdout.write(f'  ✓ Created {num_cycles} cycles with {total_symptoms} symptoms')
+            self.stdout.write(f'  [OK] Created {num_cycles} cycles with {total_symptoms} symptoms')
             
             # Generate analysis
             analysis_result = CycleAnalysis.generate_analysis(user)
             if analysis_result:
-                self.stdout.write(f'  ✓ Generated analysis: {analysis_result.get("type")}')
+                self.stdout.write(f'  [OK] Generated analysis: {analysis_result.get("type")}')
             
             created_users.append({
                 'username': user.username,
